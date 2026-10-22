@@ -1,0 +1,6517 @@
+# newdoc id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_1
+# text = Welina o ke aloha e nā Hawaiʻi.
+1	Welina	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	aloha	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_2
+# text = Ke honi nei au i ke ʻala o nā pua like ʻole e mohala mai nei i kēia ahiahi mai Hawaiʻi a Niʻihau.
+1	Ke	_	_	_	_	_	_	_	_
+2	honi	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ʻala	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	pua	_	_	_	_	_	_	_	_
+11	like	_	_	_	_	_	_	_	_
+12	ʻole	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	mohala	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	nei	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	ahiahi	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	Niʻihau	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_3
+# text = E honi kākou i ke ʻala na ka moani e māpu nei.
+1	E	_	_	_	_	_	_	_	_
+2	honi	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻala	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	moani	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	māpu	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_4
+# text = ʻAʻala kuʻu honi ʻana i nā pua ʻelua i hiki mai nei i kēia ahiahi, ʻo ia hoʻi nā pua ʻElikāpeka ʻelua, ʻo Elizabeth, Mrs.
+1	ʻAʻala	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	honi	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	pua	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	ahiahi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	hoʻi	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	pua	_	_	_	_	_	_	_	_
+22	ʻElikāpeka	_	_	_	_	_	_	_	_
+23	ʻelua	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Elizabeth	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Mrs	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_5
+# text = Elizabeth Ellis lāua ʻo Mrs.
+1	Elizabeth	_	_	_	_	_	_	_	_
+2	Ellis	_	_	_	_	_	_	_	_
+3	lāua	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Mrs	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_6
+# text = Elizabeth Cazimero.
+1	Elizabeth	_	_	_	_	_	_	_	_
+2	Cazimero	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_7
+# text = Aloha nō kākou.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_8
+# text = ʻAnoʻai.
+1	ʻAnoʻai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_9
+# text = Aloha mai.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_10
+# text = Mahalo nui i ko ʻolua hiki ʻana mai nei i kēia ahiahi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ʻolua	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_11
+# text = A pehea mai nei ʻolua? Maikaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	ʻolua	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Maikaʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_12
+# text = Maikaʻi.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_13
+# text = Maikaʻi māua.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	māua	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_14
+# text = Maikaʻi.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_15
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_16
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_17
+# text = ʻAe, e nīnau mua ana wau iā ʻolua i mau nīnau i mea e hoʻokamaʻāina ai i ka lehulehu iā ʻolua, no ka mea, ʻo kekahi o ka poʻe e hoʻolohe nei i kēia ahiahi, ʻaʻohe kamaʻāina loa me ʻolua, nā hoa kipa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	nīnau	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ʻolua	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	mau	_	_	_	_	_	_	_	_
+12	nīnau	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	mea	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hoʻokamaʻāina	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	lehulehu	_	_	_	_	_	_	_	_
+21	iā	_	_	_	_	_	_	_	_
+22	ʻolua	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	no	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	mea	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻo	_	_	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	poʻe	_	_	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	hoʻolohe	_	_	_	_	_	_	_	_
+35	nei	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	kēia	_	_	_	_	_	_	_	_
+38	ahiahi	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	ʻaʻohe	_	_	_	_	_	_	_	_
+41	kamaʻāina	_	_	_	_	_	_	_	_
+42	loa	_	_	_	_	_	_	_	_
+43	me	_	_	_	_	_	_	_	_
+44	ʻolua	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	nā	_	_	_	_	_	_	_	_
+47	hoa	_	_	_	_	_	_	_	_
+48	kipa	_	_	_	_	_	_	_	_
+49	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_18
+# text = A e Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	Mrs	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_19
+# text = Ellis, no hea mai ʻoe? A ma mua o koʻu, koʻu walaʻau ʻana me ʻoe, ʻAe, hiki.
+1	Ellis	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	A	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	koʻu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	koʻu	_	_	_	_	_	_	_	_
+15	walaʻau	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	ʻoe	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻAe	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hiki	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_20
+# text = makemake wau e kala mai i ka poʻe iaʻu, no ka mea, i koʻu wā ʻōpio, ʻĒ.
+1	makemake	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	kala	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	iaʻu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	koʻu	_	_	_	_	_	_	_	_
+17	wā	_	_	_	_	_	_	_	_
+18	ʻōpio	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻĒ	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_21
+# text = noho me nā kūpuna, paʻa ka Haw , ka ʻōlelo Hawaiʻi.
+1	noho	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	kūpuna	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	paʻa	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	Haw	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_22
+# text = But, kēia manawa, lōʻihi kēia mau makahiki, ʻAe.
+1	But	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	lōʻihi	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	mau	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_23
+# text = ʻaʻohe wau i, i walaʻau mau i ka, i ka walaʻau makua.
+1	ʻaʻohe	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	walaʻau	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	walaʻau	_	_	_	_	_	_	_	_
+14	makua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_24
+# text = So, ua nui ka mea i poina.
+1	So	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	poina	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_25
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_26
+# text = He mea liʻiliʻi wale nō i koe, but, ho , e hoʻāʻo aku ana wau.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	liʻiliʻi	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	koe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	but	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ho	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hoʻāʻo	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	wau	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_27
+# text = ʻAe, e aho ia ma mua o ka ʻole loa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	aho	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	loa	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_28
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_29
+# text = ʻAe, mahalo nui.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_30
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_31
+# text = } {Aha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	{	_	PUNCT	_	_	_	_	_	_
+3	Aha	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_32
+# text = } A ʻo kou ʻāina hānau? ʻO Hawaiʻi, hānau ʻia wau i Pāʻauhau ma ka, ma Hāmākua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	hānau	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻO	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hānau	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	Pāʻauhau	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	Hāmākua	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_33
+# text = A noho wau i laila i koʻu wā liʻiliʻi an , a ma hope, hoʻi wau i Kaʻāpahu e noho, hānai ʻia au e nā kūpuna.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	koʻu	_	_	_	_	_	_	_	_
+8	wā	_	_	_	_	_	_	_	_
+9	liʻiliʻi	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	hope	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	hoʻi	_	_	_	_	_	_	_	_
+17	wau	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Kaʻāpahu	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	noho	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	hānai	_	_	_	_	_	_	_	_
+24	ʻia	_	_	_	_	_	_	_	_
+25	au	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	nā	_	_	_	_	_	_	_	_
+28	kūpuna	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_34
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_35
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_36
+# text = } A hele wau i ke kula i laila, ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kula	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	laila	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻĒ	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_37
+# text = i laila, a hiki i ka pau ʻana o ke kula liʻiliʻi, ʻĒ.
+1	i	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	kula	_	_	_	_	_	_	_	_
+13	liʻiliʻi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻĒ	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_38
+# text = a hele au i Hilo, a i Hilo wau i ka high school o Hilo, ʻAe.
+1	a	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Hilo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Hilo	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	high	_	_	_	_	_	_	_	_
+14	school	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Hilo	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_39
+# text = kula kiʻekiʻe.
+1	kula	_	_	_	_	_	_	_	_
+2	kiʻekiʻe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_40
+# text = A ma hope, hoʻi mai i Honolulu nei.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Honolulu	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_41
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_42
+# text = } ʻO kēia wahi ʻo Kapaʻahu (Kaʻāpahu).
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kapaʻahu	_	_	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	Kaʻāpahu	_	_	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_43
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_44
+# text = Kapaʻahu (Kaʻāpahu) ka inoa, kokoke nō i Honokaʻa? ʻAe.
+1	Kapaʻahu	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Kaʻāpahu	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kokoke	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Honokaʻa	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_45
+# text = ʻŌ, kokoke nō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kokoke	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_46
+# text = Kokoke.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_47
+# text = ʻElima paha, ʻeono mile.
+1	ʻElima	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻeono	_	_	_	_	_	_	_	_
+5	mile	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_48
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_49
+# text = No ka mea, ʻaʻole wau i lohe mau i kēia inoa i kēia lā.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	lohe	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	inoa	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	lā	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_50
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_51
+# text = Ka inoa ʻo Kapaʻahu (Kaʻāpahu).
+1	Ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kapaʻahu	_	_	_	_	_	_	_	_
+5	(	_	PUNCT	_	_	_	_	_	_
+6	Kaʻāpahu	_	_	_	_	_	_	_	_
+7	)	_	PUNCT	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_52
+# text = ʻO Kaʻāpahu.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kaʻāpahu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_53
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_54
+# text = !! Kapahu, a i ʻole, Kapa , Kapaʻahu (Kaʻāpahu).
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Kapahu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Kapa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Kapaʻahu	_	_	_	_	_	_	_	_
+11	(	_	PUNCT	_	_	_	_	_	_
+12	Kaʻāpahu	_	_	_	_	_	_	_	_
+13	)	_	PUNCT	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_55
+# text = Kapaʻahu (Kaʻāpahu)? {Uhu.
+1	Kapaʻahu	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Kaʻāpahu	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	{	_	PUNCT	_	_	_	_	_	_
+7	Uhu	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_56
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_57
+# text = Kēlā, kēlā wahi ʻo Kapaʻahu (Kaʻāpahu), a ka, ka, he wahi liʻiliʻi ia i, i, i Kalopā (Kalōpā).
+1	Kēlā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kapaʻahu	_	_	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	Kaʻāpahu	_	_	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	wahi	_	_	_	_	_	_	_	_
+18	liʻiliʻi	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	Kalopā	_	_	_	_	_	_	_	_
+26	(	_	PUNCT	_	_	_	_	_	_
+27	Kalōpā	_	_	_	_	_	_	_	_
+28	)	_	PUNCT	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_58
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_59
+# text = ʻO Kalopā (Kalōpā) ka inoa ia, ʻŌ, Kalapā (Kalōpā), ʻē.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kalopā	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	Kalōpā	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻŌ	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Kalapā	_	_	_	_	_	_	_	_
+13	(	_	PUNCT	_	_	_	_	_	_
+14	Kalōpā	_	_	_	_	_	_	_	_
+15	)	_	PUNCT	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻē	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_60
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_61
+# text = Kal ʻO ia ka inoa i, i, i noho, a, Kama a, ka inoa nui o kēlā ʻāina.
+1	Kal	_	_	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Kama	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	inoa	_	_	_	_	_	_	_	_
+20	nui	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	kēlā	_	_	_	_	_	_	_	_
+23	ʻāina	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_62
+# text = ʻAe, ʻo kēlā wahi {aha.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	{	_	PUNCT	_	_	_	_	_	_
+7	aha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_63
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_64
+# text = ʻO Kaʻāpahu, he wahi liʻiliʻi o Kalopā (Kalōpā).
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kaʻāpahu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	liʻiliʻi	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Kalopā	_	_	_	_	_	_	_	_
+9	(	_	PUNCT	_	_	_	_	_	_
+10	Kalōpā	_	_	_	_	_	_	_	_
+11	)	_	PUNCT	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_65
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_66
+# text = Like nō hoʻi me Wai , a me Paʻauilo.
+1	Like	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	Wai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	Paʻauilo	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_67
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_68
+# text = A Kaʻāpahu, Honokaʻa.
+1	A	_	_	_	_	_	_	_	_
+2	Kaʻāpahu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Honokaʻa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_69
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_70
+# text = Pāʻauhau.
+1	Pāʻauhau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_71
+# text = Kēlā po , {Uhu.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	po	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	Uhu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_72
+# text = } kēlā wahi, kēlā poʻe, a, kēlā wahi noho, ʻĒ, ʻē.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	noho	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻĒ	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻē	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_73
+# text = ʻaʻohe i, i waena loa, ʻAe.
+1	ʻaʻohe	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	waena	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_74
+# text = kokoke.
+1	kokoke	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_75
+# text = Kokoke loa.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_76
+# text = ʻĒ, pili.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pili	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_77
+# text = {Uhu,} kokoke loa.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	kokoke	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_78
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_79
+# text = } ʻAe, a no kou, no ko, no ka like o ko ʻolua inoa o kēia ahiahi ʻo ʻElikāpeka nō ko ʻolua inoa, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	kou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	like	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ko	_	_	_	_	_	_	_	_
+16	ʻolua	_	_	_	_	_	_	_	_
+17	inoa	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	ahiahi	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	ʻElikāpeka	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	ko	_	_	_	_	_	_	_	_
+25	ʻolua	_	_	_	_	_	_	_	_
+26	inoa	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_80
+# text = e kapa ana au iā ʻoe, e Mrs.
+1	e	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	Mrs	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_81
+# text = Cazimero, ʻo ʻoe nō ʻo ʻElikāpeka ʻelua.
+1	Cazimero	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ʻElikāpeka	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_82
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_83
+# text = Hiki nō.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_84
+# text = Hiki.
+1	Hiki	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_85
+# text = Hiki nō.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_86
+# text = Hiki nō.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_87
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_88
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_89
+# text = A no hea nō ʻoe? No Kohala ʻĀkau.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	hea	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	No	_	_	_	_	_	_	_	_
+8	Kohala	_	_	_	_	_	_	_	_
+9	ʻĀkau	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_90
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_91
+# text = Hānau ʻia au i Kokoiki.
+1	Hānau	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Kokoiki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_92
+# text = Kokoiki? ʻAe.
+1	Kokoiki	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_93
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_94
+# text = Kuʻu makuahine, ʻo K , Kapeka Kapaona.
+1	Kuʻu	_	_	_	_	_	_	_	_
+2	makuahine	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	K	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kapeka	_	_	_	_	_	_	_	_
+8	Kapaona	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_95
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_96
+# text = A male ʻo ia iā Paulo Meheʻula, a ʻo kuʻu pāpā ia.
+1	A	_	_	_	_	_	_	_	_
+2	male	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	Paulo	_	_	_	_	_	_	_	_
+7	Meheʻula	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	kuʻu	_	_	_	_	_	_	_	_
+12	pāpā	_	_	_	_	_	_	_	_
+13	ia	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_97
+# text = ʻAe, ʻo Meheʻula.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Meheʻula	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_98
+# text = ʻAe, ʻo Meheʻula.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Meheʻula	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_99
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_100
+# text = He noho ʻia ka ʻāina ʻo Kokoiki ma mua? ʻAe, kēlā, ʻo Kokoiki, a, nui ka poʻe Hawaiʻi ma mua.
+1	He	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Kokoiki	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	mua	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Kokoiki	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nui	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	mua	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_101
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_102
+# text = Kēia wā, ʻo ka ʻāina wale nō, kākaʻikahi wale nō ka poʻe.
+1	Kēia	_	_	_	_	_	_	_	_
+2	wā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kākaʻikahi	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_103
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_104
+# text = O laila, kēia manawa.
+1	O	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_105
+# text = I kēia manawa, kēia manawa, ʻaʻole paha he poʻe ma laila? I ko mā , ma naʻe o, o ko mākou wahi, ʻaʻohe poʻe.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻole	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	laila	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	I	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	mā	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	naʻe	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ko	_	_	_	_	_	_	_	_
+25	mākou	_	_	_	_	_	_	_	_
+26	wahi	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻaʻohe	_	_	_	_	_	_	_	_
+29	poʻe	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_106
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_107
+# text = Pipi wale nō, ʻĒ.
+1	Pipi	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_108
+# text = ka poʻe, makemake, loaʻa pipi, mamake i ka ʻāina, ʻĒ.
+1	ka	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	makemake	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	loaʻa	_	_	_	_	_	_	_	_
+7	pipi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	mamake	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻĒ	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_109
+# text = a kōkua mākou iā lākou.
+1	a	_	_	_	_	_	_	_	_
+2	kōkua	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_110
+# text = A pehea ka nui o kou, kou ʻohana kaikuahine, mea, kaikuaʻana, kaikaina? A kuʻu kaikuaʻana, kaikuahine nui, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kou	_	_	_	_	_	_	_	_
+9	ʻohana	_	_	_	_	_	_	_	_
+10	kaikuahine	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kaikuaʻana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kaikaina	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	A	_	_	_	_	_	_	_	_
+19	kuʻu	_	_	_	_	_	_	_	_
+20	kaikuaʻana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	kaikuahine	_	_	_	_	_	_	_	_
+23	nui	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻĒ	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_111
+# text = aia nō ʻo ia ma Kohala.
+1	aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Kohala	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_112
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_113
+# text = ʻO Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Mrs	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_114
+# text = Pansy Rocha.
+1	Pansy	_	_	_	_	_	_	_	_
+2	Rocha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_115
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_116
+# text = A kuʻu kaikunāne, hoʻokahi, aia i Honolulu nei, i Kāneʻohe.
+1	A	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	kaikunāne	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hoʻokahi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	aia	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Honolulu	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Kāneʻohe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_117
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_118
+# text = Kuʻu kaikaina, ʻĒ.
+1	Kuʻu	_	_	_	_	_	_	_	_
+2	kaikaina	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_119
+# text = ʻo ia ka makuahine o Leimomi.
+1	ʻo	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	makuahine	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Leimomi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_120
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_121
+# text = Ua hala ʻo ia.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_122
+# text = Ua hala.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_123
+# text = ʻEkolu wale nō ʻoukou? A ʻo wau.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_124
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_125
+# text = ʻAʻole poina iaʻu.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	iaʻu	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_126
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_127
+# text = Hiki nō, ʻē.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_128
+# text = ʻŌ, ʻehā? ʻEhā mākou.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻehā	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	ʻEhā	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_129
+# text = ʻAe, ʻehā, ʻehā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻehā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻehā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_130
+# text = {Uhu,} ʻae.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	ʻae	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_131
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_132
+# text = Mai nō ʻoe poina iaʻu.
+1	Mai	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	poina	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_133
+# text = ʻAe, hiki a, e kala mai iaʻu.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kala	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	iaʻu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_134
+# text = Eia naʻe, he ʻohana nō ʻolua, ʻeā? ʻAe, ma ka ʻaoʻao o ko māua kupuna.
+1	Eia	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻolua	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻaoʻao	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ko	_	_	_	_	_	_	_	_
+18	māua	_	_	_	_	_	_	_	_
+19	kupuna	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_135
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_136
+# text = } Kupunahine.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kupunahine	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_137
+# text = Kupunahine.
+1	Kupunahine	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_138
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_139
+# text = Aia ma laila.
+1	Aia	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_140
+# text = Ka pili.
+1	Ka	_	_	_	_	_	_	_	_
+2	pili	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_141
+# text = ka pili, ʻĒ.
+1	ka	_	_	_	_	_	_	_	_
+2	pili	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_142
+# text = a māua.
+1	a	_	_	_	_	_	_	_	_
+2	māua	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_143
+# text = ʻŌ, maikaʻi.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_144
+# text = Ko ia nei kupunahine me koʻu kupunahine, he mau kaikaina ko, kaikuaʻana.
+1	Ko	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	kupunahine	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	kupunahine	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	kaikaina	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kaikuaʻana	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_145
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_146
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_147
+# text = } A male ʻoe iā Ellis, a male iā ia nei a, A iā Cazimero nō hoʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	male	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	Ellis	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	male	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	A	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	Cazimero	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	hoʻi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_148
+# text = Cazimero.
+1	Cazimero	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_149
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_150
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_151
+# text = See hānau mai ko ia nei makuahine, ʻo ia ʻo ʻElikāpeka Meheʻula.
+1	See	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	makuahine	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ʻElikāpeka	_	_	_	_	_	_	_	_
+13	Meheʻula	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_152
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_153
+# text = } Hānau mai koʻu makuahine, ʻo ia ʻo Kawohiokalani Kaʻanāʻanā.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Hānau	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	makuahine	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Kawohiokalani	_	_	_	_	_	_	_	_
+11	Kaʻanāʻanā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_154
+# text = A male ʻo ia iā, iā Poliʻahu, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	male	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	Poliʻahu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	{	_	PUNCT	_	_	_	_	_	_
+11	Mū	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_155
+# text = } Spencer.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Spencer	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_156
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_157
+# text = A hānau mai au.
+1	A	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_158
+# text = ʻŌ, ʻo kēia ʻohana ʻo, ʻo Pakana, ʻo Spencer, me Kanaʻana , mea, Kaʻanāʻanā o, no Waimea nō kēia ʻohana.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Pakana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Spencer	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	Kanaʻana	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Kaʻanāʻanā	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	no	_	_	_	_	_	_	_	_
+23	Waimea	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	ʻohana	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_159
+# text = Yeah.
+1	Yeah	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_160
+# text = ʻEā? A but he, he ha hānai, hānai ʻia koʻu makua kāne, ʻŌ.
+1	ʻEā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	A	_	_	_	_	_	_	_	_
+4	but	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	ha	_	_	_	_	_	_	_	_
+9	hānai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hānai	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	koʻu	_	_	_	_	_	_	_	_
+14	makua	_	_	_	_	_	_	_	_
+15	kāne	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻŌ	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_161
+# text = e Mrs.
+1	e	_	_	_	_	_	_	_	_
+2	Mrs	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_162
+# text = Spencer.
+1	Spencer	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_163
+# text = ʻĒ, lawe hānai ʻia.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	lawe	_	_	_	_	_	_	_	_
+4	hānai	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_164
+# text = But, kona koko, he Mersberg.
+1	But	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kona	_	_	_	_	_	_	_	_
+4	koko	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	Mersberg	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_165
+# text = He Mersberg.
+1	He	_	_	_	_	_	_	_	_
+2	Mersberg	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_166
+# text = ʻĒ, Mersberg, {uhu.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Mersberg	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	uhu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_167
+# text = } No Waimea nō kēia ʻohana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	Waimea	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	ʻohana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_168
+# text = ʻAe, poʻe Waimea nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Waimea	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_169
+# text = ʻo Mersberg.
+1	ʻo	_	_	_	_	_	_	_	_
+2	Mersberg	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_170
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_171
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_172
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_173
+# text = } A no laila, he mau kamaʻāina kēia no ka ʻāina ʻo Kohala.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	kamaʻāina	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Kohala	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_174
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_175
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_176
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_177
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_178
+# text = Pehea, ua hiki nō iā ʻoe ke hoʻokani maila kekahi mele o ka ʻāina? A e hīmeni mā , e hīmeni ana māua.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	hoʻokani	_	_	_	_	_	_	_	_
+10	maila	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	hīmeni	_	_	_	_	_	_	_	_
+20	mā	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hīmeni	_	_	_	_	_	_	_	_
+24	ana	_	_	_	_	_	_	_	_
+25	māua	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_179
+# text = ʻAe, hiki.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_180
+# text = Aloha nō kahi mele o ka ʻāina.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kahi	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_181
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_182
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_183
+# text = Mahalo, mahalo nui iā ʻolua.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻolua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_184
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_185
+# text = A ʻo kāu kāne, e ʻElikāpeka ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kāu	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ʻElikāpeka	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_186
+# text = No hea mai kāu kāne? No Kohala nō ʻo ia.
+1	No	_	_	_	_	_	_	_	_
+2	hea	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	kāu	_	_	_	_	_	_	_	_
+5	kāne	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	No	_	_	_	_	_	_	_	_
+8	Kohala	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_187
+# text = No Kohala nō.
+1	No	_	_	_	_	_	_	_	_
+2	Kohala	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_188
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_189
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_190
+# text = No Niuliʻi ʻo ia.
+1	No	_	_	_	_	_	_	_	_
+2	Niuliʻi	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_191
+# text = ʻO ia, ʻē.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_192
+# text = A hānau ʻia au ma Kokoiki, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Kokoiki	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_193
+# text = a nui, hi , hele mākou i ka hale o kuʻu kupuna wahine, ʻo ia nō ka māmā a kuʻu māmā.
+1	a	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hale	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kuʻu	_	_	_	_	_	_	_	_
+13	kupuna	_	_	_	_	_	_	_	_
+14	wahine	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	māmā	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	kuʻu	_	_	_	_	_	_	_	_
+23	māmā	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_194
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_195
+# text = Kupuna wahine.
+1	Kupuna	_	_	_	_	_	_	_	_
+2	wahine	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_196
+# text = Ma Honomakaʻu.
+1	Ma	_	_	_	_	_	_	_	_
+2	Honomakaʻu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_197
+# text = Hele mākou, noho me ia.
+1	Hele	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_198
+# text = ʻAʻole hiki iā mākou ke walaʻau haole, walaʻau Hawaiʻi wale nō mākou.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	walaʻau	_	_	_	_	_	_	_	_
+7	haole	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	walaʻau	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_199
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_200
+# text = Ma mua ko mākou hele ʻana i ke kula, i ke kakahiaka, haipule mua mākou, ʻohana.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kula	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kakahiaka	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	haipule	_	_	_	_	_	_	_	_
+16	mua	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻohana	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_201
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_202
+# text = ʻOhana.
+1	ʻOhana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_203
+# text = ʻOhana, ʻohana, ʻae.
+1	ʻOhana	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻae	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_204
+# text = ʻAe, ʻohana.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_205
+# text = A hele mākou i ke kula, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	Mū	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_206
+# text = } I ka pō, ʻohana hou.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pō	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻohana	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_207
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_208
+# text = } I ka pō, ma ka Paipala mākou, Heluhelu ai.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pō	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	Paipala	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Heluhelu	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_209
+# text = i heluhelu, e heluhelu ai.
+1	i	_	_	_	_	_	_	_	_
+2	heluhelu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	heluhelu	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_210
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_211
+# text = A ma laila wau, I aʻo ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	aʻo	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_212
+# text = i a , ʻo ia.
+1	i	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_213
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_214
+# text = Laki kēia poʻe keiki o kēia au, he kumu, ʻĒ.
+1	Laki	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	keiki	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	au	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	kumu	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻĒ	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_215
+# text = aʻo iā lākou.
+1	aʻo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_216
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_217
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_218
+# text = Ko mākou au, ʻaʻole loa.
+1	Ko	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_219
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_220
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_221
+# text = Ke mākou walaʻau, poina nō hoʻi kekahi manawa, mākou ka , kamaliʻi liʻiliʻi, pāʻani a walaʻau haole.
+1	Ke	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	walaʻau	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	poina	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kamaliʻi	_	_	_	_	_	_	_	_
+15	liʻiliʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	pāʻani	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	walaʻau	_	_	_	_	_	_	_	_
+20	haole	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_222
+# text = Huhū ʻia maila mākou e ke kupuna wahine.
+1	Huhū	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	maila	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kupuna	_	_	_	_	_	_	_	_
+8	wahine	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_223
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_224
+# text = ʻAʻole ʻo ia makemake.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	makemake	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_225
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_226
+# text = He, a, ʻano ʻē nō hoʻi a i ko mākou ena koʻu wā liʻiliʻi ana, hoʻomaopopo au, a makemake wau.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	ʻē	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	ena	_	_	_	_	_	_	_	_
+14	koʻu	_	_	_	_	_	_	_	_
+15	wā	_	_	_	_	_	_	_	_
+16	liʻiliʻi	_	_	_	_	_	_	_	_
+17	ana	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	hoʻomaopopo	_	_	_	_	_	_	_	_
+20	au	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	makemake	_	_	_	_	_	_	_	_
+24	wau	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_227
+# text = Maliʻa paha, ua ʻike ʻoe, ua hele paha ʻoe i Kapākai, Ka paʻakai.
+1	Maliʻa	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ua	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Kapākai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Ka	_	_	_	_	_	_	_	_
+16	paʻakai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_228
+# text = Kapākai.
+1	Kapākai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_229
+# text = Kapākai.
+1	Kapākai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_230
+# text = Kapākai.
+1	Kapākai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_231
+# text = Lohe wale nō ka inoa o kēia wahi, akā, ʻaʻole wau i hele i laila, hele wale nō ma luna mai o ka pali e nānā ai, ʻaʻohe nō naʻe au i hehi ma luna o kēia ʻāina.
+1	Lohe	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	akā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻaʻole	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	laila	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	hele	_	_	_	_	_	_	_	_
+20	wale	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	luna	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	pali	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	nānā	_	_	_	_	_	_	_	_
+30	ai	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ʻaʻohe	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	naʻe	_	_	_	_	_	_	_	_
+35	au	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	hehi	_	_	_	_	_	_	_	_
+38	ma	_	_	_	_	_	_	_	_
+39	luna	_	_	_	_	_	_	_	_
+40	o	_	_	_	_	_	_	_	_
+41	kēia	_	_	_	_	_	_	_	_
+42	ʻāina	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_232
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_233
+# text = Ma ʻUpolu, ē? Kokoke i Kokoiki.
+1	Ma	_	_	_	_	_	_	_	_
+2	ʻUpolu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Kokoke	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Kokoiki	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_234
+# text = ʻAe, pololei, {Uhu.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Uhu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_235
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_236
+# text = pololei.
+1	pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_237
+# text = Ma laila, i laila, ʻo Kamehameha i hānau ʻia.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Kamehameha	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hānau	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_238
+# text = Ma, ma kēia ʻāina, Ma Kapakai (Kapākai).
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Ma	_	_	_	_	_	_	_	_
+8	Kapakai	_	_	_	_	_	_	_	_
+9	(	_	PUNCT	_	_	_	_	_	_
+10	Kapākai	_	_	_	_	_	_	_	_
+11	)	_	PUNCT	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_239
+# text = Kapakai (Kapākai).
+1	Kapakai	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Kapākai	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_240
+# text = Kapākai.
+1	Kapākai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_241
+# text = No ka mea, a, hōʻailona paha, a ʻike nā mākua, n , e ʻalu ana, alualu ana ka aliʻi o Maui e pepehi i kēia keiki.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hōʻailona	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ʻike	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mākua	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	n	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	ʻalu	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	alualu	_	_	_	_	_	_	_	_
+22	ana	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	aliʻi	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	Maui	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	pepehi	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	kēia	_	_	_	_	_	_	_	_
+31	keiki	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_242
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_243
+# text = No laila, holo lākou i Hawa , a pae i Kapākai, i Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	holo	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Hawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	pae	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Kapākai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_244
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_245
+# text = Pae nō hoʻi lākou i laila, ʻapo ʻo ia i ka pōhaku, hānau ʻo ia i kēia keiki.
+1	Pae	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻapo	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	pōhaku	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hānau	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	keiki	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_246
+# text = A ka ʻaweʻawe (ʻiawe), lawe nā limahana i kēia ʻaweʻawe (ʻiawe), a hoʻokuʻu na ka ʻale kai i lawe i waho.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻaweʻawe	_	_	_	_	_	_	_	_
+4	(	_	PUNCT	_	_	_	_	_	_
+5	ʻiawe	_	_	_	_	_	_	_	_
+6	)	_	PUNCT	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	lawe	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	limahana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	ʻaweʻawe	_	_	_	_	_	_	_	_
+14	(	_	PUNCT	_	_	_	_	_	_
+15	ʻiawe	_	_	_	_	_	_	_	_
+16	)	_	PUNCT	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	hoʻokuʻu	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻale	_	_	_	_	_	_	_	_
+23	kai	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	lawe	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	waho	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_247
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_248
+# text = A ʻike nō hoʻi kēlā poʻe, hoʻi, haʻi ke aliʻi, "Ua ʻai ʻia lākou e ka manō.
+1	A	_	_	_	_	_	_	_	_
+2	ʻike	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	haʻi	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	aliʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	"	_	PUNCT	_	_	_	_	_	_
+15	Ua	_	_	_	_	_	_	_	_
+16	ʻai	_	_	_	_	_	_	_	_
+17	ʻia	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	manō	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_249
+# text = " Auē.
+1	"	_	PUNCT	_	_	_	_	_	_
+2	Auē	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_250
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_251
+# text = } Mai Kapākai, hoʻi, lawe ʻia kēia keiki me kona makuahine.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Mai	_	_	_	_	_	_	_	_
+3	Kapākai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	lawe	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	keiki	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	kona	_	_	_	_	_	_	_	_
+13	makuahine	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_252
+# text = Hele lākou i ʻĀinakea.
+1	Hele	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ʻĀinakea	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_253
+# text = A mai, Aia i hea, aia i hea kēia wahi ʻo Āina , Aia i Kohala.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Aia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Āina	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	Aia	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	Kohala	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_254
+# text = Kokoke nō kēia i Kapākai? ʻAʻole, loa.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Kapākai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAʻole	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_255
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_256
+# text = Mai Kapākai a ʻĀinakea, ʻano loa nō.
+1	Mai	_	_	_	_	_	_	_	_
+2	Kapākai	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ʻĀinakea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_257
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_258
+# text = } Hoʻomaopopo paha ʻoe iā Kapaʻau? Kapaʻau.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Hoʻomaopopo	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	Kapaʻau	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Kapaʻau	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_259
+# text = Aia, ʻae.
+1	Aia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_260
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_261
+# text = Ma ʻaneʻi mai mai ʻo Kapaʻau, ʻĒ.
+1	Ma	_	_	_	_	_	_	_	_
+2	ʻaneʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kapaʻau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_262
+# text = aia i laila ʻo ʻĀinakea.
+1	aia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ʻĀinakea	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_263
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_264
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_265
+# text = } A mai ʻĀinakea, lawe ʻia ke keiki me ka māmā i, a, ʻĀwini! I loko loa o kēlā poʻe awāwa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻĀinakea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	lawe	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	keiki	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	māmā	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻĀwini	_	_	_	_	_	_	_	_
+18	!	_	PUNCT	_	_	_	_	_	_
+19	I	_	_	_	_	_	_	_	_
+20	loko	_	_	_	_	_	_	_	_
+21	loa	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	kēlā	_	_	_	_	_	_	_	_
+24	poʻe	_	_	_	_	_	_	_	_
+25	awāwa	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_266
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_267
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_268
+# text = I loko loa o kēlā poʻe a , awāwa.
+1	I	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	awāwa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_269
+# text = A a, ʻo kuʻu wā liʻiliʻi wale nō, hoʻolohe wale nō au.
+1	A	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	wā	_	_	_	_	_	_	_	_
+7	liʻiliʻi	_	_	_	_	_	_	_	_
+8	wale	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hoʻolohe	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	au	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_270
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_271
+# text = A haʻi mai nō hoʻi !! A ma laila nō i hānai ʻia ai kēia pēpē a nui? A hiki i kona nui ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	haʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	laila	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	hānai	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	pēpē	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	nui	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	A	_	_	_	_	_	_	_	_
+21	hiki	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kona	_	_	_	_	_	_	_	_
+24	nui	_	_	_	_	_	_	_	_
+25	ʻana	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_272
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_273
+# text = ʻO Kamehameha, ʻo ia paha nō ke kumu o ka, o ka inoa ʻo Kamehameha no ka mehameha nō paha o kona noho ʻana i kēlā ʻāina ʻo ʻĀwini.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kamehameha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kumu	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	inoa	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Kamehameha	_	_	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mehameha	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	paha	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	kona	_	_	_	_	_	_	_	_
+25	noho	_	_	_	_	_	_	_	_
+26	ʻana	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēlā	_	_	_	_	_	_	_	_
+29	ʻāina	_	_	_	_	_	_	_	_
+30	ʻo	_	_	_	_	_	_	_	_
+31	ʻĀwini	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_274
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_275
+# text = ʻEā? Mehameha.
+1	ʻEā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Mehameha	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_276
+# text = Mehameha.
+1	Mehameha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_277
+# text = Mehameha.
+1	Mehameha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_278
+# text = Mehameha kēlā wahi.
+1	Mehameha	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_279
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_280
+# text = } Eia nō naʻe, ʻelua nō, ʻelua n a, ona inoa, ē? ʻO Paiʻea me Kamehameha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻelua	_	_	_	_	_	_	_	_
+10	n	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ona	_	_	_	_	_	_	_	_
+14	inoa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ē	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	ʻO	_	_	_	_	_	_	_	_
+19	Paiʻea	_	_	_	_	_	_	_	_
+20	me	_	_	_	_	_	_	_	_
+21	Kamehameha	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_281
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_282
+# text = I kekahi poʻe, he, {Uhu.
+1	I	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	{	_	PUNCT	_	_	_	_	_	_
+8	Uhu	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_283
+# text = } ʻo Paiʻea.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Paiʻea	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_284
+# text = Yeah.
+1	Yeah	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_285
+# text = ʻElua ona inoa.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	ona	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_286
+# text = ʻElua inoa.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_287
+# text = ʻAʻohe nō naʻe i paʻa iaʻu ka moʻolelo o kēia inoa ʻo Paiʻea koe nō ka manaʻo he wahi pāpaʻi kēia, ē? {Uhu.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	naʻe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	paʻa	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	moʻolelo	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	inoa	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Paiʻea	_	_	_	_	_	_	_	_
+14	koe	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	manaʻo	_	_	_	_	_	_	_	_
+18	he	_	_	_	_	_	_	_	_
+19	wahi	_	_	_	_	_	_	_	_
+20	pāpaʻi	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ē	_	_	_	_	_	_	_	_
+24	?	_	PUNCT	_	_	_	_	_	_
+25	{	_	PUNCT	_	_	_	_	_	_
+26	Uhu	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_288
+# text = } ʻo ka Paiʻea.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	Paiʻea	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_289
+# text = ʻO ia, pololei.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pololei	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_290
+# text = Hoapili me ka ʻaʻama.
+1	Hoapili	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻaʻama	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_291
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_292
+# text = A ua ikaika nō ʻo ia ma ka hakakā, kēia paiʻea.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	ikaika	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hakakā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	paiʻea	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_293
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_294
+# text = ʻO ia nō paha ke kumu o ke kapa ʻana o ia inoa, ʻaʻohe nō, Pēia paha.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kapa	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	inoa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻohe	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Pēia	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_295
+# text = paʻa loa.
+1	paʻa	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_296
+# text = Pēia paha, pēia paha.
+1	Pēia	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pēia	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_297
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_298
+# text = ʻAʻole maopopo.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	maopopo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_299
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_300
+# text = } ʻAʻole, wau maopopo loa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻole	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	maopopo	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_301
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_302
+# text = } A ʻo Heloke Moʻokini, ʻo, A.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Heloke	_	_	_	_	_	_	_	_
+5	Moʻokini	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	A	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_303
+# text = he ʻohana kēlā nou, no ʻolua? Make nō hoʻi kuʻu pāpā, a male kuʻu māmā iā Heloke Moʻokini.
+1	he	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	nou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ʻolua	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Make	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	hoʻi	_	_	_	_	_	_	_	_
+12	kuʻu	_	_	_	_	_	_	_	_
+13	pāpā	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	male	_	_	_	_	_	_	_	_
+17	kuʻu	_	_	_	_	_	_	_	_
+18	māmā	_	_	_	_	_	_	_	_
+19	iā	_	_	_	_	_	_	_	_
+20	Heloke	_	_	_	_	_	_	_	_
+21	Moʻokini	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_304
+# text = ʻO, male kou māmā iā ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	male	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	māmā	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_305
+# text = Iā Heloke Moʻokini.
+1	Iā	_	_	_	_	_	_	_	_
+2	Heloke	_	_	_	_	_	_	_	_
+3	Moʻokini	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_306
+# text = No ka mea, ʻo ia nō ke kupa o kēlā, a, wahi ʻo ʻUpolu, ʻAe, pololei.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kupa	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ʻUpolu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻAe	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	pololei	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_307
+# text = kēlā ʻāina, Pololei.
+1	kēlā	_	_	_	_	_	_	_	_
+2	ʻāina	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Pololei	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_308
+# text = ʻo Kokoiki.
+1	ʻo	_	_	_	_	_	_	_	_
+2	Kokoiki	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_309
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_310
+# text = } ʻAʻole nō naʻe ʻo ia i haʻi, a, mai ka moʻolelo o ka heiau iā mākou.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻole	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	haʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	moʻolelo	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	heiau	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	mākou	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_311
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_312
+# text = } ʻAʻole.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻole	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_313
+# text = Ho , walaʻau nō paha lākou, ʻaʻole nal , nō naʻe hoʻolohe ka pepeiao.
+1	Ho	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	walaʻau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻole	_	_	_	_	_	_	_	_
+9	nal	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	naʻe	_	_	_	_	_	_	_	_
+13	hoʻolohe	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	pepeiao	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_314
+# text = ʻAno liʻiliʻi a pāʻani wale nō.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	liʻiliʻi	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pāʻani	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_315
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_316
+# text = ʻAʻole mamake e hoʻolohe.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	mamake	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻolohe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_317
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_318
+# text = A kēia manawa, o , ʻano oʻo kākou, auē.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	oʻo	_	_	_	_	_	_	_	_
+9	kākou	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	auē	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_319
+# text = Minamina, ē.
+1	Minamina	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_320
+# text = Minamina.
+1	Minamina	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_321
+# text = Minamina.
+1	Minamina	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_322
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_323
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_324
+# text = } Pololei, Minamina.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Pololei	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Minamina	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_325
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_326
+# text = } Minamina.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Minamina	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_327
+# text = ʻO Kapaʻau ma mua, kēlā, {amū,} ___ statue? ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kapaʻau	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	amū	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	}	_	PUNCT	_	_	_	_	_	_
+12	_	_	PUNCT	_	_	_	_	_	_
+13	_	_	PUNCT	_	_	_	_	_	_
+14	_	_	PUNCT	_	_	_	_	_	_
+15	statue	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻĒ	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_328
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_329
+# text = Kiʻi kālai ʻia.
+1	Kiʻi	_	_	_	_	_	_	_	_
+2	kālai	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_330
+# text = ʻĒ, kiʻi, kēlā kiʻi kālai ʻia ʻo Kamehameha i Kapaʻau, {Mū.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kiʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	kiʻi	_	_	_	_	_	_	_	_
+7	kālai	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Kamehameha	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Kapaʻau	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	{	_	PUNCT	_	_	_	_	_	_
+15	Mū	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_331
+# text = } ma mua ka neʻe ʻia ʻana mai ma Kapaʻau i ʻĀina , ʻĀinakea, {Mū.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	neʻe	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Kapaʻau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ʻĀina	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻĀinakea	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	Mū	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_332
+# text = } e kū ai kēia, Kiʻi? Kiʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kū	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kiʻi	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Kiʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_333
+# text = ʻAe, i ʻĀinakea.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ʻĀinakea	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_334
+# text = ʻO ia nō kēia kiʻi {amū,} E kū nei i Kapaʻau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	kiʻi	_	_	_	_	_	_	_	_
+6	{	_	PUNCT	_	_	_	_	_	_
+7	amū	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	}	_	PUNCT	_	_	_	_	_	_
+10	E	_	_	_	_	_	_	_	_
+11	kū	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Kapaʻau	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_335
+# text = E kū nei i Kapaʻau.
+1	E	_	_	_	_	_	_	_	_
+2	kū	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Kapaʻau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_336
+# text = I kēia manawa.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_337
+# text = I kēia manawa.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_338
+# text = ʻŌ, ʻō, ʻō, ʻē, ʻē.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻē	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_339
+# text = Ke kiʻi mua kēlā i, piholo ai.
+1	Ke	_	_	_	_	_	_	_	_
+2	kiʻi	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	piholo	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_340
+# text = He kiʻi o Kamehameha, ʻae.
+1	He	_	_	_	_	_	_	_	_
+2	kiʻi	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	Kamehameha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻae	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_341
+# text = ʻAe, piholo ai i ka lawe ʻia ʻana mai.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	piholo	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lawe	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_342
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_343
+# text = mai Palani mai.
+1	mai	_	_	_	_	_	_	_	_
+2	Palani	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_344
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_345
+# text = } Lawe mua i, Ia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Lawe	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Ia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_346
+# text = ʻĀinakea? Na, ʻo ʻĀinakea, ʻĒ.
+1	ʻĀinakea	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Na	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ʻĀinakea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_347
+# text = ka wahi mua o kēia kiʻi, ʻĒ.
+1	ka	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kiʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_348
+# text = i kūkulu ʻia ai.
+1	i	_	_	_	_	_	_	_	_
+2	kūkulu	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_349
+# text = I kūkulu ʻia ai.
+1	I	_	_	_	_	_	_	_	_
+2	kūkulu	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_350
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_351
+# text = } A hoʻoneʻe ʻia ma Kapaʻau, {Mū.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	hoʻoneʻe	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Kapaʻau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	Mū	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_352
+# text = } no ka mea, a, ʻano nui ka wahi, nui ka pip , a, ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻano	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	pip	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻĒ	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_353
+# text = poʻe o laila hele mai no hoʻi ka poʻe mai Kona, ʻĒ.
+1	poʻe	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	Kona	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻĒ	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_354
+# text = mai Hilo.
+1	mai	_	_	_	_	_	_	_	_
+2	Hilo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_355
+# text = ʻAe, ua nānā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	nānā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_356
+# text = Ua mākaʻikaʻi a lawe ʻia m !! {Mū.
+1	Ua	_	_	_	_	_	_	_	_
+2	mākaʻikaʻi	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	lawe	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	m	_	_	_	_	_	_	_	_
+7	!!	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	Mū	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_357
+# text = } ʻO ia no ke kiʻi mua, ē? ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kiʻi	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ē	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_358
+# text = I hana ʻia ai.
+1	I	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_359
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_360
+# text = ʻO ia ke kiʻi mua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kiʻi	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_361
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_362
+# text = ʻAʻolu .
+1	ʻAʻolu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_363
+# text = ʻAʻole ʻo kēia ma Honolulu nei.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Honolulu	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_364
+# text = ʻAʻole, ʻaʻole, ʻaʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_365
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_366
+# text = } ʻO ia ka kiʻi mua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	kiʻi	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_367
+# text = Pehea, maopopo nō iā ʻolua ke kanaka i, i mea, i, a, i hoʻopili ai no ke kālai ʻana, no ke ha , no ka hana ʻana o kēia kiʻi o Kamehameha? ʻAʻole.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻolua	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kanaka	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	hoʻopili	_	_	_	_	_	_	_	_
+20	ai	_	_	_	_	_	_	_	_
+21	no	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	kālai	_	_	_	_	_	_	_	_
+24	ʻana	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	ke	_	_	_	_	_	_	_	_
+28	ha	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	no	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	hana	_	_	_	_	_	_	_	_
+33	ʻana	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	kēia	_	_	_	_	_	_	_	_
+36	kiʻi	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	Kamehameha	_	_	_	_	_	_	_	_
+39	?	_	PUNCT	_	_	_	_	_	_
+40	ʻAʻole	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_368
+# text = ʻŌlelo ʻia nō kekahi poʻe, ʻo Baker paha kona inoa? ʻŌ, ʻō.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Baker	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	kona	_	_	_	_	_	_	_	_
+11	inoa	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻŌ	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻō	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_369
+# text = Poina.
+1	Poina	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_370
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_371
+# text = Maopopo, maopopo ma mua, but, ua poina.
+1	Maopopo	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	but	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	poina	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_372
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_373
+# text = Ua poina, loloa kēia.
+1	Ua	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	loloa	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_374
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_375
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_376
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_377
+# text = E kala mai iaʻu, ē, eia nō kekahi kelepona ʻana mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	iaʻu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ē	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	eia	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	kelepona	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_378
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_379
+# text = } Auē.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Auē	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_380
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_381
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_382
+# text = Aloha no kāua.
+1	Aloha	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	kāua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_383
+# text = E mahalo nui kēia kelepona ʻana mai nei.
+1	E	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_384
+# text = ʻO ʻoe nō ka makuahine o Leimomi? ʻAʻole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	makuahine	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Leimomi	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAʻole	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_385
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_386
+# text = Ua hala ʻo ia.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_387
+# text = ʻŌ, ua hala, ʻae, ua hala nō ʻo ia.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hala	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻae	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ua	_	_	_	_	_	_	_	_
+9	hala	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_388
+# text = E kala mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_389
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_390
+# text = A pehea, ua noho nō ʻoe i Kohala ma mua, kou wā ʻōpiopio? ʻAʻole.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	noho	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kohala	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	mua	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kou	_	_	_	_	_	_	_	_
+14	wā	_	_	_	_	_	_	_	_
+15	ʻōpiopio	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAʻole	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_391
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_392
+# text = I koʻu wā liʻiliʻi, hele wale nō mākou i Kohala i ka manawa Kalikimaka.
+1	I	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	liʻiliʻi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Kohala	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	Kalikimaka	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_393
+# text = ʻO ia ko mo , ko mākou manawa e hele ai, no ka mea, ʻo koʻu māmā wale nō ke, a, ka kaikaina o ko lākou nei, ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	mo	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	koʻu	_	_	_	_	_	_	_	_
+19	māmā	_	_	_	_	_	_	_	_
+20	wale	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	kaikaina	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	ko	_	_	_	_	_	_	_	_
+30	lākou	_	_	_	_	_	_	_	_
+31	nei	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	ʻĒ	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_394
+# text = poʻe, !! E hui me ka ʻohana ma Kohala.
+1	poʻe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	!!	_	PUNCT	_	_	_	_	_	_
+4	E	_	_	_	_	_	_	_	_
+5	hui	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Kohala	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_395
+# text = e hui me ka ʻohana.
+1	e	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_396
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_397
+# text = A noho mākou me, me kūkū, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	kūkū	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_398
+# text = Kai!! Ia manawa, nui ʻino poʻe Hawaiʻi, ē? ʻAe.
+1	Kai	_	_	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	Ia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ʻino	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_399
+# text = ʻŌ, nui ka Hawaiʻi.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_400
+# text = Nui, nui, !! ʻAʻohe nō e like me kēia manawa, a ua, ʻAe.
+1	Nui	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	!!	_	PUNCT	_	_	_	_	_	_
+6	ʻAʻohe	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	like	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_401
+# text = hele loa nō lākou.
+1	hele	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_402
+# text = Hele loa nō lākou.
+1	Hele	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_403
+# text = Kāka ehi (kākaʻikahi).
+1	Kāka	_	_	_	_	_	_	_	_
+2	ehi	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	kākaʻikahi	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_404
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_405
+# text = Kāka i ʻō i ʻaneʻi wale nō, ʻĒ.
+1	Kāka	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ʻaneʻi	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_406
+# text = ʻaʻohe nui ka poʻe.
+1	ʻaʻohe	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_407
+# text = Ua hala nō paha ka nui o lākou, Ua hala.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Ua	_	_	_	_	_	_	_	_
+11	hala	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_408
+# text = nā poʻe kupa.
+1	nā	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	kupa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_409
+# text = Ua hala ʻē ka ʻohana, ʻO Pule mā.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻO	_	_	_	_	_	_	_	_
+8	Pule	_	_	_	_	_	_	_	_
+9	mā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_410
+# text = ʻohana pau loa.
+1	ʻohana	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_411
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_412
+# text = ʻO Moʻokini.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Moʻokini	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_413
+# text = ʻAe, Moʻokini, Pinihaka (Pinehaka).
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Moʻokini	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Pinihaka	_	_	_	_	_	_	_	_
+6	(	_	PUNCT	_	_	_	_	_	_
+7	Pinehaka	_	_	_	_	_	_	_	_
+8	)	_	PUNCT	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_414
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_415
+# text = Pinihaka (Pinehaka).
+1	Pinihaka	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Pinehaka	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_416
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_417
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_418
+# text = Kapaona, Meheʻula.
+1	Kapaona	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Meheʻula	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_419
+# text = Kapaona.
+1	Kapaona	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_420
+# text = No ka mea, mai Ko , mai Māhukona a Na , a Niuliʻi, {Mū.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	Ko	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	Māhukona	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Na	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	Niuliʻi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	Mū	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_421
+# text = } no ka, ka ʻohana, {Mū.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻohana	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	Mū	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_422
+# text = } a pau loa ko, koʻu poʻe makua kāne, makuahine.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	koʻu	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	makua	_	_	_	_	_	_	_	_
+10	kāne	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	makuahine	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_423
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_424
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_425
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_426
+# text = Ke hele mākou, like, ʻike i, i kēlā makuahine, ʻĒ.
+1	Ke	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	like	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	makuahine	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻĒ	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_427
+# text = a i kēia makua kāne.
+1	a	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	makua	_	_	_	_	_	_	_	_
+5	kāne	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_428
+# text = ʻAe, ʻohana pau loa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_429
+# text = !! ʻAe.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_430
+# text = ʻAe, maikaʻi.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_431
+# text = ʻAe, nui ko mākou hauʻoli.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	hauʻoli	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_432
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_433
+# text = A mākou i hele, no ka mea, ko, ko kupuna home, he ʻumikūmālua lumi kona hale.
+1	A	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	kupuna	_	_	_	_	_	_	_	_
+14	home	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	ʻumikūmālua	_	_	_	_	_	_	_	_
+18	lumi	_	_	_	_	_	_	_	_
+19	kona	_	_	_	_	_	_	_	_
+20	hale	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_434
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_435
+# text = Hoʻokahi lumi no, no k , no kēia keiki, no ke keiki aku a no kēia, ʻĒ.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	lumi	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	k	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	keiki	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	no	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	keiki	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻĒ	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_436
+# text = a, kaikamahine me kāna ʻohana.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kaikamahine	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kāna	_	_	_	_	_	_	_	_
+6	ʻohana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_437
+# text = Pēia nō ke ʻano o ka hale kahiko ma mua.
+1	Pēia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hale	_	_	_	_	_	_	_	_
+8	kahiko	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_438
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_439
+# text = Nunui.
+1	Nunui	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_440
+# text = Nunui ka hale.
+1	Nunui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hale	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_441
+# text = Kēia hale papa.
+1	Kēia	_	_	_	_	_	_	_	_
+2	hale	_	_	_	_	_	_	_	_
+3	papa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_442
+# text = Ke noho mākou e ʻai, ʻĒ.
+1	Ke	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	ʻai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻĒ	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_443
+# text = auē nō hoʻi, ē.
+1	auē	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_444
+# text = Nui loa.
+1	Nui	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_445
+# text = Nui ka pola ʻai, ē? Kano kanalima o mākou ke noho iho e ʻai.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pola	_	_	_	_	_	_	_	_
+4	ʻai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ē	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Kano	_	_	_	_	_	_	_	_
+9	kanalima	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	noho	_	_	_	_	_	_	_	_
+14	iho	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	ʻai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_446
+# text = 22:35 ʻĒ.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	35	_	_	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_447
+# text = No ka mea, ka m , ka poʻe, ka pāpā, ka māmā, me nā poʻe keiki, ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	m	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pāpā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	māmā	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	keiki	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_448
+# text = moʻopuna.
+1	moʻopuna	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_449
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_450
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_451
+# text = Auē nō hoʻi.
+1	Auē	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_452
+# text = Hauʻoli nō naʻe kēlā mau lā.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	naʻe	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	lā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_453
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_454
+# text = Oh yes.
+1	Oh	_	_	_	_	_	_	_	_
+2	yes	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_455
+# text = Hauʻoli nō hoʻi.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_456
+# text = ʻAʻole hiki e poina i kēlā mau lā.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	poina	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	lā	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_457
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_458
+# text = } A.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_459
+# text = Piha nō hoʻi ka poʻe o Māhukona, ʻeā, kekahi? Nui ʻino.
+1	Piha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Māhukona	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	Nui	_	_	_	_	_	_	_	_
+14	ʻino	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_460
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_461
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_462
+# text = } Kēia manawa, ʻaʻohe nui loa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_463
+# text = ʻAʻo , ʻaʻole Kēlā manawa, komo mai nō ka moku, ē? ʻAe.
+1	ʻAʻo	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	Kēlā	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	komo	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	moku	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ē	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_464
+# text = I Māhukona, {mū.
+1	I	_	_	_	_	_	_	_	_
+2	Māhukona	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	mū	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_465
+# text = } Ma mua, komo mai ka moku i Māhukona.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	komo	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	moku	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Māhukona	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_466
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_467
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_468
+# text = Nui nā poʻe Hawaiʻi.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Hawaiʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_469
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_470
+# text = Nui.
+1	Nui	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_471
+# text = Pehea, maopopo, ʻē.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_472
+# text = Kēia manawa, ʻaʻohe poʻe o laila.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻohe	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_473
+# text = Kamaʻāina nō paha ʻolua me kēia ʻohana ʻo Kaʻaihue? ʻAe.
+1	Kamaʻāina	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ʻolua	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Kaʻaihue	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_474
+# text = No Māhukona, ē? No Māhukona nō ʻo ia.
+1	No	_	_	_	_	_	_	_	_
+2	Māhukona	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	No	_	_	_	_	_	_	_	_
+7	Māhukona	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_475
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_476
+# text = ʻO ia kekahi kanaka poʻokela i ka hana lapaʻau Hawaiʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	kanaka	_	_	_	_	_	_	_	_
+5	poʻokela	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	lapaʻau	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_477
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_478
+# text = Me kāna wahine.
+1	Me	_	_	_	_	_	_	_	_
+2	kāna	_	_	_	_	_	_	_	_
+3	wahine	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_479
+# text = Poʻokela loa.
+1	Poʻokela	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_480
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_481
+# text = Minamina nō wau iā ia i ka, i kona hāʻule ʻana.
+1	Minamina	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kona	_	_	_	_	_	_	_	_
+11	hāʻule	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_482
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_483
+# text = } Kuʻu kāne, {Aha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kuʻu	_	_	_	_	_	_	_	_
+3	kāne	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Aha	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_484
+# text = } A kāhea ʻia ʻo ia, kuʻu kāne, i kona inoa Kaʻaihue.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	kāhea	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	kāne	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kona	_	_	_	_	_	_	_	_
+13	inoa	_	_	_	_	_	_	_	_
+14	Kaʻaihue	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_485
+# text = Kaʻaihue.
+1	Kaʻaihue	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_486
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_487
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_488
+# text = ʻO kona inoa kēlā.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_489
+# text = No ka mea, nāna nō i hoʻōla mai i koʻu lima haki.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nāna	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hoʻōla	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	koʻu	_	_	_	_	_	_	_	_
+12	lima	_	_	_	_	_	_	_	_
+13	haki	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_490
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_491
+# text = Ua haki nō kuʻu lima n kēia wahi lima nei.
+1	Ua	_	_	_	_	_	_	_	_
+2	haki	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	lima	_	_	_	_	_	_	_	_
+6	n	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	lima	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_492
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_493
+# text = } ʻŌ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻŌ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_494
+# text = Nāna i hoʻōla.
+1	Nāna	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hoʻōla	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_495
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_496
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_497
+# text = Kāna.
+1	Kāna	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_498
+# text = Lāʻau Hawaiʻi.
+1	Lāʻau	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_499
+# text = ʻAe, lāʻau kāhea.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	lāʻau	_	_	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_500
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_501
+# text = } Lāʻau Hawaiʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Lāʻau	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_502
+# text = Lāʻau kāhea.
+1	Lāʻau	_	_	_	_	_	_	_	_
+2	kāhea	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_503
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_504
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_505
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_506
+# text = Lapaʻau.
+1	Lapaʻau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_507
+# text = Lapaʻau.
+1	Lapaʻau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_508
+# text = ʻAʻohe oʻu maopopo he aha lā ke ʻano o ka la , la , a, lāʻau āna i hana ai, {Uhu.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	oʻu	_	_	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	lā	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	ʻano	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	lāʻau	_	_	_	_	_	_	_	_
+18	āna	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	{	_	PUNCT	_	_	_	_	_	_
+24	Uhu	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_509
+# text = } kēlā manawa, he ʻumikūm , ʻumikūmālua oʻu makahiki.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	ʻumikūm	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻumikūmālua	_	_	_	_	_	_	_	_
+9	oʻu	_	_	_	_	_	_	_	_
+10	makahiki	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_510
+# text = Ua nunui nō wau, akā naʻe, {Uhu.
+1	Ua	_	_	_	_	_	_	_	_
+2	nunui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	akā	_	_	_	_	_	_	_	_
+7	naʻe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	Uhu	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_511
+# text = } ʻaʻole wau i, !! n , nīnau aku iā ia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻaʻole	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	n	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nīnau	_	_	_	_	_	_	_	_
+10	aku	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_512
+# text = Yeah, yeah, pehea !! Pehea lā ke ʻano o ka lāʻau.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yeah	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pehea	_	_	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	Pehea	_	_	_	_	_	_	_	_
+8	lā	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	ʻano	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	lāʻau	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_513
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_514
+# text = Koali nō paha kekahi, a, ʻO ia.
+1	Koali	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻO	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_515
+# text = kekahi, Haʻuōwī.
+1	kekahi	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Haʻuōwī	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_516
+# text = Haʻuwī (hauʻōwī) paha.
+1	Haʻuwī	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	hauʻōwī	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_517
+# text = A haʻuwī (hauʻōwī), ʻae , haʻuwī (hauʻōwī).
+1	A	_	_	_	_	_	_	_	_
+2	haʻuwī	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	hauʻōwī	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻae	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	haʻuwī	_	_	_	_	_	_	_	_
+10	(	_	PUNCT	_	_	_	_	_	_
+11	hauʻōwī	_	_	_	_	_	_	_	_
+12	)	_	PUNCT	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_518
+# text = Me ka {amū,} me ka paʻakai Hawaiʻi.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	amū	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	}	_	PUNCT	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	paʻakai	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_519
+# text = A, a.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_520
+# text = Paʻakai Hawaiʻi.
+1	Paʻakai	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_521
+# text = ʻAe, i kēia manawa, e hoʻolaha ana nō kēia wahi i wahi hoʻolaha.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻolaha	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	wahi	_	_	_	_	_	_	_	_
+15	hoʻolaha	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_522
+# text = E kala mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_523
+# text = ʻAe, aloha ahiahi nō kākou.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	ahiahi	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_524
+# text = Eia nō kēia papahana ʻo Ka Leo Hawaiʻi, a ʻo ko mākou hoa kipa i kēia ahiahi, he ʻelua kupa o ka ʻāina o Hawaiʻi, ʻo Mrs.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	papahana	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Ka	_	_	_	_	_	_	_	_
+7	Leo	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	hoa	_	_	_	_	_	_	_	_
+15	kipa	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	ahiahi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	ʻelua	_	_	_	_	_	_	_	_
+22	kupa	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	ʻāina	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	Hawaiʻi	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻo	_	_	_	_	_	_	_	_
+30	Mrs	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_525
+# text = Elizabeth Ellis lāua ʻo Mrs.
+1	Elizabeth	_	_	_	_	_	_	_	_
+2	Ellis	_	_	_	_	_	_	_	_
+3	lāua	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Mrs	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_526
+# text = Elizabeth Cazimero.
+1	Elizabeth	_	_	_	_	_	_	_	_
+2	Cazimero	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_527
+# text = ʻAe, a, ua hoʻomaka nō mākou e kūkākūkā e pili ana i kekahi kanaka kahuna lapaʻau no Kohala ʻĀkau, no Māhukona nō ʻo ia, ʻeā? Pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	hoʻomaka	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kūkākūkā	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	pili	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	kanaka	_	_	_	_	_	_	_	_
+17	kahuna	_	_	_	_	_	_	_	_
+18	lapaʻau	_	_	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	Kohala	_	_	_	_	_	_	_	_
+21	ʻĀkau	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	no	_	_	_	_	_	_	_	_
+24	Māhukona	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	ia	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻeā	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	Pololei	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_528
+# text = Ua lohe nō wau ua ʻae ʻia ʻo ia e komo i loko i ka haukapila o Kohala e, ʻAe, pololei.
+1	Ua	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	ʻae	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	komo	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	loko	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	haukapila	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	Kohala	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻAe	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	pololei	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_529
+# text = lapaʻau ai no kona akamai i kēia hana.
+1	lapaʻau	_	_	_	_	_	_	_	_
+2	ai	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	akamai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_530
+# text = No kona akamai, {Uhu.
+1	No	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	akamai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Uhu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_531
+# text = } a ʻae ʻia ʻo ia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_532
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_533
+# text = A kēia manawa, e hoʻolaha ana au i nā helu kelepona o kēia kahua i hiki nō ka poʻe e kelepona mai.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻolaha	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	au	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	helu	_	_	_	_	_	_	_	_
+12	kelepona	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	kahua	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	hiki	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	poʻe	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	kelepona	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_534
+# text = Malia paha, he nui paha kā ʻolua, ko ʻolua ʻohana ma Hawaiʻi nei, a me nā hoaaloha.
+1	Malia	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	kā	_	_	_	_	_	_	_	_
+8	ʻolua	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	ʻolua	_	_	_	_	_	_	_	_
+12	ʻohana	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	hoaaloha	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_535
+# text = A eia nō nā helu kelepona o kēia kahua, helu ʻeiwa ʻelua ʻekolu, a ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	helu	_	_	_	_	_	_	_	_
+6	kelepona	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	kahua	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	helu	_	_	_	_	_	_	_	_
+12	ʻeiwa	_	_	_	_	_	_	_	_
+13	ʻelua	_	_	_	_	_	_	_	_
+14	ʻekolu	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	ʻekolu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻole	_	_	_	_	_	_	_	_
+20	ʻehā	_	_	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	ʻelua	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_536
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_537
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_538
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻekahi	_	_	_	_	_	_	_	_
+7	ʻewalu	_	_	_	_	_	_	_	_
+8	ʻehā	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_539
+# text = A me ka helu ʻekahi ʻewalu ʻelima ʻelima.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻekahi	_	_	_	_	_	_	_	_
+6	ʻewalu	_	_	_	_	_	_	_	_
+7	ʻelima	_	_	_	_	_	_	_	_
+8	ʻelima	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_540
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_541
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_542
+# text = A eia ~ Aloha nō kāua.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	~	_	_	_	_	_	_	_	_
+4	Aloha	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kāua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_543
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_544
+# text = Nui nō nā kāhea o kēia ahiahi.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ahiahi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_545
+# text = Mahalo nui iā ʻoukou e nā poʻe i kāhea mai nei.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kāhea	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_546
+# text = A he manawa nō i koe iā ʻoukou e kale , e kelepona mai nō.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	koe	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kale	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_547
+# text = He ʻano pōkole nō kēia hola hoʻokahi wale nō, akā, e aho ia.
+1	He	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	pōkole	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	hola	_	_	_	_	_	_	_	_
+7	hoʻokahi	_	_	_	_	_	_	_	_
+8	wale	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	akā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	aho	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_548
+# text = ʻAe, e aho ia m .
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	aho	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	m	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_549
+# text = E aho nō.
+1	E	_	_	_	_	_	_	_	_
+2	aho	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_550
+# text = Ma mua o ka ʻole loa.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_551
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_552
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_553
+# text = Hoʻopuka nō i ka ʻōlelo Hawaiʻi a kākou.
+1	Hoʻopuka	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻōlelo	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_554
+# text = Hīmeni ana au.
+1	Hīmeni	_	_	_	_	_	_	_	_
+2	ana	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_555
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_556
+# text = Mamake kuʻu ʻanakē e hīmeni iaʻu i kēia hīmeni.
+1	Mamake	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	ʻanakē	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_557
+# text = A kēia hīmeni, hīmeni nō ka poʻe o Honolulu nei, akā, ʻaʻole pololei ka hīmeni ʻana, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	hīmeni	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Honolulu	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	akā	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	pololei	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	hīmeni	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	{	_	PUNCT	_	_	_	_	_	_
+22	Mū	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_558
+# text = } a pēlā ka inoa ʻo, ka inoa a ka poʻe i kāhea kēia hīmeni, {Mū.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	pēlā	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kāhea	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	hīmeni	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	{	_	PUNCT	_	_	_	_	_	_
+19	Mū	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_559
+# text = } ʻo Paliokamoa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Paliokamoa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_560
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_561
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_562
+# text = ʻAʻole kēlā ka pololei.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pololei	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_563
+# text = ʻAʻole kēlā ka inoa pololei.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_564
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_565
+# text = Ka inoa pololei ʻo Kehoni.
+1	Ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Kehoni	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_566
+# text = Kehoni.
+1	Kehoni	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_567
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_568
+# text = He ʻāina kēia? Ke.
+1	He	_	_	_	_	_	_	_	_
+2	ʻāina	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Ke	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_569
+# text = ʻAʻole, he mauna.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mauna	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_570
+# text = ʻĒ, mauna, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mauna	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_571
+# text = ʻIke iā, ʻike nō ʻoe iā Puakea? Puakea.
+1	ʻIke	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻike	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	Puakea	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Puakea	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_572
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_573
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_574
+# text = A ma naʻe mai, he, he, e, Puʻu? he puʻu, a, ʻO ia, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	naʻe	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Puʻu	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	puʻu	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻO	_	_	_	_	_	_	_	_
+20	ia	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻē	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_575
+# text = ʻo ia.
+1	ʻo	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_576
+# text = ʻO ia nō ʻo Kehoni.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Kehoni	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_577
+# text = ʻo Kehoni.
+1	ʻo	_	_	_	_	_	_	_	_
+2	Kehoni	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_578
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_579
+# text = Ke ʻoe piʻi i luna i laila, hiki iā ʻoe ke ʻike iā Moʻokini, a pae aku i Honoipu.
+1	Ke	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	piʻi	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	luna	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	ʻike	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	Moʻokini	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	pae	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Honoipu	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_580
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_581
+# text = Maopopo au, no ka mea, ʻo ia kuʻu ʻāina, i laila wau i noho ai, a, Kamaʻāina.
+1	Maopopo	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	kuʻu	_	_	_	_	_	_	_	_
+11	ʻāina	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	laila	_	_	_	_	_	_	_	_
+15	wau	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	noho	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Kamaʻāina	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_582
+# text = hele.
+1	hele	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_583
+# text = ʻAe, kamaʻāina.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kamaʻāina	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_584
+# text = A kupa, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	kupa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_585
+# text = No laila, noi mai kuʻu ʻanakē e hīmeni au i kēia hīmeni.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	noi	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	kuʻu	_	_	_	_	_	_	_	_
+7	ʻanakē	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hīmeni	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_586
+# text = Hīmeni mai, ʻae, hīmeni mai.
+1	Hīmeni	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hīmeni	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_587
+# text = Nani maoli nō.
+1	Nani	_	_	_	_	_	_	_	_
+2	maoli	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_588
+# text = Aloha nō ka ʻāina.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻāina	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_589
+# text = Aloha Mahalo.
+1	Aloha	_	_	_	_	_	_	_	_
+2	Mahalo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_590
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_591
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_592
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_593
+# text = Minamina nō kēia manawa pōkole.
+1	Minamina	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	pōkole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_594
+# text = Ua hiki mai nō kākou i ka hopena o kēia hola.
+1	Ua	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hopena	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	hola	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_595
+# text = Mahalo nui iā ʻolua ko ʻolua kōkua ʻana mai i kēia ahiahi e hoʻolaha nō i ka ʻōlelo makuahine e hōʻike mai i nā moʻolelo me ka pana o ka ʻāina o, o Hawaiʻi, Kohala.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻolua	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	ʻolua	_	_	_	_	_	_	_	_
+7	kōkua	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hoʻolaha	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻōlelo	_	_	_	_	_	_	_	_
+19	makuahine	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	hōʻike	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	moʻolelo	_	_	_	_	_	_	_	_
+26	me	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	pana	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	ʻāina	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	Hawaiʻi	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	Kohala	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_596
+# text = Mahalo iā ʻoe, {Mū.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_597
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_598
+# text = no kou kono ʻana mai iā māua e hele mai.
+1	no	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	kono	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	māua	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_599
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_600
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_601
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_602
+# text = A mahalo nui iā ʻoukou e nā Hawaiʻi e hoʻolohe nei i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻolohe	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_603
+# text = A i kēia pule aʻe paha, a ʻano, ʻaʻohe nō paʻa pono no kēia Poʻalua aʻe, no ka mea, he wā hoʻomaha kēia iā mākou na ke Kulanui o Hawaiʻi, ʻo ia nō ka wā i hoʻōla hou ai i ka haku ʻo Iesū Kristo.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	pule	_	_	_	_	_	_	_	_
+5	aʻe	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ʻano	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻohe	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paʻa	_	_	_	_	_	_	_	_
+14	pono	_	_	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	Poʻalua	_	_	_	_	_	_	_	_
+18	aʻe	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	he	_	_	_	_	_	_	_	_
+25	wā	_	_	_	_	_	_	_	_
+26	hoʻomaha	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	iā	_	_	_	_	_	_	_	_
+29	mākou	_	_	_	_	_	_	_	_
+30	na	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	Kulanui	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	Hawaiʻi	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ʻo	_	_	_	_	_	_	_	_
+37	ia	_	_	_	_	_	_	_	_
+38	nō	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	wā	_	_	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	hoʻōla	_	_	_	_	_	_	_	_
+43	hou	_	_	_	_	_	_	_	_
+44	ai	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	haku	_	_	_	_	_	_	_	_
+48	ʻo	_	_	_	_	_	_	_	_
+49	Iesū	_	_	_	_	_	_	_	_
+50	Kristo	_	_	_	_	_	_	_	_
+51	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_604
+# text = No laila, e hoʻomaha ana nō mākou.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻomaha	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_605
+# text = Akā naʻe, ʻaʻohe nō maopopo pono iaʻu inā e hoʻolaha hou ana kēia Poʻalua, ʻaʻole paha.
+1	Akā	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻohe	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	maopopo	_	_	_	_	_	_	_	_
+7	pono	_	_	_	_	_	_	_	_
+8	iaʻu	_	_	_	_	_	_	_	_
+9	inā	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hoʻolaha	_	_	_	_	_	_	_	_
+12	hou	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	Poʻalua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻole	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_606
+# text = Aia nō a hiki nō mai ka manawa, a, a laila e ʻike ana nō ʻoukou.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	laila	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	ʻike	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ʻoukou	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_607
+# text = No laila, a mahalo a nui loa iā ʻoukou.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	mahalo	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ʻoukou	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.030_Elizabeth_Cazimero_Elizabeth_19730410_608
+# text = A hui hou aku nō kākou.
+1	A	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+

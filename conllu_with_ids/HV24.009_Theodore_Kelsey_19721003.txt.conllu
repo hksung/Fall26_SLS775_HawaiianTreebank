@@ -1,0 +1,7611 @@
+# newdoc id = HV24.009_Theodore_Kelsey_19721003
+# sent_id = HV24.009_Theodore_Kelsey_19721003_1
+# text = ʻAe, aloha ahiahi kākou.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	ahiahi	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_2
+# text = ʻO ko mākou hoa kipa o kēia ahiahi ʻo Mr.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	hoa	_	_	_	_	_	_	_	_
+5	kipa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Mr	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_3
+# text = Theodore Kelsey.
+1	Theodore	_	_	_	_	_	_	_	_
+2	Kelsey	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_4
+# text = He kanaka kamaʻāina kēia o Hawaiʻi nei, a ua kamaʻāina nō paha kekahi o ʻoukou me kēia kanaka naʻauao.
+1	He	_	_	_	_	_	_	_	_
+2	kanaka	_	_	_	_	_	_	_	_
+3	kamaʻāina	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	kamaʻāina	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paha	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	kanaka	_	_	_	_	_	_	_	_
+20	naʻauao	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_5
+# text = Ua nui nō kona ʻike ma nā ʻike a nā kūpuna o kākou.
+1	Ua	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	ʻike	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	kūpuna	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kākou	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_6
+# text = A e aloha mai nō, e Mr.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Mr	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_7
+# text = Kelsey.
+1	Kelsey	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_8
+# text = A, aloha ʻoukou.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_9
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_10
+# text = E.
+1	E	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_11
+# text = A e ʻoluʻolu e wehewehe mai iā mākou, no ka mea, ʻo kekahi o mākou, ʻaʻohe maopopo pono i kou, kou ʻāina i hānau ʻia ai, a i ka makahiki hea ʻoe i hānau ʻia ai.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	ʻoluʻolu	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	wehewehe	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻaʻohe	_	_	_	_	_	_	_	_
+20	maopopo	_	_	_	_	_	_	_	_
+21	pono	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kou	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	kou	_	_	_	_	_	_	_	_
+26	ʻāina	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	hānau	_	_	_	_	_	_	_	_
+29	ʻia	_	_	_	_	_	_	_	_
+30	ai	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	makahiki	_	_	_	_	_	_	_	_
+36	hea	_	_	_	_	_	_	_	_
+37	ʻoe	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	hānau	_	_	_	_	_	_	_	_
+40	ʻia	_	_	_	_	_	_	_	_
+41	ai	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_12
+# text = A ua hānau ʻia wau ma Seattle, Washington, a ma ka makahiki ʻumikūmāiwa kanaiwakūmākahi.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hānau	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Seattle	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Washington	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	makahiki	_	_	_	_	_	_	_	_
+15	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+16	kanaiwakūmākahi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_13
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_14
+# text = {Amū,} a hele mai, a holo mai i Hawaiʻi nei, a i ka makahiki ʻumikūmāiwa kanaiwa , kanaiwakūm , kūmālima paha.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	holo	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	makahiki	_	_	_	_	_	_	_	_
+20	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+21	kanaiwa	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	kanaiwakūm	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	kūmālima	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_15
+# text = E, a, noho ma Hanamāʻulu, Kauaʻi, ʻo ia kahi o kuʻu makua kāne hanauna, ʻo William, a William Ira Wells, e ke kumu, e ke kumu o ke k , kula o Hanamāʻulu.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	noho	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Hanamāʻulu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Kauaʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	kahi	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kuʻu	_	_	_	_	_	_	_	_
+16	makua	_	_	_	_	_	_	_	_
+17	kāne	_	_	_	_	_	_	_	_
+18	hanauna	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	William	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	William	_	_	_	_	_	_	_	_
+25	Ira	_	_	_	_	_	_	_	_
+26	Wells	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	kumu	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	ke	_	_	_	_	_	_	_	_
+34	kumu	_	_	_	_	_	_	_	_
+35	o	_	_	_	_	_	_	_	_
+36	ke	_	_	_	_	_	_	_	_
+37	k	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	kula	_	_	_	_	_	_	_	_
+40	o	_	_	_	_	_	_	_	_
+41	Hanamāʻulu	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_16
+# text = A noho wau ma laila me koʻu makuahine, a ma hope, hele aku, a, ka makuahine me aʻu i Kekaha.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	koʻu	_	_	_	_	_	_	_	_
+8	makuahine	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	hope	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hele	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	makuahine	_	_	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	aʻu	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	Kekaha	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_17
+# text = A aʻo kula ʻo ia ma Kekaha ma, hoʻokahi makahiki, a laila, e, holo, holo māua i Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	aʻo	_	_	_	_	_	_	_	_
+3	kula	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Kekaha	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hoʻokahi	_	_	_	_	_	_	_	_
+11	makahiki	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	laila	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	holo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	holo	_	_	_	_	_	_	_	_
+21	māua	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	Hilo	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_18
+# text = A hiki mai, e, ka makua kāne mai Seattle mai, a, a kiʻi ʻo ia i ka hale kūʻai ʻo Wallnickles Company Limited ma Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	makua	_	_	_	_	_	_	_	_
+9	kāne	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	Seattle	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	kiʻi	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hale	_	_	_	_	_	_	_	_
+23	kūʻai	_	_	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	Wallnickles	_	_	_	_	_	_	_	_
+26	Company	_	_	_	_	_	_	_	_
+27	Limited	_	_	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	Hilo	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_19
+# text = A lilo ʻo ia i mea, i ka haku o, o ia, a, a, O ia hale kūʻai.
+1	A	_	_	_	_	_	_	_	_
+2	lilo	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	haku	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	O	_	_	_	_	_	_	_	_
+21	ia	_	_	_	_	_	_	_	_
+22	hale	_	_	_	_	_	_	_	_
+23	kūʻai	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_20
+# text = hale kūʻai, ʻĒ.
+1	hale	_	_	_	_	_	_	_	_
+2	kūʻai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_21
+# text = e, no ʻumi makahiki.
+1	e	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ʻumi	_	_	_	_	_	_	_	_
+5	makahiki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_22
+# text = A ma ho , A lōʻihi.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ho	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	lōʻihi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_23
+# text = a ma hope, a, hele ʻo ia i, Ku , i, a, Kūkaʻiau ma Hāmākua, a lilo i, i haku o k , o ka hale kūʻai, a, mahi kō.
+1	a	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Ku	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Kūkaʻiau	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	Hāmākua	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	lilo	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	haku	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	k	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	hale	_	_	_	_	_	_	_	_
+34	kūʻai	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	mahi	_	_	_	_	_	_	_	_
+39	kō	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_24
+# text = A, Ma ka .
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_25
+# text = a, ma Ku , ma Kūkaʻiau.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Ku	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Kūkaʻiau	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_26
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_27
+# text = A ma hope, hele, e, kūkulu ʻo ia i, a, o, ʻo ia i, e, a, ʻo ia hoʻi ia, a hoʻolimalima paha ʻo ia i, i hale ma he , a hale kūʻai ma Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kūkulu	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	ia	_	_	_	_	_	_	_	_
+28	hoʻi	_	_	_	_	_	_	_	_
+29	ia	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	hoʻolimalima	_	_	_	_	_	_	_	_
+33	paha	_	_	_	_	_	_	_	_
+34	ʻo	_	_	_	_	_	_	_	_
+35	ia	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	hale	_	_	_	_	_	_	_	_
+40	ma	_	_	_	_	_	_	_	_
+41	he	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	hale	_	_	_	_	_	_	_	_
+45	kūʻai	_	_	_	_	_	_	_	_
+46	ma	_	_	_	_	_	_	_	_
+47	Hilo	_	_	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_28
+# text = Aia i loko o ke awāwa o, o, {amū,} auē, ʻo ia kekahi awāwa ma, ma ke kihi o ke alanui e, a, Hualālai ! {amū,} ʻo, ʻo, ʻo, ʻo Kalanakāmaʻa ka inoa o ia awāwa, kahi i wehe ai, a, na ka poʻe kahiko i kāmaʻa, a, i ka wā i, e, i hiki aku ai i Hilo, I kēia awā , ʻē.
+1	Aia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	loko	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	awāwa	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	amū	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	auē	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	awāwa	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	kihi	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ke	_	_	_	_	_	_	_	_
+28	alanui	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Hualālai	_	_	_	_	_	_	_	_
+34	!	_	PUNCT	_	_	_	_	_	_
+35	{	_	PUNCT	_	_	_	_	_	_
+36	amū	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	}	_	PUNCT	_	_	_	_	_	_
+39	ʻo	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻo	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ʻo	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	ʻo	_	_	_	_	_	_	_	_
+46	Kalanakāmaʻa	_	_	_	_	_	_	_	_
+47	ka	_	_	_	_	_	_	_	_
+48	inoa	_	_	_	_	_	_	_	_
+49	o	_	_	_	_	_	_	_	_
+50	ia	_	_	_	_	_	_	_	_
+51	awāwa	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	kahi	_	_	_	_	_	_	_	_
+54	i	_	_	_	_	_	_	_	_
+55	wehe	_	_	_	_	_	_	_	_
+56	ai	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	a	_	_	_	_	_	_	_	_
+59	,	_	PUNCT	_	_	_	_	_	_
+60	na	_	_	_	_	_	_	_	_
+61	ka	_	_	_	_	_	_	_	_
+62	poʻe	_	_	_	_	_	_	_	_
+63	kahiko	_	_	_	_	_	_	_	_
+64	i	_	_	_	_	_	_	_	_
+65	kāmaʻa	_	_	_	_	_	_	_	_
+66	,	_	PUNCT	_	_	_	_	_	_
+67	a	_	_	_	_	_	_	_	_
+68	,	_	PUNCT	_	_	_	_	_	_
+69	i	_	_	_	_	_	_	_	_
+70	ka	_	_	_	_	_	_	_	_
+71	wā	_	_	_	_	_	_	_	_
+72	i	_	_	_	_	_	_	_	_
+73	,	_	PUNCT	_	_	_	_	_	_
+74	e	_	_	_	_	_	_	_	_
+75	,	_	PUNCT	_	_	_	_	_	_
+76	i	_	_	_	_	_	_	_	_
+77	hiki	_	_	_	_	_	_	_	_
+78	aku	_	_	_	_	_	_	_	_
+79	ai	_	_	_	_	_	_	_	_
+80	i	_	_	_	_	_	_	_	_
+81	Hilo	_	_	_	_	_	_	_	_
+82	,	_	PUNCT	_	_	_	_	_	_
+83	I	_	_	_	_	_	_	_	_
+84	kēia	_	_	_	_	_	_	_	_
+85	awā	_	_	_	_	_	_	_	_
+86	,	_	PUNCT	_	_	_	_	_	_
+87	ʻē	_	_	_	_	_	_	_	_
+88	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_29
+# text = i Hilo one.
+1	i	_	_	_	_	_	_	_	_
+2	Hilo	_	_	_	_	_	_	_	_
+3	one	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_30
+# text = Mai, e, ka ʻāina, a, a, a, mai ka ʻāina pōhaku.
+1	Mai	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	pōhaku	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_31
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_32
+# text = A wehe i ko, ke kāmaʻa ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	wehe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kāmaʻa	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	laila	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_33
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_34
+# text = Kalanakāmaʻa.
+1	Kalanakāmaʻa	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_35
+# text = A ma hope, hele wau i, i Honolulu nei, a, a, {mū,} hele pū, e, a ma hope, hele mai ka makua kāne, a kūkulu i ha , i hale no, a no, noʻu ma, a, Kaimukī.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Honolulu	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	{	_	PUNCT	_	_	_	_	_	_
+18	mū	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	}	_	PUNCT	_	_	_	_	_	_
+21	hele	_	_	_	_	_	_	_	_
+22	pū	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	hope	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	hele	_	_	_	_	_	_	_	_
+31	mai	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	makua	_	_	_	_	_	_	_	_
+34	kāne	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	kūkulu	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	ha	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	hale	_	_	_	_	_	_	_	_
+43	no	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	no	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	noʻu	_	_	_	_	_	_	_	_
+49	ma	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	Kaimukī	_	_	_	_	_	_	_	_
+54	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_36
+# text = A noho ma ʻō, ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ʻō	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_37
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_38
+# text = } {Amū,} a, n , ʻo ia ka, ʻo ia ka mea, ʻo ia ka mea nui.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	{	_	PUNCT	_	_	_	_	_	_
+3	Amū	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	}	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	n	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	ia	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	nui	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_39
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_40
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_41
+# text = A pehea kou noho ʻana i ka ʻāina ʻo Hawaiʻi? A.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻāina	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	A	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_42
+# text = He ʻōpiopio nō ʻoe i kēlā manawa, ʻeā? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	ʻōpiopio	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_43
+# text = A e kiʻi wau i puke ʻōlelo Kepanī me ka ʻōlelo Hawaiʻi ma ka hale kūʻai o ka makua kāne.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kiʻi	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	puke	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	Kepanī	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hale	_	_	_	_	_	_	_	_
+16	kūʻai	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	makua	_	_	_	_	_	_	_	_
+20	kāne	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_44
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_45
+# text = ʻO ia ʻo Samkokukuaiwa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Samkokukuaiwa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_46
+# text = {A.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_47
+# text = } A aʻo wau i nā ʻōlelo ʻelua, a, poina i ka ʻōlelo Kepanī.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	aʻo	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	poina	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	Kepanī	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_48
+# text = A ke mau nei nō ka ʻōlelo makuahine.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	makuahine	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_49
+# text = A hoʻomau kuʻu manaʻo no, no ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻomau	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_50
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_51
+# text = A no kou noho ʻana nō me nā poʻe Hawaiʻi, a no kēia mea nō ʻoe i hoʻopaʻa ai i ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	ʻoe	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	hoʻopaʻa	_	_	_	_	_	_	_	_
+20	ai	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_52
+# text = A ʻo kekahi hana oʻu, a kekahi hana aʻu, ʻo ia, e, ke kōkua ʻana iā Tom Cook, he mea ana ʻāina.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	oʻu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	aʻu	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kōkua	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	iā	_	_	_	_	_	_	_	_
+21	Tom	_	_	_	_	_	_	_	_
+22	Cook	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	he	_	_	_	_	_	_	_	_
+25	mea	_	_	_	_	_	_	_	_
+26	ana	_	_	_	_	_	_	_	_
+27	ʻāina	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_53
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_54
+# text = A e, e hana ana ma laila i kekahi ʻelemakule, ʻo James, Ananea Iokepa.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	ʻelemakule	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	James	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	Ananea	_	_	_	_	_	_	_	_
+17	Iokepa	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_55
+# text = A lilo māua i mau hoaaloha, a nui ke kōkua iaʻu, iā, a, e, e n , e Iokepa iaʻu.
+1	A	_	_	_	_	_	_	_	_
+2	lilo	_	_	_	_	_	_	_	_
+3	māua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	hoaaloha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	iaʻu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	n	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	Iokepa	_	_	_	_	_	_	_	_
+25	iaʻu	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_56
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_57
+# text = A pēlā nō kāna, a, hoahānau ʻo Wa , ʻo, a, ʻo Wa , ʻo Wahihoʻo , Waihoʻolana.
+1	A	_	_	_	_	_	_	_	_
+2	pēlā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kāna	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoahānau	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Wa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Wa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Wahihoʻo	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Waihoʻolana	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_58
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_59
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_60
+# text = A ua lohe liʻiliʻi nō wau, a, hele nō ʻoe me Kekahuna, ʻAe, aia ma hope.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	lohe	_	_	_	_	_	_	_	_
+4	liʻiliʻi	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	ʻoe	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	Kekahuna	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	aia	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	hope	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_61
+# text = e, e hoʻopaʻa i nā ʻike a nā kupu .
+1	e	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻopaʻa	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	kupu	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_62
+# text = Ma hope loaʻa mai.
+1	Ma	_	_	_	_	_	_	_	_
+2	hope	_	_	_	_	_	_	_	_
+3	loaʻa	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_63
+# text = Ma hope loaʻa mai kēia, ʻae.
+1	Ma	_	_	_	_	_	_	_	_
+2	hope	_	_	_	_	_	_	_	_
+3	loaʻa	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻae	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_64
+# text = E kala m , e hui kala mai ʻoukou iā mākou, ua pā mai nō ke, ka uila ma kēia wahi.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	m	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hui	_	_	_	_	_	_	_	_
+7	kala	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ua	_	_	_	_	_	_	_	_
+14	pā	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	uila	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	wahi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_65
+# text = A pau liʻiliʻi nō hoʻi ka uila kukui no ka manawa wale nō.
+1	A	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	liʻiliʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	uila	_	_	_	_	_	_	_	_
+8	kukui	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_66
+# text = A eia hou mākou o kēia ka papahana ʻo Ka Leo Hawaiʻi, a ʻo ko mākou hoa kipa nō o kēia ahiahi, ʻo Theodore Kelsey.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	papahana	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Ka	_	_	_	_	_	_	_	_
+11	Leo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	hoa	_	_	_	_	_	_	_	_
+19	kipa	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	ahiahi	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Theodore	_	_	_	_	_	_	_	_
+27	Kelsey	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_67
+# text = E kala mai e Mr.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	Mr	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_68
+# text = Kelsey i kēia wahi pilikia.
+1	Kelsey	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	pilikia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_69
+# text = A ua kamaʻilio nō ʻoe e pili ana i kou noho ʻana ma Hawaiʻi i kou wā liʻiliʻi, a, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	kamaʻilio	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	pili	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kou	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kou	_	_	_	_	_	_	_	_
+17	wā	_	_	_	_	_	_	_	_
+18	liʻiliʻi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_70
+# text = kou mau hoaaloha o kēlā manawa.
+1	kou	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	hoaaloha	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_71
+# text = A e hele wau i ke kula ma Hilo, i ke kula a, a, Foreign School, a ma hope i ka Union School, a ma hope i ka Riverside School.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kula	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	Hilo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kula	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Foreign	_	_	_	_	_	_	_	_
+19	School	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	hope	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	Union	_	_	_	_	_	_	_	_
+27	School	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	hope	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	Riverside	_	_	_	_	_	_	_	_
+35	School	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_72
+# text = A i koʻu ʻimi ʻana i nā mea Hawaiʻi, a ʻo kekahi mea kōkua nui, ʻo ia ka ʻelemakule makapō ʻo Nā , ʻo Reverend H.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	ʻimi	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	kekahi	_	_	_	_	_	_	_	_
+14	mea	_	_	_	_	_	_	_	_
+15	kōkua	_	_	_	_	_	_	_	_
+16	nui	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻelemakule	_	_	_	_	_	_	_	_
+22	makapō	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Nā	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Reverend	_	_	_	_	_	_	_	_
+28	H	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_73
+# text = B.
+1	B	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_74
+# text = Nālimu.
+1	Nālimu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_75
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_76
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_77
+# text = No Pāpaʻaloa? ʻAʻole.
+1	No	_	_	_	_	_	_	_	_
+2	Pāpaʻaloa	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAʻole	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_78
+# text = ʻAʻole? No hea? A no Hilo nō.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	No	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	Hilo	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_79
+# text = No Hilo nō, ʻē.
+1	No	_	_	_	_	_	_	_	_
+2	Hilo	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_80
+# text = A e no ka, no ka, no ka papa ʻo ʻĪ, a ke, a ka papa kaulana o Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	papa	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ʻĪ	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	papa	_	_	_	_	_	_	_	_
+21	kaulana	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	Hilo	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_81
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_82
+# text = Ka papa ʻo ʻĪ, ʻo ia nō ka ʻohana? A ka ʻohana ʻo ʻĪ.
+1	Ka	_	_	_	_	_	_	_	_
+2	papa	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ʻĪ	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻohana	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	A	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻohana	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ʻĪ	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_83
+# text = ʻĪ, ʻē.
+1	ʻĪ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_84
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_85
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_86
+# text = Akā naʻe, ʻo ia koʻu ʻo , ʻohana, he aha ka , he papa {amū,} the ʻĪ clan.
+1	Akā	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻohana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	aha	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	papa	_	_	_	_	_	_	_	_
+17	{	_	PUNCT	_	_	_	_	_	_
+18	amū	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	}	_	PUNCT	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	ʻĪ	_	_	_	_	_	_	_	_
+23	clan	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_87
+# text = ʻĒ, no Hilo nō kēia ʻohana.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	Hilo	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_88
+# text = No Hilo.
+1	No	_	_	_	_	_	_	_	_
+2	Hilo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_89
+# text = Ka papa, ʻē.
+1	Ka	_	_	_	_	_	_	_	_
+2	papa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_90
+# text = A, a.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_91
+# text = No, no Kohala ka Mahi, a no ha, na, no Maui ka Palena.
+1	No	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	Kohala	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	Mahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	Maui	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	Palena	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_92
+# text = A i ka manawa e koho pāloka, wa , a, koho, e koho pāloka, ʻōlelo //E, e, e ala e ka ʻĪ, ka Mahi, ka Palena\\.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	koho	_	_	_	_	_	_	_	_
+7	pāloka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	wa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	koho	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	koho	_	_	_	_	_	_	_	_
+17	pāloka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻōlelo	_	_	_	_	_	_	_	_
+20	/	_	PUNCT	_	_	_	_	_	_
+21	/	_	PUNCT	_	_	_	_	_	_
+22	E	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	ala	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	ʻĪ	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	Mahi	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	Palena	_	_	_	_	_	_	_	_
+37	\	_	PUNCT	_	_	_	_	_	_
+38	\	_	PUNCT	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_93
+# text = //E alu ka pule o Hakalau\\.
+1	/	_	PUNCT	_	_	_	_	_	_
+2	/	_	PUNCT	_	_	_	_	_	_
+3	E	_	_	_	_	_	_	_	_
+4	alu	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	pule	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Hakalau	_	_	_	_	_	_	_	_
+9	\	_	PUNCT	_	_	_	_	_	_
+10	\	_	PUNCT	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_94
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_95
+# text = ʻAʻohe nō i lohe ʻia kēia mau huaʻōlelo o kēia manawa, e holo nei nō nā moho, ʻaʻohe hoʻopuka ʻia.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	huaʻōlelo	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	holo	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	moho	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻaʻohe	_	_	_	_	_	_	_	_
+21	hoʻopuka	_	_	_	_	_	_	_	_
+22	ʻia	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_96
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_97
+# text = A no ka, o, o, ʻike kēlā ʻelemakule ʻo Nālimu iā Reverend Titus Coan.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻike	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	ʻelemakule	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Nālimu	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	Reverend	_	_	_	_	_	_	_	_
+16	Titus	_	_	_	_	_	_	_	_
+17	Coan	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_98
+# text = ʻO ia ka, ʻo ia ka.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_99
+# text = He mikionali nō ʻo ia.
+1	He	_	_	_	_	_	_	_	_
+2	mikionali	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_100
+# text = He mikionali mua ma Hilo.
+1	He	_	_	_	_	_	_	_	_
+2	mikionali	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Hilo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_101
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_102
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_103
+# text = {Amū,} a ma, a m , ma hope hoʻouna ʻia ʻo ia i, i Kilipaki, Gilbert Islands.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	m	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	hope	_	_	_	_	_	_	_	_
+13	hoʻouna	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	Kilipaki	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Gilbert	_	_	_	_	_	_	_	_
+23	Islands	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_104
+# text = ʻO Nālimu? Yeah.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Nālimu	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	Yeah	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_105
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_106
+# text = A, no kekahi manawa, a laila, hoʻi nō, hoʻi hou nō i, i Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hoʻi	_	_	_	_	_	_	_	_
+14	hou	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_107
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_108
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_109
+# text = Kamaʻāina nō paha ʻoe me ka ʻohana Desha? ʻAe.
+1	Kamaʻāina	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	Desha	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_110
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_111
+# text = He mea maʻamau iaʻu e hele aku i ka, i, i ka hale pule ʻo Haili e hoʻolohe i ka ʻelemakule, {amū,} ʻĒ, e haʻiʻōlelo ana.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	maʻamau	_	_	_	_	_	_	_	_
+4	iaʻu	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	aku	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hale	_	_	_	_	_	_	_	_
+16	pule	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Haili	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hoʻolohe	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻelemakule	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	{	_	PUNCT	_	_	_	_	_	_
+26	amū	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	}	_	PUNCT	_	_	_	_	_	_
+29	ʻĒ	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	haʻiʻōlelo	_	_	_	_	_	_	_	_
+33	ana	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_112
+# text = {mū,} and, ʻĒ.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻĒ	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_113
+# text = e, e, haʻi ana ma ka ʻōlelo Hawaiʻi.
+1	e	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	haʻi	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_114
+# text = ʻO ia koʻu mea e minamina nei i kēia mau lā, ʻaʻohe lohe ʻia ka haʻiʻōlelo ʻana ma ka ʻōlelo Hawaiʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	minamina	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻaʻohe	_	_	_	_	_	_	_	_
+14	lohe	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	haʻiʻōlelo	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_115
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_116
+# text = ʻO ia ka helu ʻekahi o nā haʻiʻōlelo.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻekahi	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	haʻiʻōlelo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_117
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_118
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_119
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_120
+# text = A kapa ʻia i The Silver Tongued Orator.
+1	A	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	The	_	_	_	_	_	_	_	_
+6	Silver	_	_	_	_	_	_	_	_
+7	Tongued	_	_	_	_	_	_	_	_
+8	Orator	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_121
+# text = ʻO Desha.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Desha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_122
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_123
+# text = He kaulana ʻo ia, kaulana.
+1	He	_	_	_	_	_	_	_	_
+2	kaulana	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kaulana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_124
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_125
+# text = Kahuna pule kaulana.
+1	Kahuna	_	_	_	_	_	_	_	_
+2	pule	_	_	_	_	_	_	_	_
+3	kaulana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_126
+# text = A, a, ke, e shii , ʻo kekahi mea kōkua iaʻu, ʻo ia ka wahine hana lei o Hilo, ʻo Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	shii	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	kōkua	_	_	_	_	_	_	_	_
+14	iaʻu	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	wahine	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	lei	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	Hilo	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Mrs	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_127
+# text = {amū,} a, Kaʻōulionālani Pahiʻo, i noho ma ke alanui em , {amū,} ma ke alanui Pi , e, Piʻopiʻo.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kaʻōulionālani	_	_	_	_	_	_	_	_
+8	Pahiʻo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	alanui	_	_	_	_	_	_	_	_
+15	em	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	{	_	PUNCT	_	_	_	_	_	_
+18	amū	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	}	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	alanui	_	_	_	_	_	_	_	_
+24	Pi	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Piʻopiʻo	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_128
+# text = ʻĒ, ʻē, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_129
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_130
+# text = ʻAe, kēia manawa, ua pau nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_131
+# text = Iā kākou, iā mea, a kala mai i , iā mākou nā ʻōp , poʻe ʻōpiopio, hoʻopuka nō mākou i kēlā inoa ʻo Piopio.
+1	Iā	_	_	_	_	_	_	_	_
+2	kākou	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kala	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	ʻōp	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	ʻōpiopio	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	hoʻopuka	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kēlā	_	_	_	_	_	_	_	_
+25	inoa	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Piopio	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_132
+# text = No.
+1	No	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_133
+# text = A iā ʻoe, he Pi .
+1	A	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	Pi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_134
+# text = Piʻopiʻo.
+1	Piʻopiʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_135
+# text = Piʻopiʻo.
+1	Piʻopiʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_136
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_137
+# text = Na wai mai kēia inoa? A.
+1	Na	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_138
+# text = Na wai i kapa ʻia ai? ʻAʻole maopopo.
+1	Na	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kapa	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAʻole	_	_	_	_	_	_	_	_
+9	maopopo	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_139
+# text = E.
+1	E	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_140
+# text = Akā, ʻo Piʻopiʻo nō.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Piʻopiʻo	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_141
+# text = Akā naʻe, ʻo ia, ʻo ia ka hoʻopuka pololei ʻana.
+1	Akā	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hoʻopuka	_	_	_	_	_	_	_	_
+11	pololei	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_142
+# text = ʻĒ, Piʻopiʻo.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Piʻopiʻo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_143
+# text = Yeah, Piʻopiʻo.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Piʻopiʻo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_144
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_145
+# text = } ʻAe, ua pau paha ʻo Piʻopiʻo i kēia manawa, no ka mea, ua kūkulu hou ʻia kēia, ha , kēia mau hale kalana o ka, o Hawaiʻi ma laila, ʻo Kaikoʻo kēia manawa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	pau	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Piʻopiʻo	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ua	_	_	_	_	_	_	_	_
+18	kūkulu	_	_	_	_	_	_	_	_
+19	hou	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ha	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	mau	_	_	_	_	_	_	_	_
+27	hale	_	_	_	_	_	_	_	_
+28	kalana	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	Hawaiʻi	_	_	_	_	_	_	_	_
+34	ma	_	_	_	_	_	_	_	_
+35	laila	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ʻo	_	_	_	_	_	_	_	_
+38	Kaikoʻo	_	_	_	_	_	_	_	_
+39	kēia	_	_	_	_	_	_	_	_
+40	manawa	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_146
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_147
+# text = } Ma mua ʻo Piʻopiʻo kēia alanui.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Piʻopiʻo	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	alanui	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_148
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_149
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_150
+# text = ʻIke wau i kekahi i, a, mea, ʻike i ke, i ka muliwai ʻo Wailuku, ʻo, ʻo Lāmeka Ahulau, a ʻekolu la , ʻekolu, e, a hoahānau, ʻo Lāmeka me Huli, me {amū,} a, me Mokumaiʻa.
+1	ʻIke	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻike	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	muliwai	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Wailuku	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Lāmeka	_	_	_	_	_	_	_	_
+25	Ahulau	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	ʻekolu	_	_	_	_	_	_	_	_
+29	la	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻekolu	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	hoahānau	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ʻo	_	_	_	_	_	_	_	_
+39	Lāmeka	_	_	_	_	_	_	_	_
+40	me	_	_	_	_	_	_	_	_
+41	Huli	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	me	_	_	_	_	_	_	_	_
+44	{	_	PUNCT	_	_	_	_	_	_
+45	amū	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	}	_	PUNCT	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	,	_	PUNCT	_	_	_	_	_	_
+50	me	_	_	_	_	_	_	_	_
+51	Mokumaiʻa	_	_	_	_	_	_	_	_
+52	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_151
+# text = ʻEkolu kēia poʻe hoahānau.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	hoahānau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_152
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_153
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_154
+# text = A hele wau me Lāmeka i kekahi manawa, a, e, i kekahi mau, a, wahi, a, a, e, kahiko o ka muliwai ʻo Wailuku.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	Lāmeka	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	kahiko	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	muliwai	_	_	_	_	_	_	_	_
+32	ʻo	_	_	_	_	_	_	_	_
+33	Wailuku	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_155
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_156
+# text = {Amū,} a kekahi hoaaloha ʻo Mrs.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	hoaaloha	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Mrs	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_157
+# text = o, o, Kū , Kūkona, he, he luahine, ʻAe.
+1	o	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Kū	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kūkona	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	luahine	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻAe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_158
+# text = ʻe , ʻelemakule, he luahine, ʻelemakule.
+1	ʻe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻelemakule	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	luahine	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻelemakule	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_159
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_160
+# text = A he luahine, e.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	luahine	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_161
+# text = Kahiko nō.
+1	Kahiko	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_162
+# text = Kahiko nō.
+1	Kahiko	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_163
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_164
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_165
+# text = A pehea kēia mau wahi pana o ka muliwai ʻo Wailuku? ʻO, ʻo, ua hoʻopaʻa ʻia, {amū,} a, ʻo koʻu mau pepa Hawaiʻi, a hoʻokomo ʻia i loko o ka Archives ma Honolulu nei, no ka pono o ka lehulehu.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	pana	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	muliwai	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Wailuku	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻO	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ua	_	_	_	_	_	_	_	_
+18	hoʻopaʻa	_	_	_	_	_	_	_	_
+19	ʻia	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	{	_	PUNCT	_	_	_	_	_	_
+22	amū	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	}	_	PUNCT	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	koʻu	_	_	_	_	_	_	_	_
+29	mau	_	_	_	_	_	_	_	_
+30	pepa	_	_	_	_	_	_	_	_
+31	Hawaiʻi	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	hoʻokomo	_	_	_	_	_	_	_	_
+35	ʻia	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	loko	_	_	_	_	_	_	_	_
+38	o	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	Archives	_	_	_	_	_	_	_	_
+41	ma	_	_	_	_	_	_	_	_
+42	Honolulu	_	_	_	_	_	_	_	_
+43	nei	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	no	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	pono	_	_	_	_	_	_	_	_
+48	o	_	_	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	lehulehu	_	_	_	_	_	_	_	_
+51	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_166
+# text = ʻŌ, mahalo !! ʻAe.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_167
+# text = A manaʻo wau e aho i nā Hawaiʻi ke hoʻokumu lā , e, ke hoʻokumu lākou i ko lākou mau mea, a, kahiko i loko o ka Archives.
+1	A	_	_	_	_	_	_	_	_
+2	manaʻo	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	aho	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	hoʻokumu	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	hoʻokumu	_	_	_	_	_	_	_	_
+17	lākou	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ko	_	_	_	_	_	_	_	_
+20	lākou	_	_	_	_	_	_	_	_
+21	mau	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kahiko	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	loko	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	Archives	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_168
+# text = He pololei, ʻae.
+1	He	_	_	_	_	_	_	_	_
+2	pololei	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_169
+# text = A ʻo kahi, o, o, kahi noho, i loko o k , k , ʻāina noho.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kahi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kahi	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	loko	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	k	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	k	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻāina	_	_	_	_	_	_	_	_
+20	noho	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_170
+# text = A i ʻo , i ʻole nalowale loa.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	nalowale	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_171
+# text = ʻĒ, ʻae.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_172
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_173
+# text = Ma, e, a, ma, ma mua o k , e, e, o ka, o k , ʻaʻole, ʻaʻole e puhi , ʻaʻole .
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	k	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	k	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻaʻole	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻaʻole	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	puhi	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻaʻole	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_174
+# text = ʻĒ, ʻē, ʻaʻohe puhi nō i ke ahi paha, lilo paha, i ka ʻaihue paha.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	puhi	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	ahi	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	lilo	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻaihue	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_175
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_176
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_177
+# text = No nā ʻiole, a pēlā aku.
+1	No	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻiole	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pēlā	_	_	_	_	_	_	_	_
+7	aku	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_178
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_179
+# text = Pau.
+1	Pau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_180
+# text = ʻAi i ka, ʻae.
+1	ʻAi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻae	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_181
+# text = A, e hoʻokomo ma kekahi wahi i, e, !! E mālama pono ai, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻokomo	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	!!	_	PUNCT	_	_	_	_	_	_
+13	E	_	_	_	_	_	_	_	_
+14	mālama	_	_	_	_	_	_	_	_
+15	pono	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻē	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_182
+# text = Mālama, ʻae.
+1	Mālama	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_183
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_184
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_185
+# text = A pehea kou hoʻomaka ʻana me ka hana ʻana o, o kēia, me kēia kanaka ʻo Kekahuna, no ka mea, ua kaulana nō ʻo ʻolua ma ka, ma ka hana.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	hoʻomaka	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	kanaka	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Kekahuna	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	no	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ua	_	_	_	_	_	_	_	_
+26	kaulana	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	ʻo	_	_	_	_	_	_	_	_
+29	ʻolua	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	ma	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	hana	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_186
+# text = Well, a, a pahu wau i kaʻu hana ma ke ʻano lālā hoʻokahi o kauhale Hawaiʻi ʻo La , ʻo Lālani.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pahu	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kaʻu	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	ʻano	_	_	_	_	_	_	_	_
+14	lālā	_	_	_	_	_	_	_	_
+15	hoʻokahi	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kauhale	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	La	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻo	_	_	_	_	_	_	_	_
+23	Lālani	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_187
+# text = ʻO wai kēia ʻo Lālani? ʻO, ʻo i , ʻo ia ke kauhale o, a, Mr.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Lālani	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻO	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ia	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	kauhale	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Mr	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_188
+# text = George P.
+1	George	_	_	_	_	_	_	_	_
+2	P	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_189
+# text = Mossman i hoʻokomu ʻia, a, ma ke kihi o Paoakalani.
+1	Mossman	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hoʻokomu	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kihi	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Paoakalani	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_190
+# text = ʻŌ, ma ʻaneʻi nei nō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ʻaneʻi	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_191
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_192
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_193
+# text = A ma ka ʻaoʻao ma uka o ke alanui Kalākau , a, Kalākaua.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻaoʻao	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	uka	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	alanui	_	_	_	_	_	_	_	_
+10	Kalākau	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Kalākaua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_194
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_195
+# text = A kokoke i, i ke kahua o Kapiʻolani.
+1	A	_	_	_	_	_	_	_	_
+2	kokoke	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kahua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Kapiʻolani	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_196
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_197
+# text = A kēia he, ka inoa kēia o ka hale ʻo Lālani? ʻO, ʻo, a, he kauhale Hawaiʻi ʻo Lālani, Lālani Hawaiian Village.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hale	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Lālani	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻO	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	kauhale	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Lālani	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	Lālani	_	_	_	_	_	_	_	_
+27	Hawaiian	_	_	_	_	_	_	_	_
+28	Village	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_198
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_199
+# text = Maikaʻi kēlā wahi, nani.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nani	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_200
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_201
+# text = A, a ma hope.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	hope	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_202
+# text = ʻO kēia ka hana ʻana o kēia kauhale, ua ʻano like nō paha me ke kauhale o kēia manawa kāhea ʻia ʻo Ulumau? Well, a, ʻaʻole li , a ʻano like nō, akā naʻe, e, ma kahi o Lālani, nui nā hōʻike.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	kauhale	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	like	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	kauhale	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	manawa	_	_	_	_	_	_	_	_
+21	kāhea	_	_	_	_	_	_	_	_
+22	ʻia	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Ulumau	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	Well	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻaʻole	_	_	_	_	_	_	_	_
+31	li	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	ʻano	_	_	_	_	_	_	_	_
+35	like	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	akā	_	_	_	_	_	_	_	_
+39	naʻe	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	e	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ma	_	_	_	_	_	_	_	_
+44	kahi	_	_	_	_	_	_	_	_
+45	o	_	_	_	_	_	_	_	_
+46	Lālani	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	nui	_	_	_	_	_	_	_	_
+49	nā	_	_	_	_	_	_	_	_
+50	hōʻike	_	_	_	_	_	_	_	_
+51	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_203
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_204
+# text = E m , a, ua hula nā kaikuahine o Mokemona, i ka hula, a loaʻa ma laila kekahi ʻelemakule, ʻO wai kona inoa? A ʻo {amū.
+1	E	_	_	_	_	_	_	_	_
+2	m	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	hula	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	kaikuahine	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	Mokemona	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hula	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	loaʻa	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	laila	_	_	_	_	_	_	_	_
+21	kekahi	_	_	_	_	_	_	_	_
+22	ʻelemakule	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻO	_	_	_	_	_	_	_	_
+25	wai	_	_	_	_	_	_	_	_
+26	kona	_	_	_	_	_	_	_	_
+27	inoa	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	A	_	_	_	_	_	_	_	_
+30	ʻo	_	_	_	_	_	_	_	_
+31	{	_	PUNCT	_	_	_	_	_	_
+32	amū	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_205
+# text = } ʻO Kuluwai? Kamaʻāina ʻoe me Kuluwai? ʻO, ʻo Kuluwaimaka.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	Kuluwai	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Kamaʻāina	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	Kuluwai	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻO	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kuluwaimaka	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_206
+# text = ʻAe, Kuluwaimaka.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Kuluwaimaka	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_207
+# text = ʻAe, noho ma laila.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_208
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_209
+# text = A mālama wau iā ia.
+1	A	_	_	_	_	_	_	_	_
+2	mālama	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_210
+# text = He kanaka loea i ke oli Hawaiʻi, ʻAe, ʻo ia.
+1	He	_	_	_	_	_	_	_	_
+2	kanaka	_	_	_	_	_	_	_	_
+3	loea	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	oli	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_211
+# text = nā oli kahiko.
+1	nā	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	kahiko	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_212
+# text = A, e, , a, aia i loko o ka hale o hōʻikeʻike, ka, kekahi o kona mau oli.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hale	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	hōʻikeʻike	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kona	_	_	_	_	_	_	_	_
+22	mau	_	_	_	_	_	_	_	_
+23	oli	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_213
+# text = ʻAe, ua hoʻopaʻa ʻia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻopaʻa	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_214
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_215
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_216
+# text = He nani nō kona leo i ke oli.
+1	He	_	_	_	_	_	_	_	_
+2	nani	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	leo	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	oli	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_217
+# text = ʻAe, nani kona leo.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nani	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	leo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_218
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_219
+# text = } ʻO, I see, kekahi ʻelemakule ma laila, ʻo, a, poina wau i ka inoa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	I	_	_	_	_	_	_	_	_
+5	see	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	ʻelemakule	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	poina	_	_	_	_	_	_	_	_
+17	wau	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	inoa	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_220
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_221
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_222
+# text = A, a pau, a pau o kēlā, a, kēlā wahi nani, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	wahi	_	_	_	_	_	_	_	_
+15	nani	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻĒ	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_223
+# text = e, a laila, a hele wau i loko o ka Archives no ke kōkua o ka loio ʻo Mr.
+1	e	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	Archives	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kōkua	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	loio	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Mr	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_224
+# text = Hyde.
+1	Hyde	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_225
+# text = Mr.
+1	Mr	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_226
+# text = Hyde, {a.
+1	Hyde	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_227
+# text = } A aia i loko o laila, e, e, ku , a, ʻo, ʻo Mr.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	loko	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ku	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Mr	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_228
+# text = Henry E.
+1	Henry	_	_	_	_	_	_	_	_
+2	E	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_229
+# text = P.
+1	P	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_230
+# text = Kekahuna, a lilo ʻo ia i hoaaloha noʻu, {amū,} a, mea, a, kōkoʻolua, e, no nā, no kekahi mau makahiki ma hope aku, e , a ma hope i ke, o Kekahuna, !! ʻO ka hana nō, kala mai iaʻu, ʻo ka hana o Kekahuna, he hana unuhi ma ka ae , a, Archives? He aha kona ʻoihana ma laila? Well, a, he n , a, a he unuhi paha ʻo ia !! ʻĒ, unuhi.
+1	Kekahuna	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	lilo	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hoaaloha	_	_	_	_	_	_	_	_
+9	noʻu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	amū	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kōkoʻolua	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	mau	_	_	_	_	_	_	_	_
+31	makahiki	_	_	_	_	_	_	_	_
+32	ma	_	_	_	_	_	_	_	_
+33	hope	_	_	_	_	_	_	_	_
+34	aku	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	e	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	ma	_	_	_	_	_	_	_	_
+40	hope	_	_	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	ke	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	o	_	_	_	_	_	_	_	_
+45	Kekahuna	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	!!	_	PUNCT	_	_	_	_	_	_
+48	ʻO	_	_	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	hana	_	_	_	_	_	_	_	_
+51	nō	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	kala	_	_	_	_	_	_	_	_
+54	mai	_	_	_	_	_	_	_	_
+55	iaʻu	_	_	_	_	_	_	_	_
+56	,	_	PUNCT	_	_	_	_	_	_
+57	ʻo	_	_	_	_	_	_	_	_
+58	ka	_	_	_	_	_	_	_	_
+59	hana	_	_	_	_	_	_	_	_
+60	o	_	_	_	_	_	_	_	_
+61	Kekahuna	_	_	_	_	_	_	_	_
+62	,	_	PUNCT	_	_	_	_	_	_
+63	he	_	_	_	_	_	_	_	_
+64	hana	_	_	_	_	_	_	_	_
+65	unuhi	_	_	_	_	_	_	_	_
+66	ma	_	_	_	_	_	_	_	_
+67	ka	_	_	_	_	_	_	_	_
+68	ae	_	_	_	_	_	_	_	_
+69	,	_	PUNCT	_	_	_	_	_	_
+70	a	_	_	_	_	_	_	_	_
+71	,	_	PUNCT	_	_	_	_	_	_
+72	Archives	_	_	_	_	_	_	_	_
+73	?	_	PUNCT	_	_	_	_	_	_
+74	He	_	_	_	_	_	_	_	_
+75	aha	_	_	_	_	_	_	_	_
+76	kona	_	_	_	_	_	_	_	_
+77	ʻoihana	_	_	_	_	_	_	_	_
+78	ma	_	_	_	_	_	_	_	_
+79	laila	_	_	_	_	_	_	_	_
+80	?	_	PUNCT	_	_	_	_	_	_
+81	Well	_	_	_	_	_	_	_	_
+82	,	_	PUNCT	_	_	_	_	_	_
+83	a	_	_	_	_	_	_	_	_
+84	,	_	PUNCT	_	_	_	_	_	_
+85	he	_	_	_	_	_	_	_	_
+86	n	_	_	_	_	_	_	_	_
+87	,	_	PUNCT	_	_	_	_	_	_
+88	a	_	_	_	_	_	_	_	_
+89	,	_	PUNCT	_	_	_	_	_	_
+90	a	_	_	_	_	_	_	_	_
+91	he	_	_	_	_	_	_	_	_
+92	unuhi	_	_	_	_	_	_	_	_
+93	paha	_	_	_	_	_	_	_	_
+94	ʻo	_	_	_	_	_	_	_	_
+95	ia	_	_	_	_	_	_	_	_
+96	!!	_	PUNCT	_	_	_	_	_	_
+97	ʻĒ	_	_	_	_	_	_	_	_
+98	,	_	PUNCT	_	_	_	_	_	_
+99	unuhi	_	_	_	_	_	_	_	_
+100	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_231
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_232
+# text = } A ma hope mai, hele nō ʻolua i nā mokupuni.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	hope	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ʻolua	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	mokupuni	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_233
+# text = A ma hope, hele māua i {amū,} i, a, ka National Park.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	māua	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	amū	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	}	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	National	_	_	_	_	_	_	_	_
+18	Park	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_234
+# text = Ma Kīlauea? Ma, ma Kīlauea.
+1	Ma	_	_	_	_	_	_	_	_
+2	Kīlauea	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	Ma	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Kīlauea	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_235
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_236
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_237
+# text = } E ana ʻāina? Akamai ʻo Kekahuna i ke, i ke, kākau ʻana i, i ka hana ʻana i palapalaʻāina.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	E	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	ʻāina	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Akamai	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Kekahuna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kākau	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	palapalaʻāina	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_238
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_239
+# text = No nā, a, palapala no ka heiau, a nā mea kahiko.
+1	No	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	palapala	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	heiau	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	kahiko	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_240
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_241
+# text = A , nui ka mahalo o ke, ka haku o {amū,} Kīlauea National Park iā, i, i kāna hana.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mahalo	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	haku	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	{	_	PUNCT	_	_	_	_	_	_
+13	amū	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	}	_	PUNCT	_	_	_	_	_	_
+16	Kīlauea	_	_	_	_	_	_	_	_
+17	National	_	_	_	_	_	_	_	_
+18	Park	_	_	_	_	_	_	_	_
+19	iā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kāna	_	_	_	_	_	_	_	_
+25	hana	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_242
+# text = He, a, he, ma Hōnaunau kekahi.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Hōnaunau	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_243
+# text = I kēia manawa, {Mū.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_244
+# text = } ma mua paha, ʻaʻohe, ʻaʻohe o Hōnaunau, mea, National Park, ʻeā? A, a, ʻo, ʻo Kīlauea Na , ʻo, a, Hawaiʻi National Park wale nō paha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻaʻohe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻohe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Hōnaunau	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	National	_	_	_	_	_	_	_	_
+15	Park	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻeā	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	A	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Kīlauea	_	_	_	_	_	_	_	_
+27	Na	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻo	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Hawaiʻi	_	_	_	_	_	_	_	_
+34	National	_	_	_	_	_	_	_	_
+35	Park	_	_	_	_	_	_	_	_
+36	wale	_	_	_	_	_	_	_	_
+37	nō	_	_	_	_	_	_	_	_
+38	paha	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_245
+# text = ʻO, ʻo Hōnaunau {amū,} a, ʻo, ua kapa ʻia a City of Refuge.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Hōnaunau	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	amū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	}	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ua	_	_	_	_	_	_	_	_
+14	kapa	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	City	_	_	_	_	_	_	_	_
+18	of	_	_	_	_	_	_	_	_
+19	Refuge	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_246
+# text = A ʻo ia ka Puʻuhonua.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	Puʻuhonua	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_247
+# text = Puʻuhonua.
+1	Puʻuhonua	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_248
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_249
+# text = {Amū,} nui ka mahalo o, a, o ka haku o, o ka pāka.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mahalo	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	haku	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	pāka	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_250
+# text = ʻO wai ia, ʻo wai ka haku ia manawa? I see, a.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	haku	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	I	_	_	_	_	_	_	_	_
+13	see	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_251
+# text = ʻAʻole ʻo ʻĀpala ē? Ē? Mr.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ʻĀpala	_	_	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Ē	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Mr	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_252
+# text = Apple, ʻaʻole? ʻAʻole.
+1	Apple	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	ʻAʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_253
+# text = ʻŌ, kuhi au, ua, he m , he ʻāina hou kēia ʻo Hōnaunau no ka National Park, ʻaʻole kā, ʻO ia paha.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kuhi	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	m	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	hou	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Hōnaunau	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	National	_	_	_	_	_	_	_	_
+20	Park	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻaʻole	_	_	_	_	_	_	_	_
+23	kā	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻO	_	_	_	_	_	_	_	_
+26	ia	_	_	_	_	_	_	_	_
+27	paha	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_254
+# text = Ē? A.
+1	Ē	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	A	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_255
+# text = He National Park ʻo Hōnaunau i kou, i kēlā manawa nō? A.
+1	He	_	_	_	_	_	_	_	_
+2	National	_	_	_	_	_	_	_	_
+3	Park	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Hōnaunau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_256
+# text = !! ʻAʻole? ʻA , ʻaʻole.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻole	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻA	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻaʻole	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_257
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_258
+# text = Akā, ua hele nō ʻolua e hoʻopaʻa i nā, nā moʻolelo, Mr.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻolua	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻopaʻa	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	moʻolelo	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Mr	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_259
+# text = ___.
+1	_	_	PUNCT	_	_	_	_	_	_
+2	_	_	PUNCT	_	_	_	_	_	_
+3	_	_	PUNCT	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_260
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_261
+# text = A poina wau i ka inoa o ka haku.
+1	A	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	haku	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_262
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_263
+# text = A, a, aia a pau.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_264
+# text = A no ka mea, he, he nui nō nā pana o kēlā ʻāina ʻo Hōnaunau, nui ka moʻolelo.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	pana	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēlā	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Hōnaunau	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	nui	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	moʻolelo	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_265
+# text = Well, a.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_266
+# text = A nui nā heiau.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	heiau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_267
+# text = ʻO, ʻo , ʻo ka heiau, a, wale nō ka hana a Kekahuna.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	heiau	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	Kekahuna	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_268
+# text = ʻO ia, ʻē.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_269
+# text = ʻO ia ka mea, ka mea nui.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	nui	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_270
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_271
+# text = He, ua hoʻopaʻa nō, a, kaha kiʻi ʻo ia? Kaha palapalaʻāina? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻopaʻa	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kaha	_	_	_	_	_	_	_	_
+10	kiʻi	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Kaha	_	_	_	_	_	_	_	_
+15	palapalaʻāina	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_272
+# text = A kaha nō ʻo ia i nā, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	kaha	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_273
+# text = n , ke kahua.
+1	n	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kahua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_274
+# text = A, ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_275
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_276
+# text = A, a pau ia hana no ka, no ke, a, ka National Park, a laila, hele māua i kahi o ka ʻelemakule ʻo {amū,} ʻo, a, Nāluāhine ma Kahaluʻu Kahaluʻu, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	National	_	_	_	_	_	_	_	_
+17	Park	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	laila	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hele	_	_	_	_	_	_	_	_
+23	māua	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kahi	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	ʻelemakule	_	_	_	_	_	_	_	_
+29	ʻo	_	_	_	_	_	_	_	_
+30	{	_	PUNCT	_	_	_	_	_	_
+31	amū	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	}	_	PUNCT	_	_	_	_	_	_
+34	ʻo	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	Nāluāhine	_	_	_	_	_	_	_	_
+39	ma	_	_	_	_	_	_	_	_
+40	Kahaluʻu	_	_	_	_	_	_	_	_
+41	Kahaluʻu	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ʻē	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_277
+# text = A he, a, pili ʻohana, No.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pili	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	No	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_278
+# text = ka wahine o Nāluāhine iā Kekahuna.
+1	ka	_	_	_	_	_	_	_	_
+2	wahine	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	Nāluāhine	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	Kekahuna	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_279
+# text = ʻO Nāluāhine he kanaka kaulana nō o Kona, o nā Kona.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Nāluāhine	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	kanaka	_	_	_	_	_	_	_	_
+5	kaulana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Kona	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	Kona	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_280
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_281
+# text = ʻO Hawaiʻi nei nō a .
+1	ʻO	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_282
+# text = {Amū,} a nui ka ʻike o, o Nāluāhine i nā heiau.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻike	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Nāluāhine	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	heiau	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_283
+# text = Pololei, ʻē.
+1	Pololei	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_284
+# text = A, a hele wau me Kekahuna hoʻokahi wāwae, a lilo wau i kona wāwae hema.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	Kekahuna	_	_	_	_	_	_	_	_
+8	hoʻokahi	_	_	_	_	_	_	_	_
+9	wāwae	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	lilo	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kona	_	_	_	_	_	_	_	_
+16	wāwae	_	_	_	_	_	_	_	_
+17	hema	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_285
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_286
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_287
+# text = ʻO ʻoe nō ke kōkoʻo.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kōkoʻo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_288
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_289
+# text = A nui nā heia , nui nā heiau ma Kona i ka , i, e, kaha ʻia, u , e ia.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	heia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	heiau	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Kona	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kaha	_	_	_	_	_	_	_	_
+19	ʻia	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	u	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_290
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_291
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_292
+# text = He heiau nō ko luna o Hualālai? Ka heiau o Hale a u .
+1	He	_	_	_	_	_	_	_	_
+2	heiau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	luna	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Hualālai	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Ka	_	_	_	_	_	_	_	_
+10	heiau	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Hale	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	u	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_293
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_294
+# text = ʻAʻole? ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAʻole	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_295
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_296
+# text = A he , a hele, hele i, hele māua i Kohala, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	māua	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Kohala	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	{	_	PUNCT	_	_	_	_	_	_
+16	Mū	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_297
+# text = } !! E kala mai ʻoe iaʻu.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	E	_	_	_	_	_	_	_	_
+4	kala	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	iaʻu	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_298
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_299
+# text = } E hoʻolaha ana nō kēia kahua i wahi hoʻolaha n .
+1	}	_	PUNCT	_	_	_	_	_	_
+2	E	_	_	_	_	_	_	_	_
+3	hoʻolaha	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	kahua	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	wahi	_	_	_	_	_	_	_	_
+10	hoʻolaha	_	_	_	_	_	_	_	_
+11	n	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_300
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_301
+# text = ʻAe, i kēia manawa e hoʻolaha ana au i nā helu kelepona o kēia kahua.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	helu	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	kahua	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_302
+# text = ʻO ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻelua	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_303
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_304
+# text = Me ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_305
+# text = ʻAe, a ua hele nō ʻolua i Kohala e hoʻopaʻa ai i nā heiau ma.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻolua	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kohala	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hoʻopaʻa	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	heiau	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_306
+# text = Heiau o {amū,} Moʻokini.
+1	Heiau	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	amū	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	}	_	PUNCT	_	_	_	_	_	_
+7	Moʻokini	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_307
+# text = a, ʻo, ʻae, Moʻokini.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻae	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Moʻokini	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_308
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_309
+# text = Pehea ʻo Kohala Hema ma Kawaihae, he heiau nui ko laila, ʻo Puʻukoholā.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Kohala	_	_	_	_	_	_	_	_
+4	Hema	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Kawaihae	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	heiau	_	_	_	_	_	_	_	_
+10	nui	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	laila	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Puʻukoholā	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_310
+# text = ʻO, ma, ʻo, ʻo, a, Puʻukoholā.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Puʻukoholā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_311
+# text = Maopopo iā ʻoe kēlā heiau? ʻAe.
+1	Maopopo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	heiau	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_312
+# text = ʻEkolu kēlā poʻe heiau, ʻeā? I see, a ua hele māua i Puʻukoholā.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	heiau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻeā	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	I	_	_	_	_	_	_	_	_
+9	see	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ua	_	_	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	māua	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Puʻukoholā	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_313
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_314
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_315
+# text = } ʻElua paha heiau ma Puʻukoholā, ʻaʻole nui ka hana ma Kohala.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻElua	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	heiau	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Puʻukoholā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻole	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Kohala	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_316
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_317
+# text = } {Mū.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	{	_	PUNCT	_	_	_	_	_	_
+3	Mū	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_318
+# text = } ʻO ka heiau ma Kawaihae ʻo Puʻukoholā, ʻo ia ka heiau nui ma nuna o kēlā puʻu, ʻAe, ʻo ia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	heiau	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	Kawaihae	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Puʻukoholā	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	heiau	_	_	_	_	_	_	_	_
+14	nui	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	nuna	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kēlā	_	_	_	_	_	_	_	_
+19	puʻu	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻAe	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_319
+# text = Puʻukoholā.
+1	Puʻukoholā	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_320
+# text = {Mu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_321
+# text = } Me ka heiau ʻo Mailekini.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	heiau	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Mailekini	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_322
+# text = A ka heiau ʻo Haleokapuni, ua maopopo iā ʻoe kēlā heiau, aia i loko o ke kai.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	heiau	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Haleokapuni	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ua	_	_	_	_	_	_	_	_
+8	maopopo	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ʻoe	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	heiau	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	aia	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	loko	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	kai	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_323
+# text = A, a, {amū,} ʻaʻole.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	amū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	}	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻole	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_324
+# text = I kēia manawa, ua pau, pau kēlā heiau.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	heiau	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_325
+# text = E kala mai, he kelepona nō.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	kelepona	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_326
+# text = Aloha mai.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_327
+# text = A hui hou.
+1	A	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_328
+# text = ʻAe, ʻo ia nō kekahi keiki no Niʻihau mai, ua makemake nō ʻo ia e aloha aku i ka ʻohana e hoʻolohe ana nō paha lākou.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	Niʻihau	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ua	_	_	_	_	_	_	_	_
+13	makemake	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	aloha	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻohana	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hoʻolohe	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	paha	_	_	_	_	_	_	_	_
+28	lākou	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_329
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_330
+# text = ʻO ka mokupuni ʻo Hawaiʻi wale nō ʻoukou, ʻolua ʻo Kekahuna i hele ai? A ʻae.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mokupuni	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻolua	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Kekahuna	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	hele	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	ʻae	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_331
+# text = {Amū,} a , a ʻimi i nā mea Hawaiʻi ma Oʻahu nei kekahi.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ʻimi	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Oʻahu	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	kekahi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_332
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_333
+# text = ʻO nā ʻāina hea o Oʻahu nei? Hea? ʻO, ʻo nā wahi hea o Oʻahu nei? ʻO nā, kaʻapuni ʻo Oʻahu nei !! ʻO nā wahi like ʻole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Oʻahu	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Hea	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻO	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	hea	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	Oʻahu	_	_	_	_	_	_	_	_
+19	nei	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	ʻO	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	kaʻapuni	_	_	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Oʻahu	_	_	_	_	_	_	_	_
+27	nei	_	_	_	_	_	_	_	_
+28	!!	_	PUNCT	_	_	_	_	_	_
+29	ʻO	_	_	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	wahi	_	_	_	_	_	_	_	_
+32	like	_	_	_	_	_	_	_	_
+33	ʻole	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_334
+# text = ʻAe, ʻo Oʻahu, ʻo nā wahi like ʻole.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Oʻahu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	like	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_335
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_336
+# text = A kākau ʻo ia i ke, ʻo Kekahuna, kākau ʻo Kekahuna i kekahi puke, a, no nā inoa Hawaiʻi ma, ma, ma Oʻahu nei.
+1	A	_	_	_	_	_	_	_	_
+2	kākau	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Kekahuna	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kākau	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kekahuna	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	puke	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	inoa	_	_	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	Oʻahu	_	_	_	_	_	_	_	_
+30	nei	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_337
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_338
+# text = A he mau, a, puke liʻiliʻi ʻē aʻe no ke, no nā mea Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	puke	_	_	_	_	_	_	_	_
+8	liʻiliʻi	_	_	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	aʻe	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_339
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_340
+# text = } A.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_341
+# text = A pehea kēia mea ʻo ke Kumulipo, ua, pehea ʻo, pehea ʻoe i hoʻopaʻa ai i kēia Kumulipo.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	Kumulipo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	pehea	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	pehea	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	hoʻopaʻa	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	Kumulipo	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_342
+# text = Well.
+1	Well	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_343
+# text = A na kekahi poʻe ʻē aʻe paha i hoʻopaʻa mua ʻia ai? A na kekahi em , o hoaaloha ma Kauaʻi i kō , kōkua nui iā māua ma ke Kumulipo.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	aʻe	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hoʻopaʻa	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	kekahi	_	_	_	_	_	_	_	_
+17	em	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	hoaaloha	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	Kauaʻi	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kō	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kōkua	_	_	_	_	_	_	_	_
+27	nui	_	_	_	_	_	_	_	_
+28	iā	_	_	_	_	_	_	_	_
+29	māua	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	Kumulipo	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_344
+# text = A makemake wau e hoʻokomo i kona inoa, ʻAe, hiki, hiki.
+1	A	_	_	_	_	_	_	_	_
+2	makemake	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻokomo	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kona	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hiki	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_345
+# text = i, i, i loko o kēlā palapala i, i kekahi manawa ma kēia mua aku.
+1	i	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	loko	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	palapala	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kekahi	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	mua	_	_	_	_	_	_	_	_
+18	aku	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_346
+# text = E hiki iā ʻoe ke haʻi mai i kona inoa i kēia manawa, ʻo wai kona inoa? ʻEā? ʻO wai kona inoa? ʻAʻole e makemake ʻo ia e !! ʻŌ, aia nō ʻo ia ke ola nei? Aia nō, ʻē, ke ola nei nō, ʻae.
+1	E	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	haʻi	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kona	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	wai	_	_	_	_	_	_	_	_
+17	kona	_	_	_	_	_	_	_	_
+18	inoa	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻEā	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	ʻO	_	_	_	_	_	_	_	_
+23	wai	_	_	_	_	_	_	_	_
+24	kona	_	_	_	_	_	_	_	_
+25	inoa	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	ʻAʻole	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	makemake	_	_	_	_	_	_	_	_
+30	ʻo	_	_	_	_	_	_	_	_
+31	ia	_	_	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	!!	_	PUNCT	_	_	_	_	_	_
+34	ʻŌ	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	aia	_	_	_	_	_	_	_	_
+37	nō	_	_	_	_	_	_	_	_
+38	ʻo	_	_	_	_	_	_	_	_
+39	ia	_	_	_	_	_	_	_	_
+40	ke	_	_	_	_	_	_	_	_
+41	ola	_	_	_	_	_	_	_	_
+42	nei	_	_	_	_	_	_	_	_
+43	?	_	PUNCT	_	_	_	_	_	_
+44	Aia	_	_	_	_	_	_	_	_
+45	nō	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	ʻē	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	ke	_	_	_	_	_	_	_	_
+50	ola	_	_	_	_	_	_	_	_
+51	nei	_	_	_	_	_	_	_	_
+52	nō	_	_	_	_	_	_	_	_
+53	,	_	PUNCT	_	_	_	_	_	_
+54	ʻae	_	_	_	_	_	_	_	_
+55	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_347
+# text = ʻŌ, maikaʻi.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_348
+# text = Kā , ʻae.
+1	Kā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_349
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_350
+# text = He aha ka manaʻo nui o kēia Kumulipo? Well, ua kapa ʻia, a he pule hoʻolaʻa, he puʻu .
+1	He	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	Kumulipo	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Well	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ua	_	_	_	_	_	_	_	_
+13	kapa	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	pule	_	_	_	_	_	_	_	_
+19	hoʻolaʻa	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	he	_	_	_	_	_	_	_	_
+22	puʻu	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_351
+# text = he pule hoʻolaʻa aliʻi.
+1	he	_	_	_	_	_	_	_	_
+2	pule	_	_	_	_	_	_	_	_
+3	hoʻolaʻa	_	_	_	_	_	_	_	_
+4	aliʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_352
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_353
+# text = {Amū,} he ʻano moʻokūʻauhau kahiko loa, {amū,} ua, and, a, ma ka, ma ka, ma, e, ke, ma ka haku ʻana, hoʻokomo nā inoa o nā mea i, i ha , hana ʻia e, e like me ka iʻa, a me, ʻAe.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	moʻokūʻauhau	_	_	_	_	_	_	_	_
+8	kahiko	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	amū	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	ma	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	haku	_	_	_	_	_	_	_	_
+36	ʻana	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	hoʻokomo	_	_	_	_	_	_	_	_
+39	nā	_	_	_	_	_	_	_	_
+40	inoa	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	nā	_	_	_	_	_	_	_	_
+43	mea	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	i	_	_	_	_	_	_	_	_
+47	ha	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	hana	_	_	_	_	_	_	_	_
+50	ʻia	_	_	_	_	_	_	_	_
+51	e	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	e	_	_	_	_	_	_	_	_
+54	like	_	_	_	_	_	_	_	_
+55	me	_	_	_	_	_	_	_	_
+56	ka	_	_	_	_	_	_	_	_
+57	iʻa	_	_	_	_	_	_	_	_
+58	,	_	PUNCT	_	_	_	_	_	_
+59	a	_	_	_	_	_	_	_	_
+60	me	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	ʻAe	_	_	_	_	_	_	_	_
+63	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_354
+# text = nā mea, a, He m , ʻē, ʻē.
+1	nā	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	He	_	_	_	_	_	_	_	_
+7	m	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻē	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_355
+# text = kolo.
+1	kolo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_356
+# text = Nā mea o ke, nā mea ola o ke kai.
+1	Nā	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	ola	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kai	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_357
+# text = Nā mea ola o ke kai.
+1	Nā	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	ola	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_358
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_359
+# text = He mea kūliʻu nō ke Kumulipo, ē? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	kūliʻu	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	Kumulipo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ē	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_360
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_361
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_362
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_363
+# text = ʻAe, he, he hana koʻikoʻi nō kēia hana o, {Mū.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	koʻikoʻi	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	{	_	PUNCT	_	_	_	_	_	_
+14	Mū	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_364
+# text = } a, o ka, o ka unuhi ʻana, ka loaʻa ʻana o ka manaʻo pololei o ke Kumulipo.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	unuhi	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	loaʻa	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	manaʻo	_	_	_	_	_	_	_	_
+18	pololei	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	Kumulipo	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_365
+# text = ʻAe, {mū.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_366
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_367
+# text = E, e hoʻomau kāua i, i ka, i ke kumuhana o ke k , Kumulipo, no ka mea, ʻo ia nō kāu hana maikaʻi i kēia mau lā, ʻo ka hoʻoponopono ʻana paha, ʻo ka unuhi ʻana paha o kēia mea koʻikoʻi o ke Kumulipo.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻomau	_	_	_	_	_	_	_	_
+5	kāua	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kumuhana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	k	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Kumulipo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	ia	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	kāu	_	_	_	_	_	_	_	_
+28	hana	_	_	_	_	_	_	_	_
+29	maikaʻi	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	kēia	_	_	_	_	_	_	_	_
+32	mau	_	_	_	_	_	_	_	_
+33	lā	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻo	_	_	_	_	_	_	_	_
+36	ka	_	_	_	_	_	_	_	_
+37	hoʻoponopono	_	_	_	_	_	_	_	_
+38	ʻana	_	_	_	_	_	_	_	_
+39	paha	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻo	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	unuhi	_	_	_	_	_	_	_	_
+44	ʻana	_	_	_	_	_	_	_	_
+45	paha	_	_	_	_	_	_	_	_
+46	o	_	_	_	_	_	_	_	_
+47	kēia	_	_	_	_	_	_	_	_
+48	mea	_	_	_	_	_	_	_	_
+49	koʻikoʻi	_	_	_	_	_	_	_	_
+50	o	_	_	_	_	_	_	_	_
+51	ke	_	_	_	_	_	_	_	_
+52	Kumulipo	_	_	_	_	_	_	_	_
+53	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_368
+# text = A he nīnau nō kaʻu pili ana i ke Kumulipo.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nīnau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kaʻu	_	_	_	_	_	_	_	_
+6	pili	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	Kumulipo	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_369
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_370
+# text = } Na wai i haku i kēia Kumulipo? A na Martha Beckwith.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Na	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	haku	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	Kumulipo	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	A	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	Martha	_	_	_	_	_	_	_	_
+13	Beckwith	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_371
+# text = N , nāna i haku? ʻO, a, nāna i kākau i ka puke Kumulipo, I think, Kumulipo.
+1	N	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nāna	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	haku	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻO	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nāna	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kākau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	puke	_	_	_	_	_	_	_	_
+17	Kumulipo	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	I	_	_	_	_	_	_	_	_
+20	think	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Kumulipo	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_372
+# text = ʻAe, nāna i kākau i loko o ka puke.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nāna	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kākau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	loko	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	puke	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_373
+# text = E, e, e, ʻo ka mea nāna i haku ma mua, he mau, a, he mau, a, e, {mū.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	nāna	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	haku	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	mua	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	he	_	_	_	_	_	_	_	_
+22	mau	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	{	_	PUNCT	_	_	_	_	_	_
+29	mū	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_374
+# text = } ʻAʻohe i paʻa ʻia paha? Nā poʻe, nā poʻe kūpuna.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻohe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	paʻa	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Nā	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	kūpuna	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_375
+# text = ʻAe, he mau, a, auē nō hoʻi.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	auē	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_376
+# text = He akua? Poʻe, mau poʻe akua.
+1	He	_	_	_	_	_	_	_	_
+2	akua	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	Poʻe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	akua	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_377
+# text = ʻAʻole, akua.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	akua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_378
+# text = He haku mele.
+1	He	_	_	_	_	_	_	_	_
+2	haku	_	_	_	_	_	_	_	_
+3	mele	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_379
+# text = Nā poʻe haku.
+1	Nā	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	haku	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_380
+# text = ʻAno, a, haku mele, a haku pule, ua kapa ʻia he, he, he pule, {amū,} he m , he pule, a, hoʻo , hoʻolaʻa aliʻi.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	haku	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	haku	_	_	_	_	_	_	_	_
+10	pule	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ua	_	_	_	_	_	_	_	_
+13	kapa	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	he	_	_	_	_	_	_	_	_
+20	pule	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	{	_	PUNCT	_	_	_	_	_	_
+23	amū	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	}	_	PUNCT	_	_	_	_	_	_
+26	he	_	_	_	_	_	_	_	_
+27	m	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	he	_	_	_	_	_	_	_	_
+30	pule	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	hoʻo	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	hoʻolaʻa	_	_	_	_	_	_	_	_
+37	aliʻi	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_381
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_382
+# text = Pili ana paha kēia oli i nā moʻokūʻauhau o nā aliʻi.
+1	Pili	_	_	_	_	_	_	_	_
+2	ana	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	oli	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	moʻokūʻauhau	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	aliʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_383
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_384
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_385
+# text = Inā ua n , ua loaʻa kekahi kī no kēlā mele, a ʻo ia ka manaʻo nui, ʻo ia ka mea i manaʻo nui ai e, e, e ʻimi, a, pili ka m , a, o, ʻaʻole, o, i, unuhi ʻia, ka manaʻo o nā inoa moʻokūʻauha , nā inoa moʻokūʻauhau, ʻĒ, ʻē.
+1	Inā	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	n	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	loaʻa	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	kī	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	manaʻo	_	_	_	_	_	_	_	_
+18	nui	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	ia	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	manaʻo	_	_	_	_	_	_	_	_
+26	nui	_	_	_	_	_	_	_	_
+27	ai	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	ʻimi	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	pili	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	m	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	a	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	o	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	ʻaʻole	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	o	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	unuhi	_	_	_	_	_	_	_	_
+52	ʻia	_	_	_	_	_	_	_	_
+53	,	_	PUNCT	_	_	_	_	_	_
+54	ka	_	_	_	_	_	_	_	_
+55	manaʻo	_	_	_	_	_	_	_	_
+56	o	_	_	_	_	_	_	_	_
+57	nā	_	_	_	_	_	_	_	_
+58	inoa	_	_	_	_	_	_	_	_
+59	moʻokūʻauha	_	_	_	_	_	_	_	_
+60	,	_	PUNCT	_	_	_	_	_	_
+61	nā	_	_	_	_	_	_	_	_
+62	inoa	_	_	_	_	_	_	_	_
+63	moʻokūʻauhau	_	_	_	_	_	_	_	_
+64	,	_	PUNCT	_	_	_	_	_	_
+65	ʻĒ	_	_	_	_	_	_	_	_
+66	,	_	PUNCT	_	_	_	_	_	_
+67	ʻē	_	_	_	_	_	_	_	_
+68	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_386
+# text = nui loa.
+1	nui	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_387
+# text = Nui loa, ʻē.
+1	Nui	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_388
+# text = {Amū,} a ua komo kēlā mau inoa i loko o ke kī, a ʻo ia ka mea aʻu i, e ʻimi nei a !! ʻO ke kī hoʻi e wehe ai, ʻAe.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	komo	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	loko	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	kī	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	aʻu	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	ʻimi	_	_	_	_	_	_	_	_
+27	nei	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	!!	_	PUNCT	_	_	_	_	_	_
+30	ʻO	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	kī	_	_	_	_	_	_	_	_
+33	hoʻi	_	_	_	_	_	_	_	_
+34	e	_	_	_	_	_	_	_	_
+35	wehe	_	_	_	_	_	_	_	_
+36	ai	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ʻAe	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_389
+# text = i ka manaʻo pono.
+1	i	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	pono	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_390
+# text = ʻĒ, ʻae.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_391
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_392
+# text = ʻAe, he hana nui nō ke .
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_393
+# text = ʻO, a, ʻo ke ʻano, e, ʻo ka hana ʻana, e kiʻi ʻia kekahi pepa, a, keʻokeʻo laulā, a, māhele i, i ka, i nā kolamu, a, kala mai ka ʻōlelo haole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	kiʻi	_	_	_	_	_	_	_	_
+18	ʻia	_	_	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	pepa	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	keʻokeʻo	_	_	_	_	_	_	_	_
+25	laulā	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	māhele	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	kolamu	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	kala	_	_	_	_	_	_	_	_
+42	mai	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	ʻōlelo	_	_	_	_	_	_	_	_
+45	haole	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_394
+# text = E, ʻelua ʻīniha me ka hapa, ʻĒ.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻīniha	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hapa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_395
+# text = ʻē.
+1	ʻē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_396
+# text = a, hoʻokomo nā manaʻo, e, ma lalo.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻokomo	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	lalo	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_397
+# text = O ka huaʻōlelo hoʻokahi.
+1	O	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	huaʻōlelo	_	_	_	_	_	_	_	_
+4	hoʻokahi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_398
+# text = A, a, am , ʻekolu ʻīniha ke kōwā ma waena.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	am	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	ʻīniha	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kōwā	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	waena	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_399
+# text = {A, a.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_400
+# text = } A, ei , no a, ke , no a, ka hoʻokomo ʻana o kekahi mau mea manaʻo wehewehe, a, ka hoʻokomo ʻana o kekahi m , mea ʻano like, a, ʻo, ʻo k , ʻo ka m , ʻo ka mua, e, ʻo ia ka, ʻo ia ka māhele mua o ke Kumulipo.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ei	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hoʻokomo	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kekahi	_	_	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	manaʻo	_	_	_	_	_	_	_	_
+22	wehewehe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	hoʻokomo	_	_	_	_	_	_	_	_
+28	ʻana	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	kekahi	_	_	_	_	_	_	_	_
+31	m	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	mea	_	_	_	_	_	_	_	_
+34	ʻano	_	_	_	_	_	_	_	_
+35	like	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	a	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	ʻo	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻo	_	_	_	_	_	_	_	_
+42	k	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	ʻo	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	m	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	ʻo	_	_	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	mua	_	_	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	e	_	_	_	_	_	_	_	_
+53	,	_	PUNCT	_	_	_	_	_	_
+54	ʻo	_	_	_	_	_	_	_	_
+55	ia	_	_	_	_	_	_	_	_
+56	ka	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	ʻo	_	_	_	_	_	_	_	_
+59	ia	_	_	_	_	_	_	_	_
+60	ka	_	_	_	_	_	_	_	_
+61	māhele	_	_	_	_	_	_	_	_
+62	mua	_	_	_	_	_	_	_	_
+63	o	_	_	_	_	_	_	_	_
+64	ke	_	_	_	_	_	_	_	_
+65	Kumulipo	_	_	_	_	_	_	_	_
+66	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_401
+# text = A ʻo ka lua, a, kekahi mea pili, pili nui, ʻo ia, ʻo ia ka, ka hope o ka, o ka m , māhele ʻum , a, ʻumikūmāhā.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	lua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	pili	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	pili	_	_	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	hope	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	m	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	māhele	_	_	_	_	_	_	_	_
+32	ʻum	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ʻumikūmāhā	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_402
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_403
+# text = {Amū,} I see, ʻo, a, //lū ka ʻanoʻano makaliʻi\\, a, ʻo ka ʻano, ʻo ke ʻano o ka makaliʻi, a, he ho , hoʻomaka ʻana o ka makahiki.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	I	_	_	_	_	_	_	_	_
+6	see	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	/	_	PUNCT	_	_	_	_	_	_
+13	/	_	PUNCT	_	_	_	_	_	_
+14	lū	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻanoʻano	_	_	_	_	_	_	_	_
+17	makaliʻi	_	_	_	_	_	_	_	_
+18	\	_	PUNCT	_	_	_	_	_	_
+19	\	_	PUNCT	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	ʻano	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	ke	_	_	_	_	_	_	_	_
+29	ʻano	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	makaliʻi	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	he	_	_	_	_	_	_	_	_
+37	ho	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	hoʻomaka	_	_	_	_	_	_	_	_
+40	ʻana	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	makahiki	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_404
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_405
+# text = A ʻo kēia, ʻo kēia māhe , ʻo kēia lālani mua o ke Kumulipo, a, //ʻo ke au i kāhuli wela ka honua\\, e ma ka ʻōlelo haole, the ahmm, the earth is eh, something about the earth is hot.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	māhe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	lālani	_	_	_	_	_	_	_	_
+12	mua	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	Kumulipo	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	/	_	PUNCT	_	_	_	_	_	_
+20	/	_	PUNCT	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	au	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kāhuli	_	_	_	_	_	_	_	_
+26	wela	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	honua	_	_	_	_	_	_	_	_
+29	\	_	PUNCT	_	_	_	_	_	_
+30	\	_	PUNCT	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	ma	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	ʻōlelo	_	_	_	_	_	_	_	_
+36	haole	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	the	_	_	_	_	_	_	_	_
+39	ahmm	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	the	_	_	_	_	_	_	_	_
+42	earth	_	_	_	_	_	_	_	_
+43	is	_	_	_	_	_	_	_	_
+44	eh	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	something	_	_	_	_	_	_	_	_
+47	about	_	_	_	_	_	_	_	_
+48	the	_	_	_	_	_	_	_	_
+49	earth	_	_	_	_	_	_	_	_
+50	is	_	_	_	_	_	_	_	_
+51	hot	_	_	_	_	_	_	_	_
+52	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_406
+# text = E , ʻē, eia nō ka unuhi ma ʻaneʻi nei.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	eia	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	unuhi	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	ʻaneʻi	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_407
+# text = At the time when the earth became hot.
+1	At	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	time	_	_	_	_	_	_	_	_
+4	when	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	earth	_	_	_	_	_	_	_	_
+7	became	_	_	_	_	_	_	_	_
+8	hot	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_408
+# text = A, at the time when the earth became hot.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	time	_	_	_	_	_	_	_	_
+6	when	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	earth	_	_	_	_	_	_	_	_
+9	became	_	_	_	_	_	_	_	_
+10	hot	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_409
+# text = Akā naʻe, a, ua ʻōlelo ʻia i loko o ka māhele ʻumikūmākolu o ke Kumulipo, e, //ʻO Nuʻumea ka ʻāina, ʻo Nuʻupapakini ka honua\\.
+1	Akā	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	māhele	_	_	_	_	_	_	_	_
+14	ʻumikūmākolu	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	Kumulipo	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	/	_	PUNCT	_	_	_	_	_	_
+22	/	_	PUNCT	_	_	_	_	_	_
+23	ʻO	_	_	_	_	_	_	_	_
+24	Nuʻumea	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	ʻāina	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻo	_	_	_	_	_	_	_	_
+29	Nuʻupapakini	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	honua	_	_	_	_	_	_	_	_
+32	\	_	PUNCT	_	_	_	_	_	_
+33	\	_	PUNCT	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_410
+# text = ʻAʻole i nānā ʻia ka, ka wehewehe o ke Kumulipo, ʻo Nuʻupapakini.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	nānā	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	wehewehe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	Kumulipo	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Nuʻupapakini	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_411
+# text = He aha lā ka manaʻo? ʻAʻole like me ka ʻōlelo earth ma ka ʻōlelo haole.
+1	He	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAʻole	_	_	_	_	_	_	_	_
+8	like	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	earth	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	haole	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_412
+# text = A, a, ma, ʻo kuʻu manaʻo, the mmm, the ah, a nuʻu, ʻo ia kahi ia, e, kahi o nā.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	manaʻo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	mmm	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	ah	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	nuʻu	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	ia	_	_	_	_	_	_	_	_
+22	kahi	_	_	_	_	_	_	_	_
+23	ia	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	kahi	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	nā	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_413
+# text = Aia nō i ke, i ka lewa? E, a, a, nā mea, a, kiʻekiʻe e noho ana, ʻĒ.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	lewa	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	E	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kiʻekiʻe	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	noho	_	_	_	_	_	_	_	_
+24	ana	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻĒ	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_414
+# text = a ʻo koʻu hana, a {mū,} ka manawa, ʻo ia ka nuʻu, a papa, ʻo ia, ʻo ia kekahi ʻano like me ke, ka, me ke clan paha.
+1	a	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	{	_	PUNCT	_	_	_	_	_	_
+8	mū	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	}	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	nuʻu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	papa	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻo	_	_	_	_	_	_	_	_
+23	ia	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	ia	_	_	_	_	_	_	_	_
+27	kekahi	_	_	_	_	_	_	_	_
+28	ʻano	_	_	_	_	_	_	_	_
+29	like	_	_	_	_	_	_	_	_
+30	me	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	me	_	_	_	_	_	_	_	_
+36	ke	_	_	_	_	_	_	_	_
+37	clan	_	_	_	_	_	_	_	_
+38	paha	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_415
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_416
+# text = And.
+1	And	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_417
+# text = ʻO ka ʻohana.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_418
+# text = And, and kini he fourty thousand.
+1	And	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	and	_	_	_	_	_	_	_	_
+4	kini	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	fourty	_	_	_	_	_	_	_	_
+7	thousand	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_419
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_420
+# text = And then, he mea hoʻomanaʻo no ka moʻokūʻauhau.
+1	And	_	_	_	_	_	_	_	_
+2	then	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	hoʻomanaʻo	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	moʻokūʻauhau	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_421
+# text = ʻĒ, ʻē, pololei.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_422
+# text = ʻAʻole manaʻo no ka honua maoli nei.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	manaʻo	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	honua	_	_	_	_	_	_	_	_
+6	maoli	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_423
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_424
+# text = A ʻo ka wela, a, pili i ka, i ke kapu wela.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	wela	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	pili	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	kapu	_	_	_	_	_	_	_	_
+15	wela	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_425
+# text = Kapu, ʻaʻohe pili i ka wela o ka lā.
+1	Kapu	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻohe	_	_	_	_	_	_	_	_
+4	pili	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	wela	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_426
+# text = Kapu wela.
+1	Kapu	_	_	_	_	_	_	_	_
+2	wela	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_427
+# text = A kekahi, ua, ʻo, ʻo ia ka wela o ka lā.
+1	A	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	wela	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	lā	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_428
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_429
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_430
+# text = Pehea kou manaʻo? A ua m .
+1	Pehea	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	m	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_431
+# text = Pili nō i ke kapu, kapu wela? ʻAe, ʻae.
+1	Pili	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kapu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kapu	_	_	_	_	_	_	_	_
+8	wela	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻae	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_432
+# text = A ʻo, a, a, pi , a hoʻokomo ka lālani mua ʻo {amū,} ka ma , e, ka māhele ʻe , ʻeiwa.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	pi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	hoʻokomo	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	lālani	_	_	_	_	_	_	_	_
+14	mua	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	amū	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	}	_	PUNCT	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	māhele	_	_	_	_	_	_	_	_
+27	ʻe	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻeiwa	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_433
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_434
+# text = A, ʻo, //ʻo Laʻilaʻi, ʻo ʻŌlaʻikūhonua\\ a, a hoʻopili pū, hoʻopili pū me, e, e ka inoa mua o, o, a, ka māhele ʻumikūmāhā.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	/	_	PUNCT	_	_	_	_	_	_
+6	/	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Laʻilaʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ʻŌlaʻikūhonua	_	_	_	_	_	_	_	_
+12	\	_	PUNCT	_	_	_	_	_	_
+13	\	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	hoʻopili	_	_	_	_	_	_	_	_
+18	pū	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	hoʻopili	_	_	_	_	_	_	_	_
+21	pū	_	_	_	_	_	_	_	_
+22	me	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	inoa	_	_	_	_	_	_	_	_
+29	mua	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ka	_	_	_	_	_	_	_	_
+37	māhele	_	_	_	_	_	_	_	_
+38	ʻumikūmāhā	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_435
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_436
+# text = E, ʻo Līʻaikūhonua.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Līʻaikūhonua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_437
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_438
+# text = No laila, a ʻo ia ke ola.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	ola	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_439
+# text = Ke ola.
+1	Ke	_	_	_	_	_	_	_	_
+2	ola	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_440
+# text = {Aha.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Aha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_441
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_442
+# text = A, hoʻopili i ka manaʻo o, o, a, ka māhele ʻumikūmākahi, ʻo ia wahi , ʻo ia wahine Noholani, a Piʻolani nō.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻopili	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	manaʻo	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	māhele	_	_	_	_	_	_	_	_
+15	ʻumikūmākahi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	wahi	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	ia	_	_	_	_	_	_	_	_
+23	wahine	_	_	_	_	_	_	_	_
+24	Noholani	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	Piʻolani	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_443
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_444
+# text = No laila, hui ʻo Laʻilaʻi me, me, kēlā, manaʻo.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Laʻilaʻi	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	manaʻo	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_445
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_446
+# text = He hohonu nō ka ʻike o kēia oli, ʻeā.
+1	He	_	_	_	_	_	_	_	_
+2	hohonu	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	oli	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻeā	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_447
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_448
+# text = Kēia, he oli nō kēia, no ka mea, ua oli mai nō kēia mau mea a ka poʻe kūpuna.
+1	Kēia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	oli	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ua	_	_	_	_	_	_	_	_
+13	oli	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	kūpuna	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_449
+# text = ʻAe, ʻo ia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_450
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_451
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_452
+# text = ʻAe, i ka nui o kākou, nā poʻe Hawaiʻi i kēia manawa, ʻaʻohe o kākou hoʻomaopopo pono i nā mea kahiko o loko nō o kēia, {amū,} oli Kumulipo ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻaʻohe	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kākou	_	_	_	_	_	_	_	_
+19	hoʻomaopopo	_	_	_	_	_	_	_	_
+20	pono	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	kahiko	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	loko	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	{	_	PUNCT	_	_	_	_	_	_
+32	amū	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	}	_	PUNCT	_	_	_	_	_	_
+35	oli	_	_	_	_	_	_	_	_
+36	Kumulipo	_	_	_	_	_	_	_	_
+37	ʻAe	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_453
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_454
+# text = Ua hele nō kākou a maopopo ʻole.
+1	Ua	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	maopopo	_	_	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_455
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_456
+# text = I nā m , loina, i nā ʻike a nā kūpuna.
+1	I	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	m	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	loina	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	ʻike	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	kūpuna	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_457
+# text = A ʻo ia paha ke kumu o ko mākou hemahema, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	hemahema	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	{	_	PUNCT	_	_	_	_	_	_
+13	Mū	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_458
+# text = } i ka hoʻomaopopo ʻana i nā mea kahiko.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hoʻomaopopo	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	kahiko	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_459
+# text = Akā, he mea ia e hiki ʻole ke ʻalo aʻe, no ka mea, ʻaʻohe mea nāna e aʻo mai iā mākou i kēia manawa.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hiki	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	ʻalo	_	_	_	_	_	_	_	_
+11	aʻe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻohe	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	nāna	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	aʻo	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	iā	_	_	_	_	_	_	_	_
+24	mākou	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	manawa	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_460
+# text = !! {Mū.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	{	_	PUNCT	_	_	_	_	_	_
+3	Mū	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_461
+# text = } No laila, nui ko mākou mahalo iā ʻoe i kou hoʻomanawanui i kēia hana ʻo ka unuhi ʻana, ʻo ka hoʻopaʻa ana i nā manaʻo hohonu o kēia Kumulipo.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	mahalo	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ʻoe	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	hoʻomanawanui	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	hana	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	unuhi	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻo	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	hoʻopaʻa	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	nā	_	_	_	_	_	_	_	_
+28	manaʻo	_	_	_	_	_	_	_	_
+29	hohonu	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	kēia	_	_	_	_	_	_	_	_
+32	Kumulipo	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_462
+# text = ʻAe, {mū.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_463
+# text = } Hohonu.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Hohonu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_464
+# text = Kekahi poʻe, e, kākaʻikahi i koe i ʻike i ka ʻōlelo Hawaiʻi.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kākaʻikahi	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	koe	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ʻike	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_465
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_466
+# text = ʻAe, kahi !! A, akā, ʻo kou, ʻo kou wā ʻōpio, he mau, he poʻe nō e ola ana e hiki nō ke maopopo, ʻeā? ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kahi	_	_	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	akā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	kou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	kou	_	_	_	_	_	_	_	_
+14	wā	_	_	_	_	_	_	_	_
+15	ʻōpio	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	mau	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	ola	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	hiki	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	maopopo	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ʻeā	_	_	_	_	_	_	_	_
+33	?	_	PUNCT	_	_	_	_	_	_
+34	ʻAe	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_467
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_468
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_469
+# text = A ua ʻoli maoli nō kēia oli? ʻAʻole.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	ʻoli	_	_	_	_	_	_	_	_
+4	maoli	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	oli	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAʻole	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_470
+# text = ʻAʻohe oli.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_471
+# text = ʻAʻole oli.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_472
+# text = He haʻi wale nō.
+1	He	_	_	_	_	_	_	_	_
+2	haʻi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_473
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_474
+# text = Haʻi wa , ʻē.
+1	Haʻi	_	_	_	_	_	_	_	_
+2	wa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_475
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_476
+# text = } A paʻanaʻau nō i nā lālani a pau, ʻaʻahe kākau ʻia, ʻeā? ʻAʻole.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	paʻanaʻau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	lālani	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻahe	_	_	_	_	_	_	_	_
+12	kākau	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻeā	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAʻole	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_477
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_478
+# text = ʻEhia wā ko kēia Kumulipo? ʻEhia wā? A he ʻumikūmāono, ʻumikumamāono wā.
+1	ʻEhia	_	_	_	_	_	_	_	_
+2	wā	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	Kumulipo	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻEhia	_	_	_	_	_	_	_	_
+8	wā	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	A	_	_	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	ʻumikūmāono	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻumikumamāono	_	_	_	_	_	_	_	_
+15	wā	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_479
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_480
+# text = Sixteen.
+1	Sixteen	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_481
+# text = A he nui loa nō, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_482
+# text = nā lālani o loko o ka wā hoʻokahi, ʻeā? ʻAe.
+1	nā	_	_	_	_	_	_	_	_
+2	lālani	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	wā	_	_	_	_	_	_	_	_
+8	hoʻokahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻeā	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_483
+# text = I loko o ka, o, e, ka pule hoʻo , hoʻoka , a holoʻokoʻa.
+1	I	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	pule	_	_	_	_	_	_	_	_
+12	hoʻo	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hoʻoka	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	holoʻokoʻa	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_484
+# text = A ʻelua kaukani, a, ʻelua haneli paha, Auē.
+1	A	_	_	_	_	_	_	_	_
+2	ʻelua	_	_	_	_	_	_	_	_
+3	kaukani	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻelua	_	_	_	_	_	_	_	_
+8	haneli	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Auē	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_485
+# text = Ha nui.
+1	Ha	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_486
+# text = a, a, ʻan , ʻano !! e like me kēlā.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻan	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	!!	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	like	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_487
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_488
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_489
+# text = } Aloha nō.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Aloha	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_490
+# text = Aloha nō nā poʻe kūpuna.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	kūpuna	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_491
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_492
+# text = } No lākou, no ko lākou akamai i kēia mea ʻo ka hoʻopaʻa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	akamai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hoʻopaʻa	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_493
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_494
+# text = Me ke , me ka palapala ʻole.
+1	Me	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	palapala	_	_	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_495
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_496
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_497
+# text = Ma ke poʻo wale nō nā me , ma ka naʻau wale nō, nā mea a pau i hoʻopaʻa ʻia ai.
+1	Ma	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	poʻo	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	naʻau	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	pau	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hoʻopaʻa	_	_	_	_	_	_	_	_
+21	ʻia	_	_	_	_	_	_	_	_
+22	ai	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_498
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_499
+# text = } No kākou i kēia manawa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_500
+# text = A ua hiki mai nō kākou i ka hopena o kēia papahana.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hopena	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_501
+# text = A nui koʻu minamina no ka hoʻopau ʻana o kēia hola pōkole, akā, {Mū, mū.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	minamina	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻopau	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	hola	_	_	_	_	_	_	_	_
+12	pōkole	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	akā	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	Mū	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mū	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_502
+# text = } e hoʻopau ana nō mākou i kēia papahana maikaʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	hoʻopau	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	papahana	_	_	_	_	_	_	_	_
+10	maikaʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_503
+# text = !! Mahalo nui iā ʻoe i kou hele ʻana mai.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_504
+# text = !! iā ʻoe, akā naʻe, minamina wau no ka, ko, no, no kaʻu hana, u, ma, na, ka, a, kaʻu, a, a, hoʻomākaukau mua.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akā	_	_	_	_	_	_	_	_
+6	naʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	minamina	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	kaʻu	_	_	_	_	_	_	_	_
+19	hana	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	u	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	na	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	kaʻu	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	hoʻomākaukau	_	_	_	_	_	_	_	_
+38	mua	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_505
+# text = ʻĒ, ʻaʻohe pilikia.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻohe	_	_	_	_	_	_	_	_
+4	pilikia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_506
+# text = Ua nui nō nā mea au i haʻi mai, nui nā mea maikaʻi au i haʻi mai iā mākou.
+1	Ua	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	au	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	haʻi	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nui	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	maikaʻi	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	haʻi	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	iā	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_507
+# text = Well, {mū.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	{	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_508
+# text = } A ma mua nō naʻe o ka hoʻopau ʻana o kēia papahana, makemake au a hoʻomaikaʻi aku i nā poʻe haumāna i hoʻomākaukau mua ʻia ai i ke kamaʻilio ʻana, ʻo ia ʻo Betsy Hughes a me Alan Los Banos.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	naʻe	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hoʻopau	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	papahana	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	makemake	_	_	_	_	_	_	_	_
+16	au	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	hoʻomaikaʻi	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	haumāna	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	hoʻomākaukau	_	_	_	_	_	_	_	_
+26	mua	_	_	_	_	_	_	_	_
+27	ʻia	_	_	_	_	_	_	_	_
+28	ai	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	ke	_	_	_	_	_	_	_	_
+31	kamaʻilio	_	_	_	_	_	_	_	_
+32	ʻana	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻo	_	_	_	_	_	_	_	_
+35	ia	_	_	_	_	_	_	_	_
+36	ʻo	_	_	_	_	_	_	_	_
+37	Betsy	_	_	_	_	_	_	_	_
+38	Hughes	_	_	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	me	_	_	_	_	_	_	_	_
+41	Alan	_	_	_	_	_	_	_	_
+42	Los	_	_	_	_	_	_	_	_
+43	Banos	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_509
+# text = A me nā, a, poʻe haumāna i mele ai i ka mele no ʻĀinahau, ʻo ia ʻo Eldon Akamine me Haunani Bernardino.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	haumāna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	mele	_	_	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ʻĀinahau	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Eldon	_	_	_	_	_	_	_	_
+22	Akamine	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	Haunani	_	_	_	_	_	_	_	_
+25	Bernardino	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_510
+# text = A e hoʻolauna hou mai ʻoukou i kēia Poʻalua aʻe.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	hoʻolauna	_	_	_	_	_	_	_	_
+4	hou	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	Poʻalua	_	_	_	_	_	_	_	_
+10	aʻe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_511
+# text = ʻO ko mākou hoa kipa o ia Poʻalua, ʻo Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	hoa	_	_	_	_	_	_	_	_
+5	kipa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	Poʻalua	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Mrs	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_512
+# text = a, Alice Nāmakelua.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Alice	_	_	_	_	_	_	_	_
+4	Nāmakelua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.009_Theodore_Kelsey_19721003_513
+# text = No laila, e nā makamaka, aloha ahiahi a kākou a pau, a hui hou aku nō.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	makamaka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aloha	_	_	_	_	_	_	_	_
+9	ahiahi	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kākou	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	pau	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	hui	_	_	_	_	_	_	_	_
+17	hou	_	_	_	_	_	_	_	_
+18	aku	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+

@@ -1,0 +1,6565 @@
+# newdoc id = HV24.021_Henry_Machado_19730206
+# sent_id = HV24.021_Henry_Machado_19730206_1
+# text = E nā kini, nā pua o Hawaiʻi nei, aloha pumehana.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kini	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	pua	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	aloha	_	_	_	_	_	_	_	_
+12	pumehana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_2
+# text = Mahalo i kēia hui hou ʻana o kākou ma kēia hola i kapa ʻia ʻo Ka Leo Hawaiʻi e hoʻolaha nei i ka ʻōlelo aloha o ka ʻāina mai Hawaiʻi o Keawe a i Niʻihau o Kahelelani.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	hola	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kapa	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Ka	_	_	_	_	_	_	_	_
+17	Leo	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hoʻolaha	_	_	_	_	_	_	_	_
+21	nei	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	ʻōlelo	_	_	_	_	_	_	_	_
+25	aloha	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	ʻāina	_	_	_	_	_	_	_	_
+29	mai	_	_	_	_	_	_	_	_
+30	Hawaiʻi	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	Keawe	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	Niʻihau	_	_	_	_	_	_	_	_
+36	o	_	_	_	_	_	_	_	_
+37	Kahelelani	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_3
+# text = E hui like kākou ma ka ʻōlelo a nā kūpuna.
+1	E	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	like	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	kūpuna	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_4
+# text = Ma muli nō ia o ka lokomaikaʻi o kēia kahua hoʻolele leo ʻo KCCN, me nā haumāna o ka ʻōlelo Hawaiʻi o ke Kulanui o Hawaiʻi, a me nā hoa kipa, nā kamaʻāina i kono ʻia ma ke ʻano hoa kipa no kēia papahana, e kamaʻilio pū e pili ana i nā kumuhana like ʻole o ka Hawaiʻi.
+1	Ma	_	_	_	_	_	_	_	_
+2	muli	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lokomaikaʻi	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	kahua	_	_	_	_	_	_	_	_
+11	hoʻolele	_	_	_	_	_	_	_	_
+12	leo	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	KCCN	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	haumāna	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	Kulanui	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	Hawaiʻi	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	me	_	_	_	_	_	_	_	_
+31	nā	_	_	_	_	_	_	_	_
+32	hoa	_	_	_	_	_	_	_	_
+33	kipa	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	nā	_	_	_	_	_	_	_	_
+36	kamaʻāina	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	kono	_	_	_	_	_	_	_	_
+39	ʻia	_	_	_	_	_	_	_	_
+40	ma	_	_	_	_	_	_	_	_
+41	ke	_	_	_	_	_	_	_	_
+42	ʻano	_	_	_	_	_	_	_	_
+43	hoa	_	_	_	_	_	_	_	_
+44	kipa	_	_	_	_	_	_	_	_
+45	no	_	_	_	_	_	_	_	_
+46	kēia	_	_	_	_	_	_	_	_
+47	papahana	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	e	_	_	_	_	_	_	_	_
+50	kamaʻilio	_	_	_	_	_	_	_	_
+51	pū	_	_	_	_	_	_	_	_
+52	e	_	_	_	_	_	_	_	_
+53	pili	_	_	_	_	_	_	_	_
+54	ana	_	_	_	_	_	_	_	_
+55	i	_	_	_	_	_	_	_	_
+56	nā	_	_	_	_	_	_	_	_
+57	kumuhana	_	_	_	_	_	_	_	_
+58	like	_	_	_	_	_	_	_	_
+59	ʻole	_	_	_	_	_	_	_	_
+60	o	_	_	_	_	_	_	_	_
+61	ka	_	_	_	_	_	_	_	_
+62	Hawaiʻi	_	_	_	_	_	_	_	_
+63	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_5
+# text = Ua hoʻokaʻawale ʻia kekahi manawa no ke kelepona ʻana mai i mea i hiki iā ʻoukou ke wehewehe mai i ko ʻoukou mau manaʻo ma ke kamaʻilio like ʻana i kā kākou ʻōlelo makuahine.
+1	Ua	_	_	_	_	_	_	_	_
+2	hoʻokaʻawale	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kelepona	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	wehewehe	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ko	_	_	_	_	_	_	_	_
+22	ʻoukou	_	_	_	_	_	_	_	_
+23	mau	_	_	_	_	_	_	_	_
+24	manaʻo	_	_	_	_	_	_	_	_
+25	ma	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	kamaʻilio	_	_	_	_	_	_	_	_
+28	like	_	_	_	_	_	_	_	_
+29	ʻana	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	kā	_	_	_	_	_	_	_	_
+32	kākou	_	_	_	_	_	_	_	_
+33	ʻōlelo	_	_	_	_	_	_	_	_
+34	makuahine	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_6
+# text = Hauʻoli nō mākou no kēia hoʻomaka hou ʻana o Ka Leo Hawaiʻi.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	hoʻomaka	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Ka	_	_	_	_	_	_	_	_
+11	Leo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_7
+# text = A mahalo nui iā ʻoukou i ko ʻoukou hoʻolohe mai nei i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	hoʻolohe	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_8
+# text = A eia nō me kākou i kēia ahiahi ko, ko mākou hoa kipa ʻo Hanalē Machado.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	hoa	_	_	_	_	_	_	_	_
+14	kipa	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Hanalē	_	_	_	_	_	_	_	_
+17	Machado	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_9
+# text = Aloha mai nō e Hanalē.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	Hanalē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_10
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_11
+# text = ʻAe, pehea ʻoe i kēia ahiahi? A maikaʻi nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ahiahi	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	A	_	_	_	_	_	_	_	_
+10	maikaʻi	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_12
+# text = Mahalo nō i kou hele ʻana mai e hoʻolauna pū nō me kākou i kēia ahiahi ma ka ʻōlelo makuahine, ka ʻōlelo i alo , n , i aloha nui ʻia e nā pua i kēia manawa a me nā poʻe kupa o ka ʻāina.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hoʻolauna	_	_	_	_	_	_	_	_
+10	pū	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	kākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ahiahi	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ʻōlelo	_	_	_	_	_	_	_	_
+20	makuahine	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	alo	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	n	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	aloha	_	_	_	_	_	_	_	_
+31	nui	_	_	_	_	_	_	_	_
+32	ʻia	_	_	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	nā	_	_	_	_	_	_	_	_
+35	pua	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	kēia	_	_	_	_	_	_	_	_
+38	manawa	_	_	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	me	_	_	_	_	_	_	_	_
+41	nā	_	_	_	_	_	_	_	_
+42	poʻe	_	_	_	_	_	_	_	_
+43	kupa	_	_	_	_	_	_	_	_
+44	o	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	ʻāina	_	_	_	_	_	_	_	_
+47	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_13
+# text = A e ʻoluʻolu e haʻi mai i kou, a, nā ka, nā inoa o kou mau mākua, a me kahi o kou hānau ʻia ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	ʻoluʻolu	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	haʻi	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	inoa	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kou	_	_	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	mākua	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	kahi	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	kou	_	_	_	_	_	_	_	_
+27	hānau	_	_	_	_	_	_	_	_
+28	ʻia	_	_	_	_	_	_	_	_
+29	ʻana	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_14
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_15
+# text = Koʻu makua kāne, ʻo ia nō ʻo Luciano Machado.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	makua	_	_	_	_	_	_	_	_
+3	kāne	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Luciano	_	_	_	_	_	_	_	_
+10	Machado	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_16
+# text = Koʻu makuahine ʻo Kahae Sara Kaʻalekahi, ke keiki mua o koʻu tūtū, ʻo ia nō ʻo Kāwika Kaʻalekahi me Kaleikauʻea Kaʻalekahi.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	makuahine	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kahae	_	_	_	_	_	_	_	_
+5	Sara	_	_	_	_	_	_	_	_
+6	Kaʻalekahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	keiki	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	koʻu	_	_	_	_	_	_	_	_
+13	tūtū	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Kāwika	_	_	_	_	_	_	_	_
+20	Kaʻalekahi	_	_	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	Kaleikauʻea	_	_	_	_	_	_	_	_
+23	Kaʻalekahi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_17
+# text = No Kona mai lākou.
+1	No	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_18
+# text = Ka kolu o nā poʻe keiki kāne i, i hānau ʻia, haʻalele kuʻu makua, mau mākua i Kona, a noho i Honolulu.
+1	Ka	_	_	_	_	_	_	_	_
+2	kolu	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	keiki	_	_	_	_	_	_	_	_
+7	kāne	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	hānau	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	haʻalele	_	_	_	_	_	_	_	_
+15	kuʻu	_	_	_	_	_	_	_	_
+16	makua	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	mau	_	_	_	_	_	_	_	_
+19	mākua	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Kona	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	noho	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	Honolulu	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_19
+# text = ʻImi ko , koʻu makua kāne ka hana ma T , Teo.
+1	ʻImi	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	makua	_	_	_	_	_	_	_	_
+6	kāne	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	T	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Teo	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_20
+# text = H.
+1	H	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_21
+# text = Davis ma ka alanui Halekauila.
+1	Davis	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	alanui	_	_	_	_	_	_	_	_
+5	Halekauila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_22
+# text = Lōʻihi kona hana ʻana i laila, a make ʻo ia makahiki ʻumikūmāiwa kāluakūmāwalu .
+1	Lōʻihi	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	make	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	makahiki	_	_	_	_	_	_	_	_
+13	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+14	kāluakūmāwalu	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_23
+# text = Make kuʻu, make kuʻu makuahine i ka makahiki ʻumikūmāiwa kāluakūmā , kūmāiwa.
+1	Make	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	make	_	_	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	makuahine	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+11	kāluakūmā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kūmāiwa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_24
+# text = Ian , Ian , Ianuali me ka nūmōnia.
+1	Ian	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Ian	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Ianuali	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	nūmōnia	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_25
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_26
+# text = } A, i hea ʻoe i hānau ʻia ai? Hānau au, o, hānau au i, ma, i Pālama, ma ka alanui Robello.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hānau	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Hānau	_	_	_	_	_	_	_	_
+13	au	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	hānau	_	_	_	_	_	_	_	_
+18	au	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	Pālama	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	alanui	_	_	_	_	_	_	_	_
+29	Robello	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_27
+# text = A, ma kai, a, Waikīkī o ke kula ʻo Kaʻiulani.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Waikīkī	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kula	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kaʻiulani	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_28
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_29
+# text = ʻO wau nō ke keiki ʻeono o kuʻu makua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	ʻeono	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	makua	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_30
+# text = He ʻumi mā , mākou nā poʻe keiki kāne.
+1	He	_	_	_	_	_	_	_	_
+2	ʻumi	_	_	_	_	_	_	_	_
+3	mā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	keiki	_	_	_	_	_	_	_	_
+9	kāne	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_31
+# text = Ua hānau ʻia kuʻu makuahine.
+1	Ua	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	makuahine	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_32
+# text = Hele au i ke kula Kaʻiulani, a pau ke kula maka , makahiki, ka makahiki ʻumitūmāiwa iwakāluakūmālua, ʻumikūmā , iwakāluakūmālua, ʻĒ.
+1	Hele	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kula	_	_	_	_	_	_	_	_
+6	Kaʻiulani	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kula	_	_	_	_	_	_	_	_
+12	maka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	makahiki	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	makahiki	_	_	_	_	_	_	_	_
+18	ʻumitūmāiwa	_	_	_	_	_	_	_	_
+19	iwakāluakūmālua	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻumikūmā	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	iwakāluakūmālua	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻĒ	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_33
+# text = Iune.
+1	Iune	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_34
+# text = Hana au me , hele au i ka hana ma Hawaiian Contracting, ka hui poʻolā, {Mū.
+1	Hana	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	au	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	Hawaiian	_	_	_	_	_	_	_	_
+12	Contracting	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hui	_	_	_	_	_	_	_	_
+16	poʻolā	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	{	_	PUNCT	_	_	_	_	_	_
+19	Mū	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_35
+# text = } a, Honolulu Ironworks, a ma Puʻuloa, me ka aupuni, ka hale ʻoihana mīkini, mea e hoʻoholo nā moku manuā o ka Navy, nā moku luʻu kekahi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Honolulu	_	_	_	_	_	_	_	_
+5	Ironworks	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	Puʻuloa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	aupuni	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hale	_	_	_	_	_	_	_	_
+17	ʻoihana	_	_	_	_	_	_	_	_
+18	mīkini	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	hoʻoholo	_	_	_	_	_	_	_	_
+23	nā	_	_	_	_	_	_	_	_
+24	moku	_	_	_	_	_	_	_	_
+25	manuā	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	Navy	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	moku	_	_	_	_	_	_	_	_
+32	luʻu	_	_	_	_	_	_	_	_
+33	kekahi	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_36
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_37
+# text = ʻŌ, he loaʻa nō ka moku luʻu i ia manawa? ʻAe.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	loaʻa	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	moku	_	_	_	_	_	_	_	_
+8	luʻu	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_38
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_39
+# text = A, hana wau i ʻelua ʻano moku i ka manawa e koho ʻia e hele wau e hana, like, i, i loko lo , a luna o kēia moku, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	moku	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	koho	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hele	_	_	_	_	_	_	_	_
+17	wau	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	hana	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	like	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	loko	_	_	_	_	_	_	_	_
+27	lo	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	luna	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	kēia	_	_	_	_	_	_	_	_
+33	moku	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻĒ	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_40
+# text = mau moku.
+1	mau	_	_	_	_	_	_	_	_
+2	moku	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_41
+# text = No ka, Ma, no kēia ʻoihana moku, no ka Navy? ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Ma	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ʻoihana	_	_	_	_	_	_	_	_
+9	moku	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	Navy	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_42
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_43
+# text = Nui ka hana ma laila, ʻAe.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_44
+# text = and uh, kekahi manawa, ʻano, a, ʻano makaʻu nō ka hana ʻana ma laila, nui nā poʻe, and, a, ʻAe.
+1	and	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	makaʻu	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	laila	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nui	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	and	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_45
+# text = Kauwili nō ka, hoʻoha ʻĒ.
+1	Kauwili	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hoʻoha	_	_	_	_	_	_	_	_
+6	ʻĒ	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_46
+# text = hoʻohana ka hana ma laila, ʻĒ.
+1	hoʻohana	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻĒ	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_47
+# text = poʻe !! Na ʻoukou nō mālama kēia poʻe mīkini, ʻAe.
+1	poʻe	_	_	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	Na	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	mālama	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	mīkini	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_48
+# text = no nā, Hoʻoholo kēia mīkini, ʻĒ.
+1	no	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Hoʻoholo	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mīkini	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_49
+# text = mākou hele i ka, ka moana.
+1	mākou	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	moana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_50
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_51
+# text = A ka mīkini paʻahana, maikaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mīkini	_	_	_	_	_	_	_	_
+4	paʻahana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	maikaʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_52
+# text = ʻO ia ka, ʻo ia ka ʻae ʻana ka engineer i ʻāpono ʻia, ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻae	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	engineer	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ʻāpono	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻĒ	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_53
+# text = kā mākou.
+1	kā	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_54
+# text = And uh, i ka manawa a pau kēia hana, kēia moku, pau ka hana ma luna o kēia moku, a, hāʻawi moku hou.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	moku	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	pau	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hana	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	luna	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	moku	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	hāʻawi	_	_	_	_	_	_	_	_
+27	moku	_	_	_	_	_	_	_	_
+28	hou	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_55
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_56
+# text = A ʻekolu mahina, a pau ka hana nō, a hele mākou i ka moana.
+1	A	_	_	_	_	_	_	_	_
+2	ʻekolu	_	_	_	_	_	_	_	_
+3	mahina	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	hele	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	moana	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_57
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_58
+# text = You see.
+1	You	_	_	_	_	_	_	_	_
+2	see	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_59
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_60
+# text = And pau kēnā, a hoʻi mai mākou a hana hou.
+1	And	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	kēnā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	hou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_61
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_62
+# text = } No laila, no Pālama mai ʻoe? ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	Pālama	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_63
+# text = No Pālama mai.
+1	No	_	_	_	_	_	_	_	_
+2	Pālama	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_64
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_65
+# text = Hānau wau ma Pālama.
+1	Hānau	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Pālama	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_66
+# text = Ua like anei kēia wahi ʻo Kapālama me Pālama? Like nō lāua ʻelua, kēia mau ʻāina? ʻAe.
+1	Ua	_	_	_	_	_	_	_	_
+2	like	_	_	_	_	_	_	_	_
+3	anei	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Kapālama	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	Pālama	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Like	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	lāua	_	_	_	_	_	_	_	_
+14	ʻelua	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	ʻāina	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻAe	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_67
+# text = Ka , Kapālama, ʻo ia nō kapa ʻia, ka wahi kahiko, ke, i ka poʻe aliʻi.
+1	Ka	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Kapālama	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kapa	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	kahiko	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	aliʻi	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_68
+# text = Ua kapa ʻia ma laila.
+1	Ua	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_69
+# text = You know.
+1	You	_	_	_	_	_	_	_	_
+2	know	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_70
+# text = A i loko o kēia, a, ʻŌ, noho nō ka poʻe, {mū,} a, poʻe aliʻi ma laila, ma Kapālama? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	loko	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻŌ	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	mū	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	}	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	aliʻi	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	laila	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	Kapālama	_	_	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_71
+# text = He wahi ʻokoʻa no, ʻē.
+1	He	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	ʻokoʻa	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻē	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_72
+# text = !! hoʻohānau kēiki ma laila.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	hoʻohānau	_	_	_	_	_	_	_	_
+3	kēiki	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_73
+# text = ʻO ia? Ma Pālama.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	Ma	_	_	_	_	_	_	_	_
+5	Pālama	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_74
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_75
+# text = I loko o kēia hale, akā, ka, ka pā, ua hana ʻia me kēia pā, ka wahie, ʻo ia nō he lama.
+1	I	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hale	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	akā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ua	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	ʻia	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	pā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	wahie	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	ia	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	he	_	_	_	_	_	_	_	_
+28	lama	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_76
+# text = ʻO ka lāʻau lama.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lāʻau	_	_	_	_	_	_	_	_
+4	lama	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_77
+# text = Pā lama, ʻae.
+1	Pā	_	_	_	_	_	_	_	_
+2	lama	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_78
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_79
+# text = Lāʻau lama.
+1	Lāʻau	_	_	_	_	_	_	_	_
+2	lama	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_80
+# text = See.
+1	See	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_81
+# text = Ua kapa ʻia kēia.
+1	Ua	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_82
+# text = No he, he wahi ʻokoʻa nō ia me, a, Pālama? Well, a, ka wahi ʻo Pālama, ʻo ia nō kēia wahi mālama nā poʻe aliʻi, ka poʻe, ʻĒ.
+1	No	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	ʻokoʻa	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Pālama	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Well	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	Pālama	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	ia	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	wahi	_	_	_	_	_	_	_	_
+29	mālama	_	_	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	poʻe	_	_	_	_	_	_	_	_
+32	aliʻi	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	poʻe	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ʻĒ	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_83
+# text = hānau keiki, you know.
+1	hānau	_	_	_	_	_	_	_	_
+2	keiki	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	you	_	_	_	_	_	_	_	_
+5	know	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_84
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_85
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_86
+# text = Akā hoʻokahi wahi nō ia ʻo Kapālama me Pālama? ʻAe.
+1	Akā	_	_	_	_	_	_	_	_
+2	hoʻokahi	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Kapālama	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	Pālama	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_87
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_88
+# text = ʻO ia, ʻo ia wale nō ka , ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_89
+# text = hoʻokahi inoa ma ka, kahi manawa, kā , kāhea ʻia Pālama.
+1	hoʻokahi	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kahi	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kāhea	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	Pālama	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_90
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_91
+# text = A Pālama, Kapālama kekahi.
+1	A	_	_	_	_	_	_	_	_
+2	Pālama	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Kapālama	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_92
+# text = A ma laila nō nā poʻe aliʻi i hoʻohānau keiki? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	aliʻi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hoʻohānau	_	_	_	_	_	_	_	_
+10	keiki	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_93
+# text = You know, ʻaʻole, a, ʻaʻole huikau, ē? Kahi manawa, {Mū.
+1	You	_	_	_	_	_	_	_	_
+2	know	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻole	_	_	_	_	_	_	_	_
+9	huikau	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	Kahi	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	Mū	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_94
+# text = } huikau ka, you know, and uh, i nā poʻe kiaʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	huikau	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	you	_	_	_	_	_	_	_	_
+6	know	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	uh	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	kiaʻi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_95
+# text = Poʻe, ua koho ʻia kiaʻi kēia poʻe aliʻi.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	koho	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	kiaʻi	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	aliʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_96
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_97
+# text = Pono mai, kūpono ka poʻe keiki komo, puka mai, you know.
+1	Pono	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kūpono	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	komo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	puka	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	you	_	_	_	_	_	_	_	_
+14	know	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_98
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_99
+# text = ʻO ia, ʻo ia kēia hana, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_100
+# text = a kēia poʻe ma laila, ma Kapālama.
+1	a	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Kapālama	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_101
+# text = Mālama pono ʻia ka moʻokūʻauhau o nā aliʻi.
+1	Mālama	_	_	_	_	_	_	_	_
+2	pono	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	moʻokūʻauhau	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	aliʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_102
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_103
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_104
+# text = So, a, ma laila nō, hele wau huli i nā moʻolelo, and uh loaʻa ka moʻolelo and kapa hoʻokahi mele no kēia wahi, Pālama.
+1	So	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	huli	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	moʻolelo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	uh	_	_	_	_	_	_	_	_
+18	loaʻa	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	moʻolelo	_	_	_	_	_	_	_	_
+21	and	_	_	_	_	_	_	_	_
+22	kapa	_	_	_	_	_	_	_	_
+23	hoʻokahi	_	_	_	_	_	_	_	_
+24	mele	_	_	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	wahi	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	Pālama	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_105
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_106
+# text = And uh, A ʻo wai ka inoa o, o ka he , {amū,} o ka wahi o kou hānau ʻia ʻana? ʻO Pālama nō? ʻAe.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	A	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	{	_	PUNCT	_	_	_	_	_	_
+16	amū	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	}	_	PUNCT	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	wahi	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	kou	_	_	_	_	_	_	_	_
+24	hānau	_	_	_	_	_	_	_	_
+25	ʻia	_	_	_	_	_	_	_	_
+26	ʻana	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	ʻO	_	_	_	_	_	_	_	_
+29	Pālama	_	_	_	_	_	_	_	_
+30	nō	_	_	_	_	_	_	_	_
+31	?	_	PUNCT	_	_	_	_	_	_
+32	ʻAe	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_107
+# text = Ma kahi o kēia alanui ʻo Robello? Robello.
+1	Ma	_	_	_	_	_	_	_	_
+2	kahi	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	alanui	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Robello	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Robello	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_108
+# text = He inoa Hawaiʻi nō paha ko kēlā ʻāina? Pēlā paha.
+1	He	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	ʻāina	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Pēlā	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_109
+# text = Haole paha, ʻo Pukīkī paha.
+1	Haole	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Pukīkī	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_110
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_111
+# text = Robello.
+1	Robello	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_112
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_113
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_114
+# text = Poʻe haole, I think.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	haole	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	I	_	_	_	_	_	_	_	_
+5	think	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_115
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_116
+# text = } A kēia wahi, a, kapa ʻia wau hoʻokahi mele, ʻo ia nō, a, Ua haku ʻoe i kekahi mele? Ka , kekahi mele ua haku ʻia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kapa	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	hoʻokahi	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Ua	_	_	_	_	_	_	_	_
+21	haku	_	_	_	_	_	_	_	_
+22	ʻoe	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kekahi	_	_	_	_	_	_	_	_
+25	mele	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	Ka	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	mele	_	_	_	_	_	_	_	_
+31	ua	_	_	_	_	_	_	_	_
+32	haku	_	_	_	_	_	_	_	_
+33	ʻia	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_117
+# text = ʻO ia? A.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	A	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_118
+# text = Kaulana Nō ʻO Kapālama, ē? ʻAe.
+1	Kaulana	_	_	_	_	_	_	_	_
+2	Nō	_	_	_	_	_	_	_	_
+3	ʻO	_	_	_	_	_	_	_	_
+4	Kapālama	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ē	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_119
+# text = And uh, hele wau e huli i ke, ka moʻolelo, and uh, heluhelu wau and uh, ʻAe.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	huli	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	moʻolelo	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	and	_	_	_	_	_	_	_	_
+15	uh	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	heluhelu	_	_	_	_	_	_	_	_
+18	wau	_	_	_	_	_	_	_	_
+19	and	_	_	_	_	_	_	_	_
+20	uh	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_120
+# text = Ka moʻolelo o kēia ʻāina ʻo Kapālama.
+1	Ka	_	_	_	_	_	_	_	_
+2	moʻolelo	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Kapālama	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_121
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_122
+# text = I pā ʻia e kēia lāʻau lama, ʻeā? ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	pā	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	lāʻau	_	_	_	_	_	_	_	_
+7	lama	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_123
+# text = A, aia i he , ʻo wai kēia wahi ʻo Niu , Nūhelewai ? Nūhelewai .
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	wai	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	wahi	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Niu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Nūhelewai	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	Nūhelewai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_124
+# text = !! Niuhelewai.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Niuhelewai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_125
+# text = Niuhelewai.
+1	Niuhelewai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_126
+# text = Niuhelewai.
+1	Niuhelewai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_127
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_128
+# text = A, ʻae, kēia wahi, aia ma ke kula ʻo Kaʻiulani, a hele i ka kihi o kēia pamu (pauma) wai ma, a, Houghtailing me King.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kula	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kaʻiulani	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	hele	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	kihi	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	pamu	_	_	_	_	_	_	_	_
+23	(	_	PUNCT	_	_	_	_	_	_
+24	pauma	_	_	_	_	_	_	_	_
+25	)	_	PUNCT	_	_	_	_	_	_
+26	wai	_	_	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	Houghtailing	_	_	_	_	_	_	_	_
+32	me	_	_	_	_	_	_	_	_
+33	King	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_129
+# text = ʻO !! He, he wahi kahawai ia? No, kēia ka, ka district, ua kapa ʻia, ʻŌ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	He	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	kahawai	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	No	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	district	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ua	_	_	_	_	_	_	_	_
+19	kapa	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻŌ	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_130
+# text = Niuhelewai.
+1	Niuhelewai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_131
+# text = He inoa ʻāina, ē? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ē	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_132
+# text = Inoa ʻāina kēnā ka district.
+1	Inoa	_	_	_	_	_	_	_	_
+2	ʻāina	_	_	_	_	_	_	_	_
+3	kēnā	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	district	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_133
+# text = Aia, a, kekahi nō, ka, ka mula , muliwai ʻo, kahawai, aia, a, Waikīkī o kēia canal ma Pālama i kēia manawa.
+1	Aia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mula	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	muliwai	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kahawai	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	aia	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Waikīkī	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	canal	_	_	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	Pālama	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	manawa	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_134
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_135
+# text = Kē , kēia canal no, no, a, mea, no, a, Kamehameha Height.
+1	Kē	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	canal	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kamehameha	_	_	_	_	_	_	_	_
+18	Height	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_136
+# text = ʻEli ʻia kēia canal no ka storm nō hoʻi, ē? Nui ka ua, He wai i, kahe kēia wai.
+1	ʻEli	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	canal	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	storm	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	Nui	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	He	_	_	_	_	_	_	_	_
+18	wai	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kahe	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	wai	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_137
+# text = na wai i ʻeli? Na ka aupuni.
+1	na	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ʻeli	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Na	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	aupuni	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_138
+# text = {A,} na ke aupuni nō.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	aupuni	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_139
+# text = ʻO ia ke kaha, kē , kēia canal i, i ʻike nei kākou.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kaha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kē	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	canal	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ʻike	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_140
+# text = ʻĒ, holo nei nō i kēia manawa.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	holo	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_141
+# text = Akā, ʻē, ke holo nei.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	holo	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_142
+# text = Akā, ka, ka, kahawai, ʻo ia nō, a, ʻelua kapuaʻi, ʻelua haneli kapuaʻi a ʻoi, a, kēia muliwai, {Mū.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kahawai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻelua	_	_	_	_	_	_	_	_
+16	kapuaʻi	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻelua	_	_	_	_	_	_	_	_
+19	haneli	_	_	_	_	_	_	_	_
+20	kapuaʻi	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	ʻoi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	muliwai	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	{	_	PUNCT	_	_	_	_	_	_
+30	Mū	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_143
+# text = } kahawai ma mua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	kahawai	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_144
+# text = A kēia poʻe Pākē, a, hi , wili laiki lākou ma Auld Lane.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Pākē	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	wili	_	_	_	_	_	_	_	_
+11	laiki	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Auld	_	_	_	_	_	_	_	_
+15	Lane	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_145
+# text = Aia ma uka.
+1	Aia	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	uka	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_146
+# text = A ʻo ia hale wili laiki ma laila, Wili laiki ma, ma mua.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	hale	_	_	_	_	_	_	_	_
+5	wili	_	_	_	_	_	_	_	_
+6	laiki	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Wili	_	_	_	_	_	_	_	_
+11	laiki	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	mua	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_147
+# text = a ka poʻe Pākē.
+1	a	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Pākē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_148
+# text = Yeah, poʻe Pākē.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Pākē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_149
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_150
+# text = A, kanu laiki ma mua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kanu	_	_	_	_	_	_	_	_
+4	laiki	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_151
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_152
+# text = A kēia.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_153
+# text = Nui ʻino nō paha ka poʻe Pākē? Kēlā manawa, ʻae.
+1	Nui	_	_	_	_	_	_	_	_
+2	ʻino	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	Pākē	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Kēlā	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻae	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_154
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_155
+# text = Na lākou ka mea kanu laiki.
+1	Na	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	kanu	_	_	_	_	_	_	_	_
+6	laiki	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_156
+# text = A loaʻa kēia wili laiki ma Auld Lane.
+1	A	_	_	_	_	_	_	_	_
+2	loaʻa	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	wili	_	_	_	_	_	_	_	_
+5	laiki	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Auld	_	_	_	_	_	_	_	_
+8	Lane	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_157
+# text = ʻAʻohe kanu ʻia ka ʻai? A, ʻaʻole i kēia manawa, pau, a i pau.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	kanu	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻole	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	pau	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	pau	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_158
+# text = Ma ia manawa nō? Ma ia manawa nō.
+1	Ma	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Ma	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_159
+# text = Kaʻu wā liʻiliʻi, ʻike wau, hele mākou ʻau i loko o kēia mu a, kahawai.
+1	Kaʻu	_	_	_	_	_	_	_	_
+2	wā	_	_	_	_	_	_	_	_
+3	liʻiliʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	ʻau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	loko	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	mu	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kahawai	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_160
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_161
+# text = And uh, maʻemaʻe ka wai.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	maʻemaʻe	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_162
+# text = A, like pū me pūnāwai.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	like	_	_	_	_	_	_	_	_
+4	pū	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	pūnāwai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_163
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_164
+# text = ʻAʻole like pū kēia manawa!! He wai puna anei nō kēia !!? ʻAe, ma uka o laila nō.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	like	_	_	_	_	_	_	_	_
+3	pū	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	He	_	_	_	_	_	_	_	_
+8	wai	_	_	_	_	_	_	_	_
+9	puna	_	_	_	_	_	_	_	_
+10	anei	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	!!	_	PUNCT	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	uka	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	laila	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_165
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_166
+# text = Ma uka ma ka hale wili laiki.
+1	Ma	_	_	_	_	_	_	_	_
+2	uka	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	hale	_	_	_	_	_	_	_	_
+6	wili	_	_	_	_	_	_	_	_
+7	laiki	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_167
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_168
+# text = See.
+1	See	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_169
+# text = A, pani ʻia ka wai i kēia manawa e ka aupuni.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pani	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	aupuni	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_170
+# text = Mamake lākou mālama i ka, ka wai, you know.
+1	Mamake	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	mālama	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	wai	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	you	_	_	_	_	_	_	_	_
+11	know	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_171
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_172
+# text = !! Nā pūnāwai, kāpa ʻia, paʻa.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Nā	_	_	_	_	_	_	_	_
+3	pūnāwai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kāpa	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	paʻa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_173
+# text = Hoʻopaʻa ʻia, ʻĒ.
+1	Hoʻopaʻa	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_174
+# text = ka pūnāwai.
+1	ka	_	_	_	_	_	_	_	_
+2	pūnāwai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_175
+# text = ʻO ia ka pili .
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pili	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_176
+# text = A ʻo wai ka inoa o kēia pūnāwai? Pehea lā, ʻō, ʻaʻole maopopo.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	pūnāwai	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Pehea	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻō	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	maopopo	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_177
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_178
+# text = ʻAʻole maopopo.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	maopopo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_179
+# text = Ka inoa ma ka poʻe e hoʻolohe nei, hiki nō lākou ke, ʻĒ.
+1	Ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolohe	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻĒ	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_180
+# text = hōʻike mai, ʻAe.
+1	hōʻike	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_181
+# text = inā kamaʻāina lākou.
+1	inā	_	_	_	_	_	_	_	_
+2	kamaʻāina	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_182
+# text = Yeah, kēia muliwai.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	muliwai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_183
+# text = A, ʻo wai , a, aia i hea kēia wahi kahua kaua? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	wai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	kahua	_	_	_	_	_	_	_	_
+14	kaua	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_184
+# text = Aia nō ma Pā , Pālama nō? Kaua ma Niuhelewai, ʻo ia nō ʻo, ʻŌ, Niuhelewai.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Pā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Pālama	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Kaua	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	Niuhelewai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻŌ	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Niuhelewai	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_185
+# text = Kahahana.
+1	Kahahana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_186
+# text = ʻO ia ka, ke aliʻi, Ke aliʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	aliʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Ke	_	_	_	_	_	_	_	_
+9	aliʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_187
+# text = ma, a, Oʻahu nei.
+1	ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Oʻahu	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_188
+# text = !! ʻĒ.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_189
+# text = A hoʻouna mai ʻo Kahahana, a lanakila ʻo ia, i loko o kēia kaua, ma waena ʻelua, lāua, lāua ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻouna	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Kahahana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	lanakila	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	loko	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	kaua	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	waena	_	_	_	_	_	_	_	_
+20	ʻelua	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	lāua	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	lāua	_	_	_	_	_	_	_	_
+25	ʻelua	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_190
+# text = A nā poʻe, a, poʻe make, ua kīloi i loko o kēia kahawai.
+1	A	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	make	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	kīloi	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	loko	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	kahawai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_191
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_192
+# text = Pani ʻia ke kahawai, e like me Maui, ʻAe, ʻae.
+1	Pani	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kahawai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	like	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	Maui	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻae	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_193
+# text = ʻeā? Kamaʻāina nō kākou.
+1	ʻeā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Kamaʻāina	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_194
+# text = Kēlā, //Pani wai o ʻĪao\\.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	/	_	PUNCT	_	_	_	_	_	_
+4	/	_	PUNCT	_	_	_	_	_	_
+5	Pani	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ʻĪao	_	_	_	_	_	_	_	_
+9	\	_	PUNCT	_	_	_	_	_	_
+10	\	_	PUNCT	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_195
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_196
+# text = //Ke pani wai o ʻĪao\\.
+1	/	_	PUNCT	_	_	_	_	_	_
+2	/	_	PUNCT	_	_	_	_	_	_
+3	Ke	_	_	_	_	_	_	_	_
+4	pani	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ʻĪao	_	_	_	_	_	_	_	_
+8	\	_	PUNCT	_	_	_	_	_	_
+9	\	_	PUNCT	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_197
+# text = A loaʻa ka pani wai, ma, ma Pā , Pālama kekahi.
+1	A	_	_	_	_	_	_	_	_
+2	loaʻa	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pani	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Pā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Pālama	_	_	_	_	_	_	_	_
+13	kekahi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_198
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_199
+# text = A ʻo wai kēia aliʻi ʻelua? Ke, ka lua o nā aliʻi? ʻO Kahahana kekahi, a, ʻO, a, ʻo wai hou? Kaha , Kahāhāwai.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	aliʻi	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Ke	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	lua	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	aliʻi	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	ʻO	_	_	_	_	_	_	_	_
+17	Kahahana	_	_	_	_	_	_	_	_
+18	kekahi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻO	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	wai	_	_	_	_	_	_	_	_
+28	hou	_	_	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+30	Kaha	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	Kahāhāwai	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_200
+# text = Aia i ka, ʻo ia ka.
+1	Aia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_201
+# text = Kahāhāwai? Kahāhāwai.
+1	Kahāhāwai	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Kahāhāwai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_202
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_203
+# text = No hea ʻo ia? A, no Hawaiʻi mai.
+1	No	_	_	_	_	_	_	_	_
+2	hea	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_204
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_205
+# text = Hoʻouna mai, a, Lunalilo paha, kēia aliʻi i kēnā manawa.
+1	Hoʻouna	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Lunalilo	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	aliʻi	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēnā	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_206
+# text = Hoʻouna mai ʻo, ʻĒ.
+1	Hoʻouna	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_207
+# text = Kahāhāwai, ʻo ia ka, A kaua ihola nō lākou ma laila.
+1	Kahāhāwai	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	kaua	_	_	_	_	_	_	_	_
+9	ihola	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	laila	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_208
+# text = Ka.
+1	Ka	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_209
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_210
+# text = A lanakila ʻo Kahahana.
+1	A	_	_	_	_	_	_	_	_
+2	lanakila	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kahahana	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_211
+# text = No.
+1	No	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_212
+# text = Ma , make, ʻO Kahāhāwai.
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	make	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	Kahāhāwai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_213
+# text = make ʻo Kahahana.
+1	make	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Kahahana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_214
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_215
+# text = Ka lanakila ʻo Kahāhāwai.
+1	Ka	_	_	_	_	_	_	_	_
+2	lanakila	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kahāhāwai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_216
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_217
+# text = Ua, ua kapa ʻia i lo , i loko o kēia mele.
+1	Ua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	kapa	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	lo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_218
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_219
+# text = Lanakila ʻo Kahāhāwai.
+1	Lanakila	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Kahāhāwai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_220
+# text = A pani ʻia ke kahawai, Pani ʻia ke kahawai, a, i ke kino, ʻē, o ke kanaka.
+1	A	_	_	_	_	_	_	_	_
+2	pani	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kahawai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Pani	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kahawai	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kino	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻē	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	kanaka	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_221
+# text = i ke kino.
+1	i	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	kino	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_222
+# text = Kino make.
+1	Kino	_	_	_	_	_	_	_	_
+2	make	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_223
+# text = Kīloi i loko.
+1	Kīloi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	loko	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_224
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_225
+# text = Kino palahō.
+1	Kino	_	_	_	_	_	_	_	_
+2	palahō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_226
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_227
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_228
+# text = So.
+1	So	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_229
+# text = !! A, nāu nō i haku i kēia wahi mele no kēia ʻāina ʻo Pālama.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nāu	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	haku	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	wahi	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	no	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ʻāina	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Pālama	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_230
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_231
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_232
+# text = Koʻu ʻāina hānau kēia.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	ʻāina	_	_	_	_	_	_	_	_
+3	hānau	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_233
+# text = Hiki nō iā ʻoe ke hoʻokani maila? ʻAe.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	hoʻokani	_	_	_	_	_	_	_	_
+7	maila	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_234
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_235
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_236
+# text = Nani nō kēlā mele āu i haku ai.
+1	Nani	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	āu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	haku	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_237
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_238
+# text = ʻAkahi nō, mea, pehea ka lōkihi o kāu haku ʻana i nā mele Hawaiʻi? A, kēia haku ʻana kēia mele, ʻelima, ʻe , ʻeono, ē? ʻEono ma ? ʻEono paukū, ē? Verse.
+1	ʻAkahi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pehea	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	lōkihi	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kāu	_	_	_	_	_	_	_	_
+11	haku	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	mele	_	_	_	_	_	_	_	_
+16	Hawaiʻi	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	A	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	haku	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	mele	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻelima	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻe	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻeono	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ē	_	_	_	_	_	_	_	_
+33	?	_	PUNCT	_	_	_	_	_	_
+34	ʻEono	_	_	_	_	_	_	_	_
+35	ma	_	_	_	_	_	_	_	_
+36	?	_	PUNCT	_	_	_	_	_	_
+37	ʻEono	_	_	_	_	_	_	_	_
+38	paukū	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	ē	_	_	_	_	_	_	_	_
+41	?	_	PUNCT	_	_	_	_	_	_
+42	Verse	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_239
+# text = ʻŌ, ʻeono paukū.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻeono	_	_	_	_	_	_	_	_
+4	paukū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_240
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_241
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_242
+# text = ʻAkahi nō, ʻekolu, ʻelua, ʻehā, ʻelima !! ʻAe.
+1	ʻAkahi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻehā	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻelima	_	_	_	_	_	_	_	_
+11	!!	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_243
+# text = I piha pono nō ka moʻolelo, ē? ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	piha	_	_	_	_	_	_	_	_
+3	pono	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	moʻolelo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ē	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_244
+# text = Kēia moʻolelo, piha pono.
+1	Kēia	_	_	_	_	_	_	_	_
+2	moʻolelo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	piha	_	_	_	_	_	_	_	_
+5	pono	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_245
+# text = Paʻa pono nō.
+1	Paʻa	_	_	_	_	_	_	_	_
+2	pono	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_246
+# text = Pehea ka manaʻo? Maikaʻi.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Maikaʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_247
+# text = Maikaʻi? Mahalo wau iā ʻoe, ʻAe.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Mahalo	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_248
+# text = i kou haku ʻana.
+1	i	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	haku	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_249
+# text = ʻAe, mahalo.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_250
+# text = ʻO, ʻo Kapālama ka inoa o ia mele? ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kapālama	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_251
+# text = Kaulana Nō ʻO Kapālama.
+1	Kaulana	_	_	_	_	_	_	_	_
+2	Nō	_	_	_	_	_	_	_	_
+3	ʻO	_	_	_	_	_	_	_	_
+4	Kapālama	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_252
+# text = Kaulana ʻO Kapālama.
+1	Kaulana	_	_	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	Kapālama	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_253
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_254
+# text = No ka hoʻokipa ʻana nō, no nā aliʻi, ē? ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hoʻokipa	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	aliʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_255
+# text = Hoʻopulapula i nā poʻe aliʻi.
+1	Hoʻopulapula	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	aliʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_256
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_257
+# text = ʻO ia ke kumu, a, ma , makemake au e ka , kapa ʻia kēia, Kaulana Nō ʻO Kapālama.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kumu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	makemake	_	_	_	_	_	_	_	_
+11	au	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kapa	_	_	_	_	_	_	_	_
+16	ʻia	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Kaulana	_	_	_	_	_	_	_	_
+20	Nō	_	_	_	_	_	_	_	_
+21	ʻO	_	_	_	_	_	_	_	_
+22	Kapālama	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_258
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_259
+# text = A, ke Kula ʻo Kamehameha, aia i laila, ē? I laila, ʻē? I luna o ka pali.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	Kula	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kamehameha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ē	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	I	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻē	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	I	_	_	_	_	_	_	_	_
+20	luna	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	pali	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_260
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_261
+# text = ʻĒ? ʻAe.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_262
+# text = Nānā ʻoe.
+1	Nānā	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_263
+# text = Nui nā mea koʻikoʻi ma laila.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	koʻikoʻi	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_264
+# text = ʻO ia ka harbor o ka, o, o ka, ka awa o Honolulu, aia ma, kokoke Pālama, ʻAe, pololei.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	harbor	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	awa	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Honolulu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	aia	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kokoke	_	_	_	_	_	_	_	_
+22	Pālama	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	pololei	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_265
+# text = ʻĒ? ʻAe.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_266
+# text = Nui nā mea koʻikoʻi, ma, nā mea hana, ʻĒ Hoʻoholo i ka wā kahiko ma.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	koʻikoʻi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻĒ	_	_	_	_	_	_	_	_
+13	Hoʻoholo	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	wā	_	_	_	_	_	_	_	_
+17	kahiko	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_267
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_268
+# text = } !! Mau nō kou noho ʻana i Kapālama? ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	Mau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kou	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kapālama	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_269
+# text = Ua kupa o ka ʻāina.
+1	Ua	_	_	_	_	_	_	_	_
+2	kupa	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_270
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_271
+# text = ʻAʻole wau haʻalele i kēnā wahi.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	haʻalele	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēnā	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_272
+# text = Kūʻai wau i kahi ʻāina ma Ka , Kamehameha, Kamehameha Heights, ma laila, ʻAe, ʻae.
+1	Kūʻai	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kahi	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Ka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Kamehameha	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Kamehameha	_	_	_	_	_	_	_	_
+12	Heights	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻae	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_273
+# text = i kapa ʻia.
+1	i	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_274
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_275
+# text = } Kūʻai i ka ʻāina, ka poʻe keiki, 19:06 hānau.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kūʻai	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	keiki	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	19	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	06	_	_	_	_	_	_	_	_
+14	hānau	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_276
+# text = Mālama i ke keiki i laila.
+1	Mālama	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	keiki	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_277
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_278
+# text = Ua lohe liʻiliʻi au, a, ua hele aku nei nō ʻoe i, i Hilo i kēia hopena pule i hala aku nei no kēia ʻaha nui o nā ʻahahui kīwila Hawaiʻi.
+1	Ua	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	liʻiliʻi	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ua	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	aku	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Hilo	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	hopena	_	_	_	_	_	_	_	_
+21	pule	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	hala	_	_	_	_	_	_	_	_
+24	aku	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	ʻaha	_	_	_	_	_	_	_	_
+29	nui	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	nā	_	_	_	_	_	_	_	_
+32	ʻahahui	_	_	_	_	_	_	_	_
+33	kīwila	_	_	_	_	_	_	_	_
+34	Hawaiʻi	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_279
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_280
+# text = A, ma laila nō ʻoe i hoʻokani ai i kekahi mele āu i haku ai, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hoʻokani	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	āu	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	haku	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_281
+# text = pili ana i kēia kanaka kaulana ma ka hākōkō.
+1	pili	_	_	_	_	_	_	_	_
+2	ana	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	kanaka	_	_	_	_	_	_	_	_
+6	kaulana	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hākōkō	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_282
+# text = A, a ke ʻano o ka hākōkō o Iāpana.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hākōkō	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Iāpana	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_283
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_284
+# text = No kekahi keiki hānau o ka ʻāina o Hawaiʻi nei.
+1	No	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	hānau	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_285
+# text = Pēlā? ʻAe.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_286
+# text = ʻO kēia keiki, no Maui nō ʻo ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	Maui	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_287
+# text = Ua kaulana nō kona inoa ma kēia hākōkō ʻana.
+1	Ua	_	_	_	_	_	_	_	_
+2	kaulana	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hākōkō	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_288
+# text = ʻŌ, ʻō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_289
+# text = Ieke Kuhaulua? ʻAe.
+1	Ieke	_	_	_	_	_	_	_	_
+2	Kuhaulua	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_290
+# text = ʻO Ieke Kuhaulua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Ieke	_	_	_	_	_	_	_	_
+3	Kuhaulua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_291
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_292
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_293
+# text = Hoʻihoʻi, m , mea, hoʻi mai nō kekahi poʻe, a, ʻōlelo mai nō kēia lono.
+1	Hoʻihoʻi	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	m	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	lono	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_294
+# text = Lohe aku nei nō lākou i kēia mele āu i haku ai.
+1	Lohe	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	mele	_	_	_	_	_	_	_	_
+9	āu	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	haku	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_295
+# text = ʻŌ, ma Hilo.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Hilo	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_296
+# text = Ma laila, ʻae, a.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_297
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_298
+# text = Hiki nō wau ke hīmeni i kēia.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_299
+# text = Haku ʻia no kēia keiki hanohano.
+1	Haku	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	hanohano	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_300
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_301
+# text = Keiki hanohano.
+1	Keiki	_	_	_	_	_	_	_	_
+2	hanohano	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_302
+# text = ʻAe, he pololoi nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	pololoi	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_303
+# text = Hauʻoli nō ka lehulehu o Hawaiʻi.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	lehulehu	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_304
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_305
+# text = Haʻaheo nō ʻo Maui i kēia keiki o lākou.
+1	Haʻaheo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Maui	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_306
+# text = ʻAe, i ka m , ka manawa, komo, a, mai ʻo ia, ka kakahiaka, ka lā ʻo ia hoʻi, hele mai ma Hawaiʻi, a ua loaʻa kēia, he aha ka, ka mea? Kēia hana hoʻohanohano, ʻē.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	m	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	komo	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	kakahiaka	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	lā	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	hoʻi	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	hele	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	ma	_	_	_	_	_	_	_	_
+30	Hawaiʻi	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	ua	_	_	_	_	_	_	_	_
+34	loaʻa	_	_	_	_	_	_	_	_
+35	kēia	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	he	_	_	_	_	_	_	_	_
+38	aha	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	mea	_	_	_	_	_	_	_	_
+43	?	_	PUNCT	_	_	_	_	_	_
+44	Kēia	_	_	_	_	_	_	_	_
+45	hana	_	_	_	_	_	_	_	_
+46	hoʻohanohano	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	ʻē	_	_	_	_	_	_	_	_
+49	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_307
+# text = Huakaʻi, ʻē.
+1	Huakaʻi	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_308
+# text = ʻAʻole huakaʻi but kēia, hoʻo , hoʻolauleʻa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	huakaʻi	_	_	_	_	_	_	_	_
+3	but	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoʻolauleʻa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_309
+# text = Kēia, ma ka airport ma.
+1	Kēia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	airport	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_310
+# text = {Mū,} paikau.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	paikau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_311
+# text = ʻAe, paikau.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	paikau	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_312
+# text = And uh, hele wau a ʻike i nā, nā mea nani ma laila.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	nani	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_313
+# text = Ua kapa ʻia kēnā, ka lā nona e.
+1	Ua	_	_	_	_	_	_	_	_
+2	kapa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kēnā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lā	_	_	_	_	_	_	_	_
+8	nona	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_314
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_315
+# text = Pololoi.
+1	Pololoi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_316
+# text = Kuhaulua.
+1	Kuhaulua	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_317
+# text = Ka lā no Kuhaulua.
+1	Ka	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	Kuhaulua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_318
+# text = Kēnā pō, ua hele mākou e ʻai, ʻai me, me ia, nā mea hoʻolauleʻa ma ka Hilton Hawaiian, ʻAe.
+1	Kēnā	_	_	_	_	_	_	_	_
+2	pō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	ʻai	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻai	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	hoʻolauleʻa	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	Hilton	_	_	_	_	_	_	_	_
+22	Hawaiian	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_319
+# text = Hotel, ma laila.
+1	Hotel	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_320
+# text = Hauʻoli nō mākou, ʻAe.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_321
+# text = ka hele i laila, a ʻike i ka, kēia keiki kaulana no Hawaiʻi ma Iāpana.
+1	ka	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	keiki	_	_	_	_	_	_	_	_
+13	kaulana	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	Iāpana	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_322
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_323
+# text = Aloha nō kēia poʻe Kepanī i kēia kanaka, ka hoʻoikaika ʻana.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	Kepanī	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	kanaka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hoʻoikaika	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_324
+# text = You know.
+1	You	_	_	_	_	_	_	_	_
+2	know	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_325
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_326
+# text = And uh, No ka mea, ʻo ia nō ka mea mua paha ma !! ʻē.
+1	And	_	_	_	_	_	_	_	_
+2	uh	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	No	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	mua	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	!!	_	PUNCT	_	_	_	_	_	_
+17	ʻē	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_327
+# text = ʻEkolu makahiki, ē? ʻEā? A ʻoi.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻEā	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	A	_	_	_	_	_	_	_	_
+9	ʻoi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_328
+# text = Lanakila ʻo ia i kēia, poʻokela ʻAʻohe maopopo pono ʻehia lā makahiki.
+1	Lanakila	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	poʻokela	_	_	_	_	_	_	_	_
+8	ʻAʻohe	_	_	_	_	_	_	_	_
+9	maopopo	_	_	_	_	_	_	_	_
+10	pono	_	_	_	_	_	_	_	_
+11	ʻehia	_	_	_	_	_	_	_	_
+12	lā	_	_	_	_	_	_	_	_
+13	makahiki	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_329
+# text = ʻEkolu makahiki, I, I think.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	I	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	think	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_330
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_331
+# text = } Kaʻu, a, manaʻo, hoʻolohe ʻia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kaʻu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	manaʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoʻolohe	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_332
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_333
+# text = } !! And ʻo ia nō ke keiki ʻē mua loa i lanakila ai ma kēia hākōkō ʻana, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	And	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	keiki	_	_	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	loa	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	lanakila	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	hākōkō	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻAe	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_334
+# text = o Iāpana.
+1	o	_	_	_	_	_	_	_	_
+2	Iāpana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_335
+# text = Well, mea maikaʻi cause, a, hoʻoikaika ʻo ia loaʻa kēia, ʻAe.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	maikaʻi	_	_	_	_	_	_	_	_
+5	cause	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hoʻoikaika	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	loaʻa	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_336
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_337
+# text = pōmai , pōmaikaʻi, yeah? Well, nāu nō i hoʻohanohano iā ia ma kēia mele āu i haku ai.
+1	pōmai	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pōmaikaʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	yeah	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Well	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nāu	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	hoʻohanohano	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	āu	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	haku	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_338
+# text = Hauʻoli nō kēia.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_339
+# text = I kēia manawa, hauʻoli nō kē , kēia, {Mū.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hauʻoli	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kē	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	Mū	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_340
+# text = } haku ʻana o kēia mele.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	haku	_	_	_	_	_	_	_	_
+3	ʻana	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_341
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_342
+# text = That's, uh, no, no kēia kanaka.
+1	That's	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	uh	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	kanaka	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_343
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_344
+# text = Aloha nō wau kona hoʻoikaika ʻana, and uh.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	hoʻoikaika	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	uh	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_345
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_346
+# text = E kala mai ʻoe liʻiliʻi.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	liʻiliʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_347
+# text = So.
+1	So	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_348
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_349
+# text = E hoʻolaha ana au i nā helu kelepona o kēia kahua i hiki nō ka poʻe ke kelepona mai, inā he nīnau paha kā lākou iā ʻoe a i ʻole he mau manaʻo nō paha ko lākou.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolaha	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	helu	_	_	_	_	_	_	_	_
+8	kelepona	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	kahua	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hiki	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	poʻe	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kelepona	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	inā	_	_	_	_	_	_	_	_
+22	he	_	_	_	_	_	_	_	_
+23	nīnau	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	kā	_	_	_	_	_	_	_	_
+26	lākou	_	_	_	_	_	_	_	_
+27	iā	_	_	_	_	_	_	_	_
+28	ʻoe	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	ʻole	_	_	_	_	_	_	_	_
+32	he	_	_	_	_	_	_	_	_
+33	mau	_	_	_	_	_	_	_	_
+34	manaʻo	_	_	_	_	_	_	_	_
+35	nō	_	_	_	_	_	_	_	_
+36	paha	_	_	_	_	_	_	_	_
+37	ko	_	_	_	_	_	_	_	_
+38	lākou	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_350
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_351
+# text = Hiki nō.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_352
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_353
+# text = A, e nā mea e hoʻolohe mai nei i kēia ahiahi, eia nō nā helu kelepona o kēia kahua hoʻolele leo.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolohe	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	eia	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	helu	_	_	_	_	_	_	_	_
+18	kelepona	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	kahua	_	_	_	_	_	_	_	_
+22	hoʻolele	_	_	_	_	_	_	_	_
+23	leo	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_354
+# text = A e ʻoluʻolu mai nō e kāhea mai.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	ʻoluʻolu	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kāhea	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_355
+# text = A, ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻelua	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_356
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_357
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_358
+# text = Me ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻehā.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻekahi	_	_	_	_	_	_	_	_
+9	ʻewalu	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_359
+# text = A ʻo ka helu hope loa ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻelima.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	hope	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	helu	_	_	_	_	_	_	_	_
+9	ʻeiwa	_	_	_	_	_	_	_	_
+10	ʻelua	_	_	_	_	_	_	_	_
+11	ʻekolu	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻekahi	_	_	_	_	_	_	_	_
+14	ʻewalu	_	_	_	_	_	_	_	_
+15	ʻehā	_	_	_	_	_	_	_	_
+16	ʻelima	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_360
+# text = {Amū,} ma mua nō naʻe o ko kāua, kā kaua hoʻomaka ʻana, e hoʻolaha ana nō kēia kahua i wahi hoʻolaha.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	naʻe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	kāua	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kā	_	_	_	_	_	_	_	_
+14	kaua	_	_	_	_	_	_	_	_
+15	hoʻomaka	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	hoʻolaha	_	_	_	_	_	_	_	_
+20	ana	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	kahua	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	wahi	_	_	_	_	_	_	_	_
+26	hoʻolaha	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_361
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_362
+# text = Eia ho , eia hou nō mākou, ʻo Ka Leo Hawaiʻi, a ʻo ko mākou hoa kipa i kēia ahiahi, ʻo Henry Machado.
+1	Eia	_	_	_	_	_	_	_	_
+2	ho	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	eia	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Ka	_	_	_	_	_	_	_	_
+11	Leo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	hoa	_	_	_	_	_	_	_	_
+19	kipa	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	ahiahi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	Henry	_	_	_	_	_	_	_	_
+26	Machado	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_363
+# text = {Amū,} ma mua nō naʻe o ko māua hoʻomau ʻana i kēia papahana, a, makemake nō wau e hoʻolaha iā ʻoukou, e nā Hawaiʻi, i kekahi mea maikaʻi a nā haumāna e hana nei i kēia manawa ma ke Kulanui o Hawaiʻi.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	naʻe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	māua	_	_	_	_	_	_	_	_
+12	hoʻomau	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	papahana	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	makemake	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	wau	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hoʻolaha	_	_	_	_	_	_	_	_
+25	iā	_	_	_	_	_	_	_	_
+26	ʻoukou	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	nā	_	_	_	_	_	_	_	_
+30	Hawaiʻi	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	kekahi	_	_	_	_	_	_	_	_
+34	mea	_	_	_	_	_	_	_	_
+35	maikaʻi	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	nā	_	_	_	_	_	_	_	_
+38	haumāna	_	_	_	_	_	_	_	_
+39	e	_	_	_	_	_	_	_	_
+40	hana	_	_	_	_	_	_	_	_
+41	nei	_	_	_	_	_	_	_	_
+42	i	_	_	_	_	_	_	_	_
+43	kēia	_	_	_	_	_	_	_	_
+44	manawa	_	_	_	_	_	_	_	_
+45	ma	_	_	_	_	_	_	_	_
+46	ke	_	_	_	_	_	_	_	_
+47	Kulanui	_	_	_	_	_	_	_	_
+48	o	_	_	_	_	_	_	_	_
+49	Hawaiʻi	_	_	_	_	_	_	_	_
+50	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_364
+# text = Ke, ke paʻi nei nō lākou i kekahi, a, nūpepa.
+1	Ke	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	paʻi	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	nūpepa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_365
+# text = ʻAʻohe nō kēia he nūpepa maoli nō.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	nūpepa	_	_	_	_	_	_	_	_
+6	maoli	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_366
+# text = ʻAʻohe nui nā mea hou, a, ko loko, akā, a, paʻi nō kēia, a, palapala ma ka ʻōlelo Hawaiʻi, a ma ka ʻōlelo haole nō kekahi, a ma ka ʻōlelo paʻi ʻai nō hoʻi e pili ana i nā kumuhana, a, o Hawaiʻi nei.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	akā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	paʻi	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	palapala	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	ʻōlelo	_	_	_	_	_	_	_	_
+26	Hawaiʻi	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	ma	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	ʻōlelo	_	_	_	_	_	_	_	_
+32	haole	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	kekahi	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	ma	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	ʻōlelo	_	_	_	_	_	_	_	_
+40	paʻi	_	_	_	_	_	_	_	_
+41	ʻai	_	_	_	_	_	_	_	_
+42	nō	_	_	_	_	_	_	_	_
+43	hoʻi	_	_	_	_	_	_	_	_
+44	e	_	_	_	_	_	_	_	_
+45	pili	_	_	_	_	_	_	_	_
+46	ana	_	_	_	_	_	_	_	_
+47	i	_	_	_	_	_	_	_	_
+48	nā	_	_	_	_	_	_	_	_
+49	kumuhana	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	o	_	_	_	_	_	_	_	_
+54	Hawaiʻi	_	_	_	_	_	_	_	_
+55	nei	_	_	_	_	_	_	_	_
+56	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_367
+# text = Nā mea pili i ka Hawaiʻi.
+1	Nā	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	pili	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_368
+# text = A, ʻo ka inoa nō o kēia nūpepa, o kēia palapala, ʻo ia Ka Ulu Hoi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	nūpepa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	palapala	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	Ka	_	_	_	_	_	_	_	_
+18	Ulu	_	_	_	_	_	_	_	_
+19	Hoi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_369
+# text = A inā nō ʻoukou e makemake e loaʻa kēia nūpepa, e ʻoluʻolu nō e kākau mai i ka Māhele Hawaiʻi o ka, o ke Kulanui o Hawaiʻi nei.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	makemake	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	loaʻa	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	nūpepa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	ʻoluʻolu	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	kākau	_	_	_	_	_	_	_	_
+17	mai	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	Māhele	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	Kulanui	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	Hawaiʻi	_	_	_	_	_	_	_	_
+30	nei	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_370
+# text = Kākau wale nō ma ka wahī leka, ka Māhele ʻOlelo Hawaiʻi, Kulanui o Hawaiʻi nei, a hoʻouna mai nō iā mākou, a hiki nō iā mākou ke hoʻouna aku i kēia Ulu Hoi iā ʻoukou.
+1	Kākau	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	wahī	_	_	_	_	_	_	_	_
+7	leka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	Māhele	_	_	_	_	_	_	_	_
+11	ʻOlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Kulanui	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Hawaiʻi	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	hoʻouna	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	iā	_	_	_	_	_	_	_	_
+24	mākou	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	hiki	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	iā	_	_	_	_	_	_	_	_
+30	mākou	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	hoʻouna	_	_	_	_	_	_	_	_
+33	aku	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	kēia	_	_	_	_	_	_	_	_
+36	Ulu	_	_	_	_	_	_	_	_
+37	Hoi	_	_	_	_	_	_	_	_
+38	iā	_	_	_	_	_	_	_	_
+39	ʻoukou	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_371
+# text = Kēia palapala Ulu Hoi.
+1	Kēia	_	_	_	_	_	_	_	_
+2	palapala	_	_	_	_	_	_	_	_
+3	Ulu	_	_	_	_	_	_	_	_
+4	Hoi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_372
+# text = Ke paʻa i kā ʻou , i ko ʻoukou helu wahi.
+1	Ke	_	_	_	_	_	_	_	_
+2	paʻa	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kā	_	_	_	_	_	_	_	_
+5	ʻou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	helu	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_373
+# text = Mai poina i ko ʻoukou helu wahi.
+1	Mai	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_374
+# text = E hoʻopaʻa nō ko ʻoukou helu wahi i loko nō o kēia le , a, palapala, a no mākou nō ka hauʻoli e hoʻouna aku i kēia palapala ʻo Ka Ulu Hoi iā ʻoukou.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻopaʻa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	loko	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	le	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	palapala	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	mākou	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	hauʻoli	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	hoʻouna	_	_	_	_	_	_	_	_
+27	aku	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	palapala	_	_	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	Ka	_	_	_	_	_	_	_	_
+33	Ulu	_	_	_	_	_	_	_	_
+34	Hoi	_	_	_	_	_	_	_	_
+35	iā	_	_	_	_	_	_	_	_
+36	ʻoukou	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_375
+# text = A he nui nō nā ʻano kumuhana like ʻole e pili ana i nā mea o ka wā kahiko, mau mea e pili ana i nā mea kanu, o ka, o Hawaiʻi nei.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	kumuhana	_	_	_	_	_	_	_	_
+8	like	_	_	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	pili	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	wā	_	_	_	_	_	_	_	_
+19	kahiko	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	mau	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	pili	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	nā	_	_	_	_	_	_	_	_
+28	mea	_	_	_	_	_	_	_	_
+29	kanu	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	Hawaiʻi	_	_	_	_	_	_	_	_
+36	nei	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_376
+# text = A, he mau manaʻo nō ko kekahi haumāna e hoʻopuka ai, e hōʻike ai ma kēia palapala.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	haumāna	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hoʻopuka	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	hōʻike	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	palapala	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_377
+# text = A inā he mau manaʻo ko ʻoukou e makemake ai e hōʻike, ua hiki nō iā ʻoukou ke hōʻike mai ma kēia palapala ʻo Ka Ulu Hoi.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	makemake	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	hōʻike	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ua	_	_	_	_	_	_	_	_
+15	hiki	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	iā	_	_	_	_	_	_	_	_
+18	ʻoukou	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	hōʻike	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	palapala	_	_	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Ka	_	_	_	_	_	_	_	_
+27	Ulu	_	_	_	_	_	_	_	_
+28	Hoi	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_378
+# text = Akā, ke, ke nonoi aku nei nō au iā ʻoukou e ʻoluʻolu, e kākau mai nō i kēia mau manaʻo ma ka ʻōlelo o ka ʻāina, ʻo ka ʻōlelo Hawaiʻi, i laha nō ka ʻōlelo.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	nonoi	_	_	_	_	_	_	_	_
+7	aku	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	ʻoluʻolu	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	kākau	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	mau	_	_	_	_	_	_	_	_
+23	manaʻo	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	ʻōlelo	_	_	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	ʻāina	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	ʻōlelo	_	_	_	_	_	_	_	_
+34	Hawaiʻi	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	laha	_	_	_	_	_	_	_	_
+38	nō	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	ʻōlelo	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_379
+# text = A, a, ho , mea, paʻi ʻia nō kēia palapala i kēlā me kēia mahina.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ho	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	paʻi	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	palapala	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēlā	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	mahina	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_380
+# text = Hoʻokahi ma , manawa o ka mahina.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mahina	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_381
+# text = ʻAe, a, e hoʻi hou ana nō wau i ko, ko mākou hoa kipa, ʻo Hanalē Machado, kanaka akamai nō i ka haku mele.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ko	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	hoa	_	_	_	_	_	_	_	_
+17	kipa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Hanalē	_	_	_	_	_	_	_	_
+21	Machado	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	kanaka	_	_	_	_	_	_	_	_
+24	akamai	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	haku	_	_	_	_	_	_	_	_
+29	mele	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_382
+# text = A, he m , a, he mele hou aʻe nō kāu i kēia manawa, ʻeā, e makemake ai e hoʻokani ai no, no mākou, pili ana i kou, a, hele ʻana i Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	m	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	hou	_	_	_	_	_	_	_	_
+11	aʻe	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	kāu	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	manawa	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻeā	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	makemake	_	_	_	_	_	_	_	_
+22	ai	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hoʻokani	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	mākou	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	pili	_	_	_	_	_	_	_	_
+32	ana	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	kou	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	hele	_	_	_	_	_	_	_	_
+39	ʻana	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	Hawaiʻi	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_383
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_384
+# text = I kēia, ʻaha kīwila.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaha	_	_	_	_	_	_	_	_
+5	kīwila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_385
+# text = Kēia, ha , haku ʻana ka mele, a, he mele kāka , a, haku ʻia, only, a, he mea hoʻonanea koʻu pepeiao.
+1	Kēia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	haku	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mele	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	kāka	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	haku	_	_	_	_	_	_	_	_
+19	ʻia	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	only	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	he	_	_	_	_	_	_	_	_
+26	mea	_	_	_	_	_	_	_	_
+27	hoʻonanea	_	_	_	_	_	_	_	_
+28	koʻu	_	_	_	_	_	_	_	_
+29	pepeiao	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_386
+# text = Akā, ʻaʻole au i, he, a, kanaka, a, naʻauao loa, akā he kanaka au ma ka puʻuwai.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kanaka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	naʻauao	_	_	_	_	_	_	_	_
+16	loa	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	akā	_	_	_	_	_	_	_	_
+19	he	_	_	_	_	_	_	_	_
+20	kanaka	_	_	_	_	_	_	_	_
+21	au	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	puʻuwai	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_387
+# text = Akā ka inoa, he Pukikī.
+1	Akā	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	Pukikī	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_388
+# text = Aloha nō wau ka, kēia, ka poʻe Hawaiʻi, ʻĒ.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻĒ	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_389
+# text = ka nīnau Hawaiʻi, moʻolelo Hawaiʻi.
+1	ka	_	_	_	_	_	_	_	_
+2	nīnau	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	moʻolelo	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_390
+# text = Hele wau e huli i nā pōmaikaʻi i, ma, ma, ma kēia māhele o nā poʻe Hawaiʻi.
+1	Hele	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	huli	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	pōmaikaʻi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	māhele	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	Hawaiʻi	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_391
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_392
+# text = A, ua kapa ʻia mau mele, he aha ka, ho , hoʻohana ʻana, ka huli a loaʻa ka pōmaikaʻi i laila.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	kapa	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	aha	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ho	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hoʻohana	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	huli	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	loaʻa	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	pōmaikaʻi	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	laila	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_393
+# text = A, komo wau, a, mea, i loko o kēia hui kīwila ʻo Kalihi-Pālama.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	komo	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	loko	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	hui	_	_	_	_	_	_	_	_
+15	kīwila	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Kalihi	_	_	_	_	_	_	_	_
+18	-	_	PUNCT	_	_	_	_	_	_
+19	Pālama	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_394
+# text = A, ma mua o ko mākou hele ʻana ma, ma, Ko , a, Hilo, Hawaiʻi, komo mā , hīmeni mākou i kēia mele, ua kākau au, ua haku ʻia kēia mele.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Ko	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Hilo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Hawaiʻi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	komo	_	_	_	_	_	_	_	_
+23	mā	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	hīmeni	_	_	_	_	_	_	_	_
+26	mākou	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	mele	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ua	_	_	_	_	_	_	_	_
+32	kākau	_	_	_	_	_	_	_	_
+33	au	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ua	_	_	_	_	_	_	_	_
+36	haku	_	_	_	_	_	_	_	_
+37	ʻia	_	_	_	_	_	_	_	_
+38	kēia	_	_	_	_	_	_	_	_
+39	mele	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_395
+# text = Huakaʻi Hele Mai Honolulu I Hilo.
+1	Huakaʻi	_	_	_	_	_	_	_	_
+2	Hele	_	_	_	_	_	_	_	_
+3	Mai	_	_	_	_	_	_	_	_
+4	Honolulu	_	_	_	_	_	_	_	_
+5	I	_	_	_	_	_	_	_	_
+6	Hilo	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_396
+# text = Hoʻomaʻamaʻa, hīmeni mākou a hāʻule mākou, ʻaʻole loaʻa mākou kēia, a, paʻa , m , paʻanaʻau i kēia mele.
+1	Hoʻomaʻamaʻa	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hīmeni	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hāʻule	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻole	_	_	_	_	_	_	_	_
+10	loaʻa	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	paʻa	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	m	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	paʻanaʻau	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	mele	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_397
+# text = Akā, no ke kumu ʻo ia nō a, ko mākou kumu, a, aʻo hīmeni, a, haʻalele.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	kumu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	aʻo	_	_	_	_	_	_	_	_
+18	hīmeni	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	haʻalele	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_398
+# text = Paʻa ʻo ia i ka, 30:13 i loko o ka opera ma Honolulu.
+1	Paʻa	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	30	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	13	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	loko	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	opera	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	Honolulu	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_399
+# text = ʻO ia ka, ka lua o ka, ka alakaʻi hīmeni i laila.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	lua	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	alakaʻi	_	_	_	_	_	_	_	_
+12	hīmeni	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	laila	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_400
+# text = So, ʻano pilikia nō mākou, akā hele nō mākou ma, ma Hilo no kēia hui nui ʻo ka hi , hui kīwila ma Hilo.
+1	So	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	pilikia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	akā	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	Hilo	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	hui	_	_	_	_	_	_	_	_
+19	nui	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	hui	_	_	_	_	_	_	_	_
+25	kīwila	_	_	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	Hilo	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_401
+# text = Akā, ua kapa wau kēia mele, Huakaʻi Mai Honolulu I Hilo.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	kapa	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Huakaʻi	_	_	_	_	_	_	_	_
+10	Mai	_	_	_	_	_	_	_	_
+11	Honolulu	_	_	_	_	_	_	_	_
+12	I	_	_	_	_	_	_	_	_
+13	Hilo	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_402
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_403
+# text = Nani nō ka manaʻo.
+1	Nani	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_404
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_405
+# text = ʻAe, hīmeni maila.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hīmeni	_	_	_	_	_	_	_	_
+4	maila	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_406
+# text = Mahalo, mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_407
+# text = Nani nō ka mele.
+1	Nani	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_408
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_409
+# text = E kala mālie m , e kala mai iaʻu.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mālie	_	_	_	_	_	_	_	_
+4	m	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kala	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	iaʻu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_410
+# text = Ke aloha mai nō.
+1	Ke	_	_	_	_	_	_	_	_
+2	aloha	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_411
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_412
+# text = } E kala mai iaʻu.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	E	_	_	_	_	_	_	_	_
+3	kala	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_413
+# text = Ua ʻano pilikia mai nei kēia mīkini ma ʻaneʻi nei.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	pilikia	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mīkini	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ʻaneʻi	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_414
+# text = E, e nā mea i kelepona mai nei, e ʻoluʻolu ʻoe e, ʻoluʻolu ʻolua e kelehop , kelepona hou mai, no ka mea, ua ʻano pilikia mai nei nō kēia mīkini i kēia manawa.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kelepona	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	ʻoluʻolu	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻoluʻolu	_	_	_	_	_	_	_	_
+17	ʻolua	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	kelehop	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kelepona	_	_	_	_	_	_	_	_
+22	hou	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	mea	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ua	_	_	_	_	_	_	_	_
+30	ʻano	_	_	_	_	_	_	_	_
+31	pilikia	_	_	_	_	_	_	_	_
+32	mai	_	_	_	_	_	_	_	_
+33	nei	_	_	_	_	_	_	_	_
+34	nō	_	_	_	_	_	_	_	_
+35	kēia	_	_	_	_	_	_	_	_
+36	mīkini	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	kēia	_	_	_	_	_	_	_	_
+39	manawa	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_415
+# text = A, e pili ana nō i ko ʻoukou hele ʻana i Hawaiʻi no kēia ʻahahui, a, no kēia ʻaha o, o nā ʻahahui kīwila Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	pili	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ʻahahui	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	ʻaha	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	ʻahahui	_	_	_	_	_	_	_	_
+28	kīwila	_	_	_	_	_	_	_	_
+29	Hawaiʻi	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_416
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_417
+# text = Pehea no nā, he aha nā mea i hoʻoholo ʻia ma kēia ʻahahui, me kēia ʻaha? ʻŌ, kēia, kēia ʻaha, hōʻike nā, nā mea hoʻoholo ai no ka pōmaikaʻi no nā poʻe Hawaiʻi.
+1	Pehea	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	aha	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hoʻoholo	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ʻahahui	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	ʻaha	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻŌ	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	ʻaha	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	hōʻike	_	_	_	_	_	_	_	_
+28	nā	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	mea	_	_	_	_	_	_	_	_
+32	hoʻoholo	_	_	_	_	_	_	_	_
+33	ai	_	_	_	_	_	_	_	_
+34	no	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	pōmaikaʻi	_	_	_	_	_	_	_	_
+37	no	_	_	_	_	_	_	_	_
+38	nā	_	_	_	_	_	_	_	_
+39	poʻe	_	_	_	_	_	_	_	_
+40	Hawaiʻi	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_418
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_419
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_420
+# text = Nā, nui nā, nui nā, {amū,} hana nei, nui nā mea e hana nei i, i po , mea, i, no nā, no nā poʻe kama iki.
+1	Nā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	amū	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	}	_	PUNCT	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	nui	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	nei	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	po	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	mea	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	no	_	_	_	_	_	_	_	_
+32	nā	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	no	_	_	_	_	_	_	_	_
+35	nā	_	_	_	_	_	_	_	_
+36	poʻe	_	_	_	_	_	_	_	_
+37	kama	_	_	_	_	_	_	_	_
+38	iki	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_421
+# text = You know.
+1	You	_	_	_	_	_	_	_	_
+2	know	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_422
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_423
+# text = Hoʻoikaika ma laila ka poʻe keiki, ʻĒ.
+1	Hoʻoikaika	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	keiki	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_424
+# text = nā education nō hoʻi.
+1	nā	_	_	_	_	_	_	_	_
+2	education	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_425
+# text = Kākoʻo aku nō i kēia poʻe, Ka , ka , ʻae.
+1	Kākoʻo	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻae	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_426
+# text = ʻĀpono.
+1	ʻĀpono	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_427
+# text = kamaliʻi, ē? ʻAe.
+1	kamaliʻi	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ē	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_428
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_429
+# text = ʻAe, mahalo nui kēia kāhea ʻana.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kāhea	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_430
+# text = Ua kamaʻāina, ʻano kamaʻāina nō kēia wahine, ʻo Mālia i kou ʻohana, no ka mea, no Kona nō ʻo ia, a aia nō kekahi poʻe ʻohana ke noho maila i Kona kēia manawa.
+1	Ua	_	_	_	_	_	_	_	_
+2	kamaʻāina	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	kamaʻāina	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	wahine	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Mālia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kou	_	_	_	_	_	_	_	_
+14	ʻohana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	Kona	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	aia	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	poʻe	_	_	_	_	_	_	_	_
+31	ʻohana	_	_	_	_	_	_	_	_
+32	ke	_	_	_	_	_	_	_	_
+33	noho	_	_	_	_	_	_	_	_
+34	maila	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	Kona	_	_	_	_	_	_	_	_
+37	kēia	_	_	_	_	_	_	_	_
+38	manawa	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_431
+# text = Ua ʻano kamaʻāina au me kēia ʻohana no kēia wahine, ʻaʻole ʻo ia he Machado, male mai nei nō paha i ka Machado, kekahi Machado, a aia nō ke noho nei i Hōnaunau kēia manawa.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	kamaʻāina	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	wahine	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻaʻole	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	Machado	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	male	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	paha	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	Machado	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	kekahi	_	_	_	_	_	_	_	_
+28	Machado	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	aia	_	_	_	_	_	_	_	_
+32	nō	_	_	_	_	_	_	_	_
+33	ke	_	_	_	_	_	_	_	_
+34	noho	_	_	_	_	_	_	_	_
+35	nei	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	Hōnaunau	_	_	_	_	_	_	_	_
+38	kēia	_	_	_	_	_	_	_	_
+39	manawa	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_432
+# text = ʻO ia ka mea nona kēia hale kūʻai ma laila.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	nona	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hale	_	_	_	_	_	_	_	_
+8	kūʻai	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_433
+# text = A, he mele hou nō kāu i haku ai no kēia huakaʻi, o, i, a, Canada.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kāu	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	haku	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	huakaʻi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	Canada	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_434
+# text = Ka , Kanakā.
+1	Ka	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Kanakā	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_435
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_436
+# text = Kanakā.
+1	Kanakā	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_437
+# text = A makahiki hea kēia āu i hele, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	hea	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	āu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_438
+# text = ʻElua makahiki a ʻoi wau hele.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ʻoi	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_439
+# text = ʻElua a ʻoi makahiki.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ʻoi	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_440
+# text = ʻElua makahiki, a ua hala, ua hala aku nei.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ua	_	_	_	_	_	_	_	_
+9	hala	_	_	_	_	_	_	_	_
+10	aku	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_441
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_442
+# text = ʻAe, mahalo nui.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_443
+# text = He maikaʻi nō ma kekahi ʻano i ka, ka hoʻomākaʻikaʻi ʻana i nā ʻāina ʻē, akā he aloha nō, he ʻoi aku paha ka nani o ka hoʻi hou ʻana i ka ʻāina o Hawaiʻi nei.
+1	He	_	_	_	_	_	_	_	_
+2	maikaʻi	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hoʻomākaʻikaʻi	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	ʻē	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	akā	_	_	_	_	_	_	_	_
+19	he	_	_	_	_	_	_	_	_
+20	aloha	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	ʻoi	_	_	_	_	_	_	_	_
+25	aku	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	nani	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	hoʻi	_	_	_	_	_	_	_	_
+32	hou	_	_	_	_	_	_	_	_
+33	ʻana	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	ʻāina	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	Hawaiʻi	_	_	_	_	_	_	_	_
+39	nei	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_444
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_445
+# text = Kanakā.
+1	Kanakā	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_446
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_447
+# text = Kanakā.
+1	Kanakā	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_448
+# text = A, makahiki hea kēia? Āu i hele, ʻElua makahiki au i hele.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	makahiki	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Āu	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻElua	_	_	_	_	_	_	_	_
+12	makahiki	_	_	_	_	_	_	_	_
+13	au	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_449
+# text = ʻElua a ʻoi makahiki? ʻElua makahiki, a ua hala, a ua hala aku nei.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ʻoi	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻElua	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	hala	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	ua	_	_	_	_	_	_	_	_
+15	hala	_	_	_	_	_	_	_	_
+16	aku	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_450
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_451
+# text = ʻAe mahalo nui.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_452
+# text = He maikaʻi nō ma kekahi ʻano i ka, ka hoʻomākaʻikaʻi ʻana i nā ʻāina ʻē, akā, he aloha nō, he ʻoi aku paha ka nani o ka hoʻi hou ʻana i ka ʻāina ʻo Hawaiʻi nei.
+1	He	_	_	_	_	_	_	_	_
+2	maikaʻi	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hoʻomākaʻikaʻi	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	ʻē	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	akā	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	aloha	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	he	_	_	_	_	_	_	_	_
+25	ʻoi	_	_	_	_	_	_	_	_
+26	aku	_	_	_	_	_	_	_	_
+27	paha	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	nani	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	hoʻi	_	_	_	_	_	_	_	_
+33	hou	_	_	_	_	_	_	_	_
+34	ʻana	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	ka	_	_	_	_	_	_	_	_
+37	ʻāina	_	_	_	_	_	_	_	_
+38	ʻo	_	_	_	_	_	_	_	_
+39	Hawaiʻi	_	_	_	_	_	_	_	_
+40	nei	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_453
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_454
+# text = Mahalo no kēia kāhea ʻana a, mahalo nō hoʻi no kēia hele ʻana mai e kamaʻilio pū nō ma ka ʻōlelo m , Hawaiʻi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mahalo	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	kamaʻilio	_	_	_	_	_	_	_	_
+18	pū	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	m	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_455
+# text = {Amū,} no ka mea, ua hiki mai nō mākou ma ka hopena o kēia papahana, akā e hana hou ana nō i kēia Poʻalua aʻe.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hopena	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	papahana	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	akā	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hana	_	_	_	_	_	_	_	_
+24	hou	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	Poʻalua	_	_	_	_	_	_	_	_
+30	aʻe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_456
+# text = E, e mau ana nō kēia papahana, a, a hiki mai nō ka mahina ʻo Mei.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	papahana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	hiki	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mahina	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Mei	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_457
+# text = No laila e Hanalei , mahalo nui i kou hele ʻana mai, a me ka hōʻike ʻana mai i nā mele āu i haku ai.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	Hanalei	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mahalo	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hōʻike	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	mele	_	_	_	_	_	_	_	_
+23	āu	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	haku	_	_	_	_	_	_	_	_
+26	ai	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_458
+# text = He nui wale nō nā mele akā ʻaʻohe nō lawa ka manawa no ka hīmeni ʻana aku.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	akā	_	_	_	_	_	_	_	_
+8	ʻaʻohe	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	lawa	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hīmeni	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	aku	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_459
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_460
+# text = Hele wau kēia pō ma ʻaneʻi me ka hopohopo, me ka makaʻu, a haʻalulu, a pēlā aku.
+1	Hele	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	pō	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ʻaneʻi	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hopohopo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	makaʻu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	haʻalulu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	pēlā	_	_	_	_	_	_	_	_
+20	aku	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_461
+# text = Pēia nō me aʻu i nā manawa a pau.
+1	Pēia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	aʻu	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_462
+# text = But hana nō ka mea hiki.
+1	But	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_463
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_464
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_465
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_466
+# text = A mahalo nui iā ʻoukou, e nā Hawaiʻi e hoʻolohe mai nei iā mākou i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hoʻolohe	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	nei	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	ahiahi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.021_Henry_Machado_19730206_467
+# text = A, aloha nui iā ʻoukou a pau loa a hui hou aku nō kākou i kēia Poʻalua aʻe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	hui	_	_	_	_	_	_	_	_
+12	hou	_	_	_	_	_	_	_	_
+13	aku	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	Poʻalua	_	_	_	_	_	_	_	_
+19	aʻe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+

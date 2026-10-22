@@ -1,0 +1,1579 @@
+00:01	# This is Hawaiian tape HV24 reel 54a.
+00:07	Hui Aloha ‘Āina Tuahine
+		> Ka hui nō ka ‘oi ma ke Kulanui o Hawai‘i
+		Hui Aloha ‘Āina Tuahine, ‘eā ‘eā
+00:38	#The Gas Company and the gas appliance dealers in Hawai‘i are pleased to present ninety minutes devoted to the Hawaiian language. This program is produced by students of the University of Hawai‘i's Hui Aloha ‘Āina Tuahine. And now, Ka Leo Hawai‘i.
+00:58 KB	## E nā makamaka aloha o Ka Leo Hawai‘i, eia nō mākou ke kipa aku nei i loko nō o ka ‘olu o ko ‘oukou home i kēia ahiahi. E hui ‘ōlelo kākou i kēia hola hapalua, e ho‘omaka ana i ka hapalua hola ‘eono a i ka hola ‘ewalu i nā ahiahi Lāpule a pau ma ka ‘ōlelo o ka ‘āina, ka ‘ōlelo Hawai‘i.
+01:28 LK 	Me ‘oukou a pau, e nā hoa makamaka mai Hawai‘i a Ni‘ihau, aloha pumehana kākou a pau loa. Hau‘oli nō mākou i kēia ahiahi. ke kipa ‘ana mai o ko kākou hoa kipa, ‘o ia nō ‘o Mrs. ‘Elikāpeka Kaleikoa, me kāna kāne ‘o Kale Kaleikoa, a me kā lāua kaikamahine ‘o Haunani Bernardino. Aloha nui kākou.
+01:57 EK1	Aloha.
+01:59 LK	Pehea ‘oukou kēia ahiahi?
+02:01 EK1	Maika‘i.
+02:01 LK	Maika‘i nō? Mahalo nui ko ‘olua, ko ‘oukou hele ‘ana mai kēia ahiahi e kama‘ilio pū nō me a‘u a me, me ko kākou po‘e e ho‘olohe ana, ke, ke ho‘olohe nei i kēia ahiahi. E ‘olu‘olu ‘oe, e ‘Elikāpeka, e ha‘i mai kou ‘āina hānau.
+02:23 EK1	Hānau wau i Hilo, Waiākea, a hānai wau ko‘u mau mākua, nā kūpuna i, i Honolulu nei.
+02:34 LK	I Honolulu nei. ‘A‘ohe lō‘ihi loa kou noho ‘ana i Waiākea?
+02:38 EK1	‘A‘ole.
+02:39 LK	Hānau wale nō, a lawe hānai ‘ia ‘oe?
+02:41 EK1	ʻAʻole.
+02:42 LK	‘A‘ohe?
+02:42 EK1	‘A‘ohe. Hānau wau, a.
+02:46 LK	A noho ‘oe ma Hilo?
+02:47 EK1	An^^, n^^, noho, noho wau i Hilo. A, maka^^, ho‘okahi makahiki a ‘oi paha, I think.
+02:53 LK	‘Ē.
+02:53 EK1	A hā‘awi ai ko‘u māmā pono‘ī i ku‘u mau kūpuna.
+02:58 LK	{Mū.)
+02:59 EK1	A na lāua i hānai ia‘u.
+03:01 LK	‘O wai ka inoa o kou mau mākua?
+03:04 EK1	‘O ‘Ilikāpeka^^(ʻElikāpeka) ka inoa o ku‘u māmā,
+03:07 LK	‘Ē.
+03:08 EK1	a ‘o, ‘o Daniel ku‘u pāpā.
+03:11 LK	‘Ae.
+03:12 EK1	‘O ka inoa hope, Amina.
+03:14 LK	‘Ae, ʻae, Amina. ‘Ae. A, a ka, ‘o ka inoa o kou mau kūpuna?
+03:24 EK1	‘O Akana. ‘O Alice Akana, ‘o Wiliama Akana.
+03:28 LK	{A.} A ‘o ko^^, no Honolulu no lāua?
+03:33 EK1	No Honolulu nō.
+03:34 LK	‘Ae. A pehea, ua ma^^, maopopo nō ia‘u, ua ho‘omākaukau mai nei nō ‘oukou i mele no kou ‘āina hānau, ‘eā, ‘o, ‘o Hilo?
+03:50 EK1	Yes, e hīme^^, ‘o ʻoe, mamake iā mākou e hīmeni koʻu, kuʻu mele !!
+03:53 LK	‘Ae, inā hiki nō, no ka mea. ^^^
+03:55 EK1	Hiki nō. ^^^
+03:56 LK	Hiki nō?
+03:57 EK1	Hiki nō.
+03:58 LK	‘Ae.
+03:58 EK1	No Waiākea wau, hānau wau i Waiākea, no laila, inā hiki ia‘u ke hīmeni, a nā mele o Waiākea.
+04:06 LK	‘Ae, hiki. Mea maika‘i nō kēlā. No ka mea, he ‘āina kaulana nō kēlā i ka ua Kanilehua, ‘ae. ^^^
+04:15 EK1	Pololei.
+04:16 LK	Ko kāua ‘āina hānau nō kēlā, no ka mea, no Hawai‘i au. Akā, ma kēlā ‘ao‘ao ma ‘ō o nā Kohala. No Waimea au.
+04:25 EK1	ʻŌ.
+04:25 LK	A ‘o ‘oe no Hilo.
+04:26 EK1	No Hilo.
+04:27 LK	No, no Hāmākua, ʻae. No Puna. ‘Ae. E kū ana ‘oe i luna e hīmeni ai?
+04:38 EK1	E hīmeni, ʻō, ok.
+04:38 LK	‘Ae, hiki nō, hiki.
+04:41 EK1	Ko mākou mele e hīmeni ai, ka mele ‘o Kūhiō Bay.
+04:45 LK	Kūhiō Bay, ‘ae, hiki. A, e nā makamaka, ‘o nā po‘e ‘akahi nō a ho‘okani i ko ‘oukou pahu lēkiō i kēia ahiahi, ko kākou hoa kipa kēia ahiahi, ‘o ia ‘o ‘Elikāpeka Kaleikoa, a e hīmeni ana nō ‘o ia me kāna kāne ‘o Kale, a me kā lāua kaikamahine ‘o Haunani i kēia manawa, kēia mele ‘o Kūhiō Bay.
+05:14	Kūhiō Bay
+		‘Akahi ho‘i a ‘ike ku‘u maka
+		I ka nani a‘o Waiākea
+		‘A‘ohe lua e like ai
+		Me ka nani a me ka nani a‘o Kūhiō Bay
+		Me ka nani a me ka nani a‘o Kūhiō Bay
+
+		Mahalo a‘e au i ka nani a‘o Hilo
+		I ka ua a‘e ho‘opulu nei
+		‘Oni ana Mokuola ‘au i ke kai
+		ʻO ua ‘āina i kaulana nei
+		ʻO ua ‘āina i kaulana nei
+
+		‘Akahi ho‘i a ‘ike ku‘u maka
+		I ka nani a‘o Waiākea
+		‘A‘ohe lua e like ai
+		Me ka nani a me ka nani a‘o Kūhiō Bay
+		Me ka nani a me ka nani a‘o Kūhiō Bay
+07:21 LK	Mahalo. Welina nō ke aloha no Hilo. Mahalo nui kēia hīmeni ‘ana. Nahenahe maoli nō kā ‘ou^^, kā ‘oukou hīmeni ‘ana.
+07:33 EK1	Mahalo.
+07:34 LK	^^^ Ua, he hana ma‘a nō paha kēia iā ‘oe.
+07:38 EK1	‘Ae.
+07:39 LK	‘Ae. No ka mea, ua, ua ne‘e nō ‘olua me kāu kāne i Guam kahi e noho nei i kēia manawa, ‘eā?
+07:49 EK1	‘Ae. ‘Ae, ua n^^, n^^, noho nei wau i, neʻe iho nei wau i, i Guam, ‘umikūmāhiki^^, ‘umikūmā^^, ^^^ hiku makahiki,
+08:02 LK	ʻAe.
+08:03 EK1 	a hiki i kēia lā.
+08:04 LK	Lō‘ihi loa. ʻAe. Pehea kēlā ‘āina iā ‘olua?
+08:07 EK1	He ‘āina maika‘i nō.
+08:09 LK	ʻAe.
+08:10 EK1	Nui ka wela.
+08:11 LK	Nui ka wela.
+08:12 EK1	A maika‘i nā po‘e a pau o laila.
+08:14 LK	‘Ae.
+08:14 EK1	Like pū ka po‘e ma laila me ka po‘e paniolo.
+08:18 LK	‘Ae.
+08:18 EK1	Ko lākou ‘ano wala‘au ‘ana,
+08:20 LK	‘Ē.
+08:20 EK1	Like pū me ka po‘e paniolo. Hapa hapa^^.
+08:23 LK	A pehea ke ‘ano o ka ‘āina? ‘Ano like nō paha me O‘ahu nei?
+08:27 EK1	Like nō.
+08:28 LK1	He mauna ko kēlā mokupuni?
+08:29 EK1	Yeah, he mau nō.
+08:31 LK	ʻĒ.
+08:31 EK1	He po‘e Hawai‘i ma laila.
+08:36 LK	‘Ae.
+08:36 EK1	A po‘e Kepanī^^.
+08:38 LK	‘Ē, ʻē.
+08:38 EK1	A ka po‘e Pākē.
+08:40 LK	‘Ae.
+08:40 EK1	Nā ‘ano, nā ‘ano lāhui a pau,
+08:43 LK	‘Ae.
+08:44 EK1	ke noho nei i, i Guam.
+08:47 LK	‘Ae.
+08:47 EK1	I kēia manawa, nui ‘ino ka po‘e tourist, hele mai i laila,
+08:51 LK	{Mū.}
+08:52 EK1	po‘e Kepanī. Nui ‘ino hōkele.
+08:55 LK	Nui ‘ino ka hōkele ma laila?
+08:56 EK1	ʻAe.
+08:56 LK	Auē.
+08:57 EK1	‘Eono, ‘eono hōkele, nui i kēia manawa.
+09:00 LK	Kā^. ‘A‘ohe ‘āina hōkele ‘ole i kēia manawa?
+09:04 EK1	‘A‘ole.
+09:04 LK	^^^
+09:05 EK1	^^^
+09:07 LK	Ua^^.
+09:07 EK1	‘O Guam,
+09:08 LK	‘Ē.
+09:08 EK1	ma mua kuʻu neʻe ʻana i Guam, lākou ‘a‘ole loa‘a hōkele.
+09:11 LK	‘Ē.
+09:12 EK1	Ho‘okahi wale nō hōkele, hōkele li‘ili‘i. But kēia manawa, hō‘ea mai nei wahi po‘e Kepanī,
+09:17 LK	‘Ē.
+09:17 EK1	a nui ‘ino hōkele.
+09:19 LK	‘Ae, ‘o lākou ka po‘e ‘ona miliona, ‘ona kālā.
+09:21 EK1	‘O ia ho‘i.
+09:23 LK	‘Ē.
+09:23 EK1	‘O lākou ka po‘e miliona.
+09:24 LK	^^^
+09:24 EK1	Loa‘a ka kālā. Maika‘i maila i loko o ko lākou hele mai i Guam, a loa‘a hana no ka po‘e Guamanian.
+09:30 LK	‘Ae. Maika‘i nō. Pehea ka nui o kēlā mokupuni ‘o Guam? ‘Ano like nō paha me ko O‘ahu nei?
+09:38 EK1	Like nō.
+09:39 LK	‘Ē.
+09:40 EK1	Like nō.
+09:40 LK	ʻAe. A, pehea ke kai? Nui ka i‘a paha?
+09:44 EK1	He i‘a nō.
+09:45 LK	‘Ē. A, ‘a‘ole like pū me Hawai‘i nei.
+09:48 LK	No ke aha?
+09:49 EK1	Well, becau^^, kohu mea, you know, ka i‘a nō, ‘a‘ole ‘ono because ‘a‘ole loa‘a limu.
+09:55	^^^
+09:55 LK	‘Ae. ^^^
+09:55 EK1	^^^ ‘O kekahi wahi nō, he, he limu nō, but, a,
+09:59 LK	‘Ē.
+09:59 EK1	li^^, ‘a‘ole like pū me ko kā^^, mākou i‘a,
+10:02 LK	‘Ē.
+10:02 EK1	o ne‘i nei.
+10:04 LK	‘O ka i‘a o ne‘i nei, ‘ai nō ka limu.
+10:06 EK1	Yeah. Aia ma laila ka ‘ono ai.
+10:07 LK	‘Ae, a ‘ai pū nō ho‘i ka i‘a me ka limu nō?
+10:11 EK1	!!
+10:11 LK	O, o, o, o Hawai‘i nei? Ma laila, ‘a‘ohe?
+10:14 EK1	‘A‘ohe.
+10:15 LK	Pehea nā limu, he, he limu nō ko laila, ‘eā?
+10:18 EK1	Kēlā ‘ano limu li‘ili‘i, a, like pū me ka, ko mākou limu manauea.
+10:23 LK	‘Ae.
+10:24 EK1	A loa‘a nō kēlā ‘ano, but, lō‘i^^, n^^, loloa, you know,
+10:27 LK	‘Ē, ‘ē.
+10:26 EK1	Lō‘ihi loa. Inā ‘oe, ‘a‘ole hiki iā ‘oe ‘ai kēlā ‘ano ma mua o ka, ka kuke ‘ana i loko o ka wai wela. ^^^
+10:34 LK	Wai we^^. ^^^
+10:34 EK1	A laila, ‘ono ai, ʻeā. ^^^ Aia nō na‘e, ‘a‘ole ‘ono, you know.
+10:38 LK	‘Ē, ē. ^^^
+10:39 EK1	^^^
+10:40 LK	A pehea ke kai, a he, he laupapa paha e ka‘apuni ana ma waho a‘e o ka mo^^.
+10:44 EK1	Yes, he laupapa, yeah, he laupapa nō.
+10:47 LK	‘Ē.
+10:48 EK1	Only ka wahi e, e, e ‘au‘au ai.
+10:51 LK	‘Ē.
+10:52 EK1	‘A‘ole maika‘i loa. Nui ka pōhaku.
+10:55 LK	{A, a, a.}
+10:57 EK1	But ‘o loko o ka, ‘o loko o ka, ka wahi o ka po‘e e military,
+11:02 LK	{Mū.}
+11:02 EK1	You know, ka po‘e,
+11:03 LK	Po‘e koa.
+11:03 EK1	po‘e koa, ka po‘e N^^, o ka Navy nō,
+11:06 LK	Navy, ‘ae.
+11:07 EK1	A ma laila nō, maika‘i ka po‘e, ^^ ka wahi e ‘au‘au ai.
+11:11 LK	‘Ae. A, he aha ka ‘ai o, o ka po‘e kānaka? Ka po‘e maoli, ka po‘e kama‘āina o kēlā wahi?
+11:21 EK1	Well, he, he poi, a he poi ko mākou.
+11:24 LK	‘Ē, ‘ē.
+11:24 EK1	A na ka Navy nō e, e, e lawe mai ai,
+11:27 LK	E lawe.
+11:28 EK1	ma, ma Honolulu nei,
+11:29 LK	‘Ē.
+11:30 EK1	and ʻo nā ‘ano, a, nā ‘ano mea‘ai like pū me ka la^^ a, ‘ai Kepanī,
+11:37 LK	‘Ē, ʻē.
+11:38 EK1	ka ‘ai Pākē,
+11:39 LK	‘Ae. A ‘o kēia po‘e maoli, ka po‘e paniolo? Guamanian?
+11:45 EK1	Ko lākou mea‘ai,
+11:46 LK	‘Ē.
+11:47 EK1	kēlā ‘ano laiki ‘ula‘ula.
+11:49 LK	‘Ula‘ula ka laiki?
+11:50 EK1	Yeah. Yeah, ‘ula‘ula ko lākou a, loa‘a he ke‘oke‘o nō ka laiki, but, hana nō lākou kēlā ‘ano, a, a, ^^ ke^^, kekahi lā‘au, he lā‘au nō, kekahi, and, hui pū i loko o ka laiki,
+12:04 LK	‘Ē.
+12:05 EK1	ke‘oke‘o, a, ‘ula‘ula mai.
+12:07 LK	{A, a.}
+12:08 EK1	And.
+12:08 LK	‘O kēlā, a, ‘a‘ole kēlā ka mea, pehea lā ma ka ‘ōlelo Hawai‘i, but, lohe nō kēlā ‘ano, a, nut, he beetlenut paha.
+12:18 EK1	Oh yeah. Kēlā po‘e, nā manawa, ‘a‘ole hiki lākou ke n^^, a  ke ‘ai inā ‘a‘ole kēlā, kēlā nut.
+12:25 LK	‘Ē. ^^^
+12:25 EK1	He Beetlenut kēlā. ^^^ Kēlā ‘ano, kēlā ‘ano nut, he,
+12:29 LK	‘Ē.
+12:29 EK1	‘ula‘ula, you know.
+12:30 LK	Nau nō kēnā ‘ano hua, ē?
+12:30 EK1	!! Yeah.
+12:33 LK	Naunau.
+12:34 EK1	Naunau, yeah.
+12:35 LK	‘Ē.
+12:35 EK1	Naunau kēlā ‘ano hua. Right? Pololei?
+12:38 LK	‘Ai maka nō lākou. He, he ‘ai maoli kēlā, a i ‘ole, he naunau wale nō a kuha i waho?
+12:43 EK1	Well, he ‘ai nō a kuha i waho.
+12:45 LK	‘Ō.
+12:46 EK1	Well, ‘a‘ole hiki iā lākou ke moni because ‘ano, you know,
+12:49 LK	‘Awa‘awa?
+12:49 EK1	‘Awa‘awa. Yeah.
+12:50 LK	‘Ē.
+12:51 EK1	‘Awa‘awa.
+12:52 LK	Pehea, ua ‘ai ‘oe?
+12:53 EK1	‘A‘ole.
+12:54 LK	^^^
+12:54 EK1	‘O ia ho^^, ‘a‘ole hiki ia‘u ke ‘ai i kēlā because ‘awa‘awa.
+12:58 LK	{A.}
+12:58 EK1	Pōniuniu ku‘u po‘o.
+13:00 LK	^^^
+13:00 EK1	^^^
+13:02 LK	Nā keiki a nā mākua, ‘ai nō lākou i kēlā ‘ano mea.
+13:05 EK1	Pololei.
+13:06 LK	{A.}
+13:06 EK1	‘Ae.
+13:07 LK	Pehea ka waha? ‘Ula‘ula paha ka waha?
+13:10 EK1	‘Ō. ‘O ia ka ‘ula‘ula.
+13:13 LK	‘Ē.
+13:13 EK1	Inā lākou ho‘omaka ‘ai kēlā, auē.
+13:15 LK	^^^
+13:16 EK1	Hele a ‘ula‘ula loa ka waha, ‘ula‘ula loa wahi niho,
+13:20 LK	‘Ē.
+13:21 EK1	But, ko lākou mea e ‘ai ai.
+13:22 LK	‘Ē, ‘ē, ‘ē. A pehea kā lākou ho‘omākaukau ‘ana i ka i‘a? He i‘a maka kā lākou?
+13:28 EK1	Yeah, he i‘a maka, he i‘a maʻaka^^ nō ko lākou,
+13:31 LK	ʻĒ.
+13:31 EK1	but, hana ‘ia me ka lemon.
+13:33 LK	‘Ae, ‘ae.
+13:34 EK1	You know.
+13:34 LK	Me ka wai o ka lemi?
+13:33 EK1	Ah yeah. Ka wai o ka lemi, a, a me ka nīoi. Ko lākou ‘ano mea‘ai, wela loa.
+13:41 LK	{A.} ‘A‘ohe a lākou poi, ē?
+13:44 EK1	‘A‘ohe poi, but he kalo nō.
+13:46 LK	ʻAi.
+13:46 EK1	‘Ai nō lākou i ka kalo.
+13:48 LK 	‘Ai ~ {A.}
+13:51 EK1	‘A‘ole, ‘a‘ole a lākou ‘ai poi,
+13:53 LK	{Mū.}
+13:53 EK1	But, kekahi nō ho‘i, ‘ai poi. Kēlā ‘ano, ka po‘e male ai ko kākou ‘ano lāhui, yeah,
+13:58 LK	‘Ae, ʻae.
+13:58 EK1	ma‘a lākou ke ‘ai i ka poi.
+14:00 LK	‘Ae.
+14:00 EK1	Aia nō na‘e, ‘o ka.
+14:02 LK	Kanu kalo lākou?
+14:03 EK1	‘Ae.
+14:04 LK	Kalo lo‘i?
+14:06 EK1	Kalo lo‘i.
+14:08 LK	!!
+14:08 EK1	Nā ‘ano kalo like ‘ole,
+14:09 LK	‘Ē.
+14:10 EK1	e loa‘a ai i lalo o Guam.
+14:11 LK	‘A‘ohe nō paha lawa nā, i ka po‘e Hawai‘i, ē?
+14:14 EK1	‘A‘ole lawa.
+14:14 LK	No ka mea, na ka Navy nō halihali aku i kēia poi mai Hawai‘i aku.
+14:17 EK1	Mai Hawai‘i mai, yes.
+14:18 LK	{A.} ^^^
+14:19 EK1	Pololei.
+14:21 LK	‘Oi aku paha ka ‘ono o ka poi ke ‘oe noho ma kahi mamao o, o ka ‘āina hānau.
+14:26 EK1	‘Ae.
+14:26 LK	Pololei. No ka mea, nānā ‘oe i ka po‘e Hawai‘i e noho ana e^^, ma Kaleponi. Hele lākou kū‘ai i kēia ‘ōmole poi. A n^^, me kēia ‘ōmole poi nō lākou e, e ana i ka, ka ‘ōpū.
+14:41 EK1	{Mū.}
+14:42 LK	ʻĒ.
+14:42 EK1	He, he poi n^^, mo^^, a ‘ōmole poi kā mākou kekahi.
+14:46 LK	‘Ē.
+14:46 EK1	But, kēlā ‘ano ‘ōmole li‘ili‘i. Ka hapa nui o ka po‘e Hawai‘i, inā ‘oe l^^, lākou ‘ai kēlā ‘ano poi, auē.
+14:54 LK	^^^
+14:54 EK1	Maybe ‘umi, ‘umi ‘ōmole, ‘ai a lawa. ^^^ A piha ka ‘ōpū. ^^^
+15:01 LK	Pehea ka ‘ulu?
+15:02 EK1	Nui ‘ino ‘ulu.
+15:03 LK	{Mū.}
+15:04 EK1	Nui ‘ino ka ‘ulu.
+15:07 LK	Ma‘a ‘oe i ka ‘ai ‘ulu?
+15:08 EK1	‘Ae.
+15:09 LK	{Mū.} Kēlā mea, inā ‘a‘ohe ma‘a, kani nō ka pūhiʻu.
+15:14	^^^
+15:15 LK	^^^
+15:15 EK1	Auē. ^^^ ‘O ia. Yeah. Pololei. Ka po‘e Guamanian, lākou ‘ai, ‘ai ka, ka m^^ ‘ulu me ka waiū.
+15:24 LK	{A.}
+15:25 EK1	Me kēlā e ‘ai ai. Ka hapa nui o ko lākou mea‘ai,
+15:29 LK	‘Ē.
+15:29 EK1	Hana ‘ia me ka waiū.
+15:31 LK	Pehea ka wai o ka niu? ‘Ai ‘ia nō?
+15:34 EK1	‘Ai ‘ia nō. Yeah.
+15:35 LK	ʻĒ.
+15:35 LK	‘A‘ole momona loa, like pū me ko kākou mau, a, niu, you know, niu,
+15:39 LK	ʻĒ.
+15:39 LK	ko mākou niu, a, momona loa, you know,
+15:42 LK	‘Ē.
+15:42 EK1	but, !!
+15:43 LK	Kahawai ko kēlā mokupuni ‘o Guam?
+15:45 EK1	Yeah, he kahawai nō.
+15:48 LK	{Mū.}
+15:48 EK1	He kahawai nō.
+15:51 LK	‘Eā? ‘Ae. Kuahiwi nō, ē? He kuahiwi nō ko kēlā ‘āina?
+15:56 EK1	‘Ae. He kuwahi^^, kua^^ kuahiwi nō.
+15:59 LK	‘Ae. Akā, nui nō paha o ka po‘e ‘Amelika e noho nei i kēia manawa ma laila?
+16:04 EK1	‘Ae, ka po‘e, a, koa,
+16:06 LK	Koa, ʻē.
+16:07 EK1	ka po‘e kela.
+16:09 LK	{Mū.}
+16:10 EK1	Nui ‘ino.
+16:13 LK	‘Ae. A, i kou noho ‘ana i O‘ahu nei me nā kūpuna, i hea ‘oukou i noho ai?
+16:19 EK1	I lalo o Kaka‘ako.
+16:21 LK	I Kaka‘ako?
+16:22 EK1	Yeah. Lō‘ihi loa ko mākou noho ‘ana i laila. A kēia manawa, he ‘oko‘a kēlā wahi.
+16:31 LK	‘Oko‘a.
+16:31 EK1	‘A‘ole like pū me Ka^^, Kaka‘ako au e, e ha‘alele ai.
+16:35 LK	^^^
+16:35 EK1	^^^
+16:37 LK	Pehea kou wā.
+16:38 EK1	Ko‘u mau mā^^, kūpuna ma mua, a, a, l^^ hel^^, noho i Squattersville inā ‘oe maopopo kēlā wahi, ē?
+16:44 LK	‘Ae, lohe wale nō.
+16:45 EK1	Yeah.
+16:46 LK	‘Ē.
+16:46 EK1	Squattersville. Ka hapa nui o ka po‘e Hawai‘i, aia ma laila ke noho nei.
+16:50 LK	{Mū.}
+16:50 EK1	But, inā ‘oe hele ma laila kēia manawa, ‘a‘ohe ia nā wahi. Pau maila wahi, po‘e noho nei i laila.
+16:58 LK	‘Ae.
+16:58 EK1	A aia i hea lā ko lākou m^^,
+16:59 LK	Po‘e hou
+17:00 EK1	wahi e noho ai, but,
+17:02 LK	A ‘ae.
+17:02 EK1	nui ‘ino kēia po‘e, e kēlā wahi, well, mamake, you know, ‘ōlelo kēlā, kēlā ʻano.
+17:11 LK	Po‘e hale ki‘eki‘e?
+17:13 EK1	Yeah, kēlā ‘ano hale ki‘eki‘e loa.
+17:15 LK	‘Ē, ‘ē. ‘Ae. Pau loa i ke kūkulu ‘ia i ka hale ma laila. !!
+17:22 EK1	Yeah, ‘a‘ohe po‘e Hawai‘i i laila.
+17:22 LK	ʻĀina loli. ‘Ae. Aia nō paha kekahi ma kēia wahi mokupuni, ‘a‘ohe maopopo ia‘u ka inoa o kēia mokupuni ‘o Sand Island iā kākou kēia manawa. Lohe wau, aia nō kekahi po‘e noho ana ma laila !!
+17:36 EK1	Yeah, Sand Island.
+17:36 LK	‘Ae.
+17:37 EK1	‘A‘ole au maopopo.
+17:38 LK	Maika‘i nō kēlā ‘ano noho ‘ana, kokoke wale i ke kai. Hele i ka lawai‘a.
+17:45 EK1	Maika‘i kēlā ‘ano noho ‘ana.
+17:46 LK	‘Ē. lawai‘a pāpa‘i. ^^^ Pehea kā ‘oukou?
+17:53 EK1	He pāpa‘i nō mākou. A, he, {amū,} kēlā ‘ano pāpa‘i ‘a‘ama
+18:02 LK	‘Ae.
+18:02 EK1	And nui ‘ino.
+18:03 LK	Nui ‘ino?
+18:03 EK1	Nui ‘ino ma laila.
+18:05 LK	Kā^. Pehea ka ‘alamihi?
+18:08 EK1	‘Alamihi. Well, ‘a‘ole.
+18:11 LK	‘A‘ohe ‘ono?
+18:12 EK1	‘A‘ole ‘ono.
+18:13 LK	{A.} ^^^
+18:13 EK1	He pipipi nō.
+18:15 LK	‘Ē.
+18:15 EK1	A he wana nō.
+18:17 LK 	‘Ae.
+18:17 EK1	Hāukiuki^(Hā‘uke‘uke).
+18:18 LK	‘Ae.
+18:20 EK1	But, ‘a‘ole ‘ono.
+18:21 LK	^^^
+18:22 EK1	^^^
+18:24 LK	‘O ‘oe wale nō kai hānai ‘ia e nā kūpuna?
+18:28 EK1	‘Ae.
+18:31 LK	‘Ō. Aia i hea ka nui o, o ka ‘ohana, o kou ‘ohana? Nā kaikaina, kaiku‘ana, kaikunāne?
+18:37 EK1	A ho‘okahi kaikua‘ana.
+18:40 LK	‘Ae.
+18:41 EK1	Ho‘okahi keikikū^^, ke^^, kaikunāne, ho‘okahi kaikunāne.
+18:46 LK	‘Ē.
+18:46 EK1	A, ho‘okahi kaikaina. A ‘o wau. ‘Ehā mākou.
+18:50 LK	‘Ehā.
+18:51 EK1	Hānau mākou pau loa i Hilo, i Waiākea.
+18:55 LK	‘Ae.
+18:56 EK1	A koe ku‘u kaikaina. I think hānau ‘o ia i Honolulu nei.
+19:00 LK	{A, a.} Ka makuahine o Haunani?
+19:02 EK1	Ka makuahine o Haunani.
+19:03 LK	ʻAe. Mahalo nui iā ia. Aia nō paha ‘o ia ke ho‘olohe nei i kēia ahiahi. No kēia mau lei u‘i a kākou e lei nei. Ka ‘ilima a me ka pua kenikeni.
+19:14	^^^
+19:15 LK	^^^
+19:16 EK1	‘Eono, ‘eono ona keiki.
+19:19 LK	‘Ae.
+19:19 EK1	Ka māmā o, o Haunani.
+19:20 LK	‘Ae, kama‘āina wau i ‘elua o lākou, no ka mea, ke hele nei nō lāua i ke kula, kulanui ho‘okahi nō ‘o Haunani, ke,
+19:27 EK1	‘Ae.
+19:27	ʻAe.
+19:28 LK	ke a‘o nei nō i ka ‘ōlelo.
+19:31 EK1	‘Ae. ‘Ekolu a‘u keiki, ‘elua kaikamāhine, ho‘okahi keiki kāne.
+19:36 LK	{A,} ua nui?
+19:37 EK1	Ua nui. Ua male ele^^, ku‘u mau kaikamāhine, ua male. Ho‘okahi male iho nei wahi keiki Guamanian.
+19:43 LK	{A, a.}
+19:44 EK1	A ho‘okahi male iho nei he wahi, a, keiki haole.
+19:49 LK	Pehea kēlā po‘e Guamanian? Akamai nō i ka ‘ōlelo Kepanī? Ko‘u lohe nō kēlā.
+19:53 EK1	‘Ae. Maopopo. Yeah. Ka manawa o ke kaua.
+19:57 LK	Kaua ‘Elua, ‘ae.
+19:58 EK1	Yeah. Ke Kaua ‘Elua, a m^^, ho‘omaka lākou hele i ke kula Kepanī. A‘o ‘ia lā^^, ka po‘e Kepanī iā lākou.
+20:06 LK	{A.} ‘O nā mākua wale nō paha ka mea maopopo, ē? Nā mea maopopo i ka ‘ōlelo.
+20:11 EK1	Yeah, ka makua, because, gee, iwakālua makahiki i hala ai.
+20:15 LK	‘Ē.
+20:16 EK1	See?
+20:16 LK	Iwakālua a ‘oi.
+20:16 EK1	!!
+20:17 LK	ʻĒ.
+20:18 EK1	Iwakālua makahiki a ‘oi.
+20:20 LK	Pololei. A, pehea kēia manawa, he mele hou a‘e nō paha kā ‘oukou no ka mea, ‘o ia nō ho‘i kā ‘oukou hana i Guam kekahi manawa. ‘Ōlelo mai nō ‘oe, no ka nui o ka po‘e Hawai‘i ma laila, hana ka lū‘au, a ho‘olaule‘a pū nō ‘oukou ma ka hīmeni.
+20:38 EK1	‘Ae. Eia nō wau^^ Eia nō mākou ke pā‘ani pila ma laila i loko ka hōkele.
+20:42 LK	‘Ae, ʻae.
+20:43 EK1	A no ka po‘e Kepanī. Kēia manawa, ka hapa nui o ka po‘e tourist i, i Guam,
+20:48 LK	{Uhu.}
+20:48 EK1	po‘e Kepanī.
+20:49 LK	‘Ae.
+20:50 EK1	And, lākou makemake loa ka, ka hīmeni o, mele o Hawai‘i.
+20:55 LK	‘Ae. ‘Ae. Eia na‘e, ua, he mau malihini nō ho‘i ‘olua i ka ‘āina o Hawai‘i nei kēia manawa, no ka mea, ‘ōlelo mai ‘oe, hele akula ‘olua i kahi o ka Blue Dolphin kēlā pō aku nei.
+21:09 EK1	‘Ae. Po‘alua, kēlā Po‘alua i hala ai.
+21:13 LK	‘Ae.
+21:14 EK1	A kekahi hoaaloha o māua, lawe iho nei, ‘o ku‘u kāne me a‘u, i ka Blue Dolphin e ho‘olohe ai iā Pua Alamida^(Almeida).
+21:23 LK	ʻAe.
+21:26 EK1	And, wau nīnau iā Pua e hīmeni kekahi mele ona na ka pāpā i haku kēia mele. And hīmeni iho nei ‘o Pua kēlā mele. No laila, kēia manawa, mamake au e hīmeni kēlā mele, no ka ‘ohana, no Johnny, kona pāpā, a no ka ‘ohana pau, pau loa kēia mele.
+21:55 LK	ʻAe.
+21:55 EK1	Nui ko kaumaha, mākou kaumaha ‘ana ka manawa lohe ai mākou ‘apōpō, I mean, nehinei,
+22:02 LK	Ua hā‘ule.
+22:03 EK1	ua hā‘ule
+22:03 LK	{Mū.}
+22:04 EK1	‘o Pua.
+22:05 LK	‘Ae.
+22:05 EK1	Minamina.
+22:06 LK	Minamina. Nui ka minamina.
+22:08 EK1	Nui ka minamina. No laila, kēia manawa, no ka ‘ohana o Pua Alamida^(Almeida). Hīmeni au kēia mele Lei Mokihana.
+22:19 LK	‘Ae. A mahalo.
+22:39 EK1	Lei Mokihana
+		> Iā ‘oe, ku‘u pua lei mokihana
+		Ho‘i mai e welina like i ka ‘olu
+
+		Iā ‘oe, ku‘u pua lei mokihana
+		Ho‘i mai e welina like i ka ‘olu
+
+		Eia kou lei nani ua lawa
+		Pua onaona i ke kakahiaka
+
+		Eia kou lei nani ua lawa
+		Pua onaona i ke kakahiaka
+
+		He lei na‘u aʻi lei ha‘aheo
+		Ka helena o ka ‘āina malihini
+
+		He lei na‘u aʻi lei ha‘aheo
+		Ka helena o ka ‘āina malihini
+
+		Hā‘ina ‘ia mai ana ka puana
+		Nā pua nani kau i ka wēkiu
+
+		Hā‘ina ‘ia mai ana ka puana
+		Nā pua nani kau i ka wēkiu
+26:10 LK	Mahalo nui. Aloha nō kēia kanaka kaulana ho‘okani mele, keiki a Keoni Alamida^(Almeida), ‘o ia nō ‘o Pua Alamida^(Almeida). Mahalo nui kēia hīmeni ‘ana no ka ‘ohana a pau o Pua. A, e ‘olu‘olu ho‘i hou nō kākou kou ‘āina e noho nei kēia manawa, kou ‘āina,
+26:35 EK1	Guam.
+26:35 LK	Guam. ‘Ae. ^^^ Pehea ka ho‘okani pila ‘ana ma Guam, na, ‘o nā po‘e maoli, nā po‘e Guamanian. He ho‘okani pila kā lākou?
+26:49 EK1	He pila nō, kani pila nō, but, ‘oko‘a ko lākou ‘ano pila.
+26:53 LK	‘Ae.
+26:54 EK1	Ko lākou ‘ano hīmeni nō, like pū me ka po‘e paniolo.
+26:58 LK	‘Ē, ‘ē.
+26:59 EK1	me kēlā ‘ano, you know,
+27:01 LK	‘Ano wikiwiki. ʻAe.
+27:01 EK1	wikiwiki, yeah, cha cha, you know, kēlā ‘ano.
+27:03 LK	ʻĒ. ^^^
+27:06 EK1	‘Ano hula o kēia manawa a po‘e ‘ōpiopio, you know?
+27:08 LK	‘Ae.
+27:08 EK1	kēlā ‘ano lelele ‘ana.
+27:10 LK	‘Ae, ʻae.
+27:11 EK1	A, a me kēlā. But, kekahi nō ho‘i, maika‘i.
+27:13 LK	‘Ae. A ‘oko‘a nō paha kā lākou hula ‘ana?
+27:16 EK1	‘Ae.
+27:17 LK	{Mū.}
+27:17 EK1	‘Oko‘a ko lākou ‘ano hula ‘ana, ^^ ‘a‘ole like pū me, me ko mākou ‘ano hula ‘ana.
+27:23 LK	‘Ae, ‘ae. E kala mai. Eia nō kekahi, a, kelepona e kali mai nei. Akā na‘e, ma mua o ka pane ‘ana o kēia kelepona ‘ana, e ho‘okani ana kēia kahua wahi ho‘olaha.
+27:39 	#The sound of aloha. In Honolulu, radio 1420, KCCN.
+27:50	#You are listening to Ka Leo Hawai‘i, produced by students of the University of Hawai‘i's Hui Aloha ‘Āina Tuahine. This program is brought to you as a public service of The Gas Company and the gas appliance dealers in Hawai‘i. And now, back to Ka Leo Hawai‘i.
+28:10 LK	‘Ae, aloha nō kākou, a e kala mai ‘oe ia‘u kēia manawa, ‘Elikāpeka, e pane ana au i ke kelepona. Aloha nō kāua.
+28:21 mk:B	‘Ae, aloha.
+28:22 LK	Aloha.
+28:24 mk:B	!!
+28:24 LK	Pehea ‘oe?
+28:25 mk:B	Maika‘i nō.
+28:27 LK	Pehea kēia ahiahi iā ‘oe?
+28:29 mk:B	A, ‘ano le‘ale‘a kēia.
+28:30 LK	‘Ae, nanea.
+28:31 mk:B	Ho‘olohe aku nei no kēlā wahine, no ka mea, he mau hoaaloha kēlā no māua.
+28:36 LK	‘Ō, kama‘āina ‘oe iā lāua?
+28:38 mk:B	‘Ae.
+28:39 LK	A, e kama‘ilio ‘oe me e, me lāua nei.
+28:41 mk:B	Hiki nō?
+28:42 LK	Hiki, hiki.
+28:43 mk:B	A !!
+28:43 LK	A, kali mālie ‘oe.
+28:48 EK1	Aloha.
+28:49 mk:B	‘Ae, aloha. Pehea ‘oe?
+28:51 EK1	Maika‘i nō. ~ ka ola kino.
+28:53 mk:B	^^^
+28:54 EK1	‘O ‘oe kā, Burt?
+28:56 mk:B	^^^
+28:58 EK1	Maopopo maila wau kou nau^^, kou leo.
+28:59 mk:B	^^^ ‘Ē. Mahalo nui loa kou hīmeni ‘ana maila, ʻano ho‘omana‘o a‘ela kēia i ka noho ‘ana i ka ‘āina ‘o Guam.
+29:09 EK1	Well,
+29:09 mk:B	Tapa Room. ^^^
+29:12 EK1	‘Ō, ke manaʻo nei ‘oe, aia ‘o, aia ke hīmeni, a, ‘o Tapa Room?
+29:16 mk:B	A.
+29:17 EK1	Auē. Aloha nō. ^^^
+29:19 mk:B	‘Eha nō ka, a mea, aloha nō, no ka mea, leʻaleʻa i ka pepeiao.
+29:23 EK1	Mahalo.
+29:24 mk:B	‘A‘ohe nui loa ka po‘e hīmeni like pū me ‘oe i kēia manawa.
+29:27 EK1	{A,} mahalo a nui loa.
+29:29 mk:B	A, pehea ‘olua?
+29:31 EK1	Maika‘i.
+29:31 mk:B	{A.}
+29:32 EK1	Maika‘i nō.
+29:33 mk:B	Kala ‘oe iā māua.
+29:34 EK1	‘Ano,
+29:35 mk:B	He aha kēia? Ma‘i?
+29:37 EK1	^^^ ‘A‘ole.
+29:38 mk:B	^^^
+29:39 EK1	‘Ano ^^^ ha‘alulu nō ho‘i, cause,
+29:43 mk:B	He aha ka mea ha‘alulu, gee.
+29:45 EK1	‘Akahi nō, ‘akahi nō wau hele mai i loko o kēia ‘ano wahi e, e wala‘au ai, see, a, you know, ‘umikūmā^^, ‘umikūmāhiku makahiki, ‘a‘ole au i wala‘au Hawai‘i. No laila, ‘ano, kekahi nō ho‘i wau, poina. But, kēia manawa he, he manawa e wala‘au Hawai‘i, so, no laila wau, you know, ha‘i m^^, ko lākou mea mamake wau e ha‘i ai, so, ha‘i au.
+30:11 mk:B	‘A‘ole ‘oe maka‘u, no ka mea, nui nā po‘e o kēia manawa, ‘oi aku ka ‘elemakule ma mua ou, ‘a‘ole hiki ke ‘ōlelo kanaka. No laila, mahalo ‘oe i ka Haku no ka waiho ʻana i kēlā mau ʻōlelo me ʻoe.
+30:25 EK1	Nui kuʻu mahalo i kēia keiki,
+30:27 mk:B	‘Ē.
+30:27 EK1	‘O Kimura i, i kēia ‘ano, a, a, progra^^, hana ona.
+30:36 mk:B	‘Ō.
+30:36 EK1	Akamai kēia keiki wala‘au Hawai‘i. So, nui ko‘u mahalo iā ia i, i, makemake au i, i hele mai e, e wala‘au a hīmeni. So.
+30:45 mk:B	Mau mahina nō kēia ko‘u ho‘olohe ‘ana i kēia mea, a ‘a‘ole au makemake wala‘au me lākou, no ka mea, ‘ano hilahila kēia. ^^^
+30:55 EK1	‘Ō, ‘a‘ole hilahila.
+30:56 mk:B	‘Ae, n^^ ‘ae. ‘A‘ole hilahila, but uh, ‘ike nō ‘oe, ē? Kanaka maka‘u au i ka mea, ka lehulehu. ^^^
+31:05 EK1	Me ka nānā ‘ole. ^^^
+31:06 mk:B	A, ‘a‘ole nānā, no ka mea, ‘ano aloha aku nei kēia i ka ho‘olohe, ka lohe ‘ana i kou hīmeni ‘ana.
+31:13 EK1	Mahalo.
+31:13 mk:B	A.
+31:14 EK1	A pehea ‘olua?
+31:15 mk:B	Maika‘i, maika‘i. Mahalo !!
+31:17 EK1	‘O ia ke kumu, ē, ua ‘ano ha‘alulu maila wau, because, ka hapa nui o ka po‘e i iho nei i, i Guam,
+31:22 mk:B	A, a.
+31:23 EK1	i lohe ai i ku‘u, ku‘u wala‘au ‘ana, and ku‘u hīmeni ‘ana so, ‘o ia ko‘u mea, you know, ‘o ia ke kumu ‘ano ha‘alulu maila wau, see? ^^^
+31:31 mk:B	‘A‘ole pilikia. Inā ‘a‘ole hiki ka ‘ōlelo, lilo ma ka hīmeni. Pehea kēlā? ^^^
+31:37 EK1	Maika‘i.
+31:38 mk:B	‘Ae.
+31:38 EK1	A, e, e lawa paha kāua?
+31:40 mk:B	‘Ae.
+31:40 EK1	A, e mahalo aku ‘oe, mahalo wau iā ‘oe kou kelepona ‘ana ia‘u,
+31:44 mk:B	‘A‘ole hiki ia‘u ke poina.
+31:44 EK1	e nīnau pehea ^^. ^^^
+31:47 mk:B	‘A‘ole maika‘i kēlā inā ua poina iā ‘oukou.
+31:50 EK1	Mahalo.
+31:50 mk:B	A, a.
+31:51 EK1	A no laila, a, byebye.
+31:52 mk:B	Byebye. Mahalo ē? !!
+31:55 EK1	Mahalo wau iā ‘oe i kou kelepona ‘ana.
+31:57 mk:B	‘Ē.
+31:58 EK1	A, a hui hou.
+31:58 mk:B	Mahalo aku ‘oe iā Kimura.
+32:00 EK1	Yeah, mahalo, iā Kimura.
+32:01 mk:B	Yeah, na kāua.
+32:02 EK1	Okay.
+32:02 mk:B	A mahalo, byebye.
+32:03 EK1	‘Ae, mahalo. A, byebye.
+32:05 mk:B	^^^
+32:07 LK	‘Ae. Mahalo nui kēia kāhea ‘ana maila. ‘Ae, mahalo nui iā ‘oe, ‘eā? No ka mea, he koa nō ‘oe i ka hele ‘ana mai e ho‘olaha nō ka ‘ōlelo makuahine ma luna nō o kēia ‘āina, no ka mea, ma laila nō ka pono. He ‘ōlelo Hawai‘i nō ko ʻone‘i ma mua, ‘o ka ‘ōlelo Hawai‘i wale nō. A pēlā nō ‘oe i a‘o ai i ka ‘ōlelo Hawai‘i mai nā kūpuna mai, ‘eā?
+32:30 EK1	‘Ae.
+32:31 LK	‘Ae. A, kēia manawa, ua ‘ōlelo mai nō ‘oe, hiki nō iā ‘oe ke hīmeni i kekahi mele Guamanian.
+32:40 EK1	‘Ae.
+32:40 LK	Hiki nō?
+32:41 EK1	Hiki nō.
+32:42 LK	‘A‘ohe na‘e. ^^^
+32:42 EK1	Inā ‘oe mamake ia‘u e hīmeni,
+32:44 LK	‘Ae.
+32:44 EK1	Guamanian, hiki nō.
+32:45 LK	Koe wale, ‘a‘ohe nō o mākou e ho‘omaopopo ana, akā, hiki nō. Ho‘onanea nō kākou i ka ho‘okani ‘ana, ka hīmeni ‘ana. Hiki?
+32:55 EK1 	Hiki nō.
+32:55 LK	A, maika‘i. Hiki nō paha iā ‘oe ke ho‘akāka mai i ka mana‘o paha o kēia mele?
+33:03 	___
+33:04 LK	‘Eā?
+33:05 EK1	Hiki nō.
+33:05 LK	‘Ē. Ka inoa paha, pa‘a iā ‘oe? Ka inoa?
+33:10 EK1	Ka inoa, Nobia Yanggen Para Un Hanao.
+33:15 LK	Auē. ^^^
+33:16 EK1	Inā hiki ia‘u ke.
+33:19 LK	‘Ae.
+33:19 EK1	Mamake au e hīmeni i kēia mele no ka po‘e Guamanians no Honolulu nei.
+33:23 LK	Mahalo.
+33:23 EK1	A nā ‘ano po‘e ke lohe nei mai Guam mai, kēia mele, inā ho‘omaka wahi po‘e e male ai ke kaikamahine, hīmeni ai kēia mele kona manawa ma mua o kona male ‘ana.
+33:37 LK	‘Ae.
+33:38 EK1	A, hele wahi keiki, kona kāne, ma mua o ka male ‘ana,
+33:41 LK	‘Ae.
+33:41 EK1	Keiki hele i ka hale o ka māmā me ka pāpā, a lawe ai wahi pū‘olo pua paha, pua, a nā ‘ano mea mamake makana ai,
+33:52 LK	He makana, ʻē, ē.
+33:52 EK1	wahi kaikamahine, a ma mua o kona, kona ha‘alele ‘ana kona māmā, a hīmeni ai i kēia mele.
+33:59 LK	‘Ae.
+33:59 EK1	No laila, kēia manawa wau,
+34:01 LK	Hīmeni kēia.
+34:01 EK1	hīmeni,
+34:02 LK	ʻAe.
+34:02 EK1	Nobia Yanggen Para Un Hanao.
+34:04 LK	Mahalo.
+34:11	Nobia Yanggen Para Un Hanao
+		> Nobia yanggen para un hanao
+		Fan despide gias Nanamu’
+
+		Sa este Nobia na Kareramu
+		Uttimo Nobia sumut’tiramu
+
+		Nobia yanggen para un hanao
+		Fan despide gias Nanamu’
+
+		Sa este Nobia na Kareramu
+		Uttimo Nobia sumut’tiramu
+
+		Dimu papa’ ya un fanngingi
+		Si Nanamu nai fine’nena’
+		Ya un i necha ni bindisionna’
+		Sa otro Nobia pa un ginebietna
+
+		Nobia yanggen para un hanao
+		Fan despide gias Nanamu’
+
+		Sa este Nobia na Kareramu
+		Uttimo Nobia sumut’tiramu
+
+
+35:58 LK	Mahalo nui. U‘i nō kēia mele. ‘Akahi nō au a lohe kēia ‘ano. Mahalo nui. Kēia manawa, pane hou akula wau i ke kelepona. Aloha ahiahi kāua.
+36:11 mk:LM	Aloha nō.
+36:12 LK	Aloha nō, e Māmā Mikasobe.
+36:14 mk:LM	^^^
+36:15 LK 	Pehea ‘oe?
+36:16 mk:LM	Maita‘i loa. E,
+36:17 LK	‘Ē.
+36:17 mk:LM	‘O wau, lohi loa.
+36:18 LK	‘Ē.
+36:18 mk:LM	No ka mea, he malihini iho nei ka‘u.
+36:20 LK	‘Ae. ^^^
+36:20 mk:LM	!! aku nei ia‘u hola ‘ehitu.
+36:22 LK	‘Ē.
+36:23 mk:LM	Auī. Ua hala ka manawa.
+36:24 LK	‘A‘ohe pilikia.
+36:26 mk:LM	Yeah, but, ‘a‘ole au lohe he aha lā nā mea mua a ‘oukou i,
+36:29 LK	‘Ē, ‘ē.
+36:29 mk:LM	haʻi‘ōlelo mai nei,
+36:31 LK	‘O
+36:31 mk:LM	‘o ia ka pilikia.
+36:32 LK	‘A‘ohe, no, ʻo Kaleikoa, Mrs. uh, ʻEli^^, ‘Elikāpeka Kaleikoa,
+36:36 mk:LM	Yeah. Ua ha‘i mai ‘oe.
+36:36 LK	‘o ia ko kākou hoa kipa.
+36:37 mk:LM	ka aunty kēlā o Haunani.
+36:38 LK	‘Ae, ‘ae.
+36:39 mk:LM	‘Ō. Aia i hea ‘o, ‘o Haunani?
+36:41 LK	Eia nō i ne‘i nei.
+36:42 mk:LM	‘O ia?
+36:42 LK	Pehea, lohe anei ‘oe i kēia hīmeni āna o Guam?
+36:45 mk:LM	Yeah, u‘i kēlā hīmeni.
+36:46 LK	U‘i.
+36:47 mk:LM 	{Amū.}
+36:47 LK	‘Ano like nō me ka po‘e Pilipino, ‘eā?
+36:50 mk:LM	A kekahi,
+36:51 LK	‘Ē.
+36:51 mk:LM	a kekahi, ‘eā, pū‘iwa wau i ka lohe ‘ana aku nei ua hā‘ule ‘o Pua Alamida^(Alameida). ‘Ae.
+36:56 LK	Hā‘ule i nehinei nō.
+36:57 mk:LM	ʻĀ, aloha nō.
+36:59 LK	Aloha.
+37:00 mk:L	{Mū,} ‘akahi nō wau a lohe, you know?
+37:02 LK	{A.} Well, i nehinei nō ‘o ia i hā‘ule ai.
+37:05 mk:LM	‘Ō.
+37:06 LK 	‘Ē. Pehea, kama‘ilio li‘ili‘i ‘oe me kēia po‘e.
+37:09 mk:LM	Okay, okay hiki nō, hiki nō.
+37:10 LK	ʻAe, alia.
+37:15 EK	Aloha.
+37:16 mk:LM	Aloha ahiahi kāua.
+37:17 EK1	Aloha ahiahi kāua.
+37:18 mk:LM	‘Ē, lohe aku nei au i kou hīmeni ‘ana mai nei. He u‘i nō.
+37:22 EK1	Mahalo.
+37:23 mk:LM	Aia ‘oe i Guam kahi e noho ai?
+37:25 EK1	‘Ae.
+37:26 mk:LM	A ho‘i hou ana ‘oe i laila?
+37:27 EK1	‘Ae.
+37:29 mk:LM	‘Ō.
+37:29 EK1	Kēia pule a‘e.
+37:29 mk:LM	‘Ō. ‘Ē,
+37:31 EK1	Lā iwakāluakūmākahi.
+37:33 mk:LM	No, he nīnau ka‘u.
+37:34 EK1	‘Ae.
+37:34 mk:LM	Aia i laila kekahi ‘ano hua, he mea, he canethomas.
+37:37 EK1	‘O wai ka inoa hope?
+37:39 mk:LM	No, he hua, !!
+37:41 EK1	‘Ō, he hua kou? ‘Ō.
+37:42 mk:LM	No, hana ‘ia ka lei. ‘Ōlelo ʻia mai no Guam kēlā ‘ano hua. ‘O ia?
+37:46 EK1	Yes. Pololei.
+37:47 mk:LM	Kinda brown, uh,
+37:49 EK1	‘O ia ho‘i. Kēlā ‘ano, kēlā ‘ano hua, kāhea ‘ia mai, a, hua Sweetheart, I think.
+37:57 mk:LM	‘O ia?
+37:57 EK1	A, ‘o ia ho‘i.
+37:58 mk:LM	Nui ‘ino?
+37:59 EK1	Nui ‘ino.
+38:00 mk:LM	‘Ō. Wau, makemake wau kēlā ‘ano hua.
+38:03 EK1 	Ua mamake ‘oe kēlā ‘ano hua?
+38:05 mk:LM	‘Ae. Loa‘a ka mea hua nunui?
+38:07 EK1	‘A‘ole. He loa‘a, he hua, he hua nō, but, kēlā ‘ano hua li‘ili‘i.
+38:13 mk:LM	‘Ō, ‘a‘ole mea nunui?
+38:15 EK1	‘A^^ ‘A‘ole mea nunui. ‘A‘ole like pū me ko kā^^ ko mākou ‘ano hua, you know. Nā ‘ano hua like ‘ole o Hawai‘i nei.
+38:23 mk:LM	But kēlā hua, u‘i nō.
+38:24 EK1	Yeah.
+38:25 mk:LM	‘Ōlelo ʻia mai, ʻo Guam wale nō ka wahi loa‘a kēlā ‘ano hua. ‘Eā?
+38:29 EK1	‘Ō. Yeah, loa‘a nō ‘o Guam kēlā ‘ano hua. Ka hapa nui a, loa‘a iā ‘o Guam ka pūpū.
+38:34 mk:LM	‘Ae, aia i laila kuʻu wahi uncle. Mau makahiki ka hele ‘ana ‘a‘ole ho‘i hou mai a hiki i kēia lā. !!
+38:39 EK1	Auē. ‘O wai kona inoa?
+38:40 mk:LM	‘O, ‘o Pihe.
+38:42 EK1	‘O Sam Pihe?
+38:43 mk:LM	Yeah. Sam Pihe.
+38:44EK1	‘Ae. ‘O Uncle Sam kēlā. Kāhea nā po‘e a pau o Guam iā Uncle Sam, Unc^^ ‘o ʻankala^(ʻanakala) nō ‘o ia no ka po‘e
+38:51 mk:LM	‘O^^ ‘o^^
+38:51 EK1	o Guam.
+38:52 mk:LM	‘Ohana pono‘ī kēlā no‘u.
+38:53 EK1	A
+38:53 mk:LM	Kona makuahine, no ko‘u kupunahine, a kaikua‘ana kaikaina.
+38:58 EK1	Auē. Pili nō ‘olua.
+39:00 mk:LM	‘Ae. ‘A‘ole ‘o ia hoʻi hou mai a hiki i kēia lā.
+39:03 EK1	Pololei nō. ‘A‘ole ‘o ia mamake ho‘i mai.
+39:05 mk:LM	Loa‘a kāna wahine?
+39:06 EK1	Ho‘okikina iho nei wau iā ia e ho‘i mai.
+39:08 mk:LM	{Mū.}
+39:09 EK1	He, kona kaik^^
+39:10 mk:LM	Kaikuahine
+39:11 EK1	kaikuahine ‘o Rebecca
+39:12 mk:LM	A ‘o ia.
+39:13 EK1	A iho nei ‘o Rebecca i Guam,
+39:15 mk:LM	A ‘o ia.
+39:15 EK1	A, a, ho‘okikina iho nei ‘o, ‘o, ‘o Rebecca iā ia e ho‘i mai ai,
+39:19 mk:LM	{Mū.}
+39:20 EK1	‘A‘ole mamake.
+39:21 mk:LM	A.
+39:21 EK1	He aha kona ma^^ ‘A‘ole mamake, no ke aha lā, ʻa‘ole nō^^ ʻAʻole au maopopo.
+39:25 mk:LM	Loa‘a kāna wahine?
+39:26 EK1	‘A‘ole. ‘A‘ohe wahine. ‘A‘ohe wahine.
+39:29 mk:LM	‘Elemakule mai nei paha.
+39:30 EK1	Well, aʻole nō paha ka po‘e ‘a‘ole male, you know? ^^^
+39:34 mk:LM	{Mū.} No ka mea, ‘o wau ka mea, a,
+39:38 EK1	Ka ma^^ kēia manawa, you know,
+39:39 mk:LM	!! lōkihi au, kanahikukūmāiwa makahiki, lākou ʻōpiopio loa lākou.
+39:43 EK1	^^^ Well, pono ‘o ia noho pū me kēlā. ‘A‘ole, ‘a‘ole waiwai loa‘a wahine because uh, ua noho ‘o ia gee, iwakālua makahiki a ‘oi, ‘a‘ohe wahine.
+39:55 mk:LM	Yeah.
+39:56 EK1	Inā he wahine kāna, well,
+39:58 mk:LM	Loa‘a ke keiki, a, ola ho‘i paha ka inoa. No ka mea ‘o ia wale nō kahi keiki kāne.
+40:03 EK1	‘O ia?
+40:04 mk:LM	‘Ae. Inā ‘o ia make, a pau. ‘A‘ole ola hou ka inoa ‘o Pihe.
+40:07 EK1	Pono wau e ho‘i ai e wala‘au iā ia, e, e male ai.
+40:11 mk:LM	^^^
+40:12 EK1	i loa‘a wahi keiki.
+40:12 mk:LM	Yeah. A
+40:14 EK1	‘A‘ole, ‘a‘ole, ‘a‘ole, ‘a‘ole hā‘ule wahi inoa ona.
+40:18 mk:LM	‘Ō. Mahalo, mahalo no ko kāua,
+40:21 EK1	Ma^^
+40:21 mk:LM	kama‘ilio ‘ana.
+40:22 EK1	Mahalo
+40:22 mk:LM	Na ke Akua nō ho‘opōmaika‘i iā ‘oe.
+40:24 EK1	A like pū me ‘oe.
+40:25 mk:LM	Byebye.
+40:25 EK1	A, byebye.
+40:26 LK	Welina ke aloha. Aloha mai.
+40:34 mk:AB	‘Ae, aloha.
+40:35 LK	Aloha ‘Analū.
+40:36 mk:AB	‘Ae, pehea ‘oe?
+40:37 LK	Maika‘i. Pehea ‘oe?
+40:39 mk:AB	Maika‘i nō. A, ho‘olohe aku nō wau i kēlā mele maika‘i o Guam.
+40:44 LK	‘Ae, ‘ae. ^^^
+40:45 mk:AB	!! Maika‘i nō ka leo o kēlā makuahine.
+40:47 LK	‘Ē, u‘i.
+40:48 mk:AB	‘Ae, u‘i. Maika‘i.
+40:50 LK	Pehea ‘o Nā Kona?
+40:51 mk:AB	Auē. Nui ka ua o mākou o Kona nei.
+40:53 LK	A, maika‘i.
+40:54 mk:AB	‘Ae. Nui ka wai.
+40:27 LK	‘Ē. Aia i hea ‘oe e noho nei? I Kailua?
+40:58 mk:AB	‘A‘ole, aia wau i Honokōhau. ‘Elima mile mai Kailua mai.
+41:01 LK	‘Ē, ‘ē.
+41:02 mk:AB	‘Ae.
+41:02 LK	A, maika‘i.
+41:03 mk:AB	A lō‘ihi loa nō kēia, ‘akahi nō a hui wala‘au.
+41:06 LK	‘Ae, ‘ae. Mahalo kou ho‘okani ‘ana.
+41:08 mk:AB	Auē. Ma^^ ho‘olohe aku nei wau, a nanea nō ho‘i, a mahalo nō i ke Akua i ka, i ka, i kou mālama ‘ana nō i ka, i ka hana maika‘i.
+41:17 LK	Mahalo kou ho‘olohe ‘ana.
+41:18 mk:AB	‘Ae.
+41:18 LK	Kou kāko‘o ‘ana.
+41:19 mk:AB	A hui hou aku nō.
+41:20 LK	A hui hou. Mahalo kēia kāhea.
+41:21 mk:AB	‘Ae, ‘ae. Byebye.
+41:23 LK	Byebye. ‘Ae. No Kona kēlā kāhea ‘ana mai. Ho‘olohe mau nō kēlā kanaka.
+41:30 EK1	‘Ō. Maika‘i.
+41:32 LK	Malia paha nui nō paha ma ka po‘e e ho‘olohe nei ma nā mokupuni ‘ē a‘e, akā na‘e, he kālā ma ke kelepona ‘ana, ‘eā. ^^^
+41:40 EK1	Well, he po‘e nō o Kona i lalo o Guam.
+41:41LK	‘O ia?
+41:42 EK1	‘Ae.
+41:43 LK	‘O wai?
+41:43 EK1	‘O Molly kona inoa. Kūnewa.
+41:46 LK	A, a.
+41:47 EK1	I think kona, kona inoa hope Kūnewa. Kēia manawa, he, a, ‘o Dunaway, Molly Dunaway.
+41:52 LK	‘Ē, ‘ē.
+41:53 EK1	No Kona mai ‘o ia.
+41:54 LK	‘Ae. Kama‘āina. U‘i nō kēia mele Guam āu i hīmeni mai nei. Malia paha he hīmeni hou a‘e kāu i maopopo ai?
+42:04 EK1	Hīmeni, mele Guamanian?
+42:07 LK	‘Ae. Kama‘ilio
+42:09 EK1 	A
+42:09 LK	‘oe i ke, i ka ‘ōlelo Guamanian?
+42:11 EK1	Kama‘ilio, ‘ae, but inā, inā he po‘e wala‘au i, pū me a‘u, hiki ia‘u ke wala‘au.
+42:19 LK	‘Ē, ‘ē.
+42:19 EK1	Ka mo‘olelo o, o Guam, inā ho‘i mai wahi malihini, a, hafaday. Hafaday, me, like pū me ko mākou aloha,
+42:27 LK	‘Ae.
+42:27 EK1	Inā mākou, you know,
+42:29 LK	Aloha aku i ka po‘e malihini,
+42:30 EK1	aloha aku i ka po‘e malihini,
+42:31 LK	‘Ē.
+42:31 EK1	A, ka po‘e Guamanian, aloha akula i ka po‘e malihini me kēia mo‘olelo, Hafaday.
+42:37 LK	Hafaday? ^^^
+42:37 EK1	Todomaoli.
+42:39 LK	‘Ē?
+42:40 EK1	Inā maika‘i ‘oe, a, pane mai ‘oe, todomaoli.
+42:44 LK 	Todomaoli.
+42:45 EK1	Maika‘i.
+42:45 LK	Maika‘i.
+42:46 EK1	Yeah.
+42:47 LK	^^^ Hafaday, kohu mea he hapa lā kēlā. ^^^
+42:50 EK1	^^^ Yeah. Hapa lā. ^^^ Ko lākou ‘ano, you know,
+42:56 LK	‘Ē, ka wala‘au ‘ana.
+42:57 EK1	e ka wala‘au ‘ana. Yeah. Hafaday.
+42:59 LK	^^^
+43:00 EK1	Todomaoli.
+43:01 LK	A
+43:01 EK1	Pehea ‘oe?
+43:02 LK	‘Ē. ^^^ He kumu kula ‘oe, ‘eā? Ma Guam.
+43:06 EK1	Kumu kula, ‘eā, kula Kakōlika.
+43:09 LK	Kula Kakōlika. Pehea ka ‘ōlelo? He ‘ōlelo haole, ‘ōlelo Guam,
+43:12 EK1	‘Ano ‘ōlelo haole.
+43:13 LK	{Mū.}
+43:15 EK1	Ka kamali‘i, yeah, wala‘au Guamanian.
+43:18 LK	^^^
+43:19 EK1	But, a‘o ‘ia mākou iā lākou i, i, i wala‘au Eng^^, haole.
+43:25 LK	‘Ē, ‘ē, ‘ē. A i ko lākou ho‘i ‘ana i ka home, ‘ōlelo Guam?
+43:28 EK1	inā, ke ho‘omaka lākou e ho‘i ai, a, wala‘au
+43:32 LK	‘Ē.
+43:32 EK1	Guamanian.
+43:33 LK	Well, maika‘i kēlā, i ‘ole nalowale. Ka ‘ōlelo
+43:36 EK1	Pololei, pololei.
+43:37 LK	ʻAe. Maika‘i. E kala mai ia‘u, ē?
+43:41 EK1	‘Ō.
+43:42 LK	Pane hou akula wau i kēia kelepona ‘ana. Aloha kāua.
+43:48 mk:IM	Well, aloha kāua. Pehea ‘oe e Kauanoe?
+43:51 LK	Maika‘i.
+43:51 mk:IM	A, ‘akahi nō wau a hō‘ea mai i kauhale nei a ‘ike i kēia mea,
+43:55 LK	‘Ae, ‘ae,
+43:56 mk:IM	kēia ho‘olaha āu i !!
+43:57 LK	‘Ē, i ‘ole.
+43:59 mk:IM	^^^
+43:59 LK	ho‘olilo nō kou manawa i ka huli i loko o ka puke kelepona. ^^^ Ma mua pono nō o kou alo kēia manawa, hiki iā ‘oe ke ho‘okani mai.
+44:08 mk:IM	‘Ae, ‘ae. Ua,
+44:09 LK	‘A‘ole
+44:09 mk:IM	‘a‘ole hiki, ‘a‘ole wau i lohe i kāna hīmeni hīmeni ‘ana i kēlā hīmeni Guamananian.
+44:13 LK	Auē. Minamina. ‘A‘ole ‘oe.
+44:15 mk:IM	!! ‘Akahi nō wau a komo i kauhale nei. ‘O ia ke kumu.
+44:17 LK	‘Ē, ‘ē. U‘i maoli nō ho‘i kēia mele.
+44:19 mk:IM	‘Ae, ‘ae. Hiki nō ia‘u ke ‘ōlelo me ia?
+44:22LK	Hiki. Alia.
+44:22 mk:IM	‘Ae.
+44:26 EK1	Aloha mai.
+44:27 mk:IM	‘Ae, aloha mai kāua. A, ua lohe li‘ili‘i au, a, ‘o ‘oe e ‘ōlelo ana i kēia, ke, he wahine paha kēia, ‘o Molly Kūnewa?
+44:36 EK1	‘Ae.
+44:37 mk:IM	No Kona ‘o ia?
+44:38 EK1	‘Ae.
+44:38 mk:IM	He kaikamahine paha kēlā?
+44:40 EK1	‘Ae.
+44:40 mk:IM	‘Ae. Ko‘u mea kēlā, hoahānau.
+44:42 EK1	‘O ia?
+44:43 mk:IM	‘Ae.
+44:44 EK1	Auē. Yeah. ‘Elima, ‘elima makahiki a ‘oi, ke noho nei ‘o ia i kēlā ‘āina.
+44:50 mk:IM	‘Ae, ‘ae. ‘O ia ke kumu, no ka mea, ho‘i wau i, i Kona, nīnau wau^^ ‘ike i nā kaikaina, pēlā nō ho‘i me nā kaikunane, ‘ōlelo mai ‘o ia, “Auē. Aia ‘o ia e noho nei i mea, i Guam.”
+45:00 EK1	I Guam. Pololei.
+45:01 mk:IM	‘Ae, ‘ae. Ua, ua kupa ‘oe nō kēlā ‘āina?
+45:04 EK1	‘Ae.
+45:05 mk:IM	Auē nō ho‘i. Ko, ‘o ka manawa wau i noho ai ma laila, auē, ‘a‘ole, mea, ‘a‘ohe kūlanakauhale like me ma mua. ‘O ia ka manawa a ke kaua ‘elua.
+45:15 EK1	‘Ō.
+45:15mk:IM	‘Ae.
+45:16 EK1	‘O ia kā.
+45:17 mk:IM	Kēia manawa, auē. Kohu kaona paha.
+45:19 EK1	Inā ‘oe ho‘i ai i Guam, ‘a‘ole e hiki iā ‘oe ke ‘ike i nā ‘ano wahi ‘oe e maopopo ai, because
+45:25 mk:IM	‘Ae, ‘ae. Ua, ua nui paha ke kūkulu ‘ana.
+45:27 EK1	Nā, ka nui, ke kūkulu ‘ana o ka hōkele.
+45:30 mk:IM	‘Ae, ‘ae, ‘ae.
+45:31 EK1	Nui ‘ino hōkele kēia manawa.
+45:32 mk:IM	Pololei. ‘Ae, ua no‘ono‘o ke wau hele hou paha ma laila, auē, nalowale paha.
+45:37 EK1	^^^
+45:38 mk:IM	Ua noho wau ma Agena^^(Agana). Maopopo ‘oe kēlā wahi?
+45:40 EK1	Yeah. Ma,! yeah. Ke noho nei wau i Agania^^(Agana).
+45:43 mk:IM	‘Ō, ‘ō, aia, aia ‘oe ma laila e,
+45:45 EK1	Yeah. Yeah.
+45:45 mk:IM	noho nei kēia manawa? ‘Ō.
+45:46 EK1	Aia wau ke noho nei i Agania^^(Agana).
+45:48 mk:IM	‘Ae, ‘ae. Ma laila wau i noho ai i ka ma^^ po‘e, you know, ko‘u manawa i loko o ke koa.
+45:52 EK1	‘Ō.
+45:53 mk:IM	A, ka Navy aku nō ho‘i, ma lalo aku.
+45:55 EK1	‘Ō, a, pololei.
+45:56 mk:IM	Kokoke nō.
+45:57 EK1	Kokoke nō.
+45:58 mk:IM	‘Ae, a ua hele au ma kēlā ‘āina ‘o, ‘o Pālau. Ua hele ‘oe ma laila?
+46:02 EK1	‘A‘ole. ‘A‘ole.
+46:03 mk:IM	‘Ō. ‘Āina !!
+46:04 EK1	‘O Saipan wale nō. ‘O Saipan wale nō ka‘u i hele ai.
+46:06 mk:IM	A ua hele au ma laila.
+46:07 EK1	‘Ō, hele nei ‘oe i
+46:08 mk:IM	Ma Saipan, a ma Pālau nō ho‘i.
+46:09 EK1	A.
+46:10 mk:IM	A hiki nō ho‘i i Guam. ‘O Guam ko mākou wahi ma, i ho‘olulu ai, a pau. Hele i ka ‘āina Pilipino ho‘i.
+46:16 EK1	Inā hō‘ea mai ‘oe i Guam, a, ‘a‘ole hiki ‘oe ke ‘ike nā, nā mea ‘oe i maopopo ai because of kēia manawa, auē.
+46:24 mk:IM	‘Ae, ‘ae. Ua kūkulu ‘ia
+46:26 EK1	Ua kūkulu ‘ia nā, nā ‘ano, a, hale ki‘eki‘e loa.
+46:30 mk:IM	Auē nō ho‘i, nā hōkele paha.
+46:33 EK1	Hōkele, yeah, kēlā hōkele.
+46:34 mk:IM	‘Ae, ‘ae, ‘ae.
+46:35 EK1	Ma mua o kou manawa i, i, Guam, ‘a‘ole loa‘a kēia ‘ano hōkele.
+46:39 mk:IM	‘A‘ohe. No ka mea ua bomb ‘ia ho‘i kēia po‘e B-29 ma mua.
+46:43 EK1	Yeah.
+46:44 mk:IM	A. Inā ‘oe i kēlā manawa, auē.
+46:46 EK1	A, hō‘ea mai nei ‘o wahi Karen?) nei, a puehu li‘ili‘i. Puehu pau loa.
+46:51 mk:IM	‘Ae.
+46:51 EK1	Iā Guam.
+46:52 mk:IM	‘Ae, ‘ae, ‘ae, ‘ae. A ke ho‘i aku ‘oe, a, hā‘awi aku ‘oe i ko‘u aloha nui loa iā Mole^^(Molly,)
+46:57 EK1	Okay.
+46:58 mk:I	‘Ae, wala‘au aku ‘oe, ‘o Maka‘ai
+47:00 EK1	‘Ae.
+47:00 mk:IM	no Ka‘ūpūlehu, a ma^^ kama‘āina iā ia.
+47:03 EK1	‘Ō.
+47:03 mk:IM	Maopopo ‘o ia.
+47:04 EK1	He aha kou inoa?
+47:05 mk:IM	‘O Maka‘ai.
+47:06 EK1	‘O Maka‘ai. A, okay.
+47:07 mk:IM	‘Ae, ‘ae. Joseph Maka‘ai.
+47:08 EK1	Joseph Maka‘ai.
+47:09 mk:IM	‘Ae.
+47:09 EK1	Okay.
+47:10 mk:IM	Wala‘au aku ‘oe, a, kou hoahānau, a, maopopo nō iā ia. ‘Ae, mahalo nō no kēia hui ‘ana me ‘oe, a,
+47:17 EK1	A mahalo iā ‘oe kou kelepona ‘ana mai
+47:18 mk:IM	‘A‘ole wau i, i lohe i kāu hīmeni ‘ana kēia hīmeni Guamanese ho‘i.
+47:22 EK1	^^^
+47:24 mk:IM	Ua, a, ua nui nō ka po‘e kāhea aku nei iā ‘oe, mea, e mea, wala‘au aku nei iā ‘oe ho‘i, auē, maika‘i nō, nani nō kēlā leo.
+47:30 EK1	Mahalo.
+47:30 mk:IM	No ka mea, hiki nō ia‘u ke maopopo kekahi hua‘ōlelo o kēia Guamanee ho‘i. No ka mea,
+47:37 EK1	‘Ō, maopopo nō ‘oe?
+47:38 mk:IM	‘Ae, ‘ae, maopopo.
+47:38 EK1	Maopopo ‘oe i ka mo‘olelo hafaday?
+47:41 mk:I	 ‘Ae,
+47:41 EK1	‘Ae.
+47:42 mk:IM	‘ae, maopopo kēlā. Kama‘āina?
+47:44 EK1	^^^ Yeah.
+47:44 mk:IM	^^^ ‘Ae, mahalo nō
+47:47 EK1	Mahalo iā ‘oe.
+47:47 mk:IM	A, na ke Akua nō,
+47:48 EK1	kou kelepona
+47:48 mk:IM	e ho‘opōmaika‘i iā ‘oe, a, ‘ae.
+47:50 EK1	Mahalo, a like pū me ‘oe.
+47:52 mk:IM	‘Ae.
+47:52 EK1 	‘Ae, byebye.
+47:53 mk:IM	‘Ae. Byebye.
+47:57 LK	Aloha nō.
+47:58 mk:KK7	‘Ae, aloha ahiahi mai.
+48:00 LK	Aloha. Pāpā Kau‘i?
+48:01 mk:KK7	‘Ae.
+48:01 LK 	Auē. Pehea ‘oe?
+48:03 mk:KK7	A, maika‘i nō. Pehea ke keiki o Waimea?
+48:06 LK	Maika‘i. ‘O ia mau.
+48:07 mk:KK7	A, pehea nō ke keiki o mea, //ka wai huna o ka pao‘o\\. ‘O ia mau nō.
+48:10 LK	^^^
+48:13 mk:KK7	Auē, aloha ahiahi !!
+48:14 LK	‘Ē, pehea ka ‘ohana?
+48:16 mk:KK7	A, maika‘i wale nō.
+48:17 LK	A, aloha aku nō iā lākou a pau.
+48:19 mk:KK7	‘Ae. Mahalo nō ho‘i au a nui loa i nā mea maika‘i o kēia ahiahi i mea, i kēia mau mea, mau mākua mea ho‘okipa o kēia ahiahi.
+48:28 LK	‘Ae. Pehea, ua hele loa ‘oe i kēlā ‘āina malihini?
+48:30 mk:KK7	A, ua hele nō wau a hiki i mea, ua hiki au i mea, i kēia ‘āina malihini ‘o ko‘u, mea, Hawai‘i.
+48:35 LK	A pehea ‘o Guam?
+48:37 mk:KK7	A, koe ʻo Gua^^ Guam, ‘a‘ohe o‘u i hele i laila.
+48:39 LK	Auē, inā ‘oe ‘a‘ole hele i laila, ‘a‘ole ‘oe ‘ike i kēia honua.
+48:43 mk:KK7	A.
+48:43 LK	^^^
+48:44 mk:KK7	A, !!,i ka hele ‘ana mai nei kēlā makuahine hele i kēlā ‘āina ‘o Guam, a ua ‘ike nō ia.
+48:49 LK	‘Ae, ua ‘ike.
+48:50 mk:KK7	A i kona ‘ike ‘ana, ko kāua ‘ike ‘ana nō ia.
+48:52 EK1	^^^
+48:52 LK	A, mahalo nō iā ia. ^^^
+48:54 mk:KK7	Mahalo ho‘i iā ia, a me ka ha^^, mea, me ka, a, hā‘awi aloha aku mai no kēia keiki ho‘i nō ‘o Pua Alamida^(Almeida).
+49:00 LK	‘Ae.
+49:01 mk:KK7	____ ‘o ia.
+49:02LK	Aloha nō.
+49:03 mk:KK7	Kēia keiki kaulana maoli no nā mea hīmeni mele Hawai‘i.
+49:06 LK	‘Ae, ‘ae. Nui nō ho‘i ko mākou mahalo iā ia.
+49:10 mk:KK7	Pēia pū hoʻi a. Ho‘olohe n^^ aku nei nō ho‘i i kēia mau, kēia mau hoa kipa o kēia ahiahi, a,
+49:15 LK	‘Ae.
+49:15 mk:KK7 	a i hīmeni i kēlā hīmeni ‘o mea, e pili ana nō ka mea no,
+49:18 LK	no Pua, ‘ae.
+49:20 mk:KK7	ke keiki ‘o Pua Alamida^(Almeida),
+49:21 LK	‘Ae.
+49:21 mk:KK7	aʻu i lohe ai. Kāhea akula ho‘i, mea, hā‘awi aloha no kēia,
+49:25 LK	Mahalo.
+49:26mk:KK7	no kēia,
+49:27 LK	‘Ae.
+49:27 mk:KK7	mau māhele no kēia ahiahi. No laila, ‘a‘ohe ana he mau mana‘o ‘ano nui, he mau mana‘o hā‘awi aloha,
+49:31 LK	‘Ē.
+49:32 mk:KK7	ahiahi iā ‘oukou.
+49:33 LK	He nui nō ho‘i kēia mana‘o me ke aloha nō.
+49:35 mk:KK7	‘O ia ho‘i, a
+49:36 LK	A.
+49:37 mk:KK7	‘O ia, mahalo nō ho‘i, a, mau aku nō kēia mau hana maika‘i.
+49:40LK	Mahalo.
+49:41 mk:KK7	A, na ke Akua nō e mālama a kia‘i i nā mea maika‘i ‘ē a‘e āu e kōkua nei ma luna o kēia mau māhele.
+49:47 LK	Mahalo.
+49:48 mk:KK7	Iā ‘oukou ke aloha ahiahi a me nā hoa kipa o kēia ahiahi. Na ke Akua e hoʻopōmaika‘i iā ‘oukou a pau. No laila e hui hou nō kāua,
+49:55 LK	A hui hou, a hui hou nō kāua. Aloha nō.
+49:57 mk:KK7	Aloha nō. A, byebye.
+50:00 LK	Byebye. ‘Ae. No ka lohe ‘ole o ko‘u ‘anakala i kāu hīmeni ‘ana i kēlā mele Guamanian, a hiki nō paha iā ‘oe ke ho‘okani hou maila? I ‘ike kākou nā po‘e i hele ‘ole i laila.
+50:14 EK1	Hiki nō.
+50:16 LK	‘Ae? Hiki?
+50:18 EK1	Hiki nō.
+50:19 LK	‘Ae. Ho‘oponopono ana nō ‘o Pila i ka ipu leo kēia manawa. ‘Eleu wahe^^ ‘eleu nō kēia wahi keiki. ^^^ Mahalo iā ‘oe e Pila.
+50:30 PW	ʻAʻole pilikia.
+50:41 EK1	Nobia
+		> Nobia kahulu donta gase i makama
+		To‘u fatu inu biuhu
+ 		Dansi nidi nitu lambo
+		Hanan dandongeegeep nichong tata luhamagi 	Hanan dandong michum hatman tiu tsagi.
+
+		Nobia kahulu donta gase i makama
+		To‘u fatu inu biuhu
+ 		Dansi nidi nitu lambo
+
+		Hanan dandongeegeep nichong tata luhamagi
+		Hanan dandong michum hatman tiu tsagi.
+
+		Nihi tanfar hanau tanfar pikni
+		Uihluu lancho manim
+		Na patsu ichi ba
+		Chachatsu ichiba
+		Na despues nano
+
+52:14	# This is the end of Hawaiian tape HV24 reel 54a.
+52:19	# This is Hawaiian tape HV24 reel 54b
+52:27 EK1		> lancho manim
+		Na patsu ichi ba
+		Chachatsu ichiba
+		Na despues nano boka
+
+		Chota lo‘o ia‘u la lo‘ong
+		Na botecha agua genti
+		Na kela guin napota janapita ka ka ka
+		Samalangu him sempri
+
+		Nobia kahulu jonta gaie i matamo
+		Sau fatu inu biuhu
+		Dansi nidi nichu lambo
+
+53:30 LK	Mahalo. Mahalo nui. Kala mai no kēia manawa. Aloha kāua.
+53:36 mk:NK1	Aloha.
+53:38 LK	Aloha.
+53:39 mk:NK1	Aloha.
+53:39 LK	Aloha.
+53:40 mk:NK1	Aloha ^^^
+53:41 LK	Pehea ‘oe?
+53:42 mk:NK1	Maika‘i. {Amū,}
+53:44 LK	Pehea kou mana‘o i kēia ahiahi? ‘O wai kēia?
+53:50 mk:NK1	{Amū, amū,} e Kauanoe.
+53:52 LK	‘Ae?
+53:52 mk:NK1	He li‘ili‘i wale nō ko‘u kama‘ilio Hawai‘i. A,
+53:56 LK	‘Ae, hiki nō. ‘A‘ole pilikia.
+53:58 mk:NK1	Akā, hiki ia‘u ke wala‘au me Aunty Kapeka?
+54:02 LK	Hiki. E kali.
+54:08 EK1	Aloha kāua.
+54:09 mk:NK1	Aloha e Aunty Kapeka. ‘O Nāmahana Kalama kēia. Kama‘āina wau iā ‘oe no ka mea ua hula au me ‘oe ma Guam.
+54:20 EK1	‘Ō, aloha mai iā ‘oe, Nāmahana.
+54:25 mk:NK1	‘O David Kalama ko‘u makua kāne.
+54:29 EK1	Maopopo nō wau kou pāpā me kou māmā,
+54:32 mk:NK1	‘Ae.
+54:33 EK1	Me kou kaika^^ kaikua‘ana, a me kou mau keiki kā^^, a, kaiku^^kā^^ a, kaikunāne.
+54:40 mk:NK1	{Uhū.}
+54:40 EK1	Mahalo iā ‘oe kou kelepona ‘ana mai, wala‘au ia‘u.
+54:44 mk:NK1	Kēia ku^^.
+54:45 EK1	Alia.
+54:45 mk:NK1	Huh?
+54:46 EK1	Po^^. ‘A‘ole au i poina iā ‘oe no ka mea ka manawa au mamake, a, kaikamahine e hula ai no ku‘u, ku‘u, a, po‘e tourist, ‘o ‘oe ka mea i, e hele mai e hula me kou kaikua‘ana. So pehea lā hiki ia‘u ke poina iā ‘oe. ‘A‘ole au i poina iā ‘oe.
+55:05mk:NK1	^^^ {Amū,} i, ua lohe ana i kou leo ma loko o ka pahu lēkiō. Kama‘āina au i kou leo. Maika‘i ko‘u lohe ‘ana i kou leo.
+55:18 EK1	Mahalo. ‘Akahi nō wau lohe ai i kou ‘ano wala‘au ‘ana ia‘u. Ma mua, wala‘au haole ‘oe ia‘u. Kēia manawa, wala‘au Hawai‘i ‘oe ia‘u, nui ku‘u mahalo iā ‘oe.
+55:29 mk:NK1	{Amū,}
+55:30 EK1	Maika‘i kou wala‘au ‘ana.
+55:32 mk:NK1	Nā, e haumāna, e haumāna au. ^^^
+55:38 EK1	Maika‘i.
+55:39 mk:NK1	A,
+55:40 EK1	A pehea ‘oe? Ai^^, aia i hea ‘oe ke hele i ke kula? E, e noho nei?
+55:46 mk:NK1	Ma Kāne‘ohe.
+55:47 EK1	‘Ō, i Kāne‘ohe. ‘O wai kou kula, kumu kula?
+55:54 mk:NK1	{Amū,} Bill Pānui. ^^^
+55:58 EK1	‘Ō, Pānui. A, ‘a‘ole maopopo ia‘u, but, no, maopopo nō ‘o,
+56:01 mk:NK1	^^^
+56:02 EK1	‘o Kimura. ^^^ ‘A‘ole au i maopopo kou inoa so no laila kala mai ‘oe ia‘u. ^^^ ‘O Kauanoe, yeah, kona inoa ‘o Kauanoe. ^^^ E, e kala mai ‘oe ia‘u. ^^^ Ko‘u kāhea ‘ana iā ia ma kona inoa Kepanī. ^^^
+56:18 LK	^^^
+56:20 mk:NK1	{Amū,} hā‘awi i ku‘u aloha i kou mau mākua.
+56:25 EK1	‘Ō. ‘Ae.
+56:27 mk:NK1	Mahalo.
+56:28 EK1	Mahalo iā ‘oe kou kelepona mai ia‘i^^ iā mākou i ne‘i nei a mai ke Akua e poho^^ pōmaika‘i iā ‘oe a me nā ‘ohana a pau.
+56:35 mk:NK1	Aloha.
+56:37 EK1	Aloha.
+56:40 LK	‘Ae. Nani nō kāu ‘ōlelo ‘ana e ‘o, e Nāmahana. E ho‘omau nō i ka ‘ōlelo makua a mahalo nui i kāu kumu ‘ōlelo Hawai‘i ‘o, ‘o Pānui. Kama‘āina au iā ia. Kēia manawa, e ho‘omanawanui nō kākou no ka mea ho‘olaha hou ana nō kēia kahua.
+57:01	#The sound of aloha. In Honolulu, radio 1420, KCCN.
+57:15	#You are listening to Ka Leo Hawai‘i, produced by the students of the University of Hawai‘i‘s Hui Aloha ‘Āina Tuahine. This program is brought to you as a public service of The Gas Company and the gas appliance dealers in Hawai‘i. And now, back to Ka Leo Hawai‘i.
+57:35 LK	‘Ae, a i kēia manawa, ua ho‘i mai nō ‘o Keoni Dupont me kākou i kēia ahiahi, ua ola maika‘i nō kona ‘ōma‘ima‘i. I kēlā, kēlā Lāpule aku nei. Ua ‘ano ‘ōma‘ima‘i ‘oe e Keoni, akā, hau‘oli nō mākou kou hele hou ‘ana mai i kēia ahiahi.
+57:51 h:KD2	@@ ‘Ae. Aloha, Kauanoe. Aloha e nā makamaka o Ka Leo Hawai‘i, mai Ni‘ihau a Hawai‘i. Ka welina o ke aloha pumehana iā ‘oukou a pau. A, eia ka nūhou no kēia ahiahi. Ua ho‘okaumaha hou ‘ia ko kākou mau pu‘uwai i nehinei i ka niau ‘ana o kekahi o ko Hawai‘i mau pua maoli. ‘O ia nō ‘o Pua Almeida, ke keiki a Uncle Johnny Almeida. Ua kaulana ‘o Pua no kāna ho‘okani pila ‘ana. Ua hānau ‘ia ‘o Pua ma Honolulu nei, a hele ‘o ia i ke kula, a ma hope o kēlā, ua ho‘okumu ‘o Pua i kāna hui puhi ‘ohe a, ke ho‘omana‘o nei ka hapa nui o ‘oukou iā Pua iā ia e ho‘okani pila ana ma ke Queen‘s Surf, Trader Vic‘s, ka Surfrider, ka Moana Banyan Court, a me ka papahana ‘o Hawai‘i Calls. ‘O ka nui o ko Pua kālena, ‘o ia nō ka ho‘okani pila, a ‘o ke kīkā kila kāna mea ‘oi loa. Ua hana ‘o Pila^^, ‘o Pua i mau pāleo, ka mua ma ka inoa ‘o South Sea Island Magic, a ‘o kekahi pāleo ‘ē a‘e ‘o Ku‘uipo a ‘o On The Beach At Waikīkī. ‘O ko mākou aloha kēia i kona ‘ohana, kāna wahine, Leilani me Uncle Johnny. E mau ana kēia pua onaona maoli ma ko kākou mau pu‘uwai me kona leo, a me kona kālena poina ‘ole. Aloha nō.
+
+	A i kēia pule i hala a‘e nei, ua hālāwai nā ‘ahahui kīwila Hawai‘i ma ka hōkele ‘o Ala Moana. Ua ho‘olaule‘a lākou, kūkākūkā lākou, mele lākou, a ‘o kēia kūkākūkā ‘ana, e pili ana i ke kūlana o ka Hawai‘i i kēia manawa. Ua noi aku ‘o Francis Ke‘ala, ‘o ia nō ka luna māka‘i o Honolulu, i nā ‘ahahui no ko lākou kāko‘o me ke kōkua i nā māka‘i. A pēia nō kāna noi no ke kōkua ‘ana i kekahi mau papahana pā‘ani me nā ‘ōpio o Hawai‘i nei. A i nehinei ua ha‘i aku ka luna kānāwai, William Richardson, i nā ‘ahahui, “Pono nā Hawai‘i e ho‘ohana ke kahua ho‘okolokolo no ke kōkua ‘ana iā lākou iho. ‘Ōlelo ‘o Richardson, pono nō nā loio e kōkua i nā Hawai‘i ma ko lākou mau kuleana a me ko lākou pono. A ‘ōlelo nō ‘o Richardson, he mea maika‘i i nā mākua e paipai i nā keiki e lilo i lōio, i kauka, a pēlā wale aku, a e hā‘awi, ʻo mea, e kōkua kālā i nā keiki. Kāko‘o iā lākou. No kēia me^^ mau kumu maika‘i, ma kēia ‘imi ‘ana o ka ‘ike me ka na‘auao.
+
+	A i nehinei nō, ua hō‘ike ‘o Richard Lyman, ‘o ia ka pelekikena o nā kahu waiwai o ka hoi^^ ho‘oilina Pihopa i kekahi papahana hou. Ua ho‘onoho ‘ia kēia papahana e nā kahu waiwai no nā waihona kōkua ho‘ona‘auao no nā haumāna o nā kula ki‘eki‘e aupuni ma Hawai‘i nei. Ua ho‘āpono nā kahu waiwai i ka hā‘awi ‘ana i nā kālā he iwakāluakūmūlima kaukani kālā, no kēia waih^^ waihona kōkua. A i ka makahiki ‘umikūmāiwa kanahikukūmālima, e ho^^ e hiki mai ana, e ho‘onui ana ka nui o nā waihona kōkua i huinanui, he kanalima kaukani kālā. A i ka makahiki ‘umikūmāiwa kanahikukūmāono, he kanahikukūmālima kaukani kālā, a i ka makahiki ‘umikūmāiwa kanahikukūmāhiku, he ho‘okahi haneli kaukani kālā. E ‘ike ‘ia ana kēia papahana ma ka inoa ‘o Nā Ho‘okama a Pauahi.
+
+	A, i nehinei, ua ho^^ ua koho hou ‘ia nā luna o nā ‘ahahui kīwila Hawai‘i. Eia nā inoa o nā luna ki‘eki‘e ma lalo nei. ‘O ka pelekikena, ‘o Doctor George Mills, a ‘o ka mua o nā pelekikena hope, ‘o ia nō ‘o Hawaii B. Van Geason o Hilo. A ‘o ka lua o lāua ‘o Whitney Anderson o Kailua O‘ahu. A ‘o ka pu‘ukū, ‘o ia nō ‘o Solomon Halualani o Kāne‘ohe. ‘O ko mākou ho‘omaika‘i kēia iā ‘oukou a pau, e nā luna hou o nā ‘ahahui kīwila Hawai‘i. A ke ho‘omaika‘i nei mākou ma KCCN i nā hui mele ‘o Hilo me ka hui King Kamehameha no kā lāua lanakila ala^^ lanakila ‘ana i kēlā ho‘okūkū mele ‘o nā ‘ahahui i ka pō o ka Po‘alima. Ua pa‘i a pa‘i ‘o King Kamehameha me Hilo. No laila, ‘o ia ke kumu no kēlā, a, lanakila o lāua.
+
+	A, eia ka māhele pā‘ani no kēia ahiahi. Auē, ua pio ke kukui o ka hui kinipōpō hīna‘i o ke Kulanui o Hawai‘i. Nui ko lākou hilahila i ka lanakila ‘ana o ka hui ‘o Saint Mary‘s ma luna o lākou. ‘O ka helu, kanaiwakūmākolu i ke kanakolukūmāhā. Auē. Ua ho‘ā‘o ‘o Tom Henderson e alaka‘i i ka hui me ka helu he kanakolukūmākahi, akā ‘a‘ohe ona kāko‘o mai kona mau hoa pani^^, hoa pā‘ani. A i ka pō nei, mau nō ka lanakila ‘ana o kekahi hui a‘e, hui ‘ē a‘e. I keia manawa, ua lanakila ‘o Nevada Las Vegas ma luna o Hawai‘i. ‘O ka helu, he kanaonokūmāiwa i ke kanalimakūmāhiku. ‘Oi aku ka pā‘ani ‘ana o nā Ānuenue ma mua o kēlā me Saint Mary‘s akā, ua hana lākou i mau hewa, he iwakāluakūmālima ka nui, a ‘o ia ke kumu nui o lanakila ‘ole ‘ana o lākou. E ho‘i ana ka hui o ke kulanui i Hawai‘i no ka ho‘okūkū ‘ana a ‘ehā ho‘okūkū kā lākou i kēia manawa, a ke mana‘olana nei mākou ‘o Ka Leo Hawai‘i e lanakila hou ana ko Hawai‘i hui. A i kēia mau ho‘okūkū, ke mana‘olana nei mākou e lanakila ana lākou i ‘ehā manawa. A eia nā helu o nā kula ki‘eki‘e. Punahou, kanaono, Saint Louis, kanalimakūmāiwa. Damien, kanalimakūmākolu, Kamehameha, kanalima kūmāhi^^ kūmākahi. Kalani, kanaonokūmāono, Farrington, kanahākūmāhiku. Nānākuli, kanawalukūmāhiku, Campbell, kanaonokūmālua. Radford, kanalimakūmākahi, Moanalua, ‘ō, {mū,} ‘umikūmāiwa. Auē. Kailua, kanaono, Kahuku, kanalimakūmālua. Saint Louis A, kanahākūmāiwa, Punahou A, kanakolukūmāhiku. A, ua lanakila nā hui ‘au‘au o Punahou, a lanakila lākou i ke kūlana ‘ekahi i nehinei, ma nā ho‘okūkū ‘ana o nā hui ma ka ILH, a lanakila, mea, loa‘a iā Kamehameha ke kūlana ‘elua a iā ‘Iolani me Hawai‘i School for Girls ke kūlana ‘ekolu. A ua lanakila nō ho‘i ‘o Kailua i nehinei i ho‘okūkū ‘au‘au ‘ana o nā kula aupuni o O‘ahu. Loa‘a iā Roosevelt ke kūlana ‘elua, a iā Kaiser ke kūlana ‘ekolu. A ‘o ia iho nō ka nūhou no kēia ahiahi. A hui hou kākou a kēia Lāpule a‘e. Mahalo e Kauanoe. _
+
+66:12 LK 	Mahalo iā ‘oe e Keoni. Kēia ho‘olaha ‘ana kēia ahiahi, ka māhele nūhou a me ka māhele pā‘ani. A, pehea ‘olua?
+66:23 EK1	Maika‘i.
+66:25 LK	Maika‘i? ^^^ hiamoe. ‘A‘ole. ^^^
+66:29 EK1	‘A‘ole. ‘A‘ole.
+66:30 LK	‘A‘ohe? Na^^ ‘a‘ole. Mahalo kēia hīmeni ‘ana o nā mele o Guam akā ua ho‘i mai nō ‘olua i Hawai‘i nei, ko ‘olua ‘āina hānau a no laila,
+66:41 EK1	‘Ae.
+66:41 LK	‘olu‘olu e hīmeni mai kekahi mele Hawai‘i. A, ‘o wai ka inoa o kēia m^^ mele?
+66:49 EK1	Pauoa Liko Lehua.
+66:52 LK	A, hiki. Hiki nō.
+67:08 EK1	Pauoa Liko Lehua
+		> E ka u‘i mae ‘ole
+		O ka uka ‘iu‘iu
+		E maliu mai ‘oe
+		A ‘o wau koʼu^^(kou) hoa
+		A e kohukohu ai
+		Ma ‘ane‘i mai kāua
+		A i ‘olu ho‘i au
+
+		Ho‘ohihi au e ‘ike
+		I ka nani o ia pua
+		A he pua mae ʻole
+		A he wehi no ka uka
+		‘O Pauoa liko lehua
+		A ‘o koʼu hoapili
+		ʻO Leipuaroselani
+
+		A aia i laila
+		Ko^^(ke) ko‘i‘i koi a loko
+		Mao ‘ole ka ‘i‘ini
+		I ‘ano‘i au e ‘ike
+		I ke kumu o ke ‘ala
+		A he ‘ala onaona
+		I ka maka o ka ‘ōpua
+
+		E hō‘ike ka puana
+		No ka lau liko lehua
+		O ka uka o Pauoa
+		I lei kāhiko no‘u
+		No ka ua Kūkalahale
+		A he lei ua pūia
+70:19		I ke ‘ala me ke aloha
+
+70:27 LK	Mahalo nui. Mahalo nui kēia mele ‘o Pauoa Ka Liko Lehua. ‘Ae. I Kaka‘ako wale nō ‘oe i noho ai?
+70:39 EK1	‘Ae. I Kaka‘ako wale nō.
+70:42 LK	‘Ae. A, i hea ‘oe i hele ai i ke kula?
+70:45 EK1	A, ku‘u wā li‘ili‘i, i Pohukaina, a Washington, a McKinley High, a puka wau. McKinley High School.
+70:57 LK	‘Ae, maika‘i. Makahiki hea ‘oe i hānau ‘ia ai?
+71:01 EK1	Nine^^ Nineteen twenty-three.
+71:08 LK	‘Ae. I Hilo nō.
+71:10 EK1	I Hilo nō.
+71:71 LK	‘Ae. ^^^ ‘A‘ole ‘oe, ‘a‘ole ‘o ‘oe ka hiapo, ē?
+71:14 EK1	‘A‘ole. He kaikua‘ana nō ka‘u.
+71:18 LK	{Uhū.} ʻAe. A, pehea ka {mū,} ‘o, ua hānai ‘ia ‘oe e nā kūpuna, ‘o Akana? ‘O ‘oe wale nō ka i.
+71:34 EK1	‘Ae. ‘O wau wale nō.
+71:36 LK	‘Ae. ‘O, ‘o Akana ma ka ‘ao‘ao o kou māmā?
+71:41 EK1	ʻO ku‘u māmā.
+71:42 LK	‘Ae. A kou mau kūpuna, no, no Honolulu nei.
+71:47 EK1	No Honolulu nei.
+71:48 LK	Mea mai nō ‘oe, kou kupuna wahine, no, no Hilo?
+71:51 EK1	‘A‘ole. Ku‘u kupuna wahine no Honolulu nei.
+71:55 LK	{A, a.}
+71:55 EK1	No Wai‘alae.
+71:57 LK	{A, a.} No Wai‘alae. ‘Ae.
+71:59 EK1	Ka ʻohana ʻŌpūlauoho. Ku‘u ‘ohana kēlā.
+72:03 LK	‘Ē. A, male ‘oe i kāu kāne?
+72:07 EK1	Male wau ku‘u kāne,
+72:08 LK	‘Ē.
+72:10 EK1	ʻo Kaleikoa.
+72:11 LK	ʻAe. Hui nō ‘olua ma Honolulu nei.
+72:15 EK1	Ma Honolulu nei.
+72:16 LK	‘Ae. A pehea ‘oe i ho‘omaka ai e, e ho‘okani pila? Na nā kūpuna nō i a‘o iā ‘oe?
+72:22 EK1	‘Ae. Na ku‘u kūpuna nō i a‘o ia‘u nā ‘ano, i nā ‘ano mele kahiko loa, ku‘u wā li‘ili‘i, a nui au.
+72:30 LK	‘Ae.
+72:31 EK1	A male au.
+72:32 LK	‘Ae.
+72:33 EK1	And ‘ōlelo mai nei ku‘u kupa^^ kupuna ia‘u, inā nō ‘oe maopopo kēia mele wau e hīmeni ai, Pauoa Liko Lehua, ua a‘o ‘ia ku‘u kupuna ia‘u. A ua ‘ōlelo mai nei ‘o ia inā ‘a‘ole hiki ia‘u ke hīmeni pau loa, ‘a‘ole hīmeni. No, lai^^ laila,
+72:50 LK	^^^
+72:51 EK1	^^^ kēia mele kahiko loa.
+72:54 LK	‘Ē. Ho‘opa‘a na‘au
+72:56 EK1	kē^^
+72:56 LK	i nā hua‘ōlelo.
+72:57 EK1	‘Ae. Kēia manawa, inā lākou hīmeni i nā ‘ano mele ‘elua, o ho‘okahi, ‘elua paukū, a hā‘ina,
+73:04 LK	‘Ae. Hā‘ina. Ho‘opōkole no ka mea,
+73:07 EK1	Oh yeah. Ho‘opōkole ‘ia nā ‘ano mea li^^
+73:09 LK	‘A‘ohe pa‘a pono ka ma^^ ka mo‘olelo, ka mana‘o o ke mele inā ho‘opōkole wale nō ka hīmeni ʻana. ʻAʼohe nō maika‘i loa ka ho‘olohe ‘ana, ē? Inā ʻaʼohe pau loa ka hīmeni pau loa ka hīmeni?
+73:25 EK1	I, pololei.
+73:27 LK	E like me ke ‘ano ka haku ‘ana, o k^^, o nā mele,
+73:30 EK1	A, pololei.
+73:31 LK	He mo‘olelo, he mana‘o no ko ka, ko ke mele.
+73:34 EK1	Yeah, ‘ae. Pololei. No laila ‘a‘ole waiwai e ho‘opōkole ‘ia ai.
+73:38 LK	‘Ae.
+73:38 EK1	Nā ‘ano mele.
+73:39 LK	Pehea, haku mele nō ‘oe?
+73:41 EK1	‘A‘ole.
+73:42 LK	Hīmeni wale nō.
+73:43 EK1	Hīmeni wale nō.
+73:44 LK	^^^
+73:44 EK1	Ku‘u wā ‘ōpiopio, a hula nō.
+73:47 LK	Hula?
+73:48 EK1	A
+73:49 LK	‘O wai kāu kumu hula?
+73:50 EK1	‘O Mary Ho.
+73:51 LK	Mary Ho. ‘Ae. ‘A‘ole wau kama‘āina.
+73:56 EK1	ʻAʻole ʻo ia ke aʻo nei i kēia manawa. I think, hoʻomaha nei ʻo ia,
+74:00 LK	A
+74:01 EK1	mau makahiki.
+74:02 LK	{Mū, mū, mū.} A, hula nō, hula ‘oukou no ka, no ka moku paha, a i ‘ole no ka po‘e malihini nō?
+74:09 EK1	No ka po‘e malihini.
+74:11 LK	‘Ē.
+74:12 EK1	Hula nō mākou, ^^^ maopopo ʻoe kēlā hōkele, Young Hotel?
+74:16 LK	‘Ae.
+74:16 EK1	A ma laila ku‘u wahi e hula ai?
+74:17 LK	{A, a, a.} ^^^ Kala mai.
+74:20 EK1	No Hilo?
+74:21 LK	Kala mai. Aloha kāua.
+74:26 mk:LK3	‘Ae, aloha kāua e Kauanoe.
+74:28 LK	‘Ae, aloha nō.
+74:30 mk:LK3	‘Ae. ‘O wau kēia ‘o Luana Keale.
+74:32 LK	A, aloha. Pehea ‘oe?
+74:34 mk:LK3	Maika‘i.
+74:35 LK	Aia i hea ‘oe?
+74:36 mk:LK3	Aia au i ke Kula ‘o Kamehameha.
+74:39 LK	‘Ae.
+74:39 mk:LK3	{Amū,} maopopo iā ‘oe, ‘o Ilei?
+74:42 LK	‘Ō, Ilei, ‘ae.
+74:43 mk:LK3	‘Ae. Ku‘u kaikuahine kēlā.
+74:45 LK	Me kou kaikua‘ana? Mea, kou kaikunāne?
+74:49 mk:LK3	‘Ae, iā Kaimana.
+74:50 LK	Kaimana.
+74:51 mk:LK3	ʻAe.
+74:51 LK	Ua puka ‘o ia, ē?
+74:52 mk:LK3	{Amū,} ʻaʻole aʻu maopopo.
+74:55 LK	ʻA^^ ʻAʼole ʻo ia i puka mai ke kula mai?
+74:59 mk:LK3	ʻAʻole.
+74:59 LK	‘Ō.
+75:00 mk:LK3	{Amū,} makemake wale nō wau e hā‘awi aloha i ka ‘ohana o Ni‘ihau
+75:06 LK	Hiki nō.
+75:06 mk:LK3	kēia lā. Pehea, hiki paha lākou ke ho‘olohe nei lā, pehea lā?
+75:10 LK	A, aia nō. Aia nō lākou ke ho‘olohe nei. ^^^
+75:12 mk:LK3	Aia nō.
+75:13 LK	Lohe aku ‘oe i ka leo o Pāpā Kau‘i, aia ‘o ia i Kaua‘i.
+75:17 mk:LK3	‘Ae?
+75:18 LK	‘Ē. Kāhea mai nei nō ‘o ia.
+75:19 mk:LK3	‘Ē.
+75:20 LK	‘Ē.
+75:20 mk:LK3	{Amū,}
+75:21 LK	Pehea ke kula?
+75:22 mk:LK3	Maika‘i.
+75:23 LK	Maika‘i? Aia ‘oe i ka papa hea?
+75:25 mk:LK3	A, aia wa^^, aia au i ka papa ‘ewalu o Kamehameha nei.
+75:30 LK	‘Ē, ‘ē. Ka hale hea ‘oe e noho nei?
+75:32 mk:LK3	{Amū,} Alice Knapp East.
+75:34 LK	‘O wai?
+75:35 mk:LK3	Alice Knapp East.
+75:37 LK	A. Pehea ka noho ‘ana?
+75:38 mk:LK3	Maika‘i.
+75:39 LK	Maika‘i. ^^^
+75:41 mk:LK3	ʻAno ʻāwīwī me ke kamaliʼi.
+75:44 LK ‘Ē, ‘ē. 	^^^ Wā hea ʻoe e ho‘i ai?
+75:48 mk:LK3	{Amū,} e ho‘i ana au i Kaua‘i i kēia Po‘alima.
+75:53 LK	‘Ō. Maika‘i.
+75:54 mk:LK3	A, hapalua hola ‘ehā.
+75:56 LK	‘Ē, ‘ē.
+75:57 mk:LK3	Mea, Common weekend ko mākou.
+75:59 LK	‘Ō. L^^ wā, mau lā ho‘omaha kā ‘oukou?
+76:02 mk:LK3	‘Ae, kēia Po‘alima, a Po‘akahi.
+76:05 LK	‘Ē.
+76:05 mk:LK3	Ho‘i hou mai.
+76:06 LK	‘Ō, maika‘i.
+76:07 mk:LK3	A, mak^^ a make ana, makemake aku nei au e aloha aku i ko‘u makuahine.
+76:11 LK	‘Ē.
+76:12 mk:LK3	Inā lā, aia paha ‘o ia e ho‘olohe maila,
+76:14 LK	‘Ē. Aia nō paha. Aia nō.
+76:76 mk:LK3	Aia nō
+76:76 LK	No ka mea, ho‘olohe mau nō paha ka po‘e o Ni‘ihau.
+76:20 mk:LK3	‘Ae.
+76:21 LK	‘Ō.
+76:22 mk:LK3 	Aia paha lākou ke ho‘olohe maila kēia manawa.
+76:24 LK	^^^
+76:26 mk:LK3	!! lākou i ka ho‘olohe.
+76:26 LK	A, kou hele ‘ana i Kaua‘i. Ma laila ‘oe e ‘ike ai.
+76:30 mk:LK3	‘Ē.
+76:30 LK 	‘Ē.
+76:30 mk:LK3	A me ko‘u mau kūkū o Niʼihau
+76:33 LK	ʻAe.
+76:33 mk:LK3	a, ʻohana nō, a pau loa o Ni‘ihau.
+76:36 LK	‘Ae.
+76:36	^^^
+76:36 LK	‘Ae.
+76:36 mk:LK3	Aloha ‘oukou a pau loa.
+76:38	^^^
+76:38 LK	‘Ae, mahalo nui kēia hāʻawi ʻana.
+76:40 mk:LK3	‘Ae. Mahalo iā ‘oe Kauanui^(Kauanoe).
+76:42 LK	‘Ae.
+76:42 mk:LK3	Ke Akua pū me lākou, a me ‘oukou ho‘i ma laila.
+76:45 LK	A, aloha aku iā, i kou kaikua‘ana me kou kaikunāne, ke hui aku me lāua.
+76:52 mk:LK3	‘Ae.
+76:53 LK	‘Ae. Aloha n^^. A hui hou.
+76:55 mk:LK3	Aloha. A hui hou.
+76:56 LK	Aloha. ‘Ae. A, ‘o ka ‘ukulele wale nō āu e ho‘okani nei?
+77:06 EK1	‘A‘ole. Hiki ia‘u ke pā‘ani kīkā.
+77:08 LK	Kīkā. A ‘o ka
+77:10 EK1	A ‘o
+77:11 LK	‘O ke kī^^
+77:12 EK1	ka piano kekahi.
+77:13 LK	A. Piano. Pehea ke ‘ano o ka pila ma Guam? ‘A‘ohe ‘oko‘a?
+77:19 EK1	‘A‘ole.
+77:20 LK	‘A‘ole
+77:21 EK1	Kīkā. ‘Ukulele nō.
+77:23 LK	Wā hea ‘olua e ho‘i ai i Guam?
+77:26 EK1	Lā u^^ iwakāluakūmākahi.
+77:29 LK	Kēia mahina
+77:30 EK1	Kēia. Mau pule koe.
+77:32 LK	‘Ē, ‘ē.
+77:33 EK1	I mau pule koe, a ho‘i ai māua.
+77:35 LK	E, he holoholo wale nō kēia a ‘olua i hele.
+77:37 EK1	‘A‘ole. Ho‘i mai nei au, i ka manawa o ke Kalikimaka.
+77:42 LK	{A, a.}
+77:43 EK1	A, holo iho nei au i Kaua‘i, a ma laila ku‘u kaikamahine ke noho nei,
+77:48 LK	{A, a.}
+77:48 EK1	A hānau pēpē iho nei ‘o ia,
+77:50 LK	‘Ō.
+77:52 EK1	A ‘o ia ke kumu wau e hele nei
+77:55 LK	‘Ē.
+77:55 EK1	e kōkua iā ia no nā, i ka manawa e hānau ai. !!
+77:58 LK	Kona manawa mua kēia?
+77:59 EK1	‘A‘ole.
+78:01 LK	{A.}
+78:01 EK1	‘Elua ona keiki,
+78:03 LK	{A.}
+78:03 EK1	Kaikamāhine.
+78:03 LK	Kaikamāhine.
+78:04 EK1	Kaikamāhine.
+78:05 LK	{Mū.}
+78:06 EK1	‘Ehā, ‘ehā a‘u mo‘opuna.
+78:10 LK	‘Ō, maika‘i. ^^^
+78:12 EK1	A, noho iho nei wau i Kaua‘i, ‘eono mau, ‘eono pule.
+78:78 LK	{Mū.}
+78:78 EK1	A, hoʻi mai nei wahi manawa e hoʻi ai.
+78:22 LK	^^^ Well, maikaʻi nō. Mahalo nui kou kōkua ‘ana iā mākou kēia ahiahi.
+78:29 EK1	Mahalo wau iā ‘oe kou nīnau ‘ana ia‘u e hele mai.
+78:32 LK	No ka mea,
+78:33 EK1	Nui ku‘u hau‘oli i ku‘u hele mai nei kēia, kēia lā. And mai, ‘ōlelo nei mua au iā ‘oe, ‘ano, ‘ano
+78:40 LK	^^^
+78:41 EK1	ʻAno ha‘alulu mai nei au i ka ma mua
+78:42 LK	Mahalo au iā ‘oe, no ka mea, lō‘ihi loa, like nō me kāu i ‘ōlelo mai nei, he ‘umikūmāhiku makahiki, ‘a‘ole ‘oe i ‘ōlelo Hawai‘i.
+78:49 EK1	Yeah. Well, ‘a‘^^ ka po‘e, ka hapa nui o ka po‘e Hawai‘i i laila, ‘a‘ole, ‘a‘ole wala‘au Hawai‘i.
+78:55 LK	‘Ae. Pololei.
+78:57 EK1	So ‘ano poina iho nei wau kekahi mea.
+78:59 LK	‘Ae. Akā,
+79:00 EK1	But ‘a‘ole hiki ke poina.
+79:01 LK	‘A‘ole hiki. ^^^
+79:02 EK1	Yeah. Inā noho nei wau, inā noho wau i ne‘i nei, mau mahina paha, {amū,} ‘a‘ole, {amū,}
+79:09 LK	{Mū,}
+79:10 EK1	puka mai nā ‘ano mea hiki ia‘u e maopopo ai,
+79:12 LK	‘Ae, ‘ae.
+79:13 EK1	No kēia manawa nō hoʼi, well,
+79:14 LK	Kou noho ‘ana me nā kūpuna, ‘ōlelo Hawai‘i wale nō.
+79:18 EK1	‘Ae. ‘A‘ole ‘o ia, lāua wala‘au
+79:22 LK	Haole.
+79:22 EK1	Haole.
+79:23 LK	‘Ē. He aha kā lāua hana?
+79:26 EK1	Ku‘u kupuna, kupuna kāne, hana no ka City and County kēlā manawa.
+79:32 LK	‘Ae.
+79:33 EK1	Ku‘u kupunahine, kau lei ‘o ia.
+79:36 LK	‘Ō. Kū‘ai lei?
+79:39 EK1	Kū‘ai lei.
+79:39 LK	Ma ke alanui Maunakea paha, ma ka uapo paha,
+79:43 EK1	‘A‘ole. Ka uapo.
+79:45 LK	‘Ō.
+79:45 EK1	Aia i waho Lau I Chai kēlā mahi^^ kēlā manawa, mākou kū‘ai lei i waho o Lau I Chai.
+79:52 LK	‘Ē. A.
+79:54 EK1	‘A‘ole like pū me kēia manawa.
+79:55 LK	{Mū, mū, mū.}
+79:56 EK1	Lākou ‘a‘ole hele i ka hōkele e kū‘ai ai.
+79:58 LK	‘A‘ole.
+79:59 EK1	ka lei.
+79:59 LK	‘A‘ole ‘ae ‘ia paha.
+80:01 EK1	Ma ka uapo,
+80:01 LK	{Mū.}
+80:02 EK1	Pau
+80:02 LK	Pololei. Nāna nō kui i ka lei, nāna hana i ka lei, nā kū‘ai.
+80:07 EK1	{Aha.}
+80:08 LK	He aha nā ‘ano lei?
+80:10 EK1	‘Ō, ka mēlia, ka poni mō‘ī, and
+80:17 LK	Ka ‘ilima paha
+80:197 EK1	Ka ‘ilima, pua kenikeni,
+80:80 LK	‘Ē, ‘ē.
+80:21 EK1	Nā ‘ano pua like ‘ole.
+80:221 LK	‘Ae. He ‘e^^
+80:23 EK1	Ka kīele,
+80:24 LK	‘Ē.
+80:24 EK1	‘awapuhi nō, kekahi.
+80:26 LK	Haku nā, haku nō ka lei, me ka palapalai ho‘i?
+80:31 EK1	Kekahi nō ho‘i, haku ‘ia. Kekahi nō i m^^ ka mēlia, ma^^, kēlā manawa, ‘a‘ole au ‘ike ka, ka ‘ō‘ā ‘ia ka mēlia, like me, me nā ‘ano pua, a, asters paha,
+80:43 LK	{A,} ‘ē, ‘ē.
+80:44 EK1	ʻO ka mēlia wale nō au i ‘ike ai.
+80:47 LK	‘Ae.
+80:47 EK1	Ma mua o ku‘u manawa e kū‘ai ai, kū‘ai lei,
+80:51 LK	‘Ē.
+80:51EK1	Hana mākou i ka mēlia, a a‘o ‘ia nei nā ‘ano snowball, you know,
+80:57 LK	‘Ē, ‘ē.
+80:58 EK1	Ka ‘ōkole‘oi‘oi, and
+80:59 LK	‘Ē, ‘ē. ‘Ōʻā, nā ‘ano pua like ‘ole.
+81:01 EK1	‘Ae.
+81:02 LK	Ho‘ohui. He emi nō paha ke kumu kū‘ai o ka lei kēlā manawa?
+81:07 EK1	Kēlā manawa.
+81:07 LK	{Mū.}
+81:08 EK1	Hapa, hapahā ko ka lei. Kekahi manawa nō ho‘i, ‘elua no ka hapahā.
+81:13 LK	‘Ae. ^^^
+81:15 EK1	^^^
+81:15 LK	Well, kēlā manawa, komo mau ana ka moku, ē?
+81:19 EK1	‘Ae.
+81:20 LK	I kēlā mau lā. A nui
+81:22 EK1	Nui ‘ino nā moku.
+81:23 LK	‘Ae.
+81:23 EK1	Kēlā manawa.
+81:24 LK	Kēia manawa ma ka mokulele nō lākou e hele mai ai.
+81:26 EK1	‘Ae.
+81:27 LK	‘Ae.
+81:28 EK1	Kēia manawa, pipi‘i loa ka lei.
+81:30 LK	‘Ae. ^^^
+81:31 EK1	Kanono ku‘u lae. ^^^
+81:33 LK	‘Ae. ^^^
+81:33 EK1	‘Ō, hele nīnau ‘ehia, ‘ehia kālā ko ka lei kēia manawa,
+81:37 LK	^^^
+81:38 EK1	Auē. ‘Elua kālā a ‘oi, kekahi nō ho‘i, ‘ekolu kālā.
+81:41 LK	‘Ae. A, pilikia nō ho‘i ‘o kēia mau, kēia mau lā, a, nui ka ua,
+81:46 EK1	‘Ae.
+81:47 LK	‘A‘ohe mōhala ka pua. Kokoke nō kākou e komo ana i loko o ke kau wela. ‘O ia ana ka manawa e, e nui ana ka pua.
+81:56 EK1	E nui ka pua.
+81:57 LK	‘Ae.
+81:57 EK1	Pololei, pololei.
+81:58 LK	Kēia manawa, ‘a‘ohe.
+81:59 EK1	Kēia manawa, ‘a‘ohe pua.
+82:00 LK	{Uhu.} Well, laki nō nā po‘e kū‘ai lei kēia manawa, no ka mea, he mea ua kuluma ‘ia ma Hawai‘i nei kēia manawa, ‘o ka, ‘o ke kū‘ai lei, ‘o ke kau lei, ‘o ka hā‘awi ‘ana i ka lei ma ka ho‘okipa ‘ana a ma ka ha‘alele ‘ana, he hā‘awi i ka lei. A, ua ʻike wau nō ho‘i ma ke kīwī, ma ka ‘āina ‘o Iāpana, he, ke hā‘awi nei
+82:27 EK1	Ke hāʻawi nei lei
+82:27 LK	nō lākou i ka lei i ka po‘e
+82:29 EK1	po‘e tourist
+82:30 LK	‘Ae,
+82:30 EK1	Pololei.
+82:31 LK	ma laila. No ko lākou mamake nui nō paha i kēia ‘ano o ka Hawai‘i.
+82:35 EK1	Sure. Yeah. Pololei.
+82:36 LK	‘Ae. ^^^ Akā, ‘o ka wā kahiko, ‘a‘ohe kū‘ai i ka lei, ‘o ka hā‘awi wale nō, me ke aloha. ^^^ Kēia manawa, ‘a‘ole hiki ke ‘ai inā ‘a‘ohe kālā.
+82:49 EK1	‘O ia ho‘i.
+82:51 LK	‘Ē. ^^^ He aha kāu e a‘o nei i ke kula Kakolika?
+83:00 EK1	{Amū,} kakikimo,
+83:01 LK	{A, a.}
+83:04 EK1	And um,
+83:11 LK	Nā mea pili ana i ka Paipala, !!
+83:12 EK1	ʻAʻo^^ Well, kekahi nō,
+83:14 LK	‘Ae.
+83:14 EK1	But, kekahi nō, a heluhelu,
+83:17 LK	‘Ē.
+83:18 EK1	A, ‘o ka wala‘au ‘ana ha^^ haole,
+83:83 LK	‘Ē, ‘ē.
+83:24 EK1	You know, the po‘e kamali‘i because ‘o laila lākou, ‘a‘ole hiki ke wala‘au haole.
+83:29 LK	‘Ae.
+83:30 EK1	So no laila, a‘o wau iā ia.
+83:31 LK	{Uhu.}
+83:32 EK1	I ka wala‘au ‘ana, Haole.
+83:33 LK	‘Ae. Ko lākou noho ‘ana, noho nō lākou ma ko lākou wahi wale nō? ‘A‘ole lākou ho‘olauna aku kekahi me kekahi, nā po‘e ‘Amelika paha,
+83:47 EK1	Ho‘olauna nō
+83:48 LK	‘Ē.
+83:49 EK1	Me ka po‘e ‘Amelika. Ma mua iho nei.
+83:51 LK	‘Ē.
+83:52 EK1	Ku‘u, ku‘u manawa e hō‘ea ai i, i Guam.
+83:54 LK	‘Ē.
+83:55 EK1	‘A‘ole hui, hui like me ka po‘e haole.
+83:57 LK	{A.}
+83:58 EK1	‘Oko‘a ko lākou kula, o ka po‘e haole a ‘oko‘a ka kula o ka po‘e Guamanian.
+84:03 LK	{A, a, a.} Kēia manawa
+84:04 EK1	A ma hope maila,
+84:05 LK	‘Ē.
+84:05 EK1	ma hope maila, a, hui, hui like lākou,
+84:07 LK	{Mū,} maika‘i.
+84:08 EK1	a kēia manawa,
+84:09 LK	{Aha.}
+84:10 EK1	A like me, a hiki mai i kēia manawa.
+84:12 LK	Inā pēlā, e ‘a‘apo koke ana i ka ‘ōlelo haole no ka ho‘ohui ‘ana, ē?
+84:17 EK1	Pololei.
+84:17 LK	‘Ē.
+84:18 EK1	‘Ae.
+84:18 LK	Koe wale ka mea pilikia. A, ka nalowale ‘ana o ka ‘ōlelo maoli nō, ‘o ko lākou, ‘o kā lākou ‘ōlelo nō. ‘O ka ‘ōlelo Guam.
+84:29 EK1	‘Ae.
+84:31 LK	{Mū.} E like nō me Hawai‘i, ma Hawai‘i nei, a, ua nalowale. Koe kāka^^ kāka‘ikahi wale nō e ‘ōlelo nei i ka ‘ōlelo Hawai‘i. E like nō me ‘oe. ^^^
+84:45 EK1 	Well, maika‘i. Maika‘i kēia hana o, o ‘oukou i ka University i, i, i a‘o ʻia ai nā kamali‘i, ‘ōpiopio kēia manawa e wala‘au ko lākou, a,
+85:00 LK	‘Ae.
+85:00 EK1	wala‘au ‘ana Hawai‘i.
+85:01 LK	‘Ae. Hana nui nō na‘e, no ka mea, ke a‘o ‘ana i ka po‘e ‘ōpio i ka ‘ōlelo Hawai‘i ma ka papa wale nō, ma ke kula, a, i ka pau ‘ana o ke kula, komo akula lākou ko lākou home. ‘A‘ohe lohe hou ‘ia ka ‘ōlelo Hawai‘i. He pa‘akikī loa ke a‘o ‘ana o ka ‘ōlelo Hawai‘i ma kēlā ‘ano. Koe, koe na‘e ‘o Hawai‘i nō kēia. ‘O ma ‘ane‘i nei wale nō ka ‘ōlelo Hawai‘i. Ka hele loa ‘ana i Guam, a, ‘a‘ohe nō loa‘a ka ‘ōlelo Hawai‘i ma laila. ^^^
+85:33 EK1	Nui, m^^, nui ku‘u aloha e ho‘olohe ai ‘oukou ‘ōpiopio wala‘au Hawai‘i.
+85:39 LK	Mahalo. Mahalo nō i kou kāko‘o ‘ana. A, ua noi ‘ia nā po‘e ‘ōpiopio, nā po‘e haumāna e ho‘olohe mai nei, ‘o waho nei o kēia ke‘ena iā ‘olua e hīmeni mai kēia mele ‘o Pā‘au‘auWaltz. Inā hiki. Ua hele a ‘ano luhi paha kou leo. ^^^
+85:59 EK1	Well, hiki nō.
+86:00 LK	Hiki? ‘Ae. Maika‘i. ‘Ae? ‘O kēia nō kekahi mele kahiko nō ho‘i kekahi.
+86:14 EK1	Pā‘au‘au Waltz
+		Ha‘aheo Pā‘au‘au lā i ka nani
+		Kilakila i ka pai a ka Moa‘e
+		E walea ana paha i ka ‘olu
+		I ka ho‘oheno a nā i‘a hāmau leo
+		Pau ‘ole ko‘u ho‘ohihi
+		I ka nani o Pā‘au‘au
+		Na wai e ‘ole ka ‘i‘ini
+		Ua noho a kupa i laila
+		Uluwehi wale ia home
+		Maka‘ala i ke kai o Pōlea
+		Ho‘olale a‘e ana e ‘ike i ka nani
+		O Pā‘au‘au
+89:02	^^^
+89:03 LK	Mahalo nui. Nui ka nani. Mahalo nui kēia hīmeni ‘ana o Pā‘au‘au. A, e kala mai, a, eia he wahi nīnau paha kēia na Pila. E kala mai ia‘u. E Pila, nāu nō e pane i kēia kelepona ‘ana.
+89:21 PW	Aloha. ^^^
+89:22 mk:LM	Aloha Pila.
+89:23 PW	‘Ae, aloha nō.
+89:24 mk:LM	No, ko‘u mana‘o, ‘o ia ho‘i kēia. Ke hele mai nei kahi nūpepa a kākou?
+89:28 PW	Pehea ho‘i? ^^^
+89:30 mk:LM	!!
+89:30 PW	Ke hana nei nō, ke hana nei nō wau, akā ka‘u mau po‘e haumāna nāna nō e kōkua mai, ‘ano lohi nō lākou.
+89:38 mk:LM	‘O ia?
+89:38 PW	‘Ae.
+89:39 mk:LM	‘Ō.
+89:39 PW	Kali ana wau iā lākou i ka hana ‘ana i kā lākou po‘e pepa. ‘O Kauanoe nō kekahi. ‘A‘ole nō i pau kāna. Pau nō ka‘u.
+89:47 mk:LM	^^^
+89:48 PW	A mākaukau nō wau akā kēia po‘e haumāna ʻē aʼe, ʻaʼole nō i pau.
+89:52 mk:LM	Ke kali nei au.
+89:54 PW	Hē. A ‘o wau kekahi. Ho‘okahi paha pule i koe a laila,
+89:58 mk:LM	‘O ia?
+89:58 PW	loa‘a paha.
+89:59 mk:LM	‘O ia?
+89:59 PW	‘Ē.
+89:59 mk:LM	‘Ō, ‘ō.
+90:00 PW	Pau paha i ka pa‘i ‘ia, a laila pono nō mākou ho‘ouna
+90:02 mk:LM	Yeah, ‘a‘ole poina, ‘a‘ole poina i ku‘u mau po‘e, ku‘u mau hoaaloha.
+90:05 PW	‘A‘ole nō i poina ‘ia
+90:06 mk:LM 	Yeah.
+90:07 PW	Loa‘a nō.
+90:08 mk:LM	Yeah. Yeah.
+90:08 PW	‘Ae.
+90:09 mk:LM	Mahalo.
+90:09 PW	Mahalo nō.
+90:10 mk:LM	Byebye.
+90:10 PW	Bye.
+90:12 LK	ʻAe. E Pila, pono ‘oe e hō‘eu‘eu no ka mea, ke kali mai nei nō ho‘i kēia po‘e heluhelu nūpepa.
+90:20 PW	‘Ae.
+90:21 LK	‘Ae. ^^^
+90:22 PW	Ke ho‘ā‘o nei.
+90:23 LK	‘Ae. Mahalo, mahalo. A, kēia manawa ua kani nō ho‘i ka hola ‘ewalu. Ka hopena kēia o kēia papahana. A no laila ke hā‘awi aku nei ko‘u mahalo nui iā ‘olua, ko ‘olua hele ‘ana mai e hīmeni a e kama‘ilio pū nō ma ka ‘ōlelo Hawai‘i. A me ka ‘ōlelo Guamanian nō ho‘i kekahi. Mahalo nui.
+90:45 EK1	Ke mahalo nei wau iā ‘oe kekahi,
+90:48 LK	Kauanoe
+90:50 EK1	Kauanoe, i kou nīnau ‘ana ia‘u e he^^, e hele mai kēia lā e, e hīmeni no ‘oukou, a wala‘au like mākou. M^^ mahalo.
+90:58 LK	‘Ae. Me ka hana nui nō na‘e wau e noi aku iā ‘oe no ka mea, ‘ano, mea mai nō ‘oe, ha‘alulu nō ‘oe no ka lō‘ihi o ka, ‘ōlelo ‘ole o ka ‘ōlelo Hawai‘i. Akā na‘e, ua maika‘i nō nā mea a pau kēia ahiahi. Mahalo nui.
+91:13 EK1	Mahalo iā ‘oe.
+91:14 LK	A mahalo nui iā ‘oukou a pau e ho‘olohe nei kēia ahiahi, a a hui hou nō kākou i kēia Lāpule a‘e.
+	ʻAnoʻai ke aloha e nā pua o ka ʻāina. Ua pā iho nei ko ʻoukou mau pepeiao i Ka Leo Hawaiʻi o ke ahiahi a me nā mele aloha o ka ʻāina, me he kahawai lā e ʻōlino mau, e nanahe mau a e nani mau. Aloha a nui loa iā ʻoukou a pau a hui hou aku kākou.
+91:56 	# This is the end of Hawaiian tape HV24 reel 54b.

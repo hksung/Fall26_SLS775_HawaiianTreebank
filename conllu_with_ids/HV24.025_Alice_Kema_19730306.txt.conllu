@@ -1,0 +1,5248 @@
+# newdoc id = HV24.025_Alice_Kema_19730306
+# sent_id = HV24.025_Alice_Kema_19730306_1
+# text = E nā poʻe kānaka o ka ʻāina hānau, ʻauhea ʻoukou.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	kānaka	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	hānau	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻauhea	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_2
+# text = Hauʻoli nō kēia hu , hui hou ʻana o kākou i kēia hola hoʻokahi o kēia papahana ʻo Ka Leo Hawaiʻi e paipai nei i ka ʻōlelo aloha, ka ʻōlelo Hawaiʻi a kākou.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hui	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hola	_	_	_	_	_	_	_	_
+14	hoʻokahi	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	papahana	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Ka	_	_	_	_	_	_	_	_
+20	Leo	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	paipai	_	_	_	_	_	_	_	_
+24	nei	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	ʻōlelo	_	_	_	_	_	_	_	_
+28	aloha	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	ʻōlelo	_	_	_	_	_	_	_	_
+32	Hawaiʻi	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	kākou	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_3
+# text = Aloha pumehana.
+1	Aloha	_	_	_	_	_	_	_	_
+2	pumehana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_4
+# text = A eia nō me kākou i kēia ahiahi, ko mākou hoa kipa, ʻo Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	hoa	_	_	_	_	_	_	_	_
+13	kipa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Mrs	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_5
+# text = Alice a, Kema.
+1	Alice	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Kema	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_6
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_7
+# text = 02:24 AK4 Aloha iā ʻoukou a pau loa i ka ʻāina ʻē.
+1	02	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	24	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Aloha	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	loa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻāina	_	_	_	_	_	_	_	_
+14	ʻē	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_8
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_9
+# text = A, mahalo nō i kou hele ʻana mai i kēia ahiahi, no ka mea, ua ʻike nō wau, he hana nō kāu i kēia ahiahi ma mua o kou hele ʻana mai i neʻi nei.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kou	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ua	_	_	_	_	_	_	_	_
+19	ʻike	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	wau	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	hana	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	kāu	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	ahiahi	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	mua	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	kou	_	_	_	_	_	_	_	_
+34	hele	_	_	_	_	_	_	_	_
+35	ʻana	_	_	_	_	_	_	_	_
+36	mai	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	neʻi	_	_	_	_	_	_	_	_
+39	nei	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_10
+# text = He, he, aia nō ʻoe ke hana nei ma Waikīkī nei? 02:47 AK4 ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	Waikīkī	_	_	_	_	_	_	_	_
+13	nei	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	02	_	_	_	_	_	_	_	_
+16	:	_	PUNCT	_	_	_	_	_	_
+17	47	_	_	_	_	_	_	_	_
+18	AK4	_	_	_	_	_	_	_	_
+19	ʻAe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_11
+# text = Hana wau ma neʻi i, i nā, i ka pō.
+1	Hana	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	neʻi	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pō	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_12
+# text = I ke ao, hele wau i hana i Pālolo e kōkua i kuʻu m , mau poʻe Hawaiʻi ma laila, a me nā poʻe ʻāina ʻē.
+1	I	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	ao	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Pālolo	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	kōkua	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kuʻu	_	_	_	_	_	_	_	_
+15	m	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	laila	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	me	_	_	_	_	_	_	_	_
+25	nā	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	ʻāina	_	_	_	_	_	_	_	_
+28	ʻē	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_13
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_14
+# text = A he aha, he aha kāu hana ma Waikīkī nei? ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	aha	_	_	_	_	_	_	_	_
+7	kāu	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Waikīkī	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻĒ	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_15
+# text = 03:14 AK4 Kaʻu hana i Waikīkī i ka pō, hele wau e pāʻani pila i ka hotel Waikīkīan, me nā hoa, Mrs.
+1	03	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	14	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kaʻu	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Waikīkī	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	pō	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	wau	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	pāʻani	_	_	_	_	_	_	_	_
+17	pila	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hotel	_	_	_	_	_	_	_	_
+21	Waikīkīan	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	hoa	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	Mrs	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_16
+# text = Tillie Heen, ʻo Mary Lucas, ʻo Evelyn Chang, a me kona kāne, Harry Chang.
+1	Tillie	_	_	_	_	_	_	_	_
+2	Heen	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Mary	_	_	_	_	_	_	_	_
+6	Lucas	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Evelyn	_	_	_	_	_	_	_	_
+10	Chang	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	kona	_	_	_	_	_	_	_	_
+15	kāne	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Harry	_	_	_	_	_	_	_	_
+18	Chang	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_17
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_18
+# text = Poʻe hoʻokani pila nō lākou a hīmeni nō hoʻi no nā poʻe malihini? 03:40 AK4 ʻAe.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	hoʻokani	_	_	_	_	_	_	_	_
+3	pila	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	hīmeni	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	malihini	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	03	_	_	_	_	_	_	_	_
+16	:	_	PUNCT	_	_	_	_	_	_
+17	40	_	_	_	_	_	_	_	_
+18	AK4	_	_	_	_	_	_	_	_
+19	ʻAe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_19
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_20
+# text = 03:42 AK4 Pāʻani pila a me hīmeni.
+1	03	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	42	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Pāʻani	_	_	_	_	_	_	_	_
+6	pila	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_21
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_22
+# text = } 03:46 AK4 Hīmeni i nā hula, hīmeni i nā, hīmeni, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	03	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	46	_	_	_	_	_	_	_	_
+5	AK4	_	_	_	_	_	_	_	_
+6	Hīmeni	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	hula	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hīmeni	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hīmeni	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_23
+# text = 03:50 AK4 ka ʻāina.
+1	03	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	50	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_24
+# text = Lōkihi nō kēia hoʻokani pila ʻana a ʻoukou? 03:56 AK4 Na Mrs.
+1	Lōkihi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hoʻokani	_	_	_	_	_	_	_	_
+5	pila	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	03	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	56	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	Na	_	_	_	_	_	_	_	_
+15	Mrs	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_25
+# text = Heen a me Mary Lucas, lāua, hana i kēia hana ʻumikūmāono makahiki.
+1	Heen	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	Mary	_	_	_	_	_	_	_	_
+5	Lucas	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	lāua	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ʻumikūmāono	_	_	_	_	_	_	_	_
+14	makahiki	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_26
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_27
+# text = 04:06 AK4 Na Mrs.
+1	04	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Na	_	_	_	_	_	_	_	_
+6	Mrs	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_28
+# text = Chang, ʻumikūmāhik , ʻumi, ʻUmi makahiki? 04:14 AK4 ʻUmi makahiki.
+1	Chang	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻumikūmāhik	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻumi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻUmi	_	_	_	_	_	_	_	_
+8	makahiki	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	04	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	14	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	ʻUmi	_	_	_	_	_	_	_	_
+15	makahiki	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_29
+# text = Lōʻihi kēlā.
+1	Lōʻihi	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_30
+# text = 04:17 AK4 ʻO wau, ʻelima makahiki wale nō.
+1	04	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	17	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻelima	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	wale	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_31
+# text = A, he nui nō kēlā.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_32
+# text = 04:23 AK4 ʻAe.
+1	04	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	23	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_33
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_34
+# text = Hīmeni Hawaiʻi wale nō? 04:27 AK4 ʻAe.
+1	Hīmeni	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	04	_	_	_	_	_	_	_	_
+7	:	_	PUNCT	_	_	_	_	_	_
+8	27	_	_	_	_	_	_	_	_
+9	AK4	_	_	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_35
+# text = Hīmeni Hawaiʻi a me hapa haole, a me haole pū.
+1	Hīmeni	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	hapa	_	_	_	_	_	_	_	_
+6	haole	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	haole	_	_	_	_	_	_	_	_
+11	pū	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_36
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_37
+# text = A ʻo kēia hana me nā poʻe Hawaiʻi ma Pālolo.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Pālolo	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_38
+# text = He aha ke ʻano o kēia hana? 04:40 AK4 Kōkua m , wau iā lākou i ko lākou noho ʻana.
+1	He	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	04	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	40	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	Kōkua	_	_	_	_	_	_	_	_
+14	m	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	wau	_	_	_	_	_	_	_	_
+17	iā	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ko	_	_	_	_	_	_	_	_
+21	lākou	_	_	_	_	_	_	_	_
+22	noho	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_39
+# text = Hoʻokipa ko lākou ʻohana me nā keiki.
+1	Hoʻokipa	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	ʻohana	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_40
+# text = Inā he mea lākou e makemake ai, hele mai lākou i kuʻu hale.
+1	Inā	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	makemake	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kuʻu	_	_	_	_	_	_	_	_
+14	hale	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_41
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_42
+# text = } 04:59 AK4 I loko o ka ʻāina ʻo Jarrett Intermediate School.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	04	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	59	_	_	_	_	_	_	_	_
+5	AK4	_	_	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	loko	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Jarrett	_	_	_	_	_	_	_	_
+13	Intermediate	_	_	_	_	_	_	_	_
+14	School	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_43
+# text = And.
+1	And	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_44
+# text = ʻO kēia hana, aia ma lalo nō o kekahi hui paha? 05:09 AK4 ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	lalo	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	hui	_	_	_	_	_	_	_	_
+12	paha	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	05	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	09	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_45
+# text = A, ʻo ka hui mākou e hana ma lalo, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	hui	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	lalo	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻĒ	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_46
+# text = 05:14 AK4 ʻO ka inoa ʻo Honolulu Community Action.
+1	05	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	14	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Honolulu	_	_	_	_	_	_	_	_
+10	Community	_	_	_	_	_	_	_	_
+11	Action	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_47
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_48
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_49
+# text = M , mea, he hui kōkua kēia i nā poʻe i loko nō o ka pōpilikia paha, a i ʻole, nā poʻe an , hoʻohemahema nō ka noho ʻana i kēia manawa? 05:32 AK4 ʻAe.
+1	M	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	hui	_	_	_	_	_	_	_	_
+7	kōkua	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	loko	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	pōpilikia	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ʻole	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	poʻe	_	_	_	_	_	_	_	_
+26	an	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	hoʻohemahema	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	noho	_	_	_	_	_	_	_	_
+32	ʻana	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	kēia	_	_	_	_	_	_	_	_
+35	manawa	_	_	_	_	_	_	_	_
+36	?	_	PUNCT	_	_	_	_	_	_
+37	05	_	_	_	_	_	_	_	_
+38	:	_	PUNCT	_	_	_	_	_	_
+39	32	_	_	_	_	_	_	_	_
+40	AK4	_	_	_	_	_	_	_	_
+41	ʻAe	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_50
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_51
+# text = 05:33 AK4 Kēlā ko mākou hana.
+1	05	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	33	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kēlā	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_52
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_53
+# text = Maikaʻi nō.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_54
+# text = Pehea, 05:37 AK4 He hana, he hana hauʻoli.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	05	_	_	_	_	_	_	_	_
+4	:	_	PUNCT	_	_	_	_	_	_
+5	37	_	_	_	_	_	_	_	_
+6	AK4	_	_	_	_	_	_	_	_
+7	He	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	hauʻoli	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_55
+# text = He hana koʻikoʻi.
+1	He	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	koʻikoʻi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_57
+# text = 05:41 AK4 He hana kaumaha.
+1	05	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	41	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	kaumaha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_58
+# text = Akā, you know, loaʻa lākou ko lākou pono.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	you	_	_	_	_	_	_	_	_
+4	know	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	loaʻa	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	pono	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_59
+# text = He hauʻoli mā , kākou a pau loa.
+1	He	_	_	_	_	_	_	_	_
+2	hauʻoli	_	_	_	_	_	_	_	_
+3	mā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_60
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_61
+# text = Mahalo nui iā ʻoukou no kēia hana maikaʻi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	maikaʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_62
+# text = A, pehea e hoʻomau ana nō kēia, 06:00 AK4 ʻAʻole.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻomau	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	06	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	00	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	ʻAʻole	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_63
+# text = hana? 06:01 AK4 No ka mea, kēia mahina ʻo Iune kanakolu, pau ana, ʻo wau, akā ʻo ka haku nui, pau ana lākou iā Setemapa.
+1	hana	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	:	_	PUNCT	_	_	_	_	_	_
+5	01	_	_	_	_	_	_	_	_
+6	AK4	_	_	_	_	_	_	_	_
+7	No	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mahina	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Iune	_	_	_	_	_	_	_	_
+15	kanakolu	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	pau	_	_	_	_	_	_	_	_
+18	ana	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	wau	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	akā	_	_	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	haku	_	_	_	_	_	_	_	_
+27	nui	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	pau	_	_	_	_	_	_	_	_
+30	ana	_	_	_	_	_	_	_	_
+31	lākou	_	_	_	_	_	_	_	_
+32	iā	_	_	_	_	_	_	_	_
+33	Setemapa	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_64
+# text = A no ka hōʻoki ʻana paha i ka puʻu kālā? 06:22 AK4 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hōʻoki	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	puʻu	_	_	_	_	_	_	_	_
+10	kālā	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	06	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	22	_	_	_	_	_	_	_	_
+15	AK4	_	_	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_65
+# text = No ka ho , hōʻoki ʻana i ka kālā.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ho	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hōʻoki	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	kālā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_66
+# text = Hoʻopau ʻana, ʻē.
+1	Hoʻopau	_	_	_	_	_	_	_	_
+2	ʻana	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_67
+# text = 06:26 AK4 Pau ana ko mākou hana.
+1	06	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	26	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Pau	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_68
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_69
+# text = ʻAno minamina nō.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	minamina	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_70
+# text = 06:31 AK4 Pololeʻi (Pololei).
+1	06	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	31	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Pololeʻi	_	_	_	_	_	_	_	_
+6	(	_	PUNCT	_	_	_	_	_	_
+7	Pololei	_	_	_	_	_	_	_	_
+8	)	_	PUNCT	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_71
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_72
+# text = Well, ke ʻano hōʻemi mai nei nō nā waihona kālā o ke aupuni a pau.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	hōʻemi	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	waihona	_	_	_	_	_	_	_	_
+11	kālā	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	aupuni	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	pau	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_73
+# text = ʻAʻohe nō ma kēia, ma kēia māhele wale nō, ma, ma ke kulanui nō hoʻi.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	māhele	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kulanui	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	hoʻi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_74
+# text = Ke hōʻemi mai nei nō ka waihona kālā no ke kulanui a, ʻano pilikia nō hoʻi nā poʻe kumu.
+1	Ke	_	_	_	_	_	_	_	_
+2	hōʻemi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	waihona	_	_	_	_	_	_	_	_
+8	kālā	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kulanui	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻano	_	_	_	_	_	_	_	_
+15	pilikia	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	hoʻi	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	kumu	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_75
+# text = Pēia nō hoʻi me nā poʻe haumāna.
+1	Pēia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	haumāna	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_76
+# text = 06:56 AK4 Pololeʻi (Pololei).
+1	06	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	56	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Pololeʻi	_	_	_	_	_	_	_	_
+6	(	_	PUNCT	_	_	_	_	_	_
+7	Pololei	_	_	_	_	_	_	_	_
+8	)	_	PUNCT	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_77
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_78
+# text = A, aia i hea ʻoe i, i hānau ʻia ai? 07:02 AK4 Ha .
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hānau	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	07	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	02	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	Ha	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_79
+# text = ʻO koʻu wahi hānau, aia i Honolulu, Oʻahu.
+1	ʻO	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	hānau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Honolulu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Oʻahu	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_80
+# text = I Honolulu nei? 07:12 AK4 ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	Honolulu	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	07	_	_	_	_	_	_	_	_
+6	:	_	PUNCT	_	_	_	_	_	_
+7	12	_	_	_	_	_	_	_	_
+8	AK4	_	_	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_81
+# text = Ke kaona nō ʻo Honolulu? 07:14 AK4 Ke kaona ʻo Honolulu.
+1	Ke	_	_	_	_	_	_	_	_
+2	kaona	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Honolulu	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	07	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	14	_	_	_	_	_	_	_	_
+10	AK4	_	_	_	_	_	_	_	_
+11	Ke	_	_	_	_	_	_	_	_
+12	kaona	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Honolulu	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_82
+# text = I loko o ke kaona ʻo Pālama.
+1	I	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kaona	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Pālama	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_83
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_84
+# text = A i ka makahiki hea ʻoe i hānau ai? 07:26 AK4 ʻUmikūmāiwa ʻumikūmāwalu.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hānau	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	07	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	26	_	_	_	_	_	_	_	_
+14	AK4	_	_	_	_	_	_	_	_
+15	ʻUmikūmāiwa	_	_	_	_	_	_	_	_
+16	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_85
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_86
+# text = A, ka inoa o kou mau mākua? 07:35 AK4 Ka inoa o kuʻu makua, mau mākua, David Kalauhala Pā, Kathrin Kapohuolahaina Rowan.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kou	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	mākua	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	07	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	35	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	Ka	_	_	_	_	_	_	_	_
+15	inoa	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kuʻu	_	_	_	_	_	_	_	_
+18	makua	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	mau	_	_	_	_	_	_	_	_
+21	mākua	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	David	_	_	_	_	_	_	_	_
+24	Kalauhala	_	_	_	_	_	_	_	_
+25	Pā	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	Kathrin	_	_	_	_	_	_	_	_
+28	Kapohuolahaina	_	_	_	_	_	_	_	_
+29	Rowan	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_87
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_88
+# text = Nani nō nā inoa o nā mākua.
+1	Nani	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	mākua	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_89
+# text = ʻO kou makua kāne, no Kauaʻi ʻo ia? 07:56 AK4 ʻO koʻu kā , a, makua kāne, kona home i Peʻahi, Maui.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	makua	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	Kauaʻi	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	07	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	56	_	_	_	_	_	_	_	_
+14	AK4	_	_	_	_	_	_	_	_
+15	ʻO	_	_	_	_	_	_	_	_
+16	koʻu	_	_	_	_	_	_	_	_
+17	kā	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	makua	_	_	_	_	_	_	_	_
+22	kāne	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	kona	_	_	_	_	_	_	_	_
+25	home	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	Peʻahi	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	Maui	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_90
+# text = ʻŌ, ʻē.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_91
+# text = 08:03 AK4 A, koʻu makuahine, kona home i Heʻeia, Oʻahu.
+1	08	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	03	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	koʻu	_	_	_	_	_	_	_	_
+8	makuahine	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kona	_	_	_	_	_	_	_	_
+11	home	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Heʻeia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Oʻahu	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_92
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_93
+# text = ʻO Peʻahi, Maui, aia i hea kēia wahi ʻo Peʻahi? Kokoke paha i Lahaina? ʻAʻole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Peʻahi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Maui	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hea	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	wahi	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Peʻahi	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Kokoke	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Lahaina	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	ʻAʻole	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_94
+# text = 08:20 AK4 ʻAʻole.
+1	08	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	20	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_95
+# text = {Mū,} ma waena o.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	waena	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_96
+# text = ʻEā? Kēia inoa, ʻakahi nō a, a lohe, ʻaʻohe au kamaʻāina me ka, me ka mokuʻāina, mea, mokupuni ʻo, ʻo Maui.
+1	ʻEā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Kēia	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻakahi	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	lohe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻaʻohe	_	_	_	_	_	_	_	_
+14	au	_	_	_	_	_	_	_	_
+15	kamaʻāina	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	me	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mokuʻāina	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	mokupuni	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻo	_	_	_	_	_	_	_	_
+29	Maui	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_97
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_98
+# text = 08:44 AK4 Kēia ʻāina, i loko o Peʻahi, Paʻuwela, a me Huelo.
+1	08	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	44	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kēia	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	loko	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	Peʻahi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Paʻuwela	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	Huelo	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_99
+# text = ʻŌ, ma kēlā, 08:50 AK4 Pāʻia.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	08	_	_	_	_	_	_	_	_
+7	:	_	PUNCT	_	_	_	_	_	_
+8	50	_	_	_	_	_	_	_	_
+9	AK4	_	_	_	_	_	_	_	_
+10	Pāʻia	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_100
+# text = ʻĒ, ʻē, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_101
+# text = 08:51 AK4 Ma ka, ma ka kaona ʻo Pāʻia.
+1	08	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	51	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Ma	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	kaona	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Pāʻia	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_102
+# text = Kēlā wahi.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_103
+# text = ʻŌ, ma kēlā wahi ʻo Pāʻia.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Pāʻia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_104
+# text = 08:58 AK4 ʻAe.
+1	08	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	58	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_105
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_106
+# text = A, ʻo kou mau kūpuna? 09:05 AK4 Koʻu mau kūpuna, mai Laupāhoehoe, Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	kūpuna	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	09	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	05	_	_	_	_	_	_	_	_
+11	AK4	_	_	_	_	_	_	_	_
+12	Koʻu	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	kūpuna	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	Laupāhoehoe	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_107
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_108
+# text = 09:18 AK4 And koʻu kupuna wahine, mai Peʻahi, Maui.
+1	09	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	18	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	And	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	kupuna	_	_	_	_	_	_	_	_
+8	wahine	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	Peʻahi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Maui	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_109
+# text = ʻO ia, ʻē.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_110
+# text = 09:24 AK4 ʻAe.
+1	09	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	24	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_111
+# text = ʻŌ, mai nā mokupuni like ʻole, 09:29 AK4 ʻAe.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	mokupuni	_	_	_	_	_	_	_	_
+6	like	_	_	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	09	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	29	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_112
+# text = kou ʻohana.
+1	kou	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_113
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_114
+# text = A ua hānai nō ʻoe i, i Oʻahu nei, a nui? 09:38 AK4 Hānai wau i Oʻahu, i ka makahiki ʻumikūmāhā, hele mākou i ka ʻāina hoʻopulapula i Hoʻolehua, Molokaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hānai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Oʻahu	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	09	_	_	_	_	_	_	_	_
+16	:	_	PUNCT	_	_	_	_	_	_
+17	38	_	_	_	_	_	_	_	_
+18	AK4	_	_	_	_	_	_	_	_
+19	Hānai	_	_	_	_	_	_	_	_
+20	wau	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	Oʻahu	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	makahiki	_	_	_	_	_	_	_	_
+27	ʻumikūmāhā	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	hele	_	_	_	_	_	_	_	_
+30	mākou	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	ʻāina	_	_	_	_	_	_	_	_
+34	hoʻopulapula	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	Hoʻolehua	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	Molokaʻi	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_115
+# text = Kēlā ka manawa loaʻa kuʻu pāpā i, he ʻāina.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	loaʻa	_	_	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	pāpā	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_116
+# text = ʻO ka ʻohana, he, he ʻohana nui o mākou.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_117
+# text = ʻEiwa nā keiki.
+1	ʻEiwa	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_118
+# text = And koʻu kaikunāne, noho ʻo ia i Kauaʻi.
+1	And	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	kaikunāne	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	noho	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kauaʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_119
+# text = Kona inoa, Joseph Pā.
+1	Kona	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Joseph	_	_	_	_	_	_	_	_
+5	Pā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_120
+# text = Akā kēia manawa, eia ʻo i , eia ʻo ia i Honolulu, mākaʻikaʻi ana.
+1	Akā	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	eia	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	eia	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Honolulu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	mākaʻikaʻi	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_121
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_122
+# text = I kēia manawa, ʻē.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_123
+# text = 10:18 AK4 N , a nāna i mālama iā mākou i Molokaʻi, e lawe i hoʻouna i ko mākou mea ʻai, a me ko mākou noho ʻana.
+1	10	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	18	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	N	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	nāna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	mālama	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Molokaʻi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	lawe	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	hoʻouna	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ko	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	ʻai	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	me	_	_	_	_	_	_	_	_
+28	ko	_	_	_	_	_	_	_	_
+29	mākou	_	_	_	_	_	_	_	_
+30	noho	_	_	_	_	_	_	_	_
+31	ʻana	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_124
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_125
+# text = A, i ka makahiki hea ʻoukou i neʻe ai i Molokaʻi, i ka ʻāina hoʻopulapula? ʻO Kalamaʻula? 10:38 AK4 Neʻe mākou i Kalamaʻula mua, a, ʻo ka makakiki (makahiki) ʻo ka makahiki ʻumikūmāiwa, iwakāluakūmālima.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	makahiki	_	_	_	_	_	_	_	_
+6	hea	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	neʻe	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Molokaʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	hoʻopulapula	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	ʻO	_	_	_	_	_	_	_	_
+20	Kalamaʻula	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	10	_	_	_	_	_	_	_	_
+23	:	_	PUNCT	_	_	_	_	_	_
+24	38	_	_	_	_	_	_	_	_
+25	AK4	_	_	_	_	_	_	_	_
+26	Neʻe	_	_	_	_	_	_	_	_
+27	mākou	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	Kalamaʻula	_	_	_	_	_	_	_	_
+30	mua	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻo	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	makakiki	_	_	_	_	_	_	_	_
+37	(	_	PUNCT	_	_	_	_	_	_
+38	makahiki	_	_	_	_	_	_	_	_
+39	)	_	PUNCT	_	_	_	_	_	_
+40	ʻo	_	_	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	makahiki	_	_	_	_	_	_	_	_
+43	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	iwakāluakūmālima	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_126
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_127
+# text = 10:51 AK4 Kēlā ka manawa, hele mākou i Molokaʻi e noho ai.
+1	10	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	51	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kēlā	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Molokaʻi	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	noho	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_128
+# text = He hale ko ʻoukou, a he, 10:58 AK4 Na kuʻu, ʻāina mahiʻai paha? ʻAʻole? 11:01 AK4 A, na kuʻu pāpā me kuʻu mau kaikunāne, lāua e, E aha? E a mahi ʻai? 11:12 AK4 Mahi ʻai.
+1	He	_	_	_	_	_	_	_	_
+2	hale	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	10	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	58	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	Na	_	_	_	_	_	_	_	_
+14	kuʻu	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	mahiʻai	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻAʻole	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	11	_	_	_	_	_	_	_	_
+23	:	_	PUNCT	_	_	_	_	_	_
+24	01	_	_	_	_	_	_	_	_
+25	AK4	_	_	_	_	_	_	_	_
+26	A	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	na	_	_	_	_	_	_	_	_
+29	kuʻu	_	_	_	_	_	_	_	_
+30	pāpā	_	_	_	_	_	_	_	_
+31	me	_	_	_	_	_	_	_	_
+32	kuʻu	_	_	_	_	_	_	_	_
+33	mau	_	_	_	_	_	_	_	_
+34	kaikunāne	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	lāua	_	_	_	_	_	_	_	_
+37	e	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	E	_	_	_	_	_	_	_	_
+40	aha	_	_	_	_	_	_	_	_
+41	?	_	PUNCT	_	_	_	_	_	_
+42	E	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	mahi	_	_	_	_	_	_	_	_
+45	ʻai	_	_	_	_	_	_	_	_
+46	?	_	PUNCT	_	_	_	_	_	_
+47	11	_	_	_	_	_	_	_	_
+48	:	_	PUNCT	_	_	_	_	_	_
+49	12	_	_	_	_	_	_	_	_
+50	AK4	_	_	_	_	_	_	_	_
+51	Mahi	_	_	_	_	_	_	_	_
+52	ʻai	_	_	_	_	_	_	_	_
+53	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_129
+# text = Kūkulu? 11:13 AK4 Kūkulu ka hale.
+1	Kūkulu	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	11	_	_	_	_	_	_	_	_
+4	:	_	PUNCT	_	_	_	_	_	_
+5	13	_	_	_	_	_	_	_	_
+6	AK4	_	_	_	_	_	_	_	_
+7	Kūkulu	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hale	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_130
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_131
+# text = 11:15 AK4 And hele mākou mai Kalamaʻula i Hoʻolehua e noho ai.
+1	11	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	15	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	And	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	Kalamaʻula	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Hoʻolehua	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	noho	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_132
+# text = ʻŌ, ʻē.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_133
+# text = Pehea kēlā mau lā? ʻAʻohe nui nō ka poʻe ma Molokaʻi? 11:25 AK4 He nui ka poʻe, akā kākaʻa (kākaʻikahi) loa ka hale.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	lā	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻAʻohe	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	Molokaʻi	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	11	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	25	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	He	_	_	_	_	_	_	_	_
+19	nui	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	akā	_	_	_	_	_	_	_	_
+24	kākaʻa	_	_	_	_	_	_	_	_
+25	(	_	PUNCT	_	_	_	_	_	_
+26	kākaʻikahi	_	_	_	_	_	_	_	_
+27	)	_	PUNCT	_	_	_	_	_	_
+28	loa	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	hale	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_134
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_135
+# text = 11:30 AK4 He nui ka hana.
+1	11	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	30	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_136
+# text = He mahi ʻai i ka ʻāina.
+1	He	_	_	_	_	_	_	_	_
+2	mahi	_	_	_	_	_	_	_	_
+3	ʻai	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_137
+# text = M .
+1	M	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_138
+# text = ʻAno m , maloʻo paha ka ʻāina, 11:37 AK4 Kēlā manawa, o Hoʻolehua? 11:38 AK4 he maloʻo no ka mea, ʻaʻole loaʻa wai like pū kēia manawa.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	m	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	maloʻo	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	11	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	37	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	Kēlā	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Hoʻolehua	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	11	_	_	_	_	_	_	_	_
+20	:	_	PUNCT	_	_	_	_	_	_
+21	38	_	_	_	_	_	_	_	_
+22	AK4	_	_	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	maloʻo	_	_	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	mea	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻaʻole	_	_	_	_	_	_	_	_
+30	loaʻa	_	_	_	_	_	_	_	_
+31	wai	_	_	_	_	_	_	_	_
+32	like	_	_	_	_	_	_	_	_
+33	pū	_	_	_	_	_	_	_	_
+34	kēia	_	_	_	_	_	_	_	_
+35	manawa	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_139
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_140
+# text = ʻAʻohe nō e like nō me keia manawa.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	like	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	keia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_141
+# text = A, a nui nō ka poʻe Hawaiʻi ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_142
+# text = 11:50 AK4 ʻAe.
+1	11	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	50	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_143
+# text = No ka mea, ʻāina hoʻopulapula nō kēlā, ʻeā? ʻAʻole wau i hele i Molokaʻi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	hoʻopulapula	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻeā	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAʻole	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Molokaʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_144
+# text = A, hele wale nō wau i Kalaupapa.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Kalaupapa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_145
+# text = Ma kēlā lau papa o Kalaupapa.
+1	Ma	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	papa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Kalaupapa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_146
+# text = I, no ka lā wale nō.
+1	I	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	lā	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_147
+# text = No kēia, a, hana hoʻohau , hoʻohanohano o ka hale pule Kalawina ʻo Silawama.
+1	No	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	hoʻohau	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hoʻohanohano	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hale	_	_	_	_	_	_	_	_
+13	pule	_	_	_	_	_	_	_	_
+14	Kalawina	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Silawama	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_148
+# text = 12:14 AK4 {Mu.
+1	12	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	14	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_149
+# text = } A, i laila nō mākou no kēlā lā wale nō, a hoʻi mai nō.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_150
+# text = ʻAʻole wau i hiki ma luna o Molokaʻi, 12:21 AK4 {Mū.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	luna	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Molokaʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	12	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	21	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	{	_	PUNCT	_	_	_	_	_	_
+15	Mū	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_151
+# text = } e ʻike ai i nā wahi o Ma , Manaʻe, a me nā ʻāina, a, nā wahi like ʻole o Molokaʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	ʻike	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Ma	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Manaʻe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	wahi	_	_	_	_	_	_	_	_
+22	like	_	_	_	_	_	_	_	_
+23	ʻole	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	Molokaʻi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_152
+# text = No laila, ʻaʻole wau kamaʻāina me, me kēlā mokupuni.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	kamaʻāina	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	mokupuni	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_153
+# text = 12:35 AK4 He ʻāina maikaʻi.
+1	12	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	35	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	maikaʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_154
+# text = Nui ke aloha i loko o kēlā ʻāina.
+1	Nui	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	loko	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	ʻāina	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_155
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_156
+# text = 12:40 AK4 He nui ka poʻe hāʻawi i ke aloha.
+1	12	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	40	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	hāʻawi	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	aloha	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_157
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_158
+# text = A pehea ka lōkihi o ko ʻoukou noho ʻana i Molokaʻi? 12:49 AK4 Noho wau i Molokaʻi ʻumi makahiki.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	lōkihi	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	noho	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Molokaʻi	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	12	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	49	_	_	_	_	_	_	_	_
+16	AK4	_	_	_	_	_	_	_	_
+17	Noho	_	_	_	_	_	_	_	_
+18	wau	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	Molokaʻi	_	_	_	_	_	_	_	_
+21	ʻumi	_	_	_	_	_	_	_	_
+22	makahiki	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_159
+# text = He ʻumi makahiki.
+1	He	_	_	_	_	_	_	_	_
+2	ʻumi	_	_	_	_	_	_	_	_
+3	makahiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_160
+# text = 13:00 AK4 ʻAe.
+1	13	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	00	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_161
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_162
+# text = A pau, pau ka noho ha , noho ʻana ma Molokaʻi, hoʻi hou mai nō i Oʻahu nei? 13:07 AK4 Ho , Hoʻi hou wau i Oʻahu nei.
+1	A	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	ha	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	noho	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	Molokaʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hoʻi	_	_	_	_	_	_	_	_
+15	hou	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Oʻahu	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	13	_	_	_	_	_	_	_	_
+23	:	_	PUNCT	_	_	_	_	_	_
+24	07	_	_	_	_	_	_	_	_
+25	AK4	_	_	_	_	_	_	_	_
+26	Ho	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Hoʻi	_	_	_	_	_	_	_	_
+29	hou	_	_	_	_	_	_	_	_
+30	wau	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	Oʻahu	_	_	_	_	_	_	_	_
+33	nei	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_163
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_164
+# text = 13:10 AK4 Noho wau ma neʻi.
+1	13	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	10	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Noho	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	neʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_165
+# text = Loaʻa wau i kuʻu kāne.
+1	Loaʻa	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	kāne	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_166
+# text = And, loaʻa wau i ka hana, ʻĒ.
+1	And	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	loaʻa	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_167
+# text = 13:18 AK4 and noho wau i ka hana, and mālama wau i kuʻu k , mau ʻohana, ʻĒ.
+1	13	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	18	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	mālama	_	_	_	_	_	_	_	_
+14	wau	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kuʻu	_	_	_	_	_	_	_	_
+17	k	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	ʻohana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻĒ	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_168
+# text = 13:23 AK4 keiki.
+1	13	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	23	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_169
+# text = Nui nā keiki.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_170
+# text = 13:26 AK4 ʻElima keiki kāne, ʻelua kei , kaikamāhine.
+1	13	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	26	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻElima	_	_	_	_	_	_	_	_
+6	keiki	_	_	_	_	_	_	_	_
+7	kāne	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻelua	_	_	_	_	_	_	_	_
+10	kei	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kaikamāhine	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_171
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_172
+# text = Nui nō kēlā.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_173
+# text = Ke kani mai nei nō paha ka moʻopuna? 13:38 AK4 A, ʻumikūmāhā, ʻumikūmāwalu moʻopuna i loko o kuʻu ʻohana.
+1	Ke	_	_	_	_	_	_	_	_
+2	kani	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	moʻopuna	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	13	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	38	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻumikūmāhā	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+19	moʻopuna	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	loko	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	kuʻu	_	_	_	_	_	_	_	_
+24	ʻohana	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_174
+# text = Auē, nui loa kēlā.
+1	Auē	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_175
+# text = Laki nō ʻoe.
+1	Laki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_176
+# text = A, ʻo kou kaikunāne, a, ʻo ia paha ka mea aʻu i kuhi hewa no kēia inoa ʻo Pā.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	kaikunāne	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	aʻu	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kuhi	_	_	_	_	_	_	_	_
+17	hewa	_	_	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	inoa	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	Pā	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_177
+# text = No ka mea, aia nō kekahi ʻohana ma He , ma Hāʻena paha, ma ia inoa ʻo Pā.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	He	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Hāʻena	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	inoa	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Pā	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_178
+# text = 14:06 AK4 ʻAe, he ʻohana lākou iā mākou.
+1	14	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_179
+# text = Akā, ʻŌ.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻŌ	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_180
+# text = 14:11 AK4 i loko, i ka ʻōlelo ʻana o kuʻu makua kāne, distant, He aha? 14:19 AK4 How do you say distant? A, aia nō ʻo ia ke hoʻolohe mai nei? ʻEā? 14:24 AK4 A lākou nā ʻohana i Kauaʻi.
+1	14	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	11	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	loko	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kuʻu	_	_	_	_	_	_	_	_
+14	makua	_	_	_	_	_	_	_	_
+15	kāne	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	distant	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	He	_	_	_	_	_	_	_	_
+20	aha	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	14	_	_	_	_	_	_	_	_
+23	:	_	PUNCT	_	_	_	_	_	_
+24	19	_	_	_	_	_	_	_	_
+25	AK4	_	_	_	_	_	_	_	_
+26	How	_	_	_	_	_	_	_	_
+27	do	_	_	_	_	_	_	_	_
+28	you	_	_	_	_	_	_	_	_
+29	say	_	_	_	_	_	_	_	_
+30	distant	_	_	_	_	_	_	_	_
+31	?	_	PUNCT	_	_	_	_	_	_
+32	A	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	aia	_	_	_	_	_	_	_	_
+35	nō	_	_	_	_	_	_	_	_
+36	ʻo	_	_	_	_	_	_	_	_
+37	ia	_	_	_	_	_	_	_	_
+38	ke	_	_	_	_	_	_	_	_
+39	hoʻolohe	_	_	_	_	_	_	_	_
+40	mai	_	_	_	_	_	_	_	_
+41	nei	_	_	_	_	_	_	_	_
+42	?	_	PUNCT	_	_	_	_	_	_
+43	ʻEā	_	_	_	_	_	_	_	_
+44	?	_	PUNCT	_	_	_	_	_	_
+45	14	_	_	_	_	_	_	_	_
+46	:	_	PUNCT	_	_	_	_	_	_
+47	24	_	_	_	_	_	_	_	_
+48	AK4	_	_	_	_	_	_	_	_
+49	A	_	_	_	_	_	_	_	_
+50	lākou	_	_	_	_	_	_	_	_
+51	nā	_	_	_	_	_	_	_	_
+52	ʻohana	_	_	_	_	_	_	_	_
+53	i	_	_	_	_	_	_	_	_
+54	Kauaʻi	_	_	_	_	_	_	_	_
+55	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_181
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_182
+# text = ʻO kēia ʻohana Pā, ʻo ia ʻo , ʻohana hoʻokahi nō? 14:31 AK4 ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	Pā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻohana	_	_	_	_	_	_	_	_
+11	hoʻokahi	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	14	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	31	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_183
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_184
+# text = A, pehea, hiki nō iaʻu ke nonoi aku iā ʻoe i mele? No ka mea, ua ʻike nō wau, ua hana nō ʻoe i kēia ahiahi me nā, me nā hoa hoʻokani, me , {amū,} pila.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	iaʻu	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	nonoi	_	_	_	_	_	_	_	_
+10	aku	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	ʻoe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	mele	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	No	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ua	_	_	_	_	_	_	_	_
+21	ʻike	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ua	_	_	_	_	_	_	_	_
+26	hana	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	ʻoe	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	kēia	_	_	_	_	_	_	_	_
+31	ahiahi	_	_	_	_	_	_	_	_
+32	me	_	_	_	_	_	_	_	_
+33	nā	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	me	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	hoa	_	_	_	_	_	_	_	_
+38	hoʻokani	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	me	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	{	_	PUNCT	_	_	_	_	_	_
+43	amū	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	}	_	PUNCT	_	_	_	_	_	_
+46	pila	_	_	_	_	_	_	_	_
+47	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_185
+# text = ʻAno, ʻano, m , luhi paha kou leo kēia ahiahi, akā, ke ʻoluʻolu ʻoe, mea, e hīmeni mai kekahi mele.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	m	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	luhi	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	leo	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	akā	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	ʻoluʻolu	_	_	_	_	_	_	_	_
+18	ʻoe	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hīmeni	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	kekahi	_	_	_	_	_	_	_	_
+26	mele	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_186
+# text = 14:59 AK4 Kēia mele, kaʻu e mele ana, no ka ʻohana o Theodore Kinney.
+1	14	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	59	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kēia	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kaʻu	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻohana	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Theodore	_	_	_	_	_	_	_	_
+18	Kinney	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_187
+# text = Nāna e haku i kēia mele.
+1	Nāna	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	haku	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_188
+# text = ʻO wai ka inoa ka mele? 15:14 AK4 Ka Manaʻo Nō Ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	15	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	14	_	_	_	_	_	_	_	_
+11	AK4	_	_	_	_	_	_	_	_
+12	Ka	_	_	_	_	_	_	_	_
+13	Manaʻo	_	_	_	_	_	_	_	_
+14	Nō	_	_	_	_	_	_	_	_
+15	Ia	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_189
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_190
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_191
+# text = Na Kini (Kinney) i haku i kēia mele.
+1	Na	_	_	_	_	_	_	_	_
+2	Kini	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	Kinney	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	haku	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_192
+# text = 17:17 AK4 ʻAe.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	17	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_193
+# text = He mele hou nō kēia? 17:18 AK4 ʻAʻole.
+1	He	_	_	_	_	_	_	_	_
+2	mele	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	17	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	18	_	_	_	_	_	_	_	_
+10	AK4	_	_	_	_	_	_	_	_
+11	ʻAʻole	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_194
+# text = He mea, he mele kahiko kēia.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	kahiko	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_195
+# text = ʻO Kini, no Molokaʻi nō ʻo ia? 17:26 AK4 Noho ʻo ia i ka ʻāina hoʻopulapula i Kalamaʻula.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kini	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	Molokaʻi	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	17	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	26	_	_	_	_	_	_	_	_
+13	AK4	_	_	_	_	_	_	_	_
+14	Noho	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ʻāina	_	_	_	_	_	_	_	_
+20	hoʻopulapula	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	Kalamaʻula	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_196
+# text = No ka mea, he kumu ʻo ia i ka aʻo ka ʻōlelo Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	aʻo	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_197
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_198
+# text = 17:38 AK4 And uh, Ma mua? 17:40 AK4 Ma mua.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	38	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	And	_	_	_	_	_	_	_	_
+6	uh	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Ma	_	_	_	_	_	_	_	_
+9	mua	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	17	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	40	_	_	_	_	_	_	_	_
+14	AK4	_	_	_	_	_	_	_	_
+15	Ma	_	_	_	_	_	_	_	_
+16	mua	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_199
+# text = Ua hala ʻo ia i kēia manawa? 17:42 AK4 ʻAe, ua hala ʻo ia.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	17	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	42	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	hala	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_200
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_201
+# text = He nui ka, nui ka loko iʻa o Molokaʻi, ʻeā? 17:48 AK4 ʻAe, nui.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	loko	_	_	_	_	_	_	_	_
+8	iʻa	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Molokaʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻeā	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	17	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	48	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nui	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_202
+# text = Pehea kou mau, kou mau lā e, e noho ana ma lo , ma Molokaʻi? He, he lawaiʻa ʻia nō ka loko? 17:58 AK4 He loko, ʻEā? Ma, ma ka pili kai ka loko? 18:03 AK4 ʻAe.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kou	_	_	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	lā	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	lo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	Molokaʻi	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	He	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	he	_	_	_	_	_	_	_	_
+22	lawaiʻa	_	_	_	_	_	_	_	_
+23	ʻia	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	loko	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	17	_	_	_	_	_	_	_	_
+29	:	_	PUNCT	_	_	_	_	_	_
+30	58	_	_	_	_	_	_	_	_
+31	AK4	_	_	_	_	_	_	_	_
+32	He	_	_	_	_	_	_	_	_
+33	loko	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻEā	_	_	_	_	_	_	_	_
+36	?	_	PUNCT	_	_	_	_	_	_
+37	Ma	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	ma	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	pili	_	_	_	_	_	_	_	_
+42	kai	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	loko	_	_	_	_	_	_	_	_
+45	?	_	PUNCT	_	_	_	_	_	_
+46	18	_	_	_	_	_	_	_	_
+47	:	_	PUNCT	_	_	_	_	_	_
+48	03	_	_	_	_	_	_	_	_
+49	AK4	_	_	_	_	_	_	_	_
+50	ʻAe	_	_	_	_	_	_	_	_
+51	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_203
+# text = Aia nō ma ka pili kai? 18:05 AK4 ʻAe.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	pili	_	_	_	_	_	_	_	_
+6	kai	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	18	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	05	_	_	_	_	_	_	_	_
+11	AK4	_	_	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_204
+# text = Mālama ʻia nō ka loko iʻa? 18:08 AK4 Mālama ʻia nō ka loko i , loko iʻa.
+1	Mālama	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	loko	_	_	_	_	_	_	_	_
+6	iʻa	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	18	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	08	_	_	_	_	_	_	_	_
+11	AK4	_	_	_	_	_	_	_	_
+12	Mālama	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	loko	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	loko	_	_	_	_	_	_	_	_
+20	iʻa	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_205
+# text = ʻAʻole hele nā poʻe a pau, you know.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	you	_	_	_	_	_	_	_	_
+9	know	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_206
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_207
+# text = A pehea ka ʻāina ʻo Hālawa? He noho ʻia e kānaka? 18:22 AK4 Ka manawa wau noho laila, noho nā poʻe Hawaiʻi i laila, nā poʻe kānaka.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻāina	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Hālawa	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	He	_	_	_	_	_	_	_	_
+9	noho	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	kānaka	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	18	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	22	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	Ka	_	_	_	_	_	_	_	_
+19	manawa	_	_	_	_	_	_	_	_
+20	wau	_	_	_	_	_	_	_	_
+21	noho	_	_	_	_	_	_	_	_
+22	laila	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	noho	_	_	_	_	_	_	_	_
+25	nā	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	Hawaiʻi	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	laila	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	nā	_	_	_	_	_	_	_	_
+32	poʻe	_	_	_	_	_	_	_	_
+33	kānaka	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_208
+# text = He ʻāina.
+1	He	_	_	_	_	_	_	_	_
+2	ʻāina	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_209
+# text = ʻAina loʻi kalo? 18:34 AK4 Loʻi kalo, ʻāina, beautiful, {Mū,} nani nō hoʻi kēlā ʻāina, ʻaʻole nō, 18:41 AK4 N , n , nan , nani, ʻaʻole nō wau i ʻike, but, 18:43 AK4 nani ʻo Hālawa.
+1	ʻAina	_	_	_	_	_	_	_	_
+2	loʻi	_	_	_	_	_	_	_	_
+3	kalo	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	18	_	_	_	_	_	_	_	_
+6	:	_	PUNCT	_	_	_	_	_	_
+7	34	_	_	_	_	_	_	_	_
+8	AK4	_	_	_	_	_	_	_	_
+9	Loʻi	_	_	_	_	_	_	_	_
+10	kalo	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	beautiful	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	{	_	PUNCT	_	_	_	_	_	_
+17	Mū	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	}	_	PUNCT	_	_	_	_	_	_
+20	nani	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	hoʻi	_	_	_	_	_	_	_	_
+23	kēlā	_	_	_	_	_	_	_	_
+24	ʻāina	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻaʻole	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	18	_	_	_	_	_	_	_	_
+30	:	_	PUNCT	_	_	_	_	_	_
+31	41	_	_	_	_	_	_	_	_
+32	AK4	_	_	_	_	_	_	_	_
+33	N	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	n	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	nan	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	nani	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻaʻole	_	_	_	_	_	_	_	_
+42	nō	_	_	_	_	_	_	_	_
+43	wau	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	ʻike	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	but	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	18	_	_	_	_	_	_	_	_
+50	:	_	PUNCT	_	_	_	_	_	_
+51	43	_	_	_	_	_	_	_	_
+52	AK4	_	_	_	_	_	_	_	_
+53	nani	_	_	_	_	_	_	_	_
+54	ʻo	_	_	_	_	_	_	_	_
+55	Hālawa	_	_	_	_	_	_	_	_
+56	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_210
+# text = Ma ka mokulele wale nō wau i kāʻalo ai ma kēlā, ma kēlā ʻaoʻao o Molokaʻi.
+1	Ma	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mokulele	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kāʻalo	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	kēlā	_	_	_	_	_	_	_	_
+15	ʻaoʻao	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Molokaʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_211
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_212
+# text = 18:50 AK4 He nani kēlā ʻāina.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	50	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	nani	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	ʻāina	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_213
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_214
+# text = 18:51 AK4 And nani ka poʻe i, e noho i laila.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	51	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	And	_	_	_	_	_	_	_	_
+6	nani	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	noho	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	laila	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_215
+# text = ʻAe, ʻoluʻolu nō, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻoluʻolu	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻae	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_216
+# text = 18:55 AK4 Mai , ʻoluʻolu lākou.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	55	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Mai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻoluʻolu	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_217
+# text = Maikaʻi nō.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_218
+# text = A, i kēia manawa, e, {amū,} ʻo kāu kāne, ʻo kou inoa ʻo Kema kēia manawa, no ka male nō o kāu kāne ʻo Kema, ʻeā? 19:11 AK4 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	amū	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	}	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	kāu	_	_	_	_	_	_	_	_
+15	kāne	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	kou	_	_	_	_	_	_	_	_
+19	inoa	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Kema	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	manawa	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	male	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	kāu	_	_	_	_	_	_	_	_
+31	kāne	_	_	_	_	_	_	_	_
+32	ʻo	_	_	_	_	_	_	_	_
+33	Kema	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻeā	_	_	_	_	_	_	_	_
+36	?	_	PUNCT	_	_	_	_	_	_
+37	19	_	_	_	_	_	_	_	_
+38	:	_	PUNCT	_	_	_	_	_	_
+39	11	_	_	_	_	_	_	_	_
+40	AK4	_	_	_	_	_	_	_	_
+41	ʻAe	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_219
+# text = Kēia inoa ʻo Kema, no hea? No hea kēia inoa? 19:17 AK4 Kuʻu kāne.
+1	Kēia	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Kema	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	hea	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	No	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	inoa	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	19	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	17	_	_	_	_	_	_	_	_
+17	AK4	_	_	_	_	_	_	_	_
+18	Kuʻu	_	_	_	_	_	_	_	_
+19	kāne	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_220
+# text = Kēia ʻohana? 19:18 AK4 Kēia ʻohana, hele mai, mai Miloliʻi, South Kona, Hawaiʻi.
+1	Kēia	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	18	_	_	_	_	_	_	_	_
+7	AK4	_	_	_	_	_	_	_	_
+8	Kēia	_	_	_	_	_	_	_	_
+9	ʻohana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hele	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	Miloliʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	South	_	_	_	_	_	_	_	_
+18	Kona	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Hawaiʻi	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_221
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_222
+# text = 19:27 AK4 Kēlā ko lākou, ʻAe.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	27	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kēlā	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_223
+# text = Ko, ko lākou ʻāi , 19:31 AK4 ha , hano.
+1	Ko	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	ʻāi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	19	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	31	_	_	_	_	_	_	_	_
+10	AK4	_	_	_	_	_	_	_	_
+11	ha	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hano	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_224
+# text = ʻāina hānau? 19:33 AK4 ʻAe.
+1	ʻāina	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	33	_	_	_	_	_	_	_	_
+7	AK4	_	_	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_225
+# text = Ua ʻano lo , lohe liʻiliʻi wau pili ana i kēia ʻohana ʻo Kema, no ka mea, no Hawaiʻi nō wau i, no Waimea, 19:41 AK4 ʻAe.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	lo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	lohe	_	_	_	_	_	_	_	_
+6	liʻiliʻi	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	pili	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ʻohana	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Kema	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	Waimea	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	19	_	_	_	_	_	_	_	_
+30	:	_	PUNCT	_	_	_	_	_	_
+31	41	_	_	_	_	_	_	_	_
+32	AK4	_	_	_	_	_	_	_	_
+33	ʻAe	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_226
+# text = Akā, ʻo, ʻo ke Kema aʻu i lohe ai, ʻo ia kēia ʻohana e, i noho ma mua paha, noho nō lākou ma ʻOpihihale (ʻOpihihali).
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	Kema	_	_	_	_	_	_	_	_
+8	aʻu	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	lohe	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ʻohana	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	noho	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	mua	_	_	_	_	_	_	_	_
+23	paha	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	noho	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	lākou	_	_	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	ʻOpihihale	_	_	_	_	_	_	_	_
+30	(	_	PUNCT	_	_	_	_	_	_
+31	ʻOpihihali	_	_	_	_	_	_	_	_
+32	)	_	PUNCT	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_227
+# text = A he, 19:53 AK4 He.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	53	_	_	_	_	_	_	_	_
+7	AK4	_	_	_	_	_	_	_	_
+8	He	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_228
+# text = kokoke nō i Miloliʻi.
+1	kokoke	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Miloliʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_229
+# text = But ʻo ia nō ka, a ʻohana kam , kamaʻāina o kēlā wahi.
+1	But	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	kam	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kamaʻāina	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	wahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_230
+# text = ʻOhana nui kēlā.
+1	ʻOhana	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_231
+# text = 20:00 AK4 ʻAe.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	00	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_232
+# text = Hoʻokahi inoa and nā ʻohana a pau, he ʻohana lākou.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	and	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	ʻohana	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_233
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_234
+# text = 20:06 AK4 i.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_235
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_236
+# text = Maikaʻi nō ka noho ʻana o ka poʻe o Miloliʻi.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Miloliʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_237
+# text = ʻAe? 20:12 AK4 Maikaʻi.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	20	_	_	_	_	_	_	_	_
+4	:	_	PUNCT	_	_	_	_	_	_
+5	12	_	_	_	_	_	_	_	_
+6	AK4	_	_	_	_	_	_	_	_
+7	Maikaʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_238
+# text = He.
+1	He	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_239
+# text = 20:14 AK4 He hana nui, no ka mea, hele lākou i ka lawaiʻa, ʻĒ.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	14	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	lākou	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	lawaiʻa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻĒ	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_240
+# text = Hele aku nei nō ʻoe i laila? 20:22 AK4 A, he makahiki loa wau e hele ai, no ka mea, i ka makahiki, ʻelima makahiki wau, ʻaʻole hele i Miloliʻi.
+1	Hele	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	20	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	22	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	A	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	makahiki	_	_	_	_	_	_	_	_
+17	loa	_	_	_	_	_	_	_	_
+18	wau	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hele	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	no	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	mea	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	makahiki	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻelima	_	_	_	_	_	_	_	_
+32	makahiki	_	_	_	_	_	_	_	_
+33	wau	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻaʻole	_	_	_	_	_	_	_	_
+36	hele	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	Miloliʻi	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_241
+# text = Kēlā ka manawa.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_242
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_243
+# text = } 20:36 AK4 How you say last time? ʻŌ, ka hope loa kēlā.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	20	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	36	_	_	_	_	_	_	_	_
+5	AK4	_	_	_	_	_	_	_	_
+6	How	_	_	_	_	_	_	_	_
+7	you	_	_	_	_	_	_	_	_
+8	say	_	_	_	_	_	_	_	_
+9	last	_	_	_	_	_	_	_	_
+10	time	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻŌ	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hope	_	_	_	_	_	_	_	_
+16	loa	_	_	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_244
+# text = 20:38 AK4 Ka hope loa o kuʻu kāne me aʻu, hele wau i laila.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	38	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Ka	_	_	_	_	_	_	_	_
+6	hope	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kuʻu	_	_	_	_	_	_	_	_
+10	kāne	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	aʻu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hele	_	_	_	_	_	_	_	_
+15	wau	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	laila	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_245
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_246
+# text = Well, ʻaʻohe nui loa ka poʻe i kēia manawa.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻohe	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_247
+# text = Akā naʻe, he ʻo ia mau nō ka ʻāina.
+1	Akā	_	_	_	_	_	_	_	_
+2	naʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_248
+# text = 20:49 AK4 He noi (nui), a, he n , e, nui nā ʻohana ma laila.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	49	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	He	_	_	_	_	_	_	_	_
+6	noi	_	_	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	nui	_	_	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	n	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	nui	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	ʻohana	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	laila	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_249
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_250
+# text = 20:54 AK4 Kuʻu sister in law, Mrs.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	54	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kuʻu	_	_	_	_	_	_	_	_
+6	sister	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	law	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Mrs	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_251
+# text = John ʻApo, ʻAe.
+1	John	_	_	_	_	_	_	_	_
+2	ʻApo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_252
+# text = 20:58 AK4 Nancy ʻApo, a me, Kēia ʻohana ʻo Kaupiko.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	58	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Nancy	_	_	_	_	_	_	_	_
+6	ʻApo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Kēia	_	_	_	_	_	_	_	_
+12	ʻohana	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Kaupiko	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_253
+# text = 21:07 AK4 Kaupiko, he ʻohana lākou no mākou.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	07	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Kaupiko	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_254
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_255
+# text = Kahiwa.
+1	Kahiwa	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_256
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_257
+# text = 21:12 AK4 Pohina family.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	12	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Pohina	_	_	_	_	_	_	_	_
+6	family	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_258
+# text = Pohina.
+1	Pohina	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_259
+# text = 21:14 AK4 ʻAe.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	14	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_260
+# text = Pohina ʻohana.
+1	Pohina	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_261
+# text = A he nui hou aʻe.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	hou	_	_	_	_	_	_	_	_
+5	aʻe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_262
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_263
+# text = Poʻe lawaiʻa nō paha ka nui o lākou.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	lawaiʻa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_264
+# text = 21:23 AK4 ʻAe.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	23	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_265
+# text = He lawaiʻa.
+1	He	_	_	_	_	_	_	_	_
+2	lawaiʻa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_266
+# text = 21:23 AK4 Ko lākou hana.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	23	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Ko	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_267
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_268
+# text = ʻO ia wale nō.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_269
+# text = A pehea ka noho ʻana me nā, me nā mākua i Molokaʻi? I laila nō ʻoe i hele ai i ke kula? 21:38 AK4 ʻAe, hele wau i ke kula i Hoʻolehua.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mākua	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Molokaʻi	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	I	_	_	_	_	_	_	_	_
+16	laila	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ʻoe	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hele	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	kula	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	21	_	_	_	_	_	_	_	_
+27	:	_	PUNCT	_	_	_	_	_	_
+28	38	_	_	_	_	_	_	_	_
+29	AK4	_	_	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	hele	_	_	_	_	_	_	_	_
+33	wau	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ke	_	_	_	_	_	_	_	_
+36	kula	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	Hoʻolehua	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_270
+# text = ʻO ka māmā o Neb Chillingsworth, hele ʻo ia me aʻu i ke n , kula i Kalamaʻula.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	māmā	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	Neb	_	_	_	_	_	_	_	_
+6	Chillingsworth	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	aʻu	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	n	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	kula	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Kalamaʻula	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_271
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_272
+# text = 21:54 AK4 ʻO ka māmā o Kenneth All, ʻAe.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	54	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	māmā	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Kenneth	_	_	_	_	_	_	_	_
+10	All	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_273
+# text = 21:57 AK4 ʻO ia, he kumu kula ʻo ia, ʻO ia? 22:00 AK4 Ka manawa ko mākou hele ʻana i ka kula i Kaunakakai.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	57	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	kumu	_	_	_	_	_	_	_	_
+10	kula	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻO	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	22	_	_	_	_	_	_	_	_
+18	:	_	PUNCT	_	_	_	_	_	_
+19	00	_	_	_	_	_	_	_	_
+20	AK4	_	_	_	_	_	_	_	_
+21	Ka	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	ko	_	_	_	_	_	_	_	_
+24	mākou	_	_	_	_	_	_	_	_
+25	hele	_	_	_	_	_	_	_	_
+26	ʻana	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	kula	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	Kaunakakai	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_274
+# text = ʻŌ, ʻō, ʻē.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_275
+# text = Kamaʻāina nō ʻoe me nā mākua o kēia poʻe.
+1	Kamaʻāina	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	mākua	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_276
+# text = 22:13 AK4 Poʻe keiki.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Poʻe	_	_	_	_	_	_	_	_
+6	keiki	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_277
+# text = ʻAe, poʻe keiki kēia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	keiki	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_278
+# text = Kēia manawa.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_279
+# text = 22:16 AK4 {Mū, mū.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	16	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mū	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_280
+# text = } Pololeʻi (Pololei).
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Pololeʻi	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	Pololei	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_281
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_282
+# text = Pehea ka noho ʻana i Molokaʻi? 22:21 AK4 Maikaʻi ka noho ʻana.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Molokaʻi	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	22	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	21	_	_	_	_	_	_	_	_
+11	AK4	_	_	_	_	_	_	_	_
+12	Maikaʻi	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	noho	_	_	_	_	_	_	_	_
+15	ʻana	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_283
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_284
+# text = } 22:24 AK4 Maikaʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	22	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	24	_	_	_	_	_	_	_	_
+5	AK4	_	_	_	_	_	_	_	_
+6	Maikaʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_285
+# text = Kuʻi nō ʻoukou i kā ʻoukou ʻai? 22:29 AK4 ʻAʻole i, i mākou i Hoʻolehua e hana kēlā.
+1	Kuʻi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	ʻai	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	22	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	29	_	_	_	_	_	_	_	_
+12	AK4	_	_	_	_	_	_	_	_
+13	ʻAʻole	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Hoʻolehua	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	kēlā	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_286
+# text = Ka poʻe i Hālawa.
+1	Ka	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Hālawa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_287
+# text = Hana lākou i kēlā ʻano hana.
+1	Hana	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_288
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_289
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_290
+# text = !! 22:38 AK4 No k , no ka mea, kanu mākou i ka meaʻai.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	22	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	38	_	_	_	_	_	_	_	_
+5	AK4	_	_	_	_	_	_	_	_
+6	No	_	_	_	_	_	_	_	_
+7	k	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kanu	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	meaʻai	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_291
+# text = Pumpkin, ka ʻuala kahiki.
+1	Pumpkin	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻuala	_	_	_	_	_	_	_	_
+5	kahiki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_292
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_293
+# text = } ʻĀina maloʻo nō kēlā, ʻae.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĀina	_	_	_	_	_	_	_	_
+3	maloʻo	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻae	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_294
+# text = 22:47 AK4 ʻAe.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	47	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_295
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_296
+# text = Kēia manawa, ua nui aʻe nō nā poʻe e noho ana ma Molokaʻi ma ka ʻāina hoʻopulapula, a, lako nō lākou i ʻāina mahi ʻai.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	aʻe	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Molokaʻi	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻāina	_	_	_	_	_	_	_	_
+18	hoʻopulapula	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	lako	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	ʻāina	_	_	_	_	_	_	_	_
+27	mahi	_	_	_	_	_	_	_	_
+28	ʻai	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_297
+# text = A, no ka mea, he ʻohana nō koʻu i laila i kēia manawa, but, 23:04 AK4 {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	koʻu	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	laila	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	but	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	23	_	_	_	_	_	_	_	_
+20	:	_	PUNCT	_	_	_	_	_	_
+21	04	_	_	_	_	_	_	_	_
+22	AK4	_	_	_	_	_	_	_	_
+23	{	_	PUNCT	_	_	_	_	_	_
+24	Mū	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_298
+# text = } ʻaʻohe nō lōkihi loa ka, ko lākou noho ʻana i laila.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	lōkihi	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	laila	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_299
+# text = Mau poʻe ʻōpiopio nō lākou, a, ʻelua a lāua keiki, a ke hoʻomanawanui nei nō lākou me ka ʻāina hoʻopulapula, ʻāina mahi ʻai.
+1	Mau	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	ʻōpiopio	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻelua	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	lāua	_	_	_	_	_	_	_	_
+12	keiki	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	hoʻomanawanui	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	lākou	_	_	_	_	_	_	_	_
+20	me	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻāina	_	_	_	_	_	_	_	_
+23	hoʻopulapula	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻāina	_	_	_	_	_	_	_	_
+26	mahi	_	_	_	_	_	_	_	_
+27	ʻai	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_300
+# text = No ka mea, ʻo ka, a, mahi ʻai, ʻaʻohe nō pēia he hana maʻalahi wale nō.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	mahi	_	_	_	_	_	_	_	_
+11	ʻai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻaʻohe	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	pēia	_	_	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	hana	_	_	_	_	_	_	_	_
+18	maʻalahi	_	_	_	_	_	_	_	_
+19	wale	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_301
+# text = 23:25 AK4 ʻAʻole.
+1	23	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	25	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_302
+# text = He hana, ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_303
+# text = 23:26 AK4 koʻikoʻi kēlā.
+1	23	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	26	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	koʻikoʻi	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_304
+# text = Nā lā a pau, 23:28 AK4 ʻAe.
+1	Nā	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	23	_	_	_	_	_	_	_	_
+7	:	_	PUNCT	_	_	_	_	_	_
+8	28	_	_	_	_	_	_	_	_
+9	AK4	_	_	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_305
+# text = hele nō ʻoe i, i ka lepo.
+1	hele	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	lepo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_306
+# text = 23:31 AK4 ʻAe.
+1	23	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	31	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_307
+# text = Mahi ʻai no ke ola.
+1	Mahi	_	_	_	_	_	_	_	_
+2	ʻai	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	ola	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_308
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_309
+# text = A, i kēia manawa, e, a, hoʻolaha ana au i nā helu kelepona iā ʻoukou, e nā Hawaiʻi e hoʻolohe mai nei i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hoʻolaha	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	au	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	helu	_	_	_	_	_	_	_	_
+17	kelepona	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	hoʻolohe	_	_	_	_	_	_	_	_
+26	mai	_	_	_	_	_	_	_	_
+27	nei	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	ahiahi	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_310
+# text = A, e ʻoluʻolu nō e kāhea mai.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻoluʻolu	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kāhea	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_311
+# text = ʻO ko mākou hoa kipa o kēia ahiahi, ʻo Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	hoa	_	_	_	_	_	_	_	_
+5	kipa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Mrs	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_312
+# text = Alice Kema.
+1	Alice	_	_	_	_	_	_	_	_
+2	Kema	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_313
+# text = A, ʻo kēia nō ka papahana ʻo Ka leo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	papahana	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Ka	_	_	_	_	_	_	_	_
+10	leo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_314
+# text = A, ma muli nō, mea, ka, kēia, ʻo kēia papahana, he kāmau nei nō i ka ʻōlelo o kāk , ka ʻōlelo a kākou, ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	muli	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	papahana	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	kāmau	_	_	_	_	_	_	_	_
+19	nei	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	kāk	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	ʻōlelo	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	kākou	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	ʻōlelo	_	_	_	_	_	_	_	_
+34	Hawaiʻi	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_315
+# text = No laila, e ʻoluʻolu mai ʻoukou e hoʻolauna mai me mākou ma ka ʻōlelo o ka ʻāina, ka ʻōlelo kanaka.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	ʻoluʻolu	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hoʻolauna	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻāina	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	kanaka	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_316
+# text = A, eia nō nā helu kelepona o kēia kahua hoʻolele leo.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	kelepona	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	kahua	_	_	_	_	_	_	_	_
+11	hoʻolele	_	_	_	_	_	_	_	_
+12	leo	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_317
+# text = ʻO ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā, ʻole ʻelua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻole	_	_	_	_	_	_	_	_
+13	ʻelua	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_318
+# text = Me ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā, ʻole ʻekolu.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻekolu	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_319
+# text = Helu ʻe , ʻeiwa ʻelua ʻekolu, ʻole ʻehā, ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻehā	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_320
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻekahi, ʻewalu, ʻehā ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻekahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻewalu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_321
+# text = A me ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu, ʻehā ʻelima.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻekahi	_	_	_	_	_	_	_	_
+10	ʻewalu	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻehā	_	_	_	_	_	_	_	_
+13	ʻelima	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_322
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_323
+# text = Mahalo i ka hoʻomanawanui ʻana mai i kēia haʻi ʻana i nā helu he loa, he lōʻihi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hoʻomanawanui	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	haʻi	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	helu	_	_	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	loa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	lōʻihi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_324
+# text = A i kēia manawa e hoʻolaha ana nō kēia kahua hoʻolele i wahi hoʻolaha, a hoʻi hou mai nō.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻolaha	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	kahua	_	_	_	_	_	_	_	_
+11	hoʻolele	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	wahi	_	_	_	_	_	_	_	_
+14	hoʻolaha	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	hoʻi	_	_	_	_	_	_	_	_
+18	hou	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_325
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_326
+# text = Mahalo nui iā ʻoukou a pau i ko ʻoukou kāhea ʻana mai nei i kēia ahiahi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	kāhea	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	nei	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ahiahi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_327
+# text = Ua nui nō, nui nō o ka, ka poʻe i kamaʻāina iā ʻoe, e Alice.
+1	Ua	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kamaʻāina	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	Alice	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_328
+# text = Poʻe ʻohana nō paha kekahi.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_329
+# text = 50:27 AK4 ʻAe.
+1	50	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	27	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_330
+# text = He poʻe ʻohana, he poʻe aikāne, hoaaloha, ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	aikāne	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hoaaloha	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_331
+# text = 50:31 AK4 Nui nā hoaaloha.
+1	50	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	31	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Nui	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	hoaaloha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_332
+# text = I ka lohe ʻana nō paha o ka inoa ʻo Molokaʻi, a, ʻeʻe mai nō ka poʻe o Molokaʻi.
+1	I	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lohe	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Molokaʻi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻeʻe	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	Molokaʻi	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_333
+# text = ʻEʻe !! 50:40 AK4 Mahalo iā lākou a pau loa.
+1	ʻEʻe	_	_	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	50	_	_	_	_	_	_	_	_
+4	:	_	PUNCT	_	_	_	_	_	_
+5	40	_	_	_	_	_	_	_	_
+6	AK4	_	_	_	_	_	_	_	_
+7	Mahalo	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	lākou	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	pau	_	_	_	_	_	_	_	_
+12	loa	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_334
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_335
+# text = A pehea kēia manawa, ma mua nō o ka, kani ʻana o ka hola ʻeiwa, ua hiki nō iā ʻoe ke hoʻokani hou mai kekahi mele? Eia nō ʻo, me ʻoe i kēia ahiahi, kou kōkoʻolua hoʻokani pila, ʻo ia nō ʻo Kaniala Akaka.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kani	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hola	_	_	_	_	_	_	_	_
+17	ʻeiwa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ua	_	_	_	_	_	_	_	_
+20	hiki	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	ʻoe	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	hoʻokani	_	_	_	_	_	_	_	_
+26	hou	_	_	_	_	_	_	_	_
+27	mai	_	_	_	_	_	_	_	_
+28	kekahi	_	_	_	_	_	_	_	_
+29	mele	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	Eia	_	_	_	_	_	_	_	_
+32	nō	_	_	_	_	_	_	_	_
+33	ʻo	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	me	_	_	_	_	_	_	_	_
+36	ʻoe	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	kēia	_	_	_	_	_	_	_	_
+39	ahiahi	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	kou	_	_	_	_	_	_	_	_
+42	kōkoʻolua	_	_	_	_	_	_	_	_
+43	hoʻokani	_	_	_	_	_	_	_	_
+44	pila	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	ʻo	_	_	_	_	_	_	_	_
+47	ia	_	_	_	_	_	_	_	_
+48	nō	_	_	_	_	_	_	_	_
+49	ʻo	_	_	_	_	_	_	_	_
+50	Kaniala	_	_	_	_	_	_	_	_
+51	Akaka	_	_	_	_	_	_	_	_
+52	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_336
+# text = E Kaniala, pono nō ʻoe e hoʻomaʻamaʻa no ka lā ʻāpōpō, kēia ʻaha kī, kī hōʻalu.
+1	E	_	_	_	_	_	_	_	_
+2	Kaniala	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pono	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻomaʻamaʻa	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	ʻāpōpō	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	ʻaha	_	_	_	_	_	_	_	_
+16	kī	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kī	_	_	_	_	_	_	_	_
+19	hōʻalu	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_337
+# text = 50:06 KA1 ʻŌ, maopopo !! Pehea, ua mākaukau? 51:09 KA1 ʻEā? Mākaukau nō ʻoukou? 51:12 KA1 ʻAe.
+1	50	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	KA1	_	_	_	_	_	_	_	_
+5	ʻŌ	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	maopopo	_	_	_	_	_	_	_	_
+8	!!	_	PUNCT	_	_	_	_	_	_
+9	Pehea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ua	_	_	_	_	_	_	_	_
+12	mākaukau	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	51	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	09	_	_	_	_	_	_	_	_
+17	KA1	_	_	_	_	_	_	_	_
+18	ʻEā	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	Mākaukau	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	ʻoukou	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	51	_	_	_	_	_	_	_	_
+25	:	_	PUNCT	_	_	_	_	_	_
+26	12	_	_	_	_	_	_	_	_
+27	KA1	_	_	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_338
+# text = 51:13 AK4 Yeah.
+1	51	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	AK4	_	_	_	_	_	_	_	_
+5	Yeah	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_339
+# text = ʻEā? ʻAe, ʻo wai ka inoa o kēia mele? 51:19 AK4 Molokaʻi.
+1	ʻEā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	51	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	19	_	_	_	_	_	_	_	_
+16	AK4	_	_	_	_	_	_	_	_
+17	Molokaʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_340
+# text = Molokaʻi something.
+1	Molokaʻi	_	_	_	_	_	_	_	_
+2	something	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_341
+# text = Molokaʻi.
+1	Molokaʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_342
+# text = No Molokaʻi.
+1	No	_	_	_	_	_	_	_	_
+2	Molokaʻi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_343
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_344
+# text = Hīmeni mai.
+1	Hīmeni	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_345
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_346
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_347
+# text = Hanohano nō Molokaʻi i kēia ahiahi.
+1	Hanohano	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	Molokaʻi	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	ahiahi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_348
+# text = A, e Kaniala, ma mua o kou hele ʻana, ma , ua makemake nō e nīnau iā ʻoe i kekahi mau nīnau, 53:34 AK4 {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	Kaniala	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	makemake	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	nīnau	_	_	_	_	_	_	_	_
+20	iā	_	_	_	_	_	_	_	_
+21	ʻoe	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kekahi	_	_	_	_	_	_	_	_
+24	mau	_	_	_	_	_	_	_	_
+25	nīnau	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	53	_	_	_	_	_	_	_	_
+28	:	_	PUNCT	_	_	_	_	_	_
+29	34	_	_	_	_	_	_	_	_
+30	AK4	_	_	_	_	_	_	_	_
+31	{	_	PUNCT	_	_	_	_	_	_
+32	Mū	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_349
+# text = } e pili ana i kēia ʻaha kī hōʻalu o ka lā ʻāpōpō.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	pili	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ʻaha	_	_	_	_	_	_	_	_
+8	kī	_	_	_	_	_	_	_	_
+9	hōʻalu	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	lā	_	_	_	_	_	_	_	_
+13	ʻāpōpō	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_350
+# text = Hiki? No ka mea he haumāna ʻōlelo Hawaiʻi nō ʻoe i kēia manawa ma ke kula, kulanui o Hawaiʻi.
+1	Hiki	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	No	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	haumāna	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	kula	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kulanui	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.025_Alice_Kema_19730306_351
+# text = Hiki nō iā ʻoe ke kamaʻilio mai me aʻu?
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kamaʻilio	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	aʻu	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+

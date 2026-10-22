@@ -1,0 +1,5244 @@
+# newdoc id = HV24.002_Hattie_Au_03141972
+# sent_id = HV24.002_Hattie_Au_03141972_1
+# text = ʻAnoʻai, ʻanoʻai ke aloha e nā pua o ka ʻāina.
+1	ʻAnoʻai	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻanoʻai	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	aloha	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	pua	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻāina	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_2
+# text = Eia hou mākou ke hoʻolaha nei i ko kākou ʻōlelo makuahine.
+1	Eia	_	_	_	_	_	_	_	_
+2	hou	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	hoʻolaha	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	kākou	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	makuahine	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_3
+# text = Eia me aʻu i kēia ahiahi, kuʻu hoa kipa no Kahana mai, ʻo Mrs.
+1	Eia	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	aʻu	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	ahiahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	hoa	_	_	_	_	_	_	_	_
+10	kipa	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	Kahana	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Mrs	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_4
+# text = Hattie Au.
+1	Hattie	_	_	_	_	_	_	_	_
+2	Au	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_5
+# text = E oli ana ʻo ia i ke mele ʻo Liuliu (Liʻuliʻu) Wale no ka mea hula e komo ana i ka pā hula, a e pane ana ʻo ia me ke mele komo, Kūnihi Ka Mauna O Ka Laʻi O Waiʻaleʻale.
+1	E	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	mele	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Liuliu	_	_	_	_	_	_	_	_
+11	(	_	PUNCT	_	_	_	_	_	_
+12	Liʻuliʻu	_	_	_	_	_	_	_	_
+13	)	_	PUNCT	_	_	_	_	_	_
+14	Wale	_	_	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	hula	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	komo	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	pā	_	_	_	_	_	_	_	_
+25	hula	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	pane	_	_	_	_	_	_	_	_
+30	ana	_	_	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	ia	_	_	_	_	_	_	_	_
+33	me	_	_	_	_	_	_	_	_
+34	ke	_	_	_	_	_	_	_	_
+35	mele	_	_	_	_	_	_	_	_
+36	komo	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	Kūnihi	_	_	_	_	_	_	_	_
+39	Ka	_	_	_	_	_	_	_	_
+40	Mauna	_	_	_	_	_	_	_	_
+41	O	_	_	_	_	_	_	_	_
+42	Ka	_	_	_	_	_	_	_	_
+43	Laʻi	_	_	_	_	_	_	_	_
+44	O	_	_	_	_	_	_	_	_
+45	Waiʻaleʻale	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_6
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_7
+# text = Mahalo a nui iā ʻoe, e Hattie.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Hattie	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_8
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_9
+# text = ʻO kēia poʻe oli āu i oli ai, a, pili ana i ka haumāna hula, a, ʻo, ʻo ke oli, ʻo ke oli Liuliu (Liʻuliʻu) Wale, a he aha hoʻi ka manaʻo nui o kēia oli? Ka oli ʻo Liuliu (Liʻuliʻu) Wale, he oli kēlā ma ka puka.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	oli	_	_	_	_	_	_	_	_
+5	āu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	oli	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	pili	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	haumāna	_	_	_	_	_	_	_	_
+17	hula	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	oli	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	ke	_	_	_	_	_	_	_	_
+29	oli	_	_	_	_	_	_	_	_
+30	Liuliu	_	_	_	_	_	_	_	_
+31	(	_	PUNCT	_	_	_	_	_	_
+32	Liʻuliʻu	_	_	_	_	_	_	_	_
+33	)	_	PUNCT	_	_	_	_	_	_
+34	Wale	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	he	_	_	_	_	_	_	_	_
+38	aha	_	_	_	_	_	_	_	_
+39	hoʻi	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	manaʻo	_	_	_	_	_	_	_	_
+42	nui	_	_	_	_	_	_	_	_
+43	o	_	_	_	_	_	_	_	_
+44	kēia	_	_	_	_	_	_	_	_
+45	oli	_	_	_	_	_	_	_	_
+46	?	_	PUNCT	_	_	_	_	_	_
+47	Ka	_	_	_	_	_	_	_	_
+48	oli	_	_	_	_	_	_	_	_
+49	ʻo	_	_	_	_	_	_	_	_
+50	Liuliu	_	_	_	_	_	_	_	_
+51	(	_	PUNCT	_	_	_	_	_	_
+52	Liʻuliʻu	_	_	_	_	_	_	_	_
+53	)	_	PUNCT	_	_	_	_	_	_
+54	Wale	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	he	_	_	_	_	_	_	_	_
+57	oli	_	_	_	_	_	_	_	_
+58	kēlā	_	_	_	_	_	_	_	_
+59	ma	_	_	_	_	_	_	_	_
+60	ka	_	_	_	_	_	_	_	_
+61	puka	_	_	_	_	_	_	_	_
+62	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_10
+# text = Oli mai ka haumāna i kēia oli, a laila, hemo ka puka, a komo mai, a manaʻo ma loko mai, ʻo wau nō ka mea e oli ana i ke Kūnihi O Ka Mauna I Ka Laʻi O Waiʻaleʻale.
+1	Oli	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	haumāna	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	oli	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hemo	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	puka	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	komo	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	manaʻo	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	loko	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	wau	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	mea	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	oli	_	_	_	_	_	_	_	_
+33	ana	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ke	_	_	_	_	_	_	_	_
+36	Kūnihi	_	_	_	_	_	_	_	_
+37	O	_	_	_	_	_	_	_	_
+38	Ka	_	_	_	_	_	_	_	_
+39	Mauna	_	_	_	_	_	_	_	_
+40	I	_	_	_	_	_	_	_	_
+41	Ka	_	_	_	_	_	_	_	_
+42	Laʻi	_	_	_	_	_	_	_	_
+43	O	_	_	_	_	_	_	_	_
+44	Waiʻaleʻale	_	_	_	_	_	_	_	_
+45	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_11
+# text = ʻO ia ka mele oli o nā hula o Hawaiʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	oli	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_12
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_13
+# text = Nui nō nā ʻano hula o ka Hawaiʻi.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	hula	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_14
+# text = I kēia mau lā, ke hele aku nei ʻo Hawaiʻi, a, kokoke e nalowale loa nā mea Hawaiʻi mai kēia lā aku paha he mau makahiki wale nō paha koe.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	lā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kokoke	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	nalowale	_	_	_	_	_	_	_	_
+18	loa	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	lā	_	_	_	_	_	_	_	_
+25	aku	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	he	_	_	_	_	_	_	_	_
+28	mau	_	_	_	_	_	_	_	_
+29	makahiki	_	_	_	_	_	_	_	_
+30	wale	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	paha	_	_	_	_	_	_	_	_
+33	koe	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_15
+# text = Inā ʻaʻole nā pua o ka wā kahiko e hoʻāla hou i kēia mau mea, e nalowale ana nā mea Hawaiʻi.
+1	Inā	_	_	_	_	_	_	_	_
+2	ʻaʻole	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	pua	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	wā	_	_	_	_	_	_	_	_
+8	kahiko	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻāla	_	_	_	_	_	_	_	_
+11	hou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	nalowale	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_16
+# text = Ma mua loa aku nei, ʻo ia hoʻi, kekahi o kaʻu ʻohana, makua kāne, kāna hana kēia o ka oli.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kaʻu	_	_	_	_	_	_	_	_
+14	ʻohana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	makua	_	_	_	_	_	_	_	_
+17	kāne	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kāna	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	oli	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_17
+# text = Oli ʻo ia a hiki i ka manawa i nalowale ai kona leo no ka oli ʻana.
+1	Oli	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nalowale	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	kona	_	_	_	_	_	_	_	_
+13	leo	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	oli	_	_	_	_	_	_	_	_
+17	ʻana	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_18
+# text = I ka wā kahiko, nui nō hoʻi nā pāioio* ʻana o nā poʻe i kēlā manawa.
+1	I	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	kahiko	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	pāioio	_	_	_	_	_	_	_	_
+11	*	_	PUNCT	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	manawa	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_19
+# text = Nui nā poʻe ʻike i ka hula.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	ʻike	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hula	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_20
+# text = A i kēia mau lā, he kākaʻikahi wale nō koe o nā poʻe Hawaiʻi e mālama nei i ka mea hula a ka Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	lā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	kākaʻikahi	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	koe	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	mālama	_	_	_	_	_	_	_	_
+18	nei	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	hula	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_21
+# text = Nui nā ʻano hula a ka Hawaiʻi i koe, nā hula pūniu, nā hula paʻi umauma, nā hula pahu, e, hula pahu, ʻo ia hoʻi, me ka pūniu, ʻo ia ho ʻo ia nō ka hula a ka poʻe, ʻo nā poʻe kēia lā e makemake nei e ʻike, nā hula pahu.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	hula	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	koe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	hula	_	_	_	_	_	_	_	_
+13	pūniu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	hula	_	_	_	_	_	_	_	_
+17	paʻi	_	_	_	_	_	_	_	_
+18	umauma	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	hula	_	_	_	_	_	_	_	_
+22	pahu	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	hula	_	_	_	_	_	_	_	_
+27	pahu	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻo	_	_	_	_	_	_	_	_
+30	ia	_	_	_	_	_	_	_	_
+31	hoʻi	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	me	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	pūniu	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ʻo	_	_	_	_	_	_	_	_
+38	ia	_	_	_	_	_	_	_	_
+39	ho	_	_	_	_	_	_	_	_
+40	ʻo	_	_	_	_	_	_	_	_
+41	ia	_	_	_	_	_	_	_	_
+42	nō	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	hula	_	_	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	poʻe	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	ʻo	_	_	_	_	_	_	_	_
+50	nā	_	_	_	_	_	_	_	_
+51	poʻe	_	_	_	_	_	_	_	_
+52	kēia	_	_	_	_	_	_	_	_
+53	lā	_	_	_	_	_	_	_	_
+54	e	_	_	_	_	_	_	_	_
+55	makemake	_	_	_	_	_	_	_	_
+56	nei	_	_	_	_	_	_	_	_
+57	e	_	_	_	_	_	_	_	_
+58	ʻike	_	_	_	_	_	_	_	_
+59	,	_	PUNCT	_	_	_	_	_	_
+60	nā	_	_	_	_	_	_	_	_
+61	hula	_	_	_	_	_	_	_	_
+62	pahu	_	_	_	_	_	_	_	_
+63	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_22
+# text = A ʻo wau kekahi mea e aʻo nei i ka hula pahu.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	aʻo	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hula	_	_	_	_	_	_	_	_
+12	pahu	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_23
+# text = Inā makemake ka poʻe e hele mai e ʻike i ka hula pahu, hiki nō iā lākou ke kāhea mai iaʻu.
+1	Inā	_	_	_	_	_	_	_	_
+2	makemake	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	ʻike	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hula	_	_	_	_	_	_	_	_
+13	pahu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hiki	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	iā	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	kāhea	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	iaʻu	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_24
+# text = Hele mai nō wau e aʻo iā lākou.
+1	Hele	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	aʻo	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_25
+# text = A mahalo a nui loa.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_26
+# text = A mahalo nō iā ʻoe i kou hoʻomau ʻana i ke aʻo ʻana i ka hula o ka wā kahiko.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	hoʻomau	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	aʻo	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hula	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	wā	_	_	_	_	_	_	_	_
+20	kahiko	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_27
+# text = A na wai, na wai ka mea nāna i aʻo iā ʻoe i ka, i ka hula a me ke oli ʻana? I koʻu mau lā e aʻo ana i kēia hula, hoʻokahi kumu hula noho i Kahana me mākou, kona inoa ʻo Sam Pua Haʻaheo.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	wai	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	nāna	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	aʻo	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	hula	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	oli	_	_	_	_	_	_	_	_
+24	ʻana	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	I	_	_	_	_	_	_	_	_
+27	koʻu	_	_	_	_	_	_	_	_
+28	mau	_	_	_	_	_	_	_	_
+29	lā	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	aʻo	_	_	_	_	_	_	_	_
+32	ana	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	kēia	_	_	_	_	_	_	_	_
+35	hula	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	hoʻokahi	_	_	_	_	_	_	_	_
+38	kumu	_	_	_	_	_	_	_	_
+39	hula	_	_	_	_	_	_	_	_
+40	noho	_	_	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	Kahana	_	_	_	_	_	_	_	_
+43	me	_	_	_	_	_	_	_	_
+44	mākou	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	kona	_	_	_	_	_	_	_	_
+47	inoa	_	_	_	_	_	_	_	_
+48	ʻo	_	_	_	_	_	_	_	_
+49	Sam	_	_	_	_	_	_	_	_
+50	Pua	_	_	_	_	_	_	_	_
+51	Haʻaheo	_	_	_	_	_	_	_	_
+52	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_28
+# text = A ʻo ia kekahi o ke kumu hula.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kumu	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_29
+# text = Mai Hawaiʻi mai, hiki mai kuʻu ʻanakē, a nāna i aʻo mai.
+1	Mai	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	kuʻu	_	_	_	_	_	_	_	_
+8	ʻanakē	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	nāna	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_30
+# text = Kona inoa, ʻo ia hoʻi, ʻo Kakalina Nākaula.
+1	Kona	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Kakalina	_	_	_	_	_	_	_	_
+10	Nākaula	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_31
+# text = Nāna i aʻo mai iaʻu i nā hula like ʻole a pau.
+1	Nāna	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	aʻo	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	like	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	pau	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_32
+# text = Hiki nō iaʻu ke aʻo i ka ʻano hula kēia mau lā.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	iaʻu	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻano	_	_	_	_	_	_	_	_
+9	hula	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	mau	_	_	_	_	_	_	_	_
+12	lā	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_33
+# text = Ka hula ʻōhelo, nā ʻano hula like ʻole.
+1	Ka	_	_	_	_	_	_	_	_
+2	hula	_	_	_	_	_	_	_	_
+3	ʻōhelo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	hula	_	_	_	_	_	_	_	_
+8	like	_	_	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_34
+# text = Ke nalowale aku nei kēia mau hula, inā ʻaʻole kākou e hoʻomaʻamaʻa i kēia mau hula i nā poʻe keiki a kākou, e nalowale ana kēia poʻe hula a pau.
+1	Ke	_	_	_	_	_	_	_	_
+2	nalowale	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	hula	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	inā	_	_	_	_	_	_	_	_
+10	ʻaʻole	_	_	_	_	_	_	_	_
+11	kākou	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	hoʻomaʻamaʻa	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	hula	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	poʻe	_	_	_	_	_	_	_	_
+21	keiki	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	kākou	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	nalowale	_	_	_	_	_	_	_	_
+27	ana	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	poʻe	_	_	_	_	_	_	_	_
+30	hula	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	pau	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_35
+# text = ʻAe, pololei nō ʻoe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_36
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_37
+# text = Ua lohe wau iā ʻoe i, i kāu oli ʻana i kēlā oli komo mai.
+1	Ua	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kāu	_	_	_	_	_	_	_	_
+10	oli	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	oli	_	_	_	_	_	_	_	_
+15	komo	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_38
+# text = A lohe wau i nā huaʻōlelo, E eia nō ka uku o ke aloha, a lohe wau i kekahi manawa i, i kekahi poʻe, a oli lākou, Eia nō ka uku o ka leo.
+1	A	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	huaʻōlelo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	E	_	_	_	_	_	_	_	_
+9	eia	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	uku	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	aloha	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	lohe	_	_	_	_	_	_	_	_
+19	wau	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kekahi	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kekahi	_	_	_	_	_	_	_	_
+27	poʻe	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	oli	_	_	_	_	_	_	_	_
+31	lākou	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Eia	_	_	_	_	_	_	_	_
+34	nō	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	uku	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	leo	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_39
+# text = A pehea kou manaʻo i kēia mau huaʻōlelo? Inā hāʻawi ʻoe i kou leo i, i ka hula, a, ka wā kahiko, lawe ʻia kou leo.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	huaʻōlelo	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Inā	_	_	_	_	_	_	_	_
+11	hāʻawi	_	_	_	_	_	_	_	_
+12	ʻoe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kou	_	_	_	_	_	_	_	_
+15	leo	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hula	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	wā	_	_	_	_	_	_	_	_
+26	kahiko	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	lawe	_	_	_	_	_	_	_	_
+29	ʻia	_	_	_	_	_	_	_	_
+30	kou	_	_	_	_	_	_	_	_
+31	leo	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_40
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_41
+# text = Waiho ʻia mai ʻoe, ʻaʻohe he leo.
+1	Waiho	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻaʻohe	_	_	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	leo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_42
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_43
+# text = Ua lawe ʻia kou leo.
+1	Ua	_	_	_	_	_	_	_	_
+2	lawe	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	leo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_44
+# text = Ma, ma kēlā wahi, ʻaʻole ʻoe e hāʻawi i kou leo.
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	wahi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻaʻole	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hāʻawi	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	leo	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_45
+# text = Hāʻawi ʻoe i ke aloha.
+1	Hāʻawi	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	aloha	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_46
+# text = ʻO ke aloha wale nō ka mea i ʻoi aku ma mua o nā mea a pau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ʻoi	_	_	_	_	_	_	_	_
+10	aku	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	mua	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	pau	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_47
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_48
+# text = ʻO ke aloha wa ʻo ke aloha nō ka mea nui.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	wa	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	nui	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_49
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_50
+# text = A, aia ma hea ʻoe i hānau ʻia ai? Ua hānau ʻia au ma kēlā ʻaoʻao o nā Koʻolau m ma Kahana.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hānau	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Ua	_	_	_	_	_	_	_	_
+13	hānau	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	ʻaoʻao	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	Koʻolau	_	_	_	_	_	_	_	_
+22	m	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	Kahana	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_51
+# text = Ma laila wau kahi hānau ʻia ai koʻu mau kūpuna.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	kahi	_	_	_	_	_	_	_	_
+5	hānau	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	kūpuna	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_52
+# text = A i kēia manawa, ua piha iaʻu ka makahiki kanaonokūmāiwa makahiki oʻu i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	piha	_	_	_	_	_	_	_	_
+8	iaʻu	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	makahiki	_	_	_	_	_	_	_	_
+11	kanaonokūmāiwa	_	_	_	_	_	_	_	_
+12	makahiki	_	_	_	_	_	_	_	_
+13	oʻu	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	manawa	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_53
+# text = A eia nō wau ke aʻo nei i ka hula i nā poʻe keiki ma Kahana.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	aʻo	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hula	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	keiki	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	Kahana	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_54
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_55
+# text = E hoʻomau nō.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻomau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_57
+# text = A i kēia manawa, e hoʻolaha ana au i ka helu kelepona i ka poʻe e lohe ana inā makemake ʻoukou e kāhea mai.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	helu	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	poʻe	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	lohe	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	inā	_	_	_	_	_	_	_	_
+21	makemake	_	_	_	_	_	_	_	_
+22	ʻoukou	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	kāhea	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_58
+# text = E kelepona mai inā he manaʻo paha kou pili ana i kēia kumuhana o ke ahiahi.
+1	E	_	_	_	_	_	_	_	_
+2	kelepona	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	inā	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	manaʻo	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	kou	_	_	_	_	_	_	_	_
+9	pili	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	kumuhana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	ahiahi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_59
+# text = A i ʻole, he nīnau paha kāu, e kāhea mai.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ʻole	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	nīnau	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	kāu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	kāhea	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_60
+# text = ʻO, ʻo nā helu hiki iā ʻoe ke hoʻokani mai, ʻo ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua, a me ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	helu	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	hoʻokani	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	helu	_	_	_	_	_	_	_	_
+17	ʻeiwa	_	_	_	_	_	_	_	_
+18	ʻelua	_	_	_	_	_	_	_	_
+19	ʻekolu	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	ʻehā	_	_	_	_	_	_	_	_
+23	ʻole	_	_	_	_	_	_	_	_
+24	ʻelua	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	me	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	helu	_	_	_	_	_	_	_	_
+30	ʻeiwa	_	_	_	_	_	_	_	_
+31	ʻelua	_	_	_	_	_	_	_	_
+32	ʻekolu	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻole	_	_	_	_	_	_	_	_
+35	ʻehā	_	_	_	_	_	_	_	_
+36	ʻole	_	_	_	_	_	_	_	_
+37	ʻehā	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_61
+# text = ʻAe, a, kūlana (ulana) lau hala nō hoʻi ʻoe, ʻaʻole anei, e Hattie? Pololoʻi (Pololoi).
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kūlana	_	_	_	_	_	_	_	_
+6	(	_	PUNCT	_	_	_	_	_	_
+7	ulana	_	_	_	_	_	_	_	_
+8	)	_	PUNCT	_	_	_	_	_	_
+9	lau	_	_	_	_	_	_	_	_
+10	hala	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	anei	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	Hattie	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	Pololoʻi	_	_	_	_	_	_	_	_
+22	(	_	PUNCT	_	_	_	_	_	_
+23	Pololoi	_	_	_	_	_	_	_	_
+24	)	_	PUNCT	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_62
+# text = Hele mai nā poʻe keiki mai nā kula mai, mai Kalihi mai, Waimānalo, a kā mākou hana kēia manawa ma ka lihi kai, a ma laila mākou e aʻo nei i nā kamaliʻi i nā mea hana o ka mea Hawaiʻi.
+1	Hele	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	Kalihi	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Waimānalo	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	kā	_	_	_	_	_	_	_	_
+19	mākou	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	lihi	_	_	_	_	_	_	_	_
+26	kai	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	ma	_	_	_	_	_	_	_	_
+30	laila	_	_	_	_	_	_	_	_
+31	mākou	_	_	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	aʻo	_	_	_	_	_	_	_	_
+34	nei	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	kamaliʻi	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	nā	_	_	_	_	_	_	_	_
+40	mea	_	_	_	_	_	_	_	_
+41	hana	_	_	_	_	_	_	_	_
+42	o	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	mea	_	_	_	_	_	_	_	_
+45	Hawaiʻi	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_63
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_64
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_65
+# text = ʻAʻole i ulana wale ʻia ka lau hala wale nō, ulana nā ʻano mea like ʻole, ʻaʻole anei? ʻAe, nā m .
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ulana	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	hala	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ulana	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	ʻano	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	like	_	_	_	_	_	_	_	_
+17	ʻole	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻaʻole	_	_	_	_	_	_	_	_
+20	anei	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	m	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_66
+# text = Like nō hoʻi me ka makaloa paha.
+1	Like	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	makaloa	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_67
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_68
+# text = Ulana nā mea like ʻole a mākou ke hiki ke hana.
+1	Ulana	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	like	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_69
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_70
+# text = A, a ʻo ia kā mākou hana, a, Kau!! hauʻoli nō hoʻi mākou ma kēlā wahi, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	kā	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Kau	_	_	_	_	_	_	_	_
+13	!!	_	PUNCT	_	_	_	_	_	_
+14	hauʻoli	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	hoʻi	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻĒ	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_71
+# text = kēia hana.
+1	kēia	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_72
+# text = Ua ʻike nō ʻoe i ka loulu paha, ka niu paha, ka maiʻa paha.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻike	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	loulu	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	niu	_	_	_	_	_	_	_	_
+12	paha	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	maiʻa	_	_	_	_	_	_	_	_
+16	paha	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_73
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_74
+# text = Ka loulu, a ua hana mākou, hana wau me ke, i ka loulu me koʻu makuahine i ka, i ko, kona wā e ola ana.
+1	Ka	_	_	_	_	_	_	_	_
+2	loulu	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	loulu	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	koʻu	_	_	_	_	_	_	_	_
+19	makuahine	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ko	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kona	_	_	_	_	_	_	_	_
+27	wā	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	ola	_	_	_	_	_	_	_	_
+30	ana	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_75
+# text = A hiki nō iā mākou ke hana hou, no ka mea, ua aʻo mai nā kūpuna, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	hou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ua	_	_	_	_	_	_	_	_
+15	aʻo	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	kūpuna	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻĒ	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_76
+# text = iā mākou ka hana ʻana.
+1	iā	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_77
+# text = A pēlā hoʻi me nā ʻohe, ka ʻohe, hana ʻia pāpale.
+1	A	_	_	_	_	_	_	_	_
+2	pēlā	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	ʻohe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻohe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	pāpale	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_78
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_79
+# text = Kēlā pāpale keʻokeʻo, a ʻo ia ke ʻano pāpale hana ʻia ai, ʻAe.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	pāpale	_	_	_	_	_	_	_	_
+3	keʻokeʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	ʻano	_	_	_	_	_	_	_	_
+10	pāpale	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_80
+# text = me ka i loko o ka pahu hana ʻia ai.
+1	me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pahu	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_81
+# text = Ka mea, makaliʻi ʻē? ʻAe.
+1	Ka	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	makaliʻi	_	_	_	_	_	_	_	_
+5	ʻē	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_82
+# text = Makaliʻi.
+1	Makaliʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_83
+# text = And maikaʻi ka ulana ʻana o ka pāpale, ʻAe.
+1	And	_	_	_	_	_	_	_	_
+2	maikaʻi	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ulana	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pāpale	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_84
+# text = o kēlā wā kahiko.
+1	o	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	kahiko	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_85
+# text = Kuhi ʻia e kekahi poʻe, hana maʻalahi paha kēia.
+1	Kuhi	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	maʻalahi	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_86
+# text = ʻAʻole kā.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kā	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_87
+# text = He hana, hana nui hoʻi kēia.
+1	He	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_88
+# text = Hana nui.
+1	Hana	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_89
+# text = Nui ka hana.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_90
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_91
+# text = Nui ka hana, ʻAe.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_92
+# text = ke hana ʻoe i kēia !! Pehea ka lau hala āu i hoʻomākaukau ʻia ai? Ka lau hala a mākou hoʻomākaukau ai i kēia manawa.
+1	ke	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	Pehea	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lau	_	_	_	_	_	_	_	_
+10	hala	_	_	_	_	_	_	_	_
+11	āu	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hoʻomākaukau	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Ka	_	_	_	_	_	_	_	_
+18	lau	_	_	_	_	_	_	_	_
+19	hala	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	mākou	_	_	_	_	_	_	_	_
+22	hoʻomākaukau	_	_	_	_	_	_	_	_
+23	ai	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	manawa	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_93
+# text = Kiʻi ʻoe i ka lau hala.
+1	Kiʻi	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_94
+# text = Hoʻihoʻi mai.
+1	Hoʻihoʻi	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_95
+# text = Wehe i ka kukū o ka lau hala.
+1	Wehe	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	kukū	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	hala	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_96
+# text = A, a pau ka kukū, hemo, ka hemo ʻana o ka kukū, Kīhae i ke kukū.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	kukū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hemo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hemo	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	kukū	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kīhae	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	kukū	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_97
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_98
+# text = Kīhae i ke kukū, {Mū.
+1	Kīhae	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kukū	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	{	_	PUNCT	_	_	_	_	_	_
+7	Mū	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_99
+# text = } a pau.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_100
+# text = Kāwele ka lau hala a pau ka lepo.
+1	Kāwele	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	hala	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	lepo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_101
+# text = A laila, lolalola me ka lima.
+1	A	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	lolalola	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lima	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_102
+# text = A lola a hiki i ka mohala pono ʻana o kēia lau hala.
+1	A	_	_	_	_	_	_	_	_
+2	lola	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mohala	_	_	_	_	_	_	_	_
+8	pono	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	lau	_	_	_	_	_	_	_	_
+13	hala	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_103
+# text = A pōkaʻakaʻa ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	pōkaʻakaʻa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_104
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_105
+# text = Pōkaʻakaʻa ʻia.
+1	Pōkaʻakaʻa	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_106
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_107
+# text = A waiho a mālie wau.
+1	A	_	_	_	_	_	_	_	_
+2	waiho	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	mālie	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_108
+# text = Hiki ka manawa e hoʻohana ai, hana mākou.
+1	Hiki	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻohana	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_109
+# text = A koe.
+1	A	_	_	_	_	_	_	_	_
+2	koe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_110
+# text = Koe a ulana.
+1	Koe	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ulana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_111
+# text = Koe.
+1	Koe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_112
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_113
+# text = Ulana.
+1	Ulana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_114
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_115
+# text = ʻO ia ka mākou hana.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_116
+# text = A alia iki.
+1	A	_	_	_	_	_	_	_	_
+2	alia	_	_	_	_	_	_	_	_
+3	iki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_117
+# text = Eia kekahi kelepona.
+1	Eia	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	kelepona	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_118
+# text = Aloha ahiahi.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_119
+# text = ʻAe, ʻae, ʻanoʻai.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻanoʻai	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_120
+# text = A, ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_121
+# text = E, e, e kali iki.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	kali	_	_	_	_	_	_	_	_
+7	iki	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_122
+# text = ʻAe, e kali iki e Mālia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	kali	_	_	_	_	_	_	_	_
+5	iki	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	Mālia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_123
+# text = He wahi pilikia ma ʻaneʻi nei, ē.
+1	He	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	pilikia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ʻaneʻi	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ē	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_124
+# text = A kali iki.
+1	A	_	_	_	_	_	_	_	_
+2	kali	_	_	_	_	_	_	_	_
+3	iki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_125
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_126
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_127
+# text = No laila, nui ka poʻe e manaʻo ai a he hana maʻalahi wale nō ka lau hala.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	manaʻo	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	maʻalahi	_	_	_	_	_	_	_	_
+14	wale	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	lau	_	_	_	_	_	_	_	_
+18	hala	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_128
+# text = ʻAʻole kā.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kā	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_129
+# text = Pēia nō hoʻi me ka loulu.
+1	Pēia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	loulu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_130
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_131
+# text = He, inā he lima ʻawaʻa ʻawaʻawa kou, a i ka ʻoki ʻana i ka loulu, a make ana ka lāʻau.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	inā	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	lima	_	_	_	_	_	_	_	_
+6	ʻawaʻa	_	_	_	_	_	_	_	_
+7	ʻawaʻawa	_	_	_	_	_	_	_	_
+8	kou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻoki	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	loulu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	make	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	lāʻau	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_132
+# text = Make.
+1	Make	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_133
+# text = Pololoi.
+1	Pololoi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_134
+# text = No ka mea, ʻike ʻole ʻoe i kēia, i ka, I, ʻae.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	I	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻae	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_135
+# text = moku ʻana, i ka ʻoki ʻana i ka loulu, a make ka lāʻau.
+1	moku	_	_	_	_	_	_	_	_
+2	ʻana	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻoki	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	loulu	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	make	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	lāʻau	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_136
+# text = Make, pololoʻi (pololoi).
+1	Make	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololoʻi	_	_	_	_	_	_	_	_
+4	(	_	PUNCT	_	_	_	_	_	_
+5	pololoi	_	_	_	_	_	_	_	_
+6	)	_	PUNCT	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_137
+# text = Pololei nō, ē.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_138
+# text = Pololoʻi (pololoi) kēlā.
+1	Pololoʻi	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	pololoi	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_139
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_140
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_141
+# text = ʻAe, e kala mai iaʻu.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	kala	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_142
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_143
+# text = ʻAe, e Mālia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	Mālia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_144
+# text = Aloha mai.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_145
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_146
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_147
+# text = Alia, alia iki.
+1	Alia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	alia	_	_	_	_	_	_	_	_
+4	iki	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_148
+# text = A nīnau ʻia mai kēia wahine iā ʻoe.
+1	A	_	_	_	_	_	_	_	_
+2	nīnau	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	wahine	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_149
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_150
+# text = } A ʻehi he aha ke kumukūʻai no ka, no ka aʻo ʻana i ka hula pahu? ʻŌlelo aku ʻoe, !! ʻŌlelo aku ʻoe, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ʻehi	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kumukūʻai	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hula	_	_	_	_	_	_	_	_
+18	pahu	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻŌlelo	_	_	_	_	_	_	_	_
+21	aku	_	_	_	_	_	_	_	_
+22	ʻoe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	!!	_	PUNCT	_	_	_	_	_	_
+25	ʻŌlelo	_	_	_	_	_	_	_	_
+26	aku	_	_	_	_	_	_	_	_
+27	ʻoe	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻAe	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_151
+# text = i, iā ia, a ka aʻo ʻana, aia nō hele mai lākou, a hiki iaʻu ke hoʻākāka maikaʻi aku, a hiki ke maopopo pono iā lākou.
+1	i	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	aia	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	lākou	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	hiki	_	_	_	_	_	_	_	_
+19	iaʻu	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	hoʻākāka	_	_	_	_	_	_	_	_
+22	maikaʻi	_	_	_	_	_	_	_	_
+23	aku	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	hiki	_	_	_	_	_	_	_	_
+27	ke	_	_	_	_	_	_	_	_
+28	maopopo	_	_	_	_	_	_	_	_
+29	pono	_	_	_	_	_	_	_	_
+30	iā	_	_	_	_	_	_	_	_
+31	lākou	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_152
+# text = I, inā ʻaʻole me kēlā, ma hope ʻōlelo mai lākou, a he nui loa ke kai kāki, But hele mai, kūkā like, a, a hāʻawi wau i ka ! Kumukūʻai.
+1	I	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	inā	_	_	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	hope	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	nui	_	_	_	_	_	_	_	_
+17	loa	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	kai	_	_	_	_	_	_	_	_
+20	kāki	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	But	_	_	_	_	_	_	_	_
+23	hele	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kūkā	_	_	_	_	_	_	_	_
+27	like	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	hāʻawi	_	_	_	_	_	_	_	_
+33	wau	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	!	_	PUNCT	_	_	_	_	_	_
+37	Kumukūʻai	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_153
+# text = Kumu.
+1	Kumu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_154
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_155
+# text = Mahalo i kou kāhea ʻana mai.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_156
+# text = A hui hou.
+1	A	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_157
+# text = ʻAe, no ka mea i ka wā kahiko, pehea kou manaʻo i kēia mea o ke kumukūʻai? Kāki ʻia nō paha ka poʻe kahiko? Poʻe haumāna, ʻaʻohe kālā o ka poʻe kahiko? ʻAʻohe kālā o ka poʻe kahiko.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	wā	_	_	_	_	_	_	_	_
+9	kahiko	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	pehea	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	manaʻo	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	kumukūʻai	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	Kāki	_	_	_	_	_	_	_	_
+22	ʻia	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	kahiko	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	Poʻe	_	_	_	_	_	_	_	_
+30	haumāna	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ʻaʻohe	_	_	_	_	_	_	_	_
+33	kālā	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	poʻe	_	_	_	_	_	_	_	_
+37	kahiko	_	_	_	_	_	_	_	_
+38	?	_	PUNCT	_	_	_	_	_	_
+39	ʻAʻohe	_	_	_	_	_	_	_	_
+40	kālā	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	poʻe	_	_	_	_	_	_	_	_
+44	kahiko	_	_	_	_	_	_	_	_
+45	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_158
+# text = Ma ka hoaaloha wale nō, hoʻomaka mākou e aʻo me ka uku ʻole.
+1	Ma	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hoaaloha	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hoʻomaka	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	aʻo	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	uku	_	_	_	_	_	_	_	_
+14	ʻole	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_159
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_160
+# text = ʻO ia kā mākou ʻo, ʻo ka wā kahiko me ka uku ʻole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	kā	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	wā	_	_	_	_	_	_	_	_
+10	kahiko	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	uku	_	_	_	_	_	_	_	_
+14	ʻole	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_161
+# text = Kēia lā, inā loaʻa ka ʻike i ka poʻe, hele lākou i mua.
+1	Kēia	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	inā	_	_	_	_	_	_	_	_
+5	loaʻa	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hele	_	_	_	_	_	_	_	_
+13	lākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	mua	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_162
+# text = Hoʻoholo lākou i kā lākou hana, a e kāki ana nō lākou.
+1	Hoʻoholo	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kā	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kāki	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	lākou	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_163
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_164
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_165
+# text = A i kēia manawa, inā he kūpono nā mea a lākou e hoʻolālā ai, a hiki nō ke hoʻēmi mai i nā mea, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	inā	_	_	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	kūpono	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hoʻolālā	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	hiki	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	hoʻēmi	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	mea	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	{	_	PUNCT	_	_	_	_	_	_
+28	Mū	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_166
+# text = } i ka kāki ʻana o kēia hana o ka hula.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	kāki	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hula	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_167
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_168
+# text = Alia i alia iki kāua no ka mea makemake hoʻi ke keiki hoʻolele e, hoʻolele paha i kekahi manaʻo.
+1	Alia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	alia	_	_	_	_	_	_	_	_
+4	iki	_	_	_	_	_	_	_	_
+5	kāua	_	_	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	makemake	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	keiki	_	_	_	_	_	_	_	_
+13	hoʻolele	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	hoʻolele	_	_	_	_	_	_	_	_
+17	paha	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	manaʻo	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_169
+# text = ʻAe, ok.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ok	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_170
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_171
+# text = Ka hula o ka wā kahiko, he kapu, ʻaʻole anei? He ʻihiʻihi ke ʻano o ka hula, ʻaʻole pono hula wale nō e like nō hoʻi me kēia mau lā.
+1	Ka	_	_	_	_	_	_	_	_
+2	hula	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	wā	_	_	_	_	_	_	_	_
+6	kahiko	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	kapu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻole	_	_	_	_	_	_	_	_
+12	anei	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	He	_	_	_	_	_	_	_	_
+15	ʻihiʻihi	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	ʻano	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hula	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻaʻole	_	_	_	_	_	_	_	_
+23	pono	_	_	_	_	_	_	_	_
+24	hula	_	_	_	_	_	_	_	_
+25	wale	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	like	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	hoʻi	_	_	_	_	_	_	_	_
+31	me	_	_	_	_	_	_	_	_
+32	kēia	_	_	_	_	_	_	_	_
+33	mau	_	_	_	_	_	_	_	_
+34	lā	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_172
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_173
+# text = He ʻihiʻihi ka hula.
+1	He	_	_	_	_	_	_	_	_
+2	ʻihiʻihi	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hula	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_174
+# text = ʻAe, pololeʻi (pololei) kēlā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololeʻi	_	_	_	_	_	_	_	_
+4	(	_	PUNCT	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	)	_	PUNCT	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_175
+# text = ʻO, ʻo ka wā kahiko ka hula.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	wā	_	_	_	_	_	_	_	_
+6	kahiko	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_176
+# text = Ka hula kuahu, ʻo ia ka hula maikaʻi.
+1	Ka	_	_	_	_	_	_	_	_
+2	hula	_	_	_	_	_	_	_	_
+3	kuahu	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	maikaʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_177
+# text = Nā mea ʻaʻole poina ʻoe i nā mea a pau i aʻo ʻia iā ʻoe.
+1	Nā	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	poina	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	pau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	aʻo	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_178
+# text = Ka hula ʻauana, he ka hula kēlā poina wale ʻoe, ʻAe.
+1	Ka	_	_	_	_	_	_	_	_
+2	hula	_	_	_	_	_	_	_	_
+3	ʻauana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hula	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	poina	_	_	_	_	_	_	_	_
+10	wale	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_179
+# text = i nā ʻano hula.
+1	i	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	hula	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_180
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_181
+# text = Ka hula ʻauana.
+1	Ka	_	_	_	_	_	_	_	_
+2	hula	_	_	_	_	_	_	_	_
+3	ʻauana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_182
+# text = ʻO ka hula kuahu, ʻo ia ka hula o ka wā kahiko.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hula	_	_	_	_	_	_	_	_
+4	kuahu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hula	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	wā	_	_	_	_	_	_	_	_
+13	kahiko	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_183
+# text = Mai laila wa mai au i puka mai kēlā hula kuahu.
+1	Mai	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	wa	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	au	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	puka	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	hula	_	_	_	_	_	_	_	_
+11	kuahu	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_184
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_185
+# text = A paʻanaʻau nā mea a pau i aʻo ʻia, ē? Paʻanaʻau.
+1	A	_	_	_	_	_	_	_	_
+2	paʻanaʻau	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	Paʻanaʻau	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_186
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_187
+# text = ʻAʻole ʻoe poina.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	poina	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_188
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_189
+# text = Paʻanaʻau nō.
+1	Paʻanaʻau	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_190
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_191
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_192
+# text = A hele pū nō ka, ke oli me ka hula? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	pū	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	oli	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hula	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_193
+# text = Hele pū nō ka oli me ka hula.
+1	Hele	_	_	_	_	_	_	_	_
+2	pū	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	oli	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hula	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_194
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_195
+# text = Pololei nō.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_196
+# text = Yeah.
+1	Yeah	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_197
+# text = A makemake wau e nīnau iā ʻoe pili ana i ka ulana, ē? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	makemake	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	nīnau	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	pili	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ulana	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ē	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_198
+# text = Ka ulana ʻiwaʻiwa.
+1	Ka	_	_	_	_	_	_	_	_
+2	ulana	_	_	_	_	_	_	_	_
+3	ʻiwaʻiwa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_199
+# text = Ulana ʻiwaʻiwa.
+1	Ulana	_	_	_	_	_	_	_	_
+2	ʻiwaʻiwa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_200
+# text = He mea ʻānoni ia, ē? ʻĀnoni ʻia, ʻaʻole ulana me ka ʻiwaʻiwa wale nō, ē? ʻAʻole.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	ʻānoni	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ē	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻĀnoni	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻole	_	_	_	_	_	_	_	_
+12	ulana	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻiwaʻiwa	_	_	_	_	_	_	_	_
+16	wale	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ē	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	ʻAʻole	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_201
+# text = Kēlā, he, he mea hana i ka, i ka inoa ma luna o ka peʻahi.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	inoa	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	luna	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	peʻahi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_202
+# text = Kēia mea ʻeleʻele.
+1	Kēia	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	ʻeleʻele	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_203
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_204
+# text = Mea hoʻokīnohinohi, ē? ʻĒ.
+1	Mea	_	_	_	_	_	_	_	_
+2	hoʻokīnohinohi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻĒ	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_205
+# text = ʻĒ, ho hoʻoki, hoʻo mea, hoʻonaninani, ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ho	_	_	_	_	_	_	_	_
+4	hoʻoki	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻo	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hoʻonaninani	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻĒ	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_206
+# text = wale nō, hana paha me ka inoa, ʻAe.
+1	wale	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_207
+# text = a, ma luna o kēia mea.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	luna	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_208
+# text = Kēia manawa, ʻano ʻihiʻihi nō ka loaʻa ʻana o kēlā ʻano mea me ka ʻēkaha, ʻaʻole loaʻa ka ʻēkaha kēia manawa.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	ʻihiʻihi	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	loaʻa	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	ʻano	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻēkaha	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻaʻole	_	_	_	_	_	_	_	_
+19	loaʻa	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻēkaha	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	manawa	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_209
+# text = ʻĀ, ʻo ka ʻēkaha nō hoʻi.
+1	ʻĀ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻēkaha	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_210
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_211
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_212
+# text = ʻO ka ʻēkaha, kau ʻia ma luna o ka lāʻau, ē? ʻAe, ʻae.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻēkaha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kau	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	luna	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	lāʻau	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ē	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻae	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_213
+# text = Ulu ma luna o ka lāʻau.
+1	Ulu	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	luna	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	lāʻau	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_214
+# text = A me, ulu ma luna o ka lāʻau.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ulu	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	luna	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lāʻau	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_215
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_216
+# text = Kēia manawa, hele ʻoe i ka pali, ʻaʻole loaʻa hoʻokahi meakanu.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pali	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻaʻole	_	_	_	_	_	_	_	_
+11	loaʻa	_	_	_	_	_	_	_	_
+12	hoʻokahi	_	_	_	_	_	_	_	_
+13	meakanu	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_217
+# text = A he hana hoʻi kēia? Yeah.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Yeah	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_218
+# text = Nui ka hana.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_219
+# text = Nui ka hana.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_220
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_221
+# text = Pēia nō hoʻi me ka, ka maiʻa, maiʻa ʻeleʻele.
+1	Pēia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	maiʻa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	maiʻa	_	_	_	_	_	_	_	_
+11	ʻeleʻele	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_222
+# text = Maʻi (Maiʻa) ʻeleʻele.
+1	Maʻi	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Maiʻa	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	ʻeleʻele	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_223
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_224
+# text = ʻAe, maikaʻi kēlā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_225
+# text = !! Kiʻi ʻoe i kēia mea a kaulaʻi, ʻAe, ʻae.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Kiʻi	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kaulaʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻae	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_226
+# text = koekoe ʻia a hana a palupalu, a, ʻAe.
+1	koekoe	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	palupalu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_227
+# text = A pololoʻi (pololoi) kēlā.
+1	A	_	_	_	_	_	_	_	_
+2	pololoʻi	_	_	_	_	_	_	_	_
+3	(	_	PUNCT	_	_	_	_	_	_
+4	pololoi	_	_	_	_	_	_	_	_
+5	)	_	PUNCT	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_228
+# text = ulana.
+1	ulana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_229
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_230
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_231
+# text = A me ka, kēlā m mea o ka hua o ka ʻulu, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	m	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hua	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻulu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_232
+# text = me ka, kēlā, kēlā pepeʻe o ka lau ʻulu.
+1	me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	pepeʻe	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	lau	_	_	_	_	_	_	_	_
+11	ʻulu	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_233
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_234
+# text = A kēlā mea, ka, ka, kohu, ʻālani ka kala, ē? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kohu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻālani	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	kala	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ē	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_235
+# text = A maikaʻi kēlā mea.
+1	A	_	_	_	_	_	_	_	_
+2	maikaʻi	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_236
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_237
+# text = } A ke, koe ʻoe, a hana ʻoe, hana ka inoa, ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	koe	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	ʻoe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	inoa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻĒ	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_238
+# text = hoʻoki kīnohinohi i kēia.
+1	hoʻoki	_	_	_	_	_	_	_	_
+2	kīnohinohi	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_239
+# text = ʻAe, e hoʻomaha paha kāua i kēia manawa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻomaha	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	kāua	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_240
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_241
+# text = He hoʻolele ana kekahi hīmeni nahenahe hoʻi, ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	hoʻolele	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	nahenahe	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_242
+# text = ʻo Beautiful Kahana no, no Kahana nō ʻoe i kēia, ʻae? ʻAe, ok.
+1	ʻo	_	_	_	_	_	_	_	_
+2	Beautiful	_	_	_	_	_	_	_	_
+3	Kahana	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	Kahana	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ʻoe	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻae	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ok	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_243
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_244
+# text = E Hattie, ua, ua lohe aku nei ʻoe i kēia, i kēia nīnau? Ua lohe akula wau.
+1	E	_	_	_	_	_	_	_	_
+2	Hattie	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ua	_	_	_	_	_	_	_	_
+7	lohe	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	ʻoe	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	nīnau	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	Ua	_	_	_	_	_	_	_	_
+19	lohe	_	_	_	_	_	_	_	_
+20	akula	_	_	_	_	_	_	_	_
+21	wau	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_245
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_246
+# text = Ke nīnau ʻia mai kēia kaikamahine a pehea nā hana, nā hana like ʻole no ka hoʻomākaukau ʻana i ka lau hala, ka hoʻomā mai ka hoʻomaka ʻana a hiki i ka pau ʻana i ka nala ʻana, i ka ulana ʻana.
+1	Ke	_	_	_	_	_	_	_	_
+2	nīnau	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kaikamahine	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pehea	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	like	_	_	_	_	_	_	_	_
+15	ʻole	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	hoʻomākaukau	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	lau	_	_	_	_	_	_	_	_
+23	hala	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	hoʻomā	_	_	_	_	_	_	_	_
+27	mai	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	hoʻomaka	_	_	_	_	_	_	_	_
+30	ʻana	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	hiki	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	pau	_	_	_	_	_	_	_	_
+36	ʻana	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	nala	_	_	_	_	_	_	_	_
+40	ʻana	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	i	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	ulana	_	_	_	_	_	_	_	_
+45	ʻana	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_247
+# text = ʻŌ, inā me kēlā, hoʻomaka ʻoe kiʻi i ka lau hala, nānā i nā lau hala maikaʻi.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	inā	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hoʻomaka	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	kiʻi	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	lau	_	_	_	_	_	_	_	_
+13	hala	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nānā	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	lau	_	_	_	_	_	_	_	_
+19	hala	_	_	_	_	_	_	_	_
+20	maikaʻi	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_248
+# text = Wehe ka kukū, wehe ka kukū a pau, a laila, kōʻala (pōʻala).
+1	Wehe	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	kukū	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	wehe	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	kukū	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	laila	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kōʻala	_	_	_	_	_	_	_	_
+15	(	_	PUNCT	_	_	_	_	_	_
+16	pōʻala	_	_	_	_	_	_	_	_
+17	)	_	PUNCT	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_249
+# text = Kōʻala (pōʻala) kēia lau hala i nuna o kou lima, a pau.
+1	Kōʻala	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	pōʻala	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	lau	_	_	_	_	_	_	_	_
+7	hala	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	nuna	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kou	_	_	_	_	_	_	_	_
+12	lima	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	pau	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_250
+# text = A eia nō naʻe, hoʻomaʻemaʻe mua ka lau hala ma mua o ka kōʻala (pōʻala) ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻomaʻemaʻe	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lau	_	_	_	_	_	_	_	_
+10	hala	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	mua	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	kōʻala	_	_	_	_	_	_	_	_
+16	(	_	PUNCT	_	_	_	_	_	_
+17	pōʻala	_	_	_	_	_	_	_	_
+18	)	_	PUNCT	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_251
+# text = A pau, a waiho.
+1	A	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	waiho	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_252
+# text = Hana a nui a hiki ke paʻa ka moena.
+1	Hana	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	paʻa	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	moena	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_253
+# text = Kēia manawa, ʻaʻohe lau hala a ko mākou wahi.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻohe	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	wahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_254
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_255
+# text = Ka lau hala o ka lihi kai, ʻo ia ka lau hala maikaʻi.
+1	Ka	_	_	_	_	_	_	_	_
+2	lau	_	_	_	_	_	_	_	_
+3	hala	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	lihi	_	_	_	_	_	_	_	_
+7	kai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	lau	_	_	_	_	_	_	_	_
+13	hala	_	_	_	_	_	_	_	_
+14	maikaʻi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_256
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_257
+# text = Palupalu.
+1	Palupalu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_258
+# text = Maikaʻi paha ka lau hala o Hauʻula? Ke loaʻa aku ka lau hala iā ʻoe, hele nō ka poʻe ma kēlā wahi e ʻohi.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	lau	_	_	_	_	_	_	_	_
+5	hala	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Hauʻula	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Ke	_	_	_	_	_	_	_	_
+10	loaʻa	_	_	_	_	_	_	_	_
+11	aku	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	lau	_	_	_	_	_	_	_	_
+14	hala	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	ʻoe	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hele	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	kēlā	_	_	_	_	_	_	_	_
+24	wahi	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	ʻohi	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_259
+# text = Aia au i Kahana Loa, ʻAe.
+1	Aia	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Kahana	_	_	_	_	_	_	_	_
+5	Loa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_260
+# text = ʻaʻole hiki ke hele.
+1	ʻaʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_261
+# text = ʻO ka lau hala pili i ka lihi kai, ʻo ia ka lau hala āu a, ʻaeʻae, ka lau hala palupalu.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	hala	_	_	_	_	_	_	_	_
+5	pili	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	lihi	_	_	_	_	_	_	_	_
+9	kai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	lau	_	_	_	_	_	_	_	_
+15	hala	_	_	_	_	_	_	_	_
+16	āu	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻaeʻae	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	lau	_	_	_	_	_	_	_	_
+23	hala	_	_	_	_	_	_	_	_
+24	palupalu	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_262
+# text = Palupalu.
+1	Palupalu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_263
+# text = ʻAe, maikaʻi no ka ulana ʻana.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ulana	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_264
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_265
+# text = A, ʻo ka lau hala o ke kuahiwi, ʻano, Paʻa ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kuahiwi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Paʻa	_	_	_	_	_	_	_	_
+14	ʻē	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_266
+# text = pakēpakē, ē? Yeah, pakēpakē.
+1	pakēpakē	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ē	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Yeah	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	pakēpakē	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_267
+# text = ʻĒ, pakēpakē hoʻi kēlā ʻano lau hala, paʻakikī nō hoʻi no ka ulana ʻana.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pakēpakē	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	hala	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	paʻakikī	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ulana	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_268
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_269
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_270
+# text = ʻEhu kai e hoʻopalupalu i ka lau.
+1	ʻEhu	_	_	_	_	_	_	_	_
+2	kai	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻopalupalu	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_271
+# text = ʻĒ, na ka ʻehu o, ʻehu kai nō, ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻehu	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻehu	_	_	_	_	_	_	_	_
+9	kai	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻĒ	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_272
+# text = Na ka ʻehu kai e hoʻopalupalu !! hoʻopalupalu ʻia, A hu , a hui hou nō.
+1	Na	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻehu	_	_	_	_	_	_	_	_
+4	kai	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻopalupalu	_	_	_	_	_	_	_	_
+7	!!	_	PUNCT	_	_	_	_	_	_
+8	hoʻopalupalu	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	A	_	_	_	_	_	_	_	_
+12	hu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	hui	_	_	_	_	_	_	_	_
+16	hou	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_273
+# text = Oh, what she said? ʻAe.
+1	Oh	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	what	_	_	_	_	_	_	_	_
+4	she	_	_	_	_	_	_	_	_
+5	said	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_274
+# text = No laila, nui nā ʻano lau hala, lau hala ʻulaʻula, a kekahi lau hala no Kilipaki mai, ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	hala	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	lau	_	_	_	_	_	_	_	_
+11	hala	_	_	_	_	_	_	_	_
+12	ʻulaʻula	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	lau	_	_	_	_	_	_	_	_
+17	hala	_	_	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	Kilipaki	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_275
+# text = Kekahi lau hala, he kūkala (kōkala) ʻole.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	lau	_	_	_	_	_	_	_	_
+3	hala	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	kūkala	_	_	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	kōkala	_	_	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_276
+# text = Ye yeah.
+1	Ye	_	_	_	_	_	_	_	_
+2	yeah	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_277
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_278
+# text = Kekahi lau hala.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	lau	_	_	_	_	_	_	_	_
+3	hala	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_279
+# text = Kēlā ʻano lau hala, lahilahi, lahilahi loa.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	hala	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	lahilahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	lahilahi	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_280
+# text = ʻAʻohe mānoanoa kēlā ʻano lau hala, ʻĒ.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	mānoanoa	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_281
+# text = ʻaʻole kukū.
+1	ʻaʻole	_	_	_	_	_	_	_	_
+2	kukū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_282
+# text = No hea maila kēlā ʻano lau hala, a, !! yeah a laha i, i Lāʻie ka mea laha ai kēlā lau hala.
+1	No	_	_	_	_	_	_	_	_
+2	hea	_	_	_	_	_	_	_	_
+3	maila	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	lau	_	_	_	_	_	_	_	_
+7	hala	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	!!	_	PUNCT	_	_	_	_	_	_
+12	yeah	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	laha	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	Lāʻie	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	laha	_	_	_	_	_	_	_	_
+22	ai	_	_	_	_	_	_	_	_
+23	kēlā	_	_	_	_	_	_	_	_
+24	lau	_	_	_	_	_	_	_	_
+25	hala	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_283
+# text = ʻĒ, ʻae.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_284
+# text = A, a Lāʻie kekahi ʻaʻole nui loa ka lau hala.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	Lāʻie	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	ʻaʻole	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	lau	_	_	_	_	_	_	_	_
+11	hala	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_285
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_286
+# text = Ka poʻe, n ʻona lau hala, ʻaʻole lākou mamake iā, iā ʻoe e hele aku i ko lākou wahi e kiʻi ai.
+1	Ka	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	n	_	_	_	_	_	_	_	_
+5	ʻona	_	_	_	_	_	_	_	_
+6	lau	_	_	_	_	_	_	_	_
+7	hala	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻole	_	_	_	_	_	_	_	_
+10	lākou	_	_	_	_	_	_	_	_
+11	mamake	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	hele	_	_	_	_	_	_	_	_
+18	aku	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ko	_	_	_	_	_	_	_	_
+21	lākou	_	_	_	_	_	_	_	_
+22	wahi	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	kiʻi	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_287
+# text = ʻAe, pololei nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_288
+# text = Yeah, as, ʻo ia ka mea pilikia, ē? ʻAe.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	as	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	pilikia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_289
+# text = Ma ka lihi kai, a hiki nō ke loaʻa.
+1	Ma	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lihi	_	_	_	_	_	_	_	_
+4	kai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	hiki	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	loaʻa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_290
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_291
+# text = A i ke kakahiaka paha a i ke ahiahi paha, ʻo ia nā manawa kūpono no ka ulana ʻana, ʻaʻole? I ke kakahiaka nui, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kakahiaka	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	ahiahi	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ia	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	kūpono	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ulana	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻaʻole	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	I	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	kakahiaka	_	_	_	_	_	_	_	_
+27	nui	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻĒ	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_292
+# text = a me ka ahiahi.
+1	a	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ahiahi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_293
+# text = ʻO ia ka manawa ʻaʻole pā mai ka la, ka la, ka lā.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	pā	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	lā	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_294
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_295
+# text = Because na ka p lā, hana mai, ʻoāʻoā ka lau hala.
+1	Because	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	p	_	_	_	_	_	_	_	_
+5	lā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻoāʻoā	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	lau	_	_	_	_	_	_	_	_
+13	hala	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_296
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_297
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_298
+# text = Pakēpakē.
+1	Pakēpakē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_299
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_300
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_301
+# text = } Pololei.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Pololei	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_302
+# text = Yeah, pololeʻi (pololei) kēlā.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololeʻi	_	_	_	_	_	_	_	_
+4	(	_	PUNCT	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	)	_	PUNCT	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_303
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_304
+# text = So, a kēia manawa e hoʻolaha hou ana wau i ka helu kelepona.
+1	So	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	hou	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	helu	_	_	_	_	_	_	_	_
+14	kelepona	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_305
+# text = Ka helu kelepona, ʻo ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	Ka	_	_	_	_	_	_	_	_
+2	helu	_	_	_	_	_	_	_	_
+3	kelepona	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	helu	_	_	_	_	_	_	_	_
+9	ʻeiwa	_	_	_	_	_	_	_	_
+10	ʻelua	_	_	_	_	_	_	_	_
+11	ʻekolu	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻole	_	_	_	_	_	_	_	_
+14	ʻehā	_	_	_	_	_	_	_	_
+15	ʻole	_	_	_	_	_	_	_	_
+16	ʻelua	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_306
+# text = A me ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻehā	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_307
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_308
+# text = Pehea kou noho ʻana i Kahana i kēia mau lā? Lohe wau, ua lilo i, ua lilo ʻo Kahana i pāka, ʻeā? ʻAe.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Kahana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Lohe	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	lilo	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ua	_	_	_	_	_	_	_	_
+20	lilo	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	Kahana	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	pāka	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻeā	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_309
+# text = Ua lilo i pāka.
+1	Ua	_	_	_	_	_	_	_	_
+2	lilo	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	pāka	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_310
+# text = A ua ʻae ʻia mai mākou e noho hou ma ko mākou, mākou wahi i Kahana, no ka mea, ua hele mai mākou i Honolulu i kēlā, i ka Task Force Meeting.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	noho	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Kahana	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ua	_	_	_	_	_	_	_	_
+24	hele	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	mākou	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	Honolulu	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	kēlā	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	Task	_	_	_	_	_	_	_	_
+35	Force	_	_	_	_	_	_	_	_
+36	Meeting	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_311
+# text = Ma laila mākou e, e haʻi ai i kā mākou mea e makemake ai.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	haʻi	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	makemake	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_312
+# text = A ua ʻae ʻia mai mākou e noho hou ana nō mākou ma Kahana i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	noho	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Kahana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_313
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_314
+# text = A paʻahana paha ʻoukou i kēia mau lā.
+1	A	_	_	_	_	_	_	_	_
+2	paʻahana	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	lā	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_315
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_316
+# text = Nui ka poʻe kamaliʻi.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	kamaliʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_317
+# text = Ua heluhelu wau i loko o ka nūpepa, kipa aku ka poʻe o, ka poʻe kamaliʻi o Kalihi, ē? ʻAe.
+1	Ua	_	_	_	_	_	_	_	_
+2	heluhelu	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	loko	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	nūpepa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kipa	_	_	_	_	_	_	_	_
+11	aku	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	kamaliʻi	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	Kalihi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ē	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_318
+# text = Kula o Kalihi.
+1	Kula	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	Kalihi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_319
+# text = O Kalihi, a Waimānalo.
+1	O	_	_	_	_	_	_	_	_
+2	Kalihi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Waimānalo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_320
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_321
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_322
+# text = Ua hele mai lākou.
+1	Ua	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_323
+# text = A kā mākou hana, hana i kēlā mea liʻiliʻi wale nō, kēlā napking ring kā mākou mea aʻo mua iā lākou.
+1	A	_	_	_	_	_	_	_	_
+2	kā	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	liʻiliʻi	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kēlā	_	_	_	_	_	_	_	_
+15	napking	_	_	_	_	_	_	_	_
+16	ring	_	_	_	_	_	_	_	_
+17	kā	_	_	_	_	_	_	_	_
+18	mākou	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	aʻo	_	_	_	_	_	_	_	_
+21	mua	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	lākou	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_324
+# text = Ka mea hiki iā lākou ke paʻa koke.
+1	Ka	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	paʻa	_	_	_	_	_	_	_	_
+8	koke	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_325
+# text = Yeah, ka mea hiki, yeah, ke hana a paʻa koke.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	yeah	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	paʻa	_	_	_	_	_	_	_	_
+13	koke	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_326
+# text = ʻEleu nō kākou, kā kēia poʻe keiki ke hana i kēlā napking ring.
+1	ʻEleu	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kā	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	keiki	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	napking	_	_	_	_	_	_	_	_
+14	ring	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_327
+# text = ʻEleu lākou.
+1	ʻEleu	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_328
+# text = Hauʻoli loa lākou.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_329
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_330
+# text = Paʻa nō kēia napking ring iā lākou.
+1	Paʻa	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	napking	_	_	_	_	_	_	_	_
+5	ring	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_331
+# text = ʻŌ, maikaʻi nō kēlā.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_332
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_333
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_334
+# text = E hoʻolohe hou kākou i kekahi mele no Punaluʻu na Pukui, Kawena Pukui i haku.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolohe	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	Punaluʻu	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	Pukui	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Kawena	_	_	_	_	_	_	_	_
+14	Pukui	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	haku	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_335
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_336
+# text = No Punaluʻu o kou ʻaoʻao.
+1	No	_	_	_	_	_	_	_	_
+2	Punaluʻu	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	ʻaoʻao	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_337
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_338
+# text = ʻO ka poʻe Hawaiʻi o kēia manawa, ʻaʻole lākou hana i ka ulana lau hala.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	Hawaiʻi	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻole	_	_	_	_	_	_	_	_
+10	lākou	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ulana	_	_	_	_	_	_	_	_
+15	lau	_	_	_	_	_	_	_	_
+16	hala	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_339
+# text = Because ʻaʻole loaʻa ka lau hala.
+1	Because	_	_	_	_	_	_	_	_
+2	ʻaʻole	_	_	_	_	_	_	_	_
+3	loaʻa	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_340
+# text = Hardly any lau hala.
+1	Hardly	_	_	_	_	_	_	_	_
+2	any	_	_	_	_	_	_	_	_
+3	lau	_	_	_	_	_	_	_	_
+4	hala	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_341
+# text = Mai ka ʻāina Pilipino mai ka lau hala, ka mea, ka pāpale, ka moena, koe mai ʻo Hawaiʻi nei.
+1	Mai	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	Pilipino	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lau	_	_	_	_	_	_	_	_
+8	hala	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	pāpale	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	moena	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	koe	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	nei	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_342
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_343
+# text = A ke kūʻai ʻia nei nō hoʻi kēia mau mea na ka poʻe Pilipino i hana i ka poʻe malihini.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	kūʻai	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	Pilipino	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	hana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	malihini	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_344
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_345
+# text = Kuhi lākou a no Hawaiʻi ponoʻī kēia mau mea.
+1	Kuhi	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	ponoʻī	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	mau	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_346
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_347
+# text = Pololei nō ʻo kēlā ʻōlelo ʻana a kēia wahine.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ʻōlelo	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	wahine	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_348
+# text = Yeah.
+1	Yeah	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_349
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_350
+# text = } Kākaʻikahi wale nō ka poʻe i, {Uhu.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kākaʻikahi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	Uhu	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_351
+# text = } i, ulana lau hala.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ulana	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	hala	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_352
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_353
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_354
+# text = Pololeʻi (pololei).
+1	Pololeʻi	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_355
+# text = A pehea ma Kahana, nui ka iʻa i kēia manawa? He, he loko iʻa ko kēlā wahi, ʻaʻole anei? ʻAʻole loaʻa ka iʻa.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Kahana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	iʻa	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	He	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	loko	_	_	_	_	_	_	_	_
+17	iʻa	_	_	_	_	_	_	_	_
+18	ko	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻaʻole	_	_	_	_	_	_	_	_
+23	anei	_	_	_	_	_	_	_	_
+24	?	_	PUNCT	_	_	_	_	_	_
+25	ʻAʻole	_	_	_	_	_	_	_	_
+26	loaʻa	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	iʻa	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_356
+# text = Ua nāhāhā ka loko.
+1	Ua	_	_	_	_	_	_	_	_
+2	nāhāhā	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_357
+# text = ʻŌ, ʻō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_358
+# text = ʻŌlelo mai ana hoʻi ka poʻe Legislature, aia a loaʻa mai nā huina kālā, e hop hana ʻia ana kēlā loko, hana hou ʻia ana.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	Legislature	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	aia	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	loaʻa	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	huina	_	_	_	_	_	_	_	_
+15	kālā	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	hop	_	_	_	_	_	_	_	_
+19	hana	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	kēlā	_	_	_	_	_	_	_	_
+23	loko	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	hana	_	_	_	_	_	_	_	_
+26	hou	_	_	_	_	_	_	_	_
+27	ʻia	_	_	_	_	_	_	_	_
+28	ana	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_359
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_360
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_361
+# text = Thatʻs why, a ʻo mākou, mamake mākou e hele e, e hana me lākou, E hana hou ana? ʻĒ, e hana.
+1	Thatʻs	_	_	_	_	_	_	_	_
+2	why	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mamake	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hele	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	lākou	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	E	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	hou	_	_	_	_	_	_	_	_
+22	ana	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	ʻĒ	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_362
+# text = Hoʻoponopono? ʻĒ, hoʻoponopono.
+1	Hoʻoponopono	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻĒ	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hoʻoponopono	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_363
+# text = He inoa nō ko kēia loko? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	loko	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_364
+# text = ʻO wai.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_365
+# text = Loko Huilua.
+1	Loko	_	_	_	_	_	_	_	_
+2	Huilua	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_366
+# text = Huilua? A Huilua.
+1	Huilua	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	A	_	_	_	_	_	_	_	_
+4	Huilua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_367
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_368
+# text = Kāhea ʻia Huilua.
+1	Kāhea	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	Huilua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_369
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_370
+# text = Kēia ma mua, nā poʻe a pau e noho ana ma Kahana, Hui ma, ʻĒ, hui.
+1	Kēia	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Kahana	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Hui	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻĒ	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	hui	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_371
+# text = That's why, kāhea ʻia Huilua.
+1	That's	_	_	_	_	_	_	_	_
+2	why	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	Huilua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_372
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_373
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_374
+# text = Because, ʻĒ.
+1	Because	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻĒ	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_375
+# text = hui lākou a hele lākou e hana i kēia, ʻAe.
+1	hui	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_376
+# text = loko, Hoʻomaʻemaʻe.
+1	loko	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Hoʻomaʻemaʻe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_377
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_378
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_379
+# text = ʻO ia wale ihola ka manawa o kēia ahiahi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	ihola	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	ahiahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_380
+# text = Ua pau ko mākou hola no kēia manawa.
+1	Ua	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	hola	_	_	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_381
+# text = Ma mua nō naʻe o ka hoʻopau ʻana, makemake nui koʻu e mahalo aku i ka poʻe i hana, kōkua mai no kēia papahana.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻopau	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	makemake	_	_	_	_	_	_	_	_
+11	nui	_	_	_	_	_	_	_	_
+12	koʻu	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	mahalo	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	kōkua	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	no	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	papahana	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_382
+# text = ʻO Pat, a, Unabia, ka mea e haʻi ana ma ka ʻōlelo Hawa a, haole.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Pat	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Unabia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	haʻi	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	Hawa	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	haole	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_383
+# text = A, nā mea hoʻokani pila, ʻo Lorna and Mikala McClellen, Kuʻuleimomo Bernardino, Momilani Kalāʻaukahi, Eldon Akamine, Kaniela Akaka.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	hoʻokani	_	_	_	_	_	_	_	_
+6	pila	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Lorna	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	Mikala	_	_	_	_	_	_	_	_
+12	McClellen	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Kuʻuleimomo	_	_	_	_	_	_	_	_
+15	Bernardino	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Momilani	_	_	_	_	_	_	_	_
+18	Kalāʻaukahi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Eldon	_	_	_	_	_	_	_	_
+21	Akamine	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	Kaniela	_	_	_	_	_	_	_	_
+24	Akaka	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_384
+# text = A ʻo nā mea e kamaʻilio ana no ka mokupuni o Maui, ʻo Mikahala Achan, me Kaniela Akaka.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	kamaʻilio	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mokupuni	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Maui	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Mikahala	_	_	_	_	_	_	_	_
+16	Achan	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	Kaniela	_	_	_	_	_	_	_	_
+20	Akaka	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_385
+# text = A ʻo ka mea e haʻiʻōlelo ana, i haʻiʻōlelo no ka, no nā iʻa ʻono o ka ʻāina, ʻo Ed Lampsly.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	haʻiʻōlelo	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	haʻiʻōlelo	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	iʻa	_	_	_	_	_	_	_	_
+17	ʻono	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	ʻāina	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻo	_	_	_	_	_	_	_	_
+23	Ed	_	_	_	_	_	_	_	_
+24	Lampsly	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_386
+# text = A me nā ʻōlelo aloha, ʻo Kalena Silva.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	ʻōlelo	_	_	_	_	_	_	_	_
+5	aloha	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Kalena	_	_	_	_	_	_	_	_
+9	Silva	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_387
+# text = A me nā mea ʻelua i hoʻoholo mai i kēia poʻe mīkini o kēia ahiahi, ʻo Eldon Akamine, me Harold, ke keiki hoʻolele leo o KCCN.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	hoʻoholo	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	mīkini	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	ahiahi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Eldon	_	_	_	_	_	_	_	_
+19	Akamine	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	Harold	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	keiki	_	_	_	_	_	_	_	_
+26	hoʻolele	_	_	_	_	_	_	_	_
+27	leo	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	KCCN	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.002_Hattie_Au_03141972_388
+# text = No laila, aloha a nui loa iā ʻoukou a pau loa, a hui hou aku kākou.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	aloha	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	pau	_	_	_	_	_	_	_	_
+12	loa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	hui	_	_	_	_	_	_	_	_
+16	hou	_	_	_	_	_	_	_	_
+17	aku	_	_	_	_	_	_	_	_
+18	kākou	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+

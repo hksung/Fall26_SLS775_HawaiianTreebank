@@ -1,0 +1,4505 @@
+# newdoc id = HV24.004_Kalena_Silva_19720411
+# sent_id = HV24.004_Kalena_Silva_19720411_1
+# text = ## ʻAuhea ʻoukou e nā makamaka.
+1	#	_	PUNCT	_	_	_	_	_	_
+2	#	_	PUNCT	_	_	_	_	_	_
+3	ʻAuhea	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	makamaka	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_2
+# text = E hoʻolohe mai iā mākou, nā ʻōpio o ke Kulanui o Hawaiʻi.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolohe	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	ʻōpio	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	Kulanui	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_3
+# text = E lohe ana ʻoukou i nā mea e pili ana i nā hana, a me nā ʻike o nā kūpuna i aloha nui ʻia.
+1	E	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	pili	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	ʻike	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	kūpuna	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	aloha	_	_	_	_	_	_	_	_
+24	nui	_	_	_	_	_	_	_	_
+25	ʻia	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_4
+# text = E hoʻolele ana Ka Leo Hawaiʻi i nā Poʻalua o kēlā me kēia pule ʻelua.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolele	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	Ka	_	_	_	_	_	_	_	_
+5	Leo	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	Poʻalua	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	pule	_	_	_	_	_	_	_	_
+15	ʻelua	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_5
+# text = E hoʻomaka ana kēia hoʻolele leo i 01:22 kēia manawa, ka hola ʻewalu o ke ahiahi.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻomaka	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hoʻolele	_	_	_	_	_	_	_	_
+6	leo	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	01	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	22	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hola	_	_	_	_	_	_	_	_
+16	ʻewalu	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	ahiahi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_6
+# text = E nā makamaka me nā kupa mai Hawaiʻi a Niʻihau.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	makamaka	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	kupa	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_7
+# text = Welina me ke aloha.
+1	Welina	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	aloha	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_8
+# text = E hoʻolauna mai kākou i kēia ahiahi, ma ka puana mele aloha a kuʻu hoa kipa, ʻo Kalena Silva e oli ana no kākou.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolauna	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ahiahi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	puana	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	aloha	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	kuʻu	_	_	_	_	_	_	_	_
+16	hoa	_	_	_	_	_	_	_	_
+17	kipa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Kalena	_	_	_	_	_	_	_	_
+21	Silva	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	oli	_	_	_	_	_	_	_	_
+24	ana	_	_	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	kākou	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_9
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_10
+# text = Aloha kākou.
+1	Aloha	_	_	_	_	_	_	_	_
+2	kākou	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_11
+# text = Noʻu nō ka hauʻoli hele mai e kamaʻilio a kūkākūkā nō hoʻi me ʻoukou i kēia ahiahi.
+1	Noʻu	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hauʻoli	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	kamaʻilio	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	kūkākūkā	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	ahiahi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_12
+# text = A i kēia manawa, makemake wau e kipa iā ʻoukou a pau loa me kēia oli.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	makemake	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	kipa	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	pau	_	_	_	_	_	_	_	_
+14	loa	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	oli	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_13
+# text = A ua kāhea ʻia he oli aloha.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	kāhea	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	oli	_	_	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_14
+# text = A ʻo kēia oli, he oli kēia e kipa ana iā ʻoukou a pau loa e ka poʻe e hoʻolohe ana i kēia hoʻolele leo i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	oli	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	oli	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kipa	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoukou	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	pau	_	_	_	_	_	_	_	_
+16	loa	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	hoʻolohe	_	_	_	_	_	_	_	_
+22	ana	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	hoʻolele	_	_	_	_	_	_	_	_
+26	leo	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	ahiahi	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_15
+# text = A ma ke ʻano.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_16
+# text = ʻo ke ʻano ke, a, ke ʻano kahiko, ka poʻe kahiko, e kipa an , e kipa ana wau iā ʻoukou a pau e hoʻolohe i kēia ahiahi.
+1	ʻo	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	ʻano	_	_	_	_	_	_	_	_
+10	kahiko	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	kahiko	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	kipa	_	_	_	_	_	_	_	_
+18	an	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	kipa	_	_	_	_	_	_	_	_
+22	ana	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	iā	_	_	_	_	_	_	_	_
+25	ʻoukou	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	pau	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	hoʻolohe	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	kēia	_	_	_	_	_	_	_	_
+32	ahiahi	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_17
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_18
+# text = Mahalo a nui iā ʻoe, e Kalena.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Kalena	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_19
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_20
+# text = A he nīnau nui kaʻu iā ʻoe.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nīnau	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	kaʻu	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_21
+# text = I kekahi poʻe, ʻaʻohe o lākou makemake paha e pane i kēia ʻano nīnau, akā iā ʻoe, ʻaʻohe ou mea e hopohopo ai.
+1	I	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	makemake	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	pane	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ʻano	_	_	_	_	_	_	_	_
+15	nīnau	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	akā	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoe	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻaʻohe	_	_	_	_	_	_	_	_
+22	ou	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	hopohopo	_	_	_	_	_	_	_	_
+26	ai	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_22
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_23
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_24
+# text = A eia ka nīnau, a ʻehia ou makahiki? A ʻumikūmāiwa oʻu mau makahiki i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	nīnau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ʻehia	_	_	_	_	_	_	_	_
+8	ou	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	A	_	_	_	_	_	_	_	_
+12	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+13	oʻu	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	makahiki	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	manawa	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_25
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_26
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_27
+# text = He, he ʻōpiopio nō.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	ʻōpiopio	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_28
+# text = ʻAe, ʻōpiopio nō hoʻi.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻōpiopio	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_29
+# text = A ʻo ʻoe kekahi? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻAe	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_30
+# text = ʻO wau nō kekahi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_31
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_32
+# text = A, pehea nō ʻoe i hoʻomaka mua ai me kēia huli ʻana i ka ʻōlelo Hawaiʻi, ke aʻo ʻana i ka ʻōlelo Hawaiʻi? Auē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	hoʻomaka	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	huli	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻōlelo	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	aʻo	_	_	_	_	_	_	_	_
+21	ʻana	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	ʻōlelo	_	_	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	Auē	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_33
+# text = Mai kuʻu wā liʻiliʻi mai ka hoihoi i kēia mau mea Hawaiʻi.
+1	Mai	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	liʻiliʻi	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoihoi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_34
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_35
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_36
+# text = A ua hānau ʻia mai wau ma Honolulu nei, a, akā, i kēlā manawa, a ha hana nō koʻu mau mākua, hana nō hoʻi lāua, a, ʻaʻohe, ʻaʻohe loaʻa ka manawa iā lāua e mālama iaʻu i kēlā manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hānau	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Honolulu	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	akā	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēlā	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	ha	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	koʻu	_	_	_	_	_	_	_	_
+24	mau	_	_	_	_	_	_	_	_
+25	mākua	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	hoʻi	_	_	_	_	_	_	_	_
+30	lāua	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻaʻohe	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ʻaʻohe	_	_	_	_	_	_	_	_
+37	loaʻa	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	manawa	_	_	_	_	_	_	_	_
+40	iā	_	_	_	_	_	_	_	_
+41	lāua	_	_	_	_	_	_	_	_
+42	e	_	_	_	_	_	_	_	_
+43	mālama	_	_	_	_	_	_	_	_
+44	iaʻu	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	kēlā	_	_	_	_	_	_	_	_
+47	manawa	_	_	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_37
+# text = A no laila, hele aku wau i Waiʻanae e noho me kuʻu tūtū, a aia ʻo ia i Lualualei.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	aku	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Waiʻanae	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	kuʻu	_	_	_	_	_	_	_	_
+14	tūtū	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	aia	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Lualualei	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_38
+# text = A, noho wau me ia no ʻelua makahiki.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_39
+# text = A i kēlā manawa, akā, i kēlā manawa, ʻaʻole ʻo ia i walaʻau mai iaʻu ma ka ʻōlelo Hawaiʻi, ma ka ʻōlelo haole wale nō.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	akā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻaʻole	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	walaʻau	_	_	_	_	_	_	_	_
+17	mai	_	_	_	_	_	_	_	_
+18	iaʻu	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	ʻōlelo	_	_	_	_	_	_	_	_
+27	haole	_	_	_	_	_	_	_	_
+28	wale	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_40
+# text = Auē, hoʻohaole nō hoʻi paha kēlā.
+1	Auē	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻohaole	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_41
+# text = Akā, ʻo, ʻo ia nō kāna hana, ʻōlelo ha ʻōlelo haole wale nō.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kāna	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	ha	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	haole	_	_	_	_	_	_	_	_
+15	wale	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_42
+# text = Akā, i kēlā manawa, lohe akula wau i ka ʻōlelo Hawaiʻi, a nui koʻu hoihoi.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	lohe	_	_	_	_	_	_	_	_
+8	akula	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	nui	_	_	_	_	_	_	_	_
+17	koʻu	_	_	_	_	_	_	_	_
+18	hoihoi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_43
+# text = Hō, nahenahe nō hoʻi ka ʻōlelo i ka pepeiao.
+1	Hō	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nahenahe	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	pepeiao	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_44
+# text = A lohe akula wau i ka ʻōlelo Hawaiʻi, a, akā, ʻaʻohe Lohe akula wau me ka maopopo ʻole.
+1	A	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	akula	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	akā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻaʻohe	_	_	_	_	_	_	_	_
+15	Lohe	_	_	_	_	_	_	_	_
+16	akula	_	_	_	_	_	_	_	_
+17	wau	_	_	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	maopopo	_	_	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_45
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_46
+# text = Ua hele nō ʻoe i ke Kula ʻo Kamehameha.
+1	Ua	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	Kula	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Kamehameha	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_47
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_48
+# text = E hele wau i ke Kula ʻo Kamehameha.
+1	E	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	Kula	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Kamehameha	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_49
+# text = Ma laila nō paha ʻoe i aʻo ai i ka ʻōlelo Hawaiʻi? ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	aʻo	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻAe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_50
+# text = Ma laila nō.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_51
+# text = Ua hele, mea, hoʻoko komo wau i loko o ka papa ʻeiwa ma Kamehameha.
+1	Ua	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻoko	_	_	_	_	_	_	_	_
+7	komo	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	loko	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	papa	_	_	_	_	_	_	_	_
+14	ʻeiwa	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	Kamehameha	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_52
+# text = ʻO Sarah Quick ka inoa o kaʻu kumu kula Hawaiʻi mua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Sarah	_	_	_	_	_	_	_	_
+3	Quick	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kaʻu	_	_	_	_	_	_	_	_
+8	kumu	_	_	_	_	_	_	_	_
+9	kula	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	mua	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_53
+# text = A aʻo mai ʻo ia iaʻu i ka ʻōlelo Hawaiʻi a hoʻomaka wau ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	aʻo	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	hoʻomaka	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_54
+# text = Ma mua o kēlā manawa, ʻaʻole hiki ke ʻōlelo Hawaiʻi.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻaʻole	_	_	_	_	_	_	_	_
+8	hiki	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_55
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_57
+# text = He, he mau kūpuna paha kou i hiki paha iā lāua ke aʻo mai iā ʻoe i ta ʻōlelo Hawaiʻi? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	kūpuna	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	lāua	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	aʻo	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	ʻoe	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ta	_	_	_	_	_	_	_	_
+20	ʻōlelo	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	?	_	PUNCT	_	_	_	_	_	_
+23	ʻAe	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_58
+# text = ʻO koʻu tūtū, ʻo Annie Silva kona inoa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	tūtū	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Annie	_	_	_	_	_	_	_	_
+7	Silva	_	_	_	_	_	_	_	_
+8	kona	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_59
+# text = A aia ʻo ia ke noho nei i Lualualei ma, ma, ma, ma ka ʻaoʻao Kona o kēia mokupuni ʻo Oʻahu.
+1	A	_	_	_	_	_	_	_	_
+2	aia	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Lualualei	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻaoʻao	_	_	_	_	_	_	_	_
+19	Kona	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	mokupuni	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Oʻahu	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_60
+# text = A hiki iā ia ke ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_61
+# text = A kekahi lā, kelepona aku wau iā ia, a ʻōlelo aku wau iā ia, "ʻĒ, pehea, hiki paha iaʻu ke aʻo i ka ʻōlelo Hawaiʻi?" Pane mai ʻo ia iaʻu, "ʻAe, hiki nō.
+1	A	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	aku	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	aku	_	_	_	_	_	_	_	_
+14	wau	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	"	_	PUNCT	_	_	_	_	_	_
+19	ʻĒ	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	pehea	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	hiki	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	iaʻu	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	aʻo	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	ʻōlelo	_	_	_	_	_	_	_	_
+31	Hawaiʻi	_	_	_	_	_	_	_	_
+32	?	_	PUNCT	_	_	_	_	_	_
+33	"	_	PUNCT	_	_	_	_	_	_
+34	Pane	_	_	_	_	_	_	_	_
+35	mai	_	_	_	_	_	_	_	_
+36	ʻo	_	_	_	_	_	_	_	_
+37	ia	_	_	_	_	_	_	_	_
+38	iaʻu	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	"	_	PUNCT	_	_	_	_	_	_
+41	ʻAe	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	hiki	_	_	_	_	_	_	_	_
+44	nō	_	_	_	_	_	_	_	_
+45	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_62
+# text = He mea maʻalahi nō hoʻi ka ʻōlelo Ha a, Hawaiʻi.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	maʻalahi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	Ha	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_63
+# text = " ʻAe.
+1	"	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_64
+# text = A, nui koʻu hoihoi i kēlā manawa, a ma ia manawa aku, a, walaʻau Hawaiʻi wale nō hoʻi māua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	hoihoi	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	aku	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	walaʻau	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	wale	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	hoʻi	_	_	_	_	_	_	_	_
+23	māua	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_65
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_66
+# text = A eia nō ʻoe ke hele nei i ke Kulanui o Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	Kulanui	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_67
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_68
+# text = A ke aʻo nei nō, nō a i ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	aʻo	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_69
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_70
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_71
+# text = ʻO ʻoe nō kaʻu kumu kula.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kaʻu	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_72
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_73
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_74
+# text = A pehea kāu hana ma waho aʻe o ke kula, kāu hana i, ma nā mea e pili ana i ka Hawaiʻi? A nui koʻu hoihoi i nā mea, i nā oli, nā mele hula, a nā mea kahiko e like me kēlā.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kāu	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	waho	_	_	_	_	_	_	_	_
+7	aʻe	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kula	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kāu	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	pili	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	A	_	_	_	_	_	_	_	_
+27	nui	_	_	_	_	_	_	_	_
+28	koʻu	_	_	_	_	_	_	_	_
+29	hoihoi	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	nā	_	_	_	_	_	_	_	_
+32	mea	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	nā	_	_	_	_	_	_	_	_
+36	oli	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	nā	_	_	_	_	_	_	_	_
+39	mele	_	_	_	_	_	_	_	_
+40	hula	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	a	_	_	_	_	_	_	_	_
+43	nā	_	_	_	_	_	_	_	_
+44	mea	_	_	_	_	_	_	_	_
+45	kahiko	_	_	_	_	_	_	_	_
+46	e	_	_	_	_	_	_	_	_
+47	like	_	_	_	_	_	_	_	_
+48	me	_	_	_	_	_	_	_	_
+49	kēlā	_	_	_	_	_	_	_	_
+50	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_75
+# text = No ka mea, aia ka nui o ka wai aia ka nui o ka hoʻoilina waiwai Hawaiʻi ma laila, i kuʻu manaʻo.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	wai	_	_	_	_	_	_	_	_
+11	aia	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hoʻoilina	_	_	_	_	_	_	_	_
+17	waiwai	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	laila	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kuʻu	_	_	_	_	_	_	_	_
+24	manaʻo	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_76
+# text = A no laila, a, ua hoʻomaka wau i kēlā, kēlā makahiki, kēlā makahiki aku nei, ua hoʻomaka wau i ka, i, i nā haʻawina oli me Hoʻoulu Cambra ma Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ua	_	_	_	_	_	_	_	_
+8	hoʻomaka	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	makahiki	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kēlā	_	_	_	_	_	_	_	_
+17	makahiki	_	_	_	_	_	_	_	_
+18	aku	_	_	_	_	_	_	_	_
+19	nei	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ua	_	_	_	_	_	_	_	_
+22	hoʻomaka	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	haʻawina	_	_	_	_	_	_	_	_
+32	oli	_	_	_	_	_	_	_	_
+33	me	_	_	_	_	_	_	_	_
+34	Hoʻoulu	_	_	_	_	_	_	_	_
+35	Cambra	_	_	_	_	_	_	_	_
+36	ma	_	_	_	_	_	_	_	_
+37	Kamehameha	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_77
+# text = Akā i kēia manawa, aia wau me ke Kulanui o Hawaiʻi a hoʻomaka nō ma laila.
+1	Akā	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aia	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	Kulanui	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	hoʻomaka	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	laila	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_78
+# text = A hele wau i ka Hālau o Māiki kekahi.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	Hālau	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Māiki	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_79
+# text = Aia ʻo ia ma ke alanui ʻo Keʻeaumoku, kokoke i Ala Moana nō hoʻi.
+1	Aia	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	alanui	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Keʻeaumoku	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kokoke	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Ala	_	_	_	_	_	_	_	_
+13	Moana	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_80
+# text = A ʻo Hoʻoulu Cambra a me Māiki Aiu kaʻu mau kumu kula Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Hoʻoulu	_	_	_	_	_	_	_	_
+4	Cambra	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	Māiki	_	_	_	_	_	_	_	_
+8	Aiu	_	_	_	_	_	_	_	_
+9	kaʻu	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	kumu	_	_	_	_	_	_	_	_
+12	kula	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_81
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_82
+# text = !! Ma nā mele Hawaiʻi hoʻi.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_83
+# text = Nā mele me nā hula, ʻAe, pololei.
+1	Nā	_	_	_	_	_	_	_	_
+2	mele	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	hula	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	pololei	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_84
+# text = o nā Hawaiʻi Pololeʻi (Pololei) nō.
+1	o	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	Pololeʻi	_	_	_	_	_	_	_	_
+5	(	_	PUNCT	_	_	_	_	_	_
+6	Pololei	_	_	_	_	_	_	_	_
+7	)	_	PUNCT	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_85
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_86
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_87
+# text = Nui ka hoihoi.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hoihoi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_88
+# text = Nui ka hoihoi.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hoihoi	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_89
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_90
+# text = A ke Ua lohe nō wau ke aʻo nei nō ʻoe i ka poʻe kamaliʻi o ke kula kiʻekiʻe ʻo Roosevelt i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	Ua	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	kamaliʻi	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kula	_	_	_	_	_	_	_	_
+19	kiʻekiʻe	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Roosevelt	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	manawa	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_91
+# text = A ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	ʻae	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_92
+# text = I kēlā pule aku nei, hoʻomaka nō hoʻi mākou, ka poʻe o E Hoʻohawaiʻi Kākou, he hui kēlā ma ke Kulanui o Hawaiʻi, a, hoʻomaka nō hoʻi mākou i kēlā pule aku nei e aʻo i kēia poʻe, kēia poʻe haumāna i, mai, mai ke kula kiʻekiʻe ʻo Kameha ʻo Roosevelt mai, a makemake kēia poʻe haumāna e aʻo i nā mea e pili ana i ka hula.
+1	I	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	pule	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hoʻomaka	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	E	_	_	_	_	_	_	_	_
+16	Hoʻohawaiʻi	_	_	_	_	_	_	_	_
+17	Kākou	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	he	_	_	_	_	_	_	_	_
+20	hui	_	_	_	_	_	_	_	_
+21	kēlā	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	Kulanui	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	Hawaiʻi	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	hoʻomaka	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	hoʻi	_	_	_	_	_	_	_	_
+33	mākou	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	kēlā	_	_	_	_	_	_	_	_
+36	pule	_	_	_	_	_	_	_	_
+37	aku	_	_	_	_	_	_	_	_
+38	nei	_	_	_	_	_	_	_	_
+39	e	_	_	_	_	_	_	_	_
+40	aʻo	_	_	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	kēia	_	_	_	_	_	_	_	_
+43	poʻe	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	kēia	_	_	_	_	_	_	_	_
+46	poʻe	_	_	_	_	_	_	_	_
+47	haumāna	_	_	_	_	_	_	_	_
+48	i	_	_	_	_	_	_	_	_
+49	,	_	PUNCT	_	_	_	_	_	_
+50	mai	_	_	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	mai	_	_	_	_	_	_	_	_
+53	ke	_	_	_	_	_	_	_	_
+54	kula	_	_	_	_	_	_	_	_
+55	kiʻekiʻe	_	_	_	_	_	_	_	_
+56	ʻo	_	_	_	_	_	_	_	_
+57	Kameha	_	_	_	_	_	_	_	_
+58	ʻo	_	_	_	_	_	_	_	_
+59	Roosevelt	_	_	_	_	_	_	_	_
+60	mai	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	a	_	_	_	_	_	_	_	_
+63	makemake	_	_	_	_	_	_	_	_
+64	kēia	_	_	_	_	_	_	_	_
+65	poʻe	_	_	_	_	_	_	_	_
+66	haumāna	_	_	_	_	_	_	_	_
+67	e	_	_	_	_	_	_	_	_
+68	aʻo	_	_	_	_	_	_	_	_
+69	i	_	_	_	_	_	_	_	_
+70	nā	_	_	_	_	_	_	_	_
+71	mea	_	_	_	_	_	_	_	_
+72	e	_	_	_	_	_	_	_	_
+73	pili	_	_	_	_	_	_	_	_
+74	ana	_	_	_	_	_	_	_	_
+75	i	_	_	_	_	_	_	_	_
+76	ka	_	_	_	_	_	_	_	_
+77	hula	_	_	_	_	_	_	_	_
+78	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_93
+# text = A ʻo mākou, ka poʻe ma E Hoʻohawaiʻi Kākou, he mau haumāna nō hoʻi, ʻaʻole i ʻūniki, ʻaʻole, ʻaʻole mākaukau loa i nā hula, ʻaʻole mākaukau loa i ke oli, a pēlā wale aku.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	E	_	_	_	_	_	_	_	_
+9	Hoʻohawaiʻi	_	_	_	_	_	_	_	_
+10	Kākou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	haumāna	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	hoʻi	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻaʻole	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ʻūniki	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻaʻole	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻaʻole	_	_	_	_	_	_	_	_
+25	mākaukau	_	_	_	_	_	_	_	_
+26	loa	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	nā	_	_	_	_	_	_	_	_
+29	hula	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻaʻole	_	_	_	_	_	_	_	_
+32	mākaukau	_	_	_	_	_	_	_	_
+33	loa	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ke	_	_	_	_	_	_	_	_
+36	oli	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	pēlā	_	_	_	_	_	_	_	_
+40	wale	_	_	_	_	_	_	_	_
+41	aku	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_94
+# text = Akā hele wale aku nō hoʻi mākou e kōkua, kōkua wale nō hoʻi mākou iā lākou.
+1	Akā	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	kōkua	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	hoʻi	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	lākou	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_95
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_96
+# text = A, no ka mea, makemake nō hoʻi lākou e hōʻike aku i kekahi, pehea, kekahi a, hōʻike no, no n a, pehea, ka lā o {mū,} ka lā mua o Mei.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	makemake	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	lākou	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	hōʻike	_	_	_	_	_	_	_	_
+13	aku	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kekahi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	pehea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hōʻike	_	_	_	_	_	_	_	_
+23	no	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	n	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	pehea	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	lā	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	{	_	PUNCT	_	_	_	_	_	_
+35	mū	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	}	_	PUNCT	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	lā	_	_	_	_	_	_	_	_
+40	mua	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	Mei	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_97
+# text = A no laila, hele, hele nō hoʻi mākou e ki e kōkua iā lākou.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	ki	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kōkua	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_98
+# text = ʻŌ, maikaʻi nō kēlā.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_99
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_100
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_101
+# text = A ua hele nō hoʻi ʻoukou i Hawaiʻi, ē, i kēlā mahina kel , ʻelua mahina aku nei.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ē	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	mahina	_	_	_	_	_	_	_	_
+15	kel	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻelua	_	_	_	_	_	_	_	_
+18	mahina	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_102
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_103
+# text = I ka wā hoʻomaha, a, o, o ke Kulanui o Hawaiʻi, ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	hoʻomaha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	Kulanui	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_104
+# text = E hele nō hoʻi mākou i, i Kona.
+1	E	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kona	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_105
+# text = A aʻo nō mākou ma laila i nā mea e pili ana i ka hula, a, ʻĒ, a ua hele ʻoukou, ʻoe i, i hea o Hawaiʻi? A, ma Kailua, ma Hō .
+1	A	_	_	_	_	_	_	_	_
+2	aʻo	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	pili	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hula	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻĒ	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	ua	_	_	_	_	_	_	_	_
+23	hele	_	_	_	_	_	_	_	_
+24	ʻoukou	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻoe	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	hea	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	Hawaiʻi	_	_	_	_	_	_	_	_
+33	?	_	PUNCT	_	_	_	_	_	_
+34	A	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ma	_	_	_	_	_	_	_	_
+37	Kailua	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	ma	_	_	_	_	_	_	_	_
+40	Hō	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_106
+# text = Ma Kona? ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_107
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_108
+# text = Ma Kailua, Kona, a ma Hōnaunau kekahi.
+1	Ma	_	_	_	_	_	_	_	_
+2	Kailua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Kona	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Hōnaunau	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_109
+# text = A pehea ka poʻe o kēlā ʻāina, ʻaʻapo paha lākou? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻaʻapo	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_110
+# text = Akamai nō hoʻi, akamai nō hoʻi lākou.
+1	Akamai	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akamai	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_111
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_112
+# text = A nui ko lākou hoihoi i kēia mau mea Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	hoihoi	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	mau	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_113
+# text = Hauʻoli nō hoʻi mākou.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_114
+# text = {Mū,} poʻe kamaliʻi, poʻe mākua? ʻAe.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	kamaliʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	mākua	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_115
+# text = Poʻe, a, ʻo ka hapa nui, a, he poʻe kamaliʻi, he poʻe ki , he poʻe ʻōpiopio nō hoʻi, no ka mea, i, i ka manawa a mākou i hele ai i laila, a hana ka hapa nui o ka poʻe mākua, no ka mea, a, a, nui kā lākou hana, ʻaʻole hiki iā lākou ke hele mai, ʻĒ.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hapa	_	_	_	_	_	_	_	_
+8	nui	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	kamaliʻi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	ki	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	ʻōpiopio	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	hoʻi	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	mea	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	manawa	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	mākou	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	hele	_	_	_	_	_	_	_	_
+39	ai	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	laila	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	hana	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	hapa	_	_	_	_	_	_	_	_
+47	nui	_	_	_	_	_	_	_	_
+48	o	_	_	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	poʻe	_	_	_	_	_	_	_	_
+51	mākua	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	no	_	_	_	_	_	_	_	_
+54	ka	_	_	_	_	_	_	_	_
+55	mea	_	_	_	_	_	_	_	_
+56	,	_	PUNCT	_	_	_	_	_	_
+57	a	_	_	_	_	_	_	_	_
+58	,	_	PUNCT	_	_	_	_	_	_
+59	a	_	_	_	_	_	_	_	_
+60	,	_	PUNCT	_	_	_	_	_	_
+61	nui	_	_	_	_	_	_	_	_
+62	kā	_	_	_	_	_	_	_	_
+63	lākou	_	_	_	_	_	_	_	_
+64	hana	_	_	_	_	_	_	_	_
+65	,	_	PUNCT	_	_	_	_	_	_
+66	ʻaʻole	_	_	_	_	_	_	_	_
+67	hiki	_	_	_	_	_	_	_	_
+68	iā	_	_	_	_	_	_	_	_
+69	lākou	_	_	_	_	_	_	_	_
+70	ke	_	_	_	_	_	_	_	_
+71	hele	_	_	_	_	_	_	_	_
+72	mai	_	_	_	_	_	_	_	_
+73	,	_	PUNCT	_	_	_	_	_	_
+74	ʻĒ	_	_	_	_	_	_	_	_
+75	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_116
+# text = i nā, i nā papa.
+1	i	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	papa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_117
+# text = A no laila, ma hope wale o ke kula, pau ke kula, no kēia poʻe haumāna mai, mai, a, ke kula kiʻekiʻe, a, mai nā kula haʻahaʻa, a hele mai nō hoʻi lākou e aʻo i ka hula.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	hope	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kula	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	pau	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	kula	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	haumāna	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	kula	_	_	_	_	_	_	_	_
+28	kiʻekiʻe	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	mai	_	_	_	_	_	_	_	_
+33	nā	_	_	_	_	_	_	_	_
+34	kula	_	_	_	_	_	_	_	_
+35	haʻahaʻa	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	a	_	_	_	_	_	_	_	_
+38	hele	_	_	_	_	_	_	_	_
+39	mai	_	_	_	_	_	_	_	_
+40	nō	_	_	_	_	_	_	_	_
+41	hoʻi	_	_	_	_	_	_	_	_
+42	lākou	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	aʻo	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	hula	_	_	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_118
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_119
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_120
+# text = A pehea no kēia mua aku? Hele hou ana paha ʻoukou ma nā wahi ʻē aʻe e aʻo ai i ka hula me ke oli? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	aku	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Hele	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	ʻē	_	_	_	_	_	_	_	_
+17	aʻe	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	aʻo	_	_	_	_	_	_	_	_
+20	ai	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	hula	_	_	_	_	_	_	_	_
+24	me	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	oli	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_121
+# text = E hele ana mākou i Molokaʻi.
+1	E	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Molokaʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_122
+# text = Hele ana mākou i Molokaʻi, ʻAe, maikaʻi.
+1	Hele	_	_	_	_	_	_	_	_
+2	ana	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Molokaʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	maikaʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_123
+# text = i kēia, auē, i kēia Mei.
+1	i	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	auē	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	Mei	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_124
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_125
+# text = Kēia, kēia mahina aʻe.
+1	Kēia	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	mahina	_	_	_	_	_	_	_	_
+5	aʻe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_126
+# text = Hele ana mākou i Molokaʻi.
+1	Hele	_	_	_	_	_	_	_	_
+2	ana	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Molokaʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_127
+# text = A, kipa ana mākou i kēlā poʻe ma, a, ma Kaunakakai, a, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kipa	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	Kaunakakai	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_128
+# text = ma, ma kēlā mau wahi.
+1	ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_129
+# text = ʻEhia ʻoukou ma kēia hui Hoʻohawaiʻi Kākou? ʻŌ, ʻaʻohe nui loa.
+1	ʻEhia	_	_	_	_	_	_	_	_
+2	ʻoukou	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hui	_	_	_	_	_	_	_	_
+6	Hoʻohawaiʻi	_	_	_	_	_	_	_	_
+7	Kākou	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻŌ	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻohe	_	_	_	_	_	_	_	_
+12	nui	_	_	_	_	_	_	_	_
+13	loa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_130
+# text = ʻEhiku paha.
+1	ʻEhiku	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_131
+# text = ʻEhiku.
+1	ʻEhiku	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_132
+# text = ʻEhiku, ʻeono, ʻehiku paha.
+1	ʻEhiku	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻeono	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻehiku	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_133
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_134
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_135
+# text = ʻEono, ʻae, ʻeono.
+1	ʻEono	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻeono	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_136
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_137
+# text = Lawa nō hoʻi kēlā, ʻeā? ʻAe.
+1	Lawa	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻeā	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_138
+# text = Nui nō kēlā.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_139
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_140
+# text = Nui.
+1	Nui	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_141
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_142
+# text = No ka mea, aʻo nō hoʻi mākou i ka poʻe haumāna, makemake e aʻo i nā mea kumu wale nō, ʻae.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	haumāna	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	makemake	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	kumu	_	_	_	_	_	_	_	_
+21	wale	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻae	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_143
+# text = ʻAʻole, ʻaʻole, ʻaʻole, ʻaʻole mākou aʻo i nā mea pohihihi, nā mea hohonu loa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻaʻole	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	aʻo	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	pohihihi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	hohonu	_	_	_	_	_	_	_	_
+18	loa	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_144
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_145
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_146
+# text = A no laila, ʻo ia wale nō kā, kā mākou hana.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	kā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kā	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_147
+# text = A hana nō hoʻi mākou i kēia me ka, me nā, me nā manaʻo maikaʻi, a, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	manaʻo	_	_	_	_	_	_	_	_
+17	maikaʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻAe	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_148
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_149
+# text = E kala mai ʻoe iaʻu.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_150
+# text = E hoʻolaha ana au i ka helu kelepona o kēia wahi i hiki i ka poʻe, iā ʻoukou e nā mea hoʻolohe ana, e kelepona mai inā he manaʻo paha ko ʻoukou.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolaha	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	helu	_	_	_	_	_	_	_	_
+8	kelepona	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hiki	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	poʻe	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	hoʻolohe	_	_	_	_	_	_	_	_
+24	ana	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	kelepona	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	inā	_	_	_	_	_	_	_	_
+30	he	_	_	_	_	_	_	_	_
+31	manaʻo	_	_	_	_	_	_	_	_
+32	paha	_	_	_	_	_	_	_	_
+33	ko	_	_	_	_	_	_	_	_
+34	ʻoukou	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_151
+# text = ʻO, ʻo ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	ʻeiwa	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻehā	_	_	_	_	_	_	_	_
+13	ʻole	_	_	_	_	_	_	_	_
+14	ʻelua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_152
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_153
+# text = Me ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_154
+# text = He wahi pilikia ko mākou i ka hoʻomaka ʻana o kēia papahana.
+1	He	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	pilikia	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hoʻomaka	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_155
+# text = A ʻaʻohe puka pono mai ka leo o nā haumāna.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	puka	_	_	_	_	_	_	_	_
+4	pono	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	leo	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	haumāna	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_156
+# text = No laila, e hoʻokaʻawale ana mākou i wahi manawa ma ka hopena o kēia papahana no lākou.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻokaʻawale	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	wahi	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hopena	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	papahana	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_157
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_158
+# text = Mahalo nui koʻu i ka poʻe haumāna, nā poʻe ʻōpiopio i ko lākou hoʻomanawanui i ke aʻo ʻana i ka ʻōlelo o nā kūpuna.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	haumāna	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	ʻōpiopio	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	lākou	_	_	_	_	_	_	_	_
+15	hoʻomanawanui	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	aʻo	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	kūpuna	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_159
+# text = ʻAʻole kēia he hana maʻalahi wale kēia.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	maʻalahi	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_160
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_161
+# text = ʻĒ, ʻae.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_162
+# text = He hana hoʻomanawanui.
+1	He	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	hoʻomanawanui	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_163
+# text = A koe kēia, ke ʻano heleleʻi wale nō hoʻi ko kākou mau kūpuna, a, ʻo kekahi o kākou, a, ʻaʻohe o kākou, mea, kupuna, ʻaʻole hiki ke kamaʻilio.
+1	A	_	_	_	_	_	_	_	_
+2	koe	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	heleleʻi	_	_	_	_	_	_	_	_
+8	wale	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	kākou	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	kūpuna	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	kekahi	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kākou	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻaʻohe	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	kākou	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	mea	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	kupuna	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	ʻaʻole	_	_	_	_	_	_	_	_
+34	hiki	_	_	_	_	_	_	_	_
+35	ke	_	_	_	_	_	_	_	_
+36	kamaʻilio	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_164
+# text = A hauʻoli nō wau iā ʻoe, no ka mea, ʻo ʻoe kekahi o koʻu hanauna.
+1	A	_	_	_	_	_	_	_	_
+2	hauʻoli	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	koʻu	_	_	_	_	_	_	_	_
+17	hanauna	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_165
+# text = ʻO ia, ʻae.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_166
+# text = A hiki nō hoʻi kāua ke kamaʻilio ma ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	kāua	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kamaʻilio	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_167
+# text = ʻAe, he mea maikaʻi kēlā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	maikaʻi	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_168
+# text = Kākaʻikahi wale nō kēia ʻano poʻe i kēia manawa ʻAe.
+1	Kākaʻikahi	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_169
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_170
+# text = A ke nonoi haʻahaʻa nei wau iā ʻoukou, e ka poʻe hoʻolohe ana i kēia hoʻolele leo, kala mai, ʻeā, inā hemahema nō hoʻi ka ʻōlelo kekahi manawa, a, ʻaʻole kēlā ka hewa, no kaʻu mau kumu kula.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	nonoi	_	_	_	_	_	_	_	_
+4	haʻahaʻa	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	hoʻolohe	_	_	_	_	_	_	_	_
+14	ana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	hoʻolele	_	_	_	_	_	_	_	_
+18	leo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	kala	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻeā	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	inā	_	_	_	_	_	_	_	_
+26	hemahema	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	hoʻi	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	ʻōlelo	_	_	_	_	_	_	_	_
+31	kekahi	_	_	_	_	_	_	_	_
+32	manawa	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	ʻaʻole	_	_	_	_	_	_	_	_
+37	kēlā	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	hewa	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	no	_	_	_	_	_	_	_	_
+42	kaʻu	_	_	_	_	_	_	_	_
+43	mau	_	_	_	_	_	_	_	_
+44	kumu	_	_	_	_	_	_	_	_
+45	kula	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_171
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_172
+# text = Naʻu nō ka hewa no ka lohi paha o ka ʻaʻapo ʻana i ka ʻōlelo makuahine.
+1	Naʻu	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hewa	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lohi	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻaʻapo	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	makuahine	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_173
+# text = ʻO ia nō paha.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_174
+# text = ʻAe, e hana nō kākou i ka mea hiki.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_175
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_176
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_177
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_178
+# text = He liʻiliʻi wale nō kā kākou mea e mālama nei i kēia manawa, akā e mālama nō kākou nā mea i koe.
+1	He	_	_	_	_	_	_	_	_
+2	liʻiliʻi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kā	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	mālama	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	akā	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	mālama	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	kākou	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	koe	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_179
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_180
+# text = ʻO ia ka mea maikaʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	maikaʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_181
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_182
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_183
+# text = A ke i kou aʻo ʻana i ka hula, a, he aʻo kūʻahu (kuahu) paha kēia, hula kūʻahu (kuahu), a o, a i ʻole, he, nā ʻano hula like ʻole o kēia manawa? ʻAe, ʻaʻole kēia he mau hula kuahu.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hula	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	aʻo	_	_	_	_	_	_	_	_
+15	kūʻahu	_	_	_	_	_	_	_	_
+16	(	_	PUNCT	_	_	_	_	_	_
+17	kuahu	_	_	_	_	_	_	_	_
+18	)	_	PUNCT	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hula	_	_	_	_	_	_	_	_
+23	kūʻahu	_	_	_	_	_	_	_	_
+24	(	_	PUNCT	_	_	_	_	_	_
+25	kuahu	_	_	_	_	_	_	_	_
+26	)	_	PUNCT	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ʻole	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	he	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	nā	_	_	_	_	_	_	_	_
+38	ʻano	_	_	_	_	_	_	_	_
+39	hula	_	_	_	_	_	_	_	_
+40	like	_	_	_	_	_	_	_	_
+41	ʻole	_	_	_	_	_	_	_	_
+42	o	_	_	_	_	_	_	_	_
+43	kēia	_	_	_	_	_	_	_	_
+44	manawa	_	_	_	_	_	_	_	_
+45	?	_	PUNCT	_	_	_	_	_	_
+46	ʻAe	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	ʻaʻole	_	_	_	_	_	_	_	_
+49	kēia	_	_	_	_	_	_	_	_
+50	he	_	_	_	_	_	_	_	_
+51	mau	_	_	_	_	_	_	_	_
+52	hula	_	_	_	_	_	_	_	_
+53	kuahu	_	_	_	_	_	_	_	_
+54	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_184
+# text = A, he, ua noa.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	noa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_185
+# text = Ua noa i kēia manawa.
+1	Ua	_	_	_	_	_	_	_	_
+2	noa	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_186
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_187
+# text = I ka wā kahiko paha, a, ʻae, he mau hula kuahu.
+1	I	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	kahiko	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻae	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	hula	_	_	_	_	_	_	_	_
+14	kuahu	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_188
+# text = A, he mau Nui ka waiwai o kēia mau hula.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	Nui	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	waiwai	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	hula	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_189
+# text = A hiki i kēia manawa, nui ka waiwai o kēia mau hula.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	waiwai	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	hula	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_190
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_191
+# text = A hohonu loa kekahi.
+1	A	_	_	_	_	_	_	_	_
+2	hohonu	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_192
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_193
+# text = Alia iki.
+1	Alia	_	_	_	_	_	_	_	_
+2	iki	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_194
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_195
+# text = Aloha ahiahi.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_196
+# text = Aloha ahiahi.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_197
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_198
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_199
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_200
+# text = He wahi pilikia wale nō kēia.
+1	He	_	_	_	_	_	_	_	_
+2	wahi	_	_	_	_	_	_	_	_
+3	pilikia	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_201
+# text = !! mīkini, ʻae.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	mīkini	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_202
+# text = ʻŌ, a, a he mea ʻole ia.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_203
+# text = A he mea ʻole ia, ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	ʻole	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻae	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_204
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_205
+# text = Akā, ʻō, makemake nui loa wau e a, i, inā he mau, a, makemake wau e ʻōlelo iā ʻoukou, e ka poʻe mākua, ka poʻe kupu , kūpuna, inā he mau moʻopuna kāu, a inā he mau keiki kāu, a inā hiki iā ʻoe ke hoʻouluulu i kā lākou, i ka ʻiʻini o loko o ko, o lā , o lākou e, e ʻaʻapo i kēia mau mea Hawaiʻi e, e ʻimi i ka naʻauao o ko kākou poʻe kūpuna i ka wā kahiko.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	makemake	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	inā	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	makemake	_	_	_	_	_	_	_	_
+21	wau	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	iā	_	_	_	_	_	_	_	_
+25	ʻoukou	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	poʻe	_	_	_	_	_	_	_	_
+30	mākua	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	poʻe	_	_	_	_	_	_	_	_
+34	kupu	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	kūpuna	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	inā	_	_	_	_	_	_	_	_
+39	he	_	_	_	_	_	_	_	_
+40	mau	_	_	_	_	_	_	_	_
+41	moʻopuna	_	_	_	_	_	_	_	_
+42	kāu	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	inā	_	_	_	_	_	_	_	_
+46	he	_	_	_	_	_	_	_	_
+47	mau	_	_	_	_	_	_	_	_
+48	keiki	_	_	_	_	_	_	_	_
+49	kāu	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	inā	_	_	_	_	_	_	_	_
+53	hiki	_	_	_	_	_	_	_	_
+54	iā	_	_	_	_	_	_	_	_
+55	ʻoe	_	_	_	_	_	_	_	_
+56	ke	_	_	_	_	_	_	_	_
+57	hoʻouluulu	_	_	_	_	_	_	_	_
+58	i	_	_	_	_	_	_	_	_
+59	kā	_	_	_	_	_	_	_	_
+60	lākou	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	i	_	_	_	_	_	_	_	_
+63	ka	_	_	_	_	_	_	_	_
+64	ʻiʻini	_	_	_	_	_	_	_	_
+65	o	_	_	_	_	_	_	_	_
+66	loko	_	_	_	_	_	_	_	_
+67	o	_	_	_	_	_	_	_	_
+68	ko	_	_	_	_	_	_	_	_
+69	,	_	PUNCT	_	_	_	_	_	_
+70	o	_	_	_	_	_	_	_	_
+71	lā	_	_	_	_	_	_	_	_
+72	,	_	PUNCT	_	_	_	_	_	_
+73	o	_	_	_	_	_	_	_	_
+74	lākou	_	_	_	_	_	_	_	_
+75	e	_	_	_	_	_	_	_	_
+76	,	_	PUNCT	_	_	_	_	_	_
+77	e	_	_	_	_	_	_	_	_
+78	ʻaʻapo	_	_	_	_	_	_	_	_
+79	i	_	_	_	_	_	_	_	_
+80	kēia	_	_	_	_	_	_	_	_
+81	mau	_	_	_	_	_	_	_	_
+82	mea	_	_	_	_	_	_	_	_
+83	Hawaiʻi	_	_	_	_	_	_	_	_
+84	e	_	_	_	_	_	_	_	_
+85	,	_	PUNCT	_	_	_	_	_	_
+86	e	_	_	_	_	_	_	_	_
+87	ʻimi	_	_	_	_	_	_	_	_
+88	i	_	_	_	_	_	_	_	_
+89	ka	_	_	_	_	_	_	_	_
+90	naʻauao	_	_	_	_	_	_	_	_
+91	o	_	_	_	_	_	_	_	_
+92	ko	_	_	_	_	_	_	_	_
+93	kākou	_	_	_	_	_	_	_	_
+94	poʻe	_	_	_	_	_	_	_	_
+95	kūpuna	_	_	_	_	_	_	_	_
+96	i	_	_	_	_	_	_	_	_
+97	ka	_	_	_	_	_	_	_	_
+98	wā	_	_	_	_	_	_	_	_
+99	kahiko	_	_	_	_	_	_	_	_
+100	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_206
+# text = A he mea maikaʻi kēlā.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	maikaʻi	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_207
+# text = A ʻo ia nō ka mea nui ʻo kēia ʻiʻini, ʻo ka hoihoi i loko n , o ka naʻau o nā poʻe ʻōpiopio.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	ʻiʻini	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hoihoi	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	loko	_	_	_	_	_	_	_	_
+17	n	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	naʻau	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	nā	_	_	_	_	_	_	_	_
+24	poʻe	_	_	_	_	_	_	_	_
+25	ʻōpiopio	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_208
+# text = ʻAe, pololei nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_209
+# text = Ke paʻa kēlā hoihoi i ka naʻau, a, ʻaʻapo wale nō i ke aʻo ʻana.
+1	Ke	_	_	_	_	_	_	_	_
+2	paʻa	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	hoihoi	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	naʻau	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻapo	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	ʻana	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_210
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_211
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_212
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_213
+# text = A koe kēia, ʻaʻohe nui loa nā poʻe kumu o kēia manawa, a, eia nō hoʻi kākou ke, ke huli nei i poʻe kumu, poʻe kumu hula, poʻe kumu, a, mele, kumu hu , a, aʻo i ke oli, nā oli o nā kūpuna.
+1	A	_	_	_	_	_	_	_	_
+2	koe	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	kumu	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	eia	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	hoʻi	_	_	_	_	_	_	_	_
+20	kākou	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	huli	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	poʻe	_	_	_	_	_	_	_	_
+28	kumu	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	poʻe	_	_	_	_	_	_	_	_
+31	kumu	_	_	_	_	_	_	_	_
+32	hula	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	poʻe	_	_	_	_	_	_	_	_
+35	kumu	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	a	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	mele	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	kumu	_	_	_	_	_	_	_	_
+42	hu	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	aʻo	_	_	_	_	_	_	_	_
+47	i	_	_	_	_	_	_	_	_
+48	ke	_	_	_	_	_	_	_	_
+49	oli	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	nā	_	_	_	_	_	_	_	_
+52	oli	_	_	_	_	_	_	_	_
+53	o	_	_	_	_	_	_	_	_
+54	nā	_	_	_	_	_	_	_	_
+55	kūpuna	_	_	_	_	_	_	_	_
+56	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_214
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_215
+# text = He lana kuʻu manaʻo e, e hiki mai ana ka lā, a, lawa nō poʻo , nō, lawa nō kēia poʻe, kēia poʻe kumu.
+1	He	_	_	_	_	_	_	_	_
+2	lana	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hiki	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	lā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	lawa	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	poʻo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	lawa	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	poʻe	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	poʻe	_	_	_	_	_	_	_	_
+29	kumu	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_216
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_217
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_218
+# text = A alia, ē? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	alia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻAe	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_219
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_220
+# text = A i kēia manawa, e hoʻolele ana ke keiki o kēia kahua hoʻolele leo i wahi hoʻolaha.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolele	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	keiki	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	kahua	_	_	_	_	_	_	_	_
+14	hoʻolele	_	_	_	_	_	_	_	_
+15	leo	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	wahi	_	_	_	_	_	_	_	_
+18	hoʻolaha	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_221
+# text = Auē.
+1	Auē	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_222
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_223
+# text = Mahalo i ko ʻoukou kelepona ʻana mai i kēia ahiahi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	ahiahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_224
+# text = Nui ko mākou ho ha hauʻoli i ka lohe ʻana i ko ʻoukou leo.
+1	Nui	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	ho	_	_	_	_	_	_	_	_
+5	ha	_	_	_	_	_	_	_	_
+6	hauʻoli	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lohe	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	ʻoukou	_	_	_	_	_	_	_	_
+14	leo	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_225
+# text = A, i, he, he, he pololei nō kāu ʻōlelo e Kalena, ʻaʻole loa e make ana ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	pololei	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	kāu	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	Kalena	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻole	_	_	_	_	_	_	_	_
+18	loa	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	make	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_226
+# text = Eia nō ke ola nei.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ola	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_227
+# text = A, he, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_228
+# text = he, a, makemake nui koʻu e hoʻomau i ka ʻōlelo Hawaiʻi.
+1	he	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	makemake	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	koʻu	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hoʻomau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_229
+# text = A aia nō kēia hana koʻikoʻi i nā poʻohiwi o nā poʻe ʻōpiopio.
+1	A	_	_	_	_	_	_	_	_
+2	aia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	koʻikoʻi	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	poʻohiwi	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	ʻōpiopio	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_230
+# text = A aia nō hoʻi i, i, i nā poʻohiwi o nā mākua e aʻo mai i ka poʻe ʻōpiopio i ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	aia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	poʻohiwi	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	mākua	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	mai	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	poʻe	_	_	_	_	_	_	_	_
+21	ʻōpiopio	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	ʻōlelo	_	_	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_231
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_232
+# text = A he ʻōlelo noʻe he ʻōlelo noʻeau kēia, a, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	noʻe	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	noʻeau	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_233
+# text = e mālama ʻia nā pono o ka ʻāina e nā ʻōpio.
+1	e	_	_	_	_	_	_	_	_
+2	mālama	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	pono	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻāina	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	ʻōpio	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_234
+# text = A i kuʻu manaʻo, pololei loa nō hoʻi kēia.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pololei	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_235
+# text = Pololei nō.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_236
+# text = Na mākou, na kākou nō hoʻi ka poʻe ʻōpiopio e mālama i kēia mau mea Hawaiʻi.
+1	Na	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	hoʻi	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	ʻōpiopio	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	mālama	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_237
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_238
+# text = Pololoi nō.
+1	Pololoi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_239
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_240
+# text = ʻO kākou nō nā mamo e mālama aku i kēia mea waiwai i hoʻoilina mai iā mākou, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kākou	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	mamo	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	mālama	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	waiwai	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	hoʻoilina	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻAe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_241
+# text = e nā kūpuna.
+1	e	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kūpuna	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_242
+# text = Hauʻoli nō hoʻi wau i ka lohe ʻana i kēlā, kēlā keiki kāne i kāhea mai, mai, a, Kamehameha mai ʻo ia, ʻAe.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lohe	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	keiki	_	_	_	_	_	_	_	_
+14	kāne	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kāhea	_	_	_	_	_	_	_	_
+17	mai	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	Kamehameha	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	ia	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻAe	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_243
+# text = mai ke Kula ʻo Kamehameha.
+1	mai	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	Kula	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Kamehameha	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_244
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_245
+# text = ʻUmikūmāhā ona mau makahiki, akā, hiki iā ia ke ʻōlelo Hawaiʻi.
+1	ʻUmikūmāhā	_	_	_	_	_	_	_	_
+2	ona	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	akā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hiki	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_246
+# text = Maikaʻi kēlā.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_247
+# text = Hauʻoli nō hoʻi wau.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_248
+# text = Hauʻoli nō hoʻi wau.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_249
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_250
+# text = No Niʻihau nō ʻo ia.
+1	No	_	_	_	_	_	_	_	_
+2	Niʻihau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_251
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_252
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_253
+# text = A ke hoʻohauʻoli nei nō ka ʻohana i kēia manawa i ka lohe ʻana i kona leo.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	hoʻohauʻoli	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻohana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	lohe	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kona	_	_	_	_	_	_	_	_
+17	leo	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_254
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_255
+# text = Me ka leo o ke kaikamahine no Niʻihau, ē? ʻAe, ʻae.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	leo	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kaikamahine	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ē	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻae	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_256
+# text = Kekahi i kelepona mai nei.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kelepona	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_257
+# text = A aia ʻo ia i Kamehameha kekahi.
+1	A	_	_	_	_	_	_	_	_
+2	aia	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Kamehameha	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_258
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_259
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_260
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_261
+# text = } No laila, e nā ʻōpio, e nā mea e hiki ke hoʻomaopopo i kaʻu mea e walaʻau aku nei iā ʻoukou, e hoʻomau aku nō i ka ʻōlelo makuahine o, a kākou.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻōpio	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	hiki	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	hoʻomaopopo	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kaʻu	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	walaʻau	_	_	_	_	_	_	_	_
+21	aku	_	_	_	_	_	_	_	_
+22	nei	_	_	_	_	_	_	_	_
+23	iā	_	_	_	_	_	_	_	_
+24	ʻoukou	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	hoʻomau	_	_	_	_	_	_	_	_
+28	aku	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	ʻōlelo	_	_	_	_	_	_	_	_
+33	makuahine	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	kākou	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_262
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_263
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_264
+# text = He mea maikaʻi kēlā.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_265
+# text = He mau manaʻo maikaʻi loa kēlā.
+1	He	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	maikaʻi	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_266
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_267
+# text = Hoʻomanaʻo wau i kekahi lā, ʻoiai wau ma Kamehameha, a ma ka papa, ma ka papa ʻewalu.
+1	Hoʻomanaʻo	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	lā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻoiai	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Kamehameha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	papa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	papa	_	_	_	_	_	_	_	_
+20	ʻewalu	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_268
+# text = A ua hele mai kekahi poʻe mai Niʻihau mai, a, nui ko lākou hoihoi i nā mea ma Kamehameha, a hele mai mākou e mākaʻikaʻi, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	ko	_	_	_	_	_	_	_	_
+15	lākou	_	_	_	_	_	_	_	_
+16	hoihoi	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	Kamehameha	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	hele	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	mākou	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	mākaʻikaʻi	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	{	_	PUNCT	_	_	_	_	_	_
+31	Mū	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_269
+# text = } a pēlā wale aku, a, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	pēlā	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	aku	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_270
+# text = nui nō hoʻi ko mākou hauʻoli, kipa iā lākou.
+1	nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	hauʻoli	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kipa	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	lākou	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_271
+# text = ʻAe, alia iki.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	alia	_	_	_	_	_	_	_	_
+4	iki	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_272
+# text = ʻAe, hiki.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_273
+# text = Aloha ahiahi.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_274
+# text = Aloha.
+1	Aloha	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_275
+# text = Nānākuli.
+1	Nānākuli	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_276
+# text = Ua paʻa nō paha i kekahi poʻe.
+1	Ua	_	_	_	_	_	_	_	_
+2	paʻa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_277
+# text = ʻAʻole nō i paʻa iaʻu.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	paʻa	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_278
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_279
+# text = I, i koʻu lohe, ʻano lohe liʻiliʻi wale nō wau i ka moʻolelo e pili ana i ka inoa o Nānākuli.
+1	I	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	lohe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	lohe	_	_	_	_	_	_	_	_
+9	liʻiliʻi	_	_	_	_	_	_	_	_
+10	wale	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	wau	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	moʻolelo	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	pili	_	_	_	_	_	_	_	_
+18	ana	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	inoa	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	Nānākuli	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_280
+# text = I ka wā kahiko, a, he, he, ka poʻe e noho ana i Nānākuli.
+1	I	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	wā	_	_	_	_	_	_	_	_
+4	kahiko	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	noho	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	Nānākuli	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_281
+# text = Nānā wale nō lākou i ke kuli o ke kanaka.
+1	Nānā	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kuli	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kanaka	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_282
+# text = Akā, ʻaʻole kēlā ka moʻolelo piha loa.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	moʻolelo	_	_	_	_	_	_	_	_
+7	piha	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_283
+# text = A, i kuʻu manaʻo, ʻĒ, ʻōlelo ʻia no ka wī o ka ʻāina paha.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻĒ	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	wī	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	paha	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_284
+# text = Wī ka ʻāīna.
+1	Wī	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻāīna	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_285
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_286
+# text = No ka mea, ʻaʻohe nui loa ka ua ma, ma Nānākuli, a ʻo ia paha ke kumu, ʻĒ.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Nānākuli	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	kumu	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻĒ	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_287
+# text = A pehea i puka ai? hea ʻia kēlā, Pehea i puka ai kēia inoa Nānākuli? ʻAʻole maopopo pono iaʻu.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	puka	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	hea	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Pehea	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	puka	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	inoa	_	_	_	_	_	_	_	_
+17	Nānākuli	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	ʻAʻole	_	_	_	_	_	_	_	_
+20	maopopo	_	_	_	_	_	_	_	_
+21	pono	_	_	_	_	_	_	_	_
+22	iaʻu	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_288
+# text = Akā, ʻōlelo ʻia, pu puka ʻia kēia inoa no ka nui, no ka, no ka wī o ka ʻāina.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pu	_	_	_	_	_	_	_	_
+7	puka	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	nui	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	wī	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻāina	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_289
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_290
+# text = A no ka ʻAʻohe, ʻaʻohe lawa ka meaʻai na ka poʻe i, a, i noho ma Nānākuli.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻAʻohe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻaʻohe	_	_	_	_	_	_	_	_
+7	lawa	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	meaʻai	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	noho	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	Nānākuli	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_291
+# text = A hele mai paha kekahi poʻe, kāʻalo nō hoʻi lākou ma ka hale.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kāʻalo	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hale	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_292
+# text = A ʻaʻohe kipa ʻia mai.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	kipa	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_293
+# text = ʻAʻohe kipa ʻia mai.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	kipa	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_294
+# text = Nānā kuli, ʻae.
+1	Nānā	_	_	_	_	_	_	_	_
+2	kuli	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_295
+# text = A nānā wale nō i ke kuli o ke kanaka.
+1	A	_	_	_	_	_	_	_	_
+2	nānā	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kuli	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kanaka	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_296
+# text = Nānā, nānā wale nō i ke kuli o ke kanaka.
+1	Nānā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nānā	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kuli	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kanaka	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_297
+# text = ʻŌ, mea, nānā me ke kuli, me ka hoʻokuli? Hiki paha lāua ʻelua, ʻelua nō hoʻi ma , ʻĒ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nānā	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kuli	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hoʻokuli	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Hiki	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	lāua	_	_	_	_	_	_	_	_
+17	ʻelua	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻelua	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	hoʻi	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻĒ	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_298
+# text = ʻelua nō manaʻo.
+1	ʻelua	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_299
+# text = ʻAʻohe au maopopo loa i ka moʻolelo.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	moʻolelo	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_300
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_301
+# text = ʻO wau, a, ʻike hemahema nō hoʻi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻike	_	_	_	_	_	_	_	_
+7	hemahema	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_302
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_303
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_304
+# text = A i kēia manawa, e hoʻokani ana mākou i kēia papahana a nā poʻe haumāna i hoʻomākaukau ʻia ai.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻokani	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	haumāna	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	hoʻomākaukau	_	_	_	_	_	_	_	_
+19	ʻia	_	_	_	_	_	_	_	_
+20	ai	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_305
+# text = E hoʻolohe mai ʻoukou.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolohe	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_306
+# text = Thatʻs really cool man.
+1	Thatʻs	_	_	_	_	_	_	_	_
+2	really	_	_	_	_	_	_	_	_
+3	cool	_	_	_	_	_	_	_	_
+4	man	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_307
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_308
+# text = Mahalo nui iā ʻoukou no ko ʻoukou hoʻomanawanui mai me mākou i kēia ahiahi no ka pilikia o kēia, ka hoʻomaka ʻana o kēia papahana.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	hoʻomanawanui	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	pilikia	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hoʻomaka	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	papahana	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.004_Kalena_Silva_19720411_309
+# text = Ma mua nō naʻe o ka hoʻopau ʻana o kēia papahana, makemake wau e ~
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻopau	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	papahana	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	makemake	_	_	_	_	_	_	_	_
+14	wau	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	~	_	_	_	_	_	_	_	_
+

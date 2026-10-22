@@ -1,0 +1,6597 @@
+# newdoc id = HV24.007_Mālia_Craver_19720919
+# sent_id = HV24.007_Mālia_Craver_19720919_1
+# text = E nā keiki hānau o ka ʻāina, mai ka piʻina a ka lā i Haʻehaʻe a i ka lā welowelo i Lehua, aloha pumehana kākou.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	hānau	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	piʻina	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	lā	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Haʻehaʻe	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	lā	_	_	_	_	_	_	_	_
+21	welowelo	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	Lehua	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	aloha	_	_	_	_	_	_	_	_
+26	pumehana	_	_	_	_	_	_	_	_
+27	kākou	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_2
+# text = Hauʻoli nui kēia e hoʻolaha hou nei i ka ʻōlelo a kākou, ka ʻōlelo Hawaiʻi.
+1	Hauʻoli	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hoʻolaha	_	_	_	_	_	_	_	_
+6	hou	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	kākou	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	Hawaiʻi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_3
+# text = Aloha e kuʻu ʻohana i Waimea, Kohala.
+1	Aloha	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	ʻohana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Waimea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Kohala	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_4
+# text = Aloha e nā hoaaloha no nā lā o ke kau wela i nā paia ʻaʻala o Puna, me nā makamaka o ka ʻāina aʻu i ʻike lihi wale ai ʻo Kahelelani.
+1	Aloha	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	hoaaloha	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	lā	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kau	_	_	_	_	_	_	_	_
+11	wela	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	paia	_	_	_	_	_	_	_	_
+15	ʻaʻala	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Puna	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	me	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	makamaka	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	ʻāina	_	_	_	_	_	_	_	_
+25	aʻu	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	ʻike	_	_	_	_	_	_	_	_
+28	lihi	_	_	_	_	_	_	_	_
+29	wale	_	_	_	_	_	_	_	_
+30	ai	_	_	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	Kahelelani	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_5
+# text = Me ʻoukou a pau loa ka welina o ke aloha.
+1	Me	_	_	_	_	_	_	_	_
+2	ʻoukou	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	welina	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	aloha	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_6
+# text = Eia nō me kākou i kēia ahiahi, ko mākou hoa kipa, ʻo Mālia Craver.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ahiahi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	hoa	_	_	_	_	_	_	_	_
+12	kipa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Mālia	_	_	_	_	_	_	_	_
+16	Craver	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_7
+# text = A, aloha mai nō e Mālia.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	Mālia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_8
+# text = Aloha mai.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_9
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_10
+# text = ʻO ka nīnau mua aʻu e ninau aku ai iā, iā ʻoe ʻo ia nō kāu, kou wahi i hānau ʻia ai.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nīnau	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	aʻu	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ninau	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	kāu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kou	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	hānau	_	_	_	_	_	_	_	_
+23	ʻia	_	_	_	_	_	_	_	_
+24	ai	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_11
+# text = Hānau ʻia wau m i Honolulu nei.
+1	Hānau	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	m	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Honolulu	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_12
+# text = Hānau ʻia ʻoe i Honolulu nei? ʻAe.
+1	Hānau	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Honolulu	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_13
+# text = A ʻo kou hānai ʻia ʻana? Hānai ʻia wau i ka, {amū,} ʻelua wale nō lā w , hānai ʻia wau, a hoʻi mākou i Hoʻokena, Kona.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	hānai	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Hānai	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	{	_	PUNCT	_	_	_	_	_	_
+15	amū	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	}	_	PUNCT	_	_	_	_	_	_
+18	ʻelua	_	_	_	_	_	_	_	_
+19	wale	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	lā	_	_	_	_	_	_	_	_
+22	w	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	hānai	_	_	_	_	_	_	_	_
+25	ʻia	_	_	_	_	_	_	_	_
+26	wau	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	hoʻi	_	_	_	_	_	_	_	_
+30	mākou	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	Hoʻokena	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	Kona	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_14
+# text = A ʻo wai kou kahu hānai? ʻO Keoni Kauwē me ʻAne Kauwē o Hoʻokena, Kona.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	kahu	_	_	_	_	_	_	_	_
+6	hānai	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻO	_	_	_	_	_	_	_	_
+9	Keoni	_	_	_	_	_	_	_	_
+10	Kauwē	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ʻAne	_	_	_	_	_	_	_	_
+13	Kauwē	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	Hoʻokena	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kona	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_15
+# text = ʻAe, a ʻo kāu, mea, ʻo kou ʻoihana nō i kēia manawa, aia nō ʻoe ke hana nei i kahi ʻo hea? Ke han , ke hana nei wau i, i Keʻena ʻo Liliʻuokalani.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	kāu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	kou	_	_	_	_	_	_	_	_
+11	ʻoihana	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	aia	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	ʻoe	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	nei	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kahi	_	_	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	hea	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	Ke	_	_	_	_	_	_	_	_
+29	han	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	hana	_	_	_	_	_	_	_	_
+33	nei	_	_	_	_	_	_	_	_
+34	wau	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	Keʻena	_	_	_	_	_	_	_	_
+39	ʻo	_	_	_	_	_	_	_	_
+40	Liliʻuokalani	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_16
+# text = A, e ʻoluʻolu mai ʻoe e hoʻo hōʻike pōkole mai iā mākou ke ʻano nō o kāu hana ʻana ma kēlā wahi, kēlā hui ʻo Liliʻuokalani.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻoluʻolu	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻo	_	_	_	_	_	_	_	_
+9	hōʻike	_	_	_	_	_	_	_	_
+10	pōkole	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	ʻano	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kāu	_	_	_	_	_	_	_	_
+19	hana	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	kēlā	_	_	_	_	_	_	_	_
+23	wahi	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	kēlā	_	_	_	_	_	_	_	_
+26	hui	_	_	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	Liliʻuokalani	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_17
+# text = He aha lā ke ʻano o kā ʻoukou hana ʻana? He ʻoihana kēia n no ka mālama ola o nā kamaliʻi Hawaiʻi.
+1	He	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	He	_	_	_	_	_	_	_	_
+13	ʻoihana	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	n	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mālama	_	_	_	_	_	_	_	_
+19	ola	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	kamaliʻi	_	_	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_18
+# text = ʻO nā kamaliʻi makua ʻole? Kekahi nō nā kamaliʻi makua ʻole, kekahi, a, hoʻokahi makua wale nō, kekahi o nā kamaliʻi, he ʻilu , ʻilihune maoli nō.
+1	ʻO	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kamaliʻi	_	_	_	_	_	_	_	_
+4	makua	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Kekahi	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	kamaliʻi	_	_	_	_	_	_	_	_
+11	makua	_	_	_	_	_	_	_	_
+12	ʻole	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hoʻokahi	_	_	_	_	_	_	_	_
+19	makua	_	_	_	_	_	_	_	_
+20	wale	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	kekahi	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	nā	_	_	_	_	_	_	_	_
+26	kamaliʻi	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	he	_	_	_	_	_	_	_	_
+29	ʻilu	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻilihune	_	_	_	_	_	_	_	_
+32	maoli	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_19
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_20
+# text = A kōkua aku nō ʻoukou ma nā mea e hiki ai iā ʻoukou ke kōkua aku.
+1	A	_	_	_	_	_	_	_	_
+2	kōkua	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoukou	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	kōkua	_	_	_	_	_	_	_	_
+16	aku	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_21
+# text = A, ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_22
+# text = A, aia i hea kēia wahi ʻo Liliʻuokalani, ka hui o kēia, a, Aia kēia wahi i Kapālama.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Liliʻuokalani	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hui	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Aia	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	Kapālama	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_23
+# text = I Kapālama? Kapālama, ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	Kapālama	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	Kapālama	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻAe	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_24
+# text = ke alanui ʻo Hālona.
+1	ke	_	_	_	_	_	_	_	_
+2	alanui	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Hālona	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_25
+# text = A, ʻehia ka nui, a, ʻehia ka nui a kā ʻoukou poʻe hana? {Amū.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻehia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻehia	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	nui	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	kā	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	hana	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	{	_	PUNCT	_	_	_	_	_	_
+19	Amū	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_26
+# text = } He nui nō? He kanahākūmālima poʻe hana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	He	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	He	_	_	_	_	_	_	_	_
+7	kanahākūmālima	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_27
+# text = ʻAe, ma Oʻahu wale nō, ka nui o ka poʻe? ʻAʻole, ke , {amū,} ʻehā poʻe hana m ma, ma ke keʻena o Molokaʻi, ʻelima poʻe hana o ke keʻena o Hilo.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Oʻahu	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻAʻole	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	{	_	PUNCT	_	_	_	_	_	_
+19	amū	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	}	_	PUNCT	_	_	_	_	_	_
+22	ʻehā	_	_	_	_	_	_	_	_
+23	poʻe	_	_	_	_	_	_	_	_
+24	hana	_	_	_	_	_	_	_	_
+25	m	_	_	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	keʻena	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	Molokaʻi	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻelima	_	_	_	_	_	_	_	_
+35	poʻe	_	_	_	_	_	_	_	_
+36	hana	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	ke	_	_	_	_	_	_	_	_
+39	keʻena	_	_	_	_	_	_	_	_
+40	o	_	_	_	_	_	_	_	_
+41	Hilo	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_28
+# text = ʻAe, a ma n , ma Molokaʻi me Hawaiʻi wale nō nā mokupuni ʻē, ma waho aʻe o kēia mokupuni ʻo Oʻahu nei? ʻAe, i kēia manawa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	n	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Molokaʻi	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	mokupuni	_	_	_	_	_	_	_	_
+15	ʻē	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	waho	_	_	_	_	_	_	_	_
+19	aʻe	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	mokupuni	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Oʻahu	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	ʻAe	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	kēia	_	_	_	_	_	_	_	_
+31	manawa	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_29
+# text = A ʻo ia, ʻo kā lākou hana, he kōkua aku i nā kamaliʻi? Nā kamaliʻi makua ʻole? Nā hana o Hilo me Molokaʻi? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	kā	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	aku	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	kamaliʻi	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Nā	_	_	_	_	_	_	_	_
+18	kamaliʻi	_	_	_	_	_	_	_	_
+19	makua	_	_	_	_	_	_	_	_
+20	ʻole	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	Nā	_	_	_	_	_	_	_	_
+23	hana	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	Hilo	_	_	_	_	_	_	_	_
+26	me	_	_	_	_	_	_	_	_
+27	Molokaʻi	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	ʻAe	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_30
+# text = Ko lākou hana like nō me kā mākou hana, I neʻi nei? ma Honolulu nei.
+1	Ko	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	like	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	kā	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	I	_	_	_	_	_	_	_	_
+12	neʻi	_	_	_	_	_	_	_	_
+13	nei	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	Honolulu	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_31
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_32
+# text = A, a na wai, na wai i kūkulu i kēia hui Mālama Waiwai ʻo Liliʻuokalani? Nāna nō paha na ka mōʻī wahine ʻo Liliʻuokalani, a i ʻole, na kekahi mea ʻē aʻe paha? ʻAe, na Liliʻuokalani nō i kūkulu i kēia ʻoihana i Ke , Keps Kekemapa, lā ʻelua, ʻumikūmāiwa haneli a me ʻeiwa.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	wai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kūkulu	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hui	_	_	_	_	_	_	_	_
+14	Mālama	_	_	_	_	_	_	_	_
+15	Waiwai	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Liliʻuokalani	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	Nāna	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	paha	_	_	_	_	_	_	_	_
+22	na	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	mōʻī	_	_	_	_	_	_	_	_
+25	wahine	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Liliʻuokalani	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	ʻole	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	na	_	_	_	_	_	_	_	_
+34	kekahi	_	_	_	_	_	_	_	_
+35	mea	_	_	_	_	_	_	_	_
+36	ʻē	_	_	_	_	_	_	_	_
+37	aʻe	_	_	_	_	_	_	_	_
+38	paha	_	_	_	_	_	_	_	_
+39	?	_	PUNCT	_	_	_	_	_	_
+40	ʻAe	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	na	_	_	_	_	_	_	_	_
+43	Liliʻuokalani	_	_	_	_	_	_	_	_
+44	nō	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	kūkulu	_	_	_	_	_	_	_	_
+47	i	_	_	_	_	_	_	_	_
+48	kēia	_	_	_	_	_	_	_	_
+49	ʻoihana	_	_	_	_	_	_	_	_
+50	i	_	_	_	_	_	_	_	_
+51	Ke	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	Keps	_	_	_	_	_	_	_	_
+54	Kekemapa	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	lā	_	_	_	_	_	_	_	_
+57	ʻelua	_	_	_	_	_	_	_	_
+58	,	_	PUNCT	_	_	_	_	_	_
+59	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+60	haneli	_	_	_	_	_	_	_	_
+61	a	_	_	_	_	_	_	_	_
+62	me	_	_	_	_	_	_	_	_
+63	ʻeiwa	_	_	_	_	_	_	_	_
+64	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_33
+# text = A, i loko o ka makahiki ʻumikūmāiwa haneli me ʻumikūmākahi, hoʻololi ʻia hou no ka mālama ʻana i nā kamaliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+9	haneli	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	ʻumikūmākahi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hoʻololi	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	hou	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mālama	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	kamaliʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_34
+# text = ʻŌ, ua hoʻololi ʻia ke ʻano o ka mālama ʻana i nā kamaliʻi? ʻAʻole.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻololi	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mālama	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	kamaliʻi	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	ʻAʻole	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_35
+# text = Ka wā ola ana ʻo Liliʻuokalani i ka makahiki ʻumikūmāiwa me ʻeiwa, hoʻokaʻawale ʻia ke kālā i kēlā manawa, nona wale nō.
+1	Ka	_	_	_	_	_	_	_	_
+2	wā	_	_	_	_	_	_	_	_
+3	ola	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Liliʻuokalani	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ʻeiwa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hoʻokaʻawale	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	kālā	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	manawa	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	nona	_	_	_	_	_	_	_	_
+23	wale	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_36
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_37
+# text = A i kēia manawa, aia nō kēia hui Waiwai ʻo Liliʻuokalani ke mālama ʻia nei ma lalo nō o kekahi, ke kekahi mau poʻe kahu waiwai? ʻAe, ʻaʻole wau maopopo nā kahu waiwai i ka wā, a, manawa mua, akā, he ʻekolu kahu waiwai a mākou kēia lā, a ʻo ko lākou inoa, ʻo Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	hui	_	_	_	_	_	_	_	_
+10	Waiwai	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Liliʻuokalani	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	mālama	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	nei	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	lalo	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	kekahi	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	kekahi	_	_	_	_	_	_	_	_
+25	mau	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	kahu	_	_	_	_	_	_	_	_
+28	waiwai	_	_	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ʻaʻole	_	_	_	_	_	_	_	_
+33	wau	_	_	_	_	_	_	_	_
+34	maopopo	_	_	_	_	_	_	_	_
+35	nā	_	_	_	_	_	_	_	_
+36	kahu	_	_	_	_	_	_	_	_
+37	waiwai	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	wā	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	a	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	manawa	_	_	_	_	_	_	_	_
+45	mua	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	akā	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	he	_	_	_	_	_	_	_	_
+50	ʻekolu	_	_	_	_	_	_	_	_
+51	kahu	_	_	_	_	_	_	_	_
+52	waiwai	_	_	_	_	_	_	_	_
+53	a	_	_	_	_	_	_	_	_
+54	mākou	_	_	_	_	_	_	_	_
+55	kēia	_	_	_	_	_	_	_	_
+56	lā	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	a	_	_	_	_	_	_	_	_
+59	ʻo	_	_	_	_	_	_	_	_
+60	ko	_	_	_	_	_	_	_	_
+61	lākou	_	_	_	_	_	_	_	_
+62	inoa	_	_	_	_	_	_	_	_
+63	,	_	PUNCT	_	_	_	_	_	_
+64	ʻo	_	_	_	_	_	_	_	_
+65	Mrs	_	_	_	_	_	_	_	_
+66	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_38
+# text = Clorinda Lucas, Mr.
+1	Clorinda	_	_	_	_	_	_	_	_
+2	Lucas	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Mr	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_39
+# text = Gordon May a me ka Panakō Mua o ka poʻe Hawaiʻi.
+1	Gordon	_	_	_	_	_	_	_	_
+2	May	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	Panakō	_	_	_	_	_	_	_	_
+7	Mua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_40
+# text = ʻAe, A ʻo mea, ʻo lākou ʻekolu nā kahu waiwai? A, ʻae, ʻo Mr.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	A	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	kahu	_	_	_	_	_	_	_	_
+12	waiwai	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻae	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	Mr	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_41
+# text = Joe, Charles Dole, ka mea kū no kēia panakō.
+1	Joe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Charles	_	_	_	_	_	_	_	_
+4	Dole	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	kū	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	panakō	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_42
+# text = Ka mea, ka, ka luna, ka luna o ka panakō? ʻAʻole ʻo ia ka luna o ka panakō.
+1	Ka	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	luna	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	luna	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	panakō	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAʻole	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	luna	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	panakō	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_43
+# text = A ʻo wai ʻo Mr.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Mr	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_44
+# text = Dole? He mea, {amū,} hana nō ʻo ia i loko o kēlā panakō.
+1	Dole	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	He	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	{	_	PUNCT	_	_	_	_	_	_
+7	amū	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	}	_	PUNCT	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ia	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	loko	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	panakō	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_45
+# text = ʻŌ, ʻō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_46
+# text = A pehea lā ʻo k , ʻo m , ka, ka mōʻī wahine ʻo Liliʻuokalani, pehea lā ʻo ia i, a, hoʻomanaʻo ai i kēia manaʻo no ka mālama ʻana i nā keiki makua ʻole? No ko .
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	k	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	m	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	mōʻī	_	_	_	_	_	_	_	_
+14	wahine	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Liliʻuokalani	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	pehea	_	_	_	_	_	_	_	_
+19	lā	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	ia	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	hoʻomanaʻo	_	_	_	_	_	_	_	_
+27	ai	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	manaʻo	_	_	_	_	_	_	_	_
+31	no	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	mālama	_	_	_	_	_	_	_	_
+34	ʻana	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	keiki	_	_	_	_	_	_	_	_
+38	makua	_	_	_	_	_	_	_	_
+39	ʻole	_	_	_	_	_	_	_	_
+40	?	_	PUNCT	_	_	_	_	_	_
+41	No	_	_	_	_	_	_	_	_
+42	ko	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_47
+# text = No kona keiki ʻole paha, no ka mea, ʻo ke aliʻi ʻo Liliʻuokalani, ʻaʻohe āna keiki, ʻeā? ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	keiki	_	_	_	_	_	_	_	_
+4	ʻole	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	aliʻi	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Liliʻuokalani	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻohe	_	_	_	_	_	_	_	_
+18	āna	_	_	_	_	_	_	_	_
+19	keiki	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻeā	_	_	_	_	_	_	_	_
+22	?	_	PUNCT	_	_	_	_	_	_
+23	ʻAe	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_48
+# text = ʻO ia paha ke kumu, pehea? ʻŌ, a maopopo nō ʻoe ʻo Liliʻuokalani, he m hānai ʻo ia na, Ua lawe hānai ʻia ʻo ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	pehea	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻŌ	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	maopopo	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	ʻoe	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Liliʻuokalani	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	he	_	_	_	_	_	_	_	_
+19	m	_	_	_	_	_	_	_	_
+20	hānai	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	ia	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	Ua	_	_	_	_	_	_	_	_
+26	lawe	_	_	_	_	_	_	_	_
+27	hānai	_	_	_	_	_	_	_	_
+28	ʻia	_	_	_	_	_	_	_	_
+29	ʻo	_	_	_	_	_	_	_	_
+30	ia	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_49
+# text = Yeah.
+1	Yeah	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_50
+# text = Nā, nā mākua a Bernice Pauahi Bishop.
+1	Nā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mākua	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	Bernice	_	_	_	_	_	_	_	_
+7	Pauahi	_	_	_	_	_	_	_	_
+8	Bishop	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_51
+# text = A no laila, no kona piha nō hoʻi me ke aloha no nā kamaliʻi, a kēia nō paha ke kumu.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	kona	_	_	_	_	_	_	_	_
+7	piha	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	aloha	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	kamaliʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	paha	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	kumu	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_52
+# text = I hoʻokumu ai i kēia hui, Pololei.
+1	I	_	_	_	_	_	_	_	_
+2	hoʻokumu	_	_	_	_	_	_	_	_
+3	ai	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	hui	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Pololei	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_53
+# text = no nā kamaliʻi makua ʻole.
+1	no	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kamaliʻi	_	_	_	_	_	_	_	_
+4	makua	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_54
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_55
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_57
+# text = A i ka hāʻule ʻana nō o ke aliʻi wahine, a na kēia poʻe kahu waiwai, na lākou nō e hoʻomau aku i kāna hana maikaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hāʻule	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	aliʻi	_	_	_	_	_	_	_	_
+10	wahine	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	kahu	_	_	_	_	_	_	_	_
+17	waiwai	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	na	_	_	_	_	_	_	_	_
+20	lākou	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hoʻomau	_	_	_	_	_	_	_	_
+24	aku	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kāna	_	_	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	maikaʻi	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_58
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_59
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_60
+# text = Na lākou nō e hana nei.
+1	Na	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_61
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_62
+# text = A he nui nō paha nā kamaliʻi a ʻoukou e mālama nei i kēia manawa? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	kamaliʻi	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	mālama	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_63
+# text = {Amū,} Molokaʻi, Hilo a me Honolulu nei, he {amū,} nui nō nā kamaliʻi a mākou mālama nei, {amū,} hoʻokahi kaukani, hoʻokahi haneli kanaonokūmāhiku poʻe kamaliʻi.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	Molokaʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Hilo	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	Honolulu	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	{	_	PUNCT	_	_	_	_	_	_
+15	amū	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	}	_	PUNCT	_	_	_	_	_	_
+18	nui	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	kamaliʻi	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	mākou	_	_	_	_	_	_	_	_
+24	mālama	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	{	_	PUNCT	_	_	_	_	_	_
+28	amū	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	}	_	PUNCT	_	_	_	_	_	_
+31	hoʻokahi	_	_	_	_	_	_	_	_
+32	kaukani	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	hoʻokahi	_	_	_	_	_	_	_	_
+35	haneli	_	_	_	_	_	_	_	_
+36	kanaonokūmāhiku	_	_	_	_	_	_	_	_
+37	poʻe	_	_	_	_	_	_	_	_
+38	kamaliʻi	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_64
+# text = Auē, he nui loa kēlā, he nui.
+1	Auē	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_65
+# text = A, he ʻehā haneli me ʻumikūmākahi ʻohana.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	ʻehā	_	_	_	_	_	_	_	_
+5	haneli	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ʻumikūmākahi	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_66
+# text = A mai lai , mai kēia poʻe ʻohana mai, a loaʻa kēia poʻe kamaliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	lai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	loaʻa	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	kamaliʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_67
+# text = ʻĒ, poʻe kamaliʻi Hawaiʻi wale nō? ʻAe, koko Hawaiʻi.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	kamaliʻi	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	koko	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_68
+# text = Inā ʻaʻohe o lākou koko Hawaiʻi, ʻaʻohe hiki iā ʻoukou ke kōkua aku iā lākou? Pololei, ʻaʻole hiki iā mākou ke kōkua aku iā lākou.
+1	Inā	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	koko	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻohe	_	_	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kōkua	_	_	_	_	_	_	_	_
+14	aku	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	Pololei	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻaʻole	_	_	_	_	_	_	_	_
+21	hiki	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	mākou	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	kōkua	_	_	_	_	_	_	_	_
+26	aku	_	_	_	_	_	_	_	_
+27	iā	_	_	_	_	_	_	_	_
+28	lākou	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_69
+# text = ʻO ia ka m , ʻo ia ko Liliʻu makemake? Pololei.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	m	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	Liliʻu	_	_	_	_	_	_	_	_
+10	makemake	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Pololei	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_70
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_71
+# text = Ua ʻano like nō paha kēia hui me nā hui, e, me nā hui ʻē aʻe e like nō me ka hui Pīhopa? Pololei.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻano	_	_	_	_	_	_	_	_
+3	like	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hui	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	hui	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	hui	_	_	_	_	_	_	_	_
+17	ʻē	_	_	_	_	_	_	_	_
+18	aʻe	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	like	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	me	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	hui	_	_	_	_	_	_	_	_
+25	Pīhopa	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	Pololei	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_72
+# text = A me kēia hui ʻo mea, a me ka home ʻo Li , ʻo Lunalilo? ʻAe, ʻae, ʻo ia like.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	home	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Li	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Lunalilo	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻae	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻo	_	_	_	_	_	_	_	_
+23	ia	_	_	_	_	_	_	_	_
+24	like	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_73
+# text = ʻAe, no ka mea, i kēia manawa, ʻaʻohe nui loa ko kākou mau hui Hawaiʻi, nā hui mālama mai i nā poʻe Hawaiʻi i kēia manawa.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻaʻohe	_	_	_	_	_	_	_	_
+12	nui	_	_	_	_	_	_	_	_
+13	loa	_	_	_	_	_	_	_	_
+14	ko	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	hui	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	hui	_	_	_	_	_	_	_	_
+22	mālama	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	nā	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	Hawaiʻi	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	manawa	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_74
+# text = Akā, ʻaʻohe nō paha kākou e nānā wale nō i nā hui kōkua.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻohe	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	nānā	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	hui	_	_	_	_	_	_	_	_
+14	kōkua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_75
+# text = Aia nō paha iā kākou e hāpai like iā kākou iho.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hāpai	_	_	_	_	_	_	_	_
+8	like	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	iho	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_76
+# text = Na kākou ia hana.
+1	Na	_	_	_	_	_	_	_	_
+2	kākou	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_77
+# text = ʻAʻohe nō paha e, ʻaʻole maikaʻi nō ka hana kaukaʻi.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻaʻole	_	_	_	_	_	_	_	_
+7	maikaʻi	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	kaukaʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_78
+# text = Pehea kou manaʻo? Pololei nō ʻoe.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Pololei	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_79
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_80
+# text = A ʻo wai ko ʻoukou luna i ka hui ʻo Liliʻuokalani i kēia, i kēia manawa? Ko mākou luna i kēia manawa, ʻo Mr.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	luna	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hui	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Liliʻuokalani	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	Ko	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	luna	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	manawa	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Mr	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_81
+# text = Masaru Oshiro.
+1	Masaru	_	_	_	_	_	_	_	_
+2	Oshiro	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_82
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_83
+# text = Nāna nō e alakaʻi nei iā ʻoukou, nā poʻe lawelawe hana? Pololei.
+1	Nāna	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	alakaʻi	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	lawelawe	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Pololei	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_84
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_85
+# text = He kanaka maikaʻi ʻo ia.
+1	He	_	_	_	_	_	_	_	_
+2	kanaka	_	_	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_86
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_87
+# text = A ma ke ʻano, ma ke ʻano hea lā ʻoukou e kōkua ai i nā poʻe kamaliʻi me nā poʻe mākua kekahi? {Amū.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	ʻano	_	_	_	_	_	_	_	_
+9	hea	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	kōkua	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	kamaliʻi	_	_	_	_	_	_	_	_
+19	me	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	mākua	_	_	_	_	_	_	_	_
+23	kekahi	_	_	_	_	_	_	_	_
+24	?	_	PUNCT	_	_	_	_	_	_
+25	{	_	PUNCT	_	_	_	_	_	_
+26	Amū	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_88
+# text = } Ma, ma ka hāʻawi ʻana paha i kālā wale nō paha, a pehea? Kekahi, hāʻawi nō mākou iā lākou i ke kālā, kekahi kūkākūkā mua nā poʻe hana me nā mākua no ka pono o nā keiki.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hāʻawi	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kālā	_	_	_	_	_	_	_	_
+11	wale	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paha	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	pehea	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	Kekahi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	hāʻawi	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	iā	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	kālā	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	kūkākūkā	_	_	_	_	_	_	_	_
+31	mua	_	_	_	_	_	_	_	_
+32	nā	_	_	_	_	_	_	_	_
+33	poʻe	_	_	_	_	_	_	_	_
+34	hana	_	_	_	_	_	_	_	_
+35	me	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	mākua	_	_	_	_	_	_	_	_
+38	no	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	pono	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	nā	_	_	_	_	_	_	_	_
+43	keiki	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_89
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_90
+# text = A ʻo kekahi nō hoʻi, hana nō poʻe hana o Liliʻuokalani me nā kamaliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Liliʻuokalani	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	kamaliʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_91
+# text = A he home hānai kamaliʻi ko ʻoukou? ʻAe, aia kēia poʻe home i loko, ma Oʻahu nei.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	home	_	_	_	_	_	_	_	_
+4	hānai	_	_	_	_	_	_	_	_
+5	kamaliʻi	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	aia	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	home	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	loko	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	Oʻahu	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_92
+# text = Kekahi, ʻŌ, ma nā, ma nā home like ʻole o Oʻahu nei? Ma na home like ʻole.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻŌ	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	home	_	_	_	_	_	_	_	_
+11	like	_	_	_	_	_	_	_	_
+12	ʻole	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	Oʻahu	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Ma	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	home	_	_	_	_	_	_	_	_
+20	like	_	_	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_93
+# text = ʻAʻohe nō hoʻokahi hale wale nō, no nā mea, ʻAʻole.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻokahi	_	_	_	_	_	_	_	_
+4	hale	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻAʻole	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_94
+# text = no nā kamaliʻi makua ʻole.
+1	no	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kamaliʻi	_	_	_	_	_	_	_	_
+4	makua	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_95
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_96
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_97
+# text = Kēia poʻe home, aia ma Hauʻula paha kekahi, kekahi ma Waiʻanae, ma Honolulu nei, nā wahi a pau.
+1	Kēia	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	home	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	Hauʻula	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Waiʻanae	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	Honolulu	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	pau	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_98
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_99
+# text = A ʻo nā kamaliʻi koko Hawaiʻi wale nō nā mea i hiki iā ʻoukou ke kōkua aku ai.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	kamaliʻi	_	_	_	_	_	_	_	_
+5	koko	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	hiki	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kōkua	_	_	_	_	_	_	_	_
+17	aku	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_100
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_101
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_102
+# text = A pehea, na ʻoukou nō e hele i waena nō o nā poʻe e huli i kēia poʻe a i ʻole na lākou nō e huli mai iā ʻoukou e noi i kōkua? ʻAʻole na mākou e hele aku, huli i kēia poʻe kamaliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	waena	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	huli	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ʻole	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	huli	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	iā	_	_	_	_	_	_	_	_
+30	ʻoukou	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	noi	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	kōkua	_	_	_	_	_	_	_	_
+35	?	_	PUNCT	_	_	_	_	_	_
+36	ʻAʻole	_	_	_	_	_	_	_	_
+37	na	_	_	_	_	_	_	_	_
+38	mākou	_	_	_	_	_	_	_	_
+39	e	_	_	_	_	_	_	_	_
+40	hele	_	_	_	_	_	_	_	_
+41	aku	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	huli	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	kēia	_	_	_	_	_	_	_	_
+46	poʻe	_	_	_	_	_	_	_	_
+47	kamaliʻi	_	_	_	_	_	_	_	_
+48	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_103
+# text = A, na ka, na ke kula paha kekahi, nā ʻohana, hoaaloha, {amū,} kekahi nō na lākou nō hele mai, noi i kōkua, a kekahi ma, mai ka hoʻokolokolo.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	ʻohana	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hoaaloha	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	{	_	PUNCT	_	_	_	_	_	_
+18	amū	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	}	_	PUNCT	_	_	_	_	_	_
+21	kekahi	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	hele	_	_	_	_	_	_	_	_
+27	mai	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	noi	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	kōkua	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	kekahi	_	_	_	_	_	_	_	_
+35	ma	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	mai	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	hoʻokolokolo	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_104
+# text = Mai ka hale hoʻokolokolo? Mai laila mai.
+1	Mai	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hale	_	_	_	_	_	_	_	_
+4	hoʻokolokolo	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Mai	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_105
+# text = Na lā Yeah.
+1	Na	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	Yeah	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_106
+# text = ʻŌ, ʻē.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_107
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_108
+# text = } A he, a, kā ʻoukou hana, he hele nō, i waena nō o nā poʻe makemake i ke kōkua, a ma laila nō ʻo ʻoukou e kōkua ai ma, ma ka home nō, Ma a i ʻole, na lākou nō e kipa mai i ko ʻoukou keʻena i Kapālama? A, kekahi hele mai nō i ke keʻena ʻo Liliʻuokalani, kekahi nō poʻe ʻohana, ʻaʻohe paha o lākou kaʻa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	hele	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	waena	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	poʻe	_	_	_	_	_	_	_	_
+21	makemake	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	kōkua	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	laila	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	ʻo	_	_	_	_	_	_	_	_
+31	ʻoukou	_	_	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	kōkua	_	_	_	_	_	_	_	_
+34	ai	_	_	_	_	_	_	_	_
+35	ma	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ma	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	home	_	_	_	_	_	_	_	_
+40	nō	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	Ma	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	ʻole	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	na	_	_	_	_	_	_	_	_
+48	lākou	_	_	_	_	_	_	_	_
+49	nō	_	_	_	_	_	_	_	_
+50	e	_	_	_	_	_	_	_	_
+51	kipa	_	_	_	_	_	_	_	_
+52	mai	_	_	_	_	_	_	_	_
+53	i	_	_	_	_	_	_	_	_
+54	ko	_	_	_	_	_	_	_	_
+55	ʻoukou	_	_	_	_	_	_	_	_
+56	keʻena	_	_	_	_	_	_	_	_
+57	i	_	_	_	_	_	_	_	_
+58	Kapālama	_	_	_	_	_	_	_	_
+59	?	_	PUNCT	_	_	_	_	_	_
+60	A	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	kekahi	_	_	_	_	_	_	_	_
+63	hele	_	_	_	_	_	_	_	_
+64	mai	_	_	_	_	_	_	_	_
+65	nō	_	_	_	_	_	_	_	_
+66	i	_	_	_	_	_	_	_	_
+67	ke	_	_	_	_	_	_	_	_
+68	keʻena	_	_	_	_	_	_	_	_
+69	ʻo	_	_	_	_	_	_	_	_
+70	Liliʻuokalani	_	_	_	_	_	_	_	_
+71	,	_	PUNCT	_	_	_	_	_	_
+72	kekahi	_	_	_	_	_	_	_	_
+73	nō	_	_	_	_	_	_	_	_
+74	poʻe	_	_	_	_	_	_	_	_
+75	ʻohana	_	_	_	_	_	_	_	_
+76	,	_	PUNCT	_	_	_	_	_	_
+77	ʻaʻohe	_	_	_	_	_	_	_	_
+78	paha	_	_	_	_	_	_	_	_
+79	o	_	_	_	_	_	_	_	_
+80	lākou	_	_	_	_	_	_	_	_
+81	kaʻa	_	_	_	_	_	_	_	_
+82	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_109
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_110
+# text = Hele nō mākou i ko lākou hale.
+1	Hele	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	hale	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_111
+# text = Kekahi manawa, hele nō mākou i ka haukapila paha, nā wahi a pau.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	haukapila	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	wahi	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	pau	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_112
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_113
+# text = A ʻo kēia poʻe, poʻe Hawaiʻi ka nui o lākou, ʻeā? Pololei.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻeā	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Pololei	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_114
+# text = Poʻe Hawaiʻi wale nō.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_115
+# text = Poʻe Hawaiʻi.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_116
+# text = Poʻe Hawaiʻi wale nō.
+1	Poʻe	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_117
+# text = A inā nō he poʻe Hawaiʻi, he mau mea ʻokoʻa nō paha ma loko pono nō o ko lākou ola ʻana, ʻaʻohe nō i kūleki kūlike nō me ke ʻano o ka haole a me nā lāhui ʻē aʻe, ke ʻano o ka noho ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	ʻokoʻa	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paha	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	loko	_	_	_	_	_	_	_	_
+16	pono	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ko	_	_	_	_	_	_	_	_
+20	lākou	_	_	_	_	_	_	_	_
+21	ola	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻaʻohe	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	kūleki	_	_	_	_	_	_	_	_
+28	kūlike	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	me	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	ʻano	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	haole	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	me	_	_	_	_	_	_	_	_
+38	nā	_	_	_	_	_	_	_	_
+39	lāhui	_	_	_	_	_	_	_	_
+40	ʻē	_	_	_	_	_	_	_	_
+41	aʻe	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ke	_	_	_	_	_	_	_	_
+44	ʻano	_	_	_	_	_	_	_	_
+45	o	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	noho	_	_	_	_	_	_	_	_
+48	ʻana	_	_	_	_	_	_	_	_
+49	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_118
+# text = No laila paha, a, huli, huli naʻauao paha nō ʻoukou i nā mea e pili ana i ke ʻano o ka noho ʻana o ka Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	huli	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	huli	_	_	_	_	_	_	_	_
+10	naʻauao	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ʻoukou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	pili	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	ʻano	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	noho	_	_	_	_	_	_	_	_
+26	ʻana	_	_	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	Hawaiʻi	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_119
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_120
+# text = A, ma ke aha, ma ke ʻano hea lā ʻoukou e kōkua ai ma kēia māhele ʻo ka noho ʻana o ka Hawaiʻi? {Amū.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	ʻano	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kōkua	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	māhele	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	noho	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	?	_	PUNCT	_	_	_	_	_	_
+27	{	_	PUNCT	_	_	_	_	_	_
+28	Amū	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_121
+# text = } A, He poʻe, A, a, aʻo nō paha ʻoukou i ka ʻōlelo Hawaiʻi a i ʻole a hoʻomaopopo ihola nō paha i nā m , i nā loina o ka Hawaiʻi? Pololei, kā mākou kōkua ʻana me, n , me nā ʻohana a mākou e k , {amū,} mālama nei i kēia manawa, ma nā ʻike o ke au kahiko.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	He	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	aʻo	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paha	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻōlelo	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	hoʻomaopopo	_	_	_	_	_	_	_	_
+24	ihola	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	nā	_	_	_	_	_	_	_	_
+29	m	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	nā	_	_	_	_	_	_	_	_
+33	loina	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	Hawaiʻi	_	_	_	_	_	_	_	_
+37	?	_	PUNCT	_	_	_	_	_	_
+38	Pololei	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	kā	_	_	_	_	_	_	_	_
+41	mākou	_	_	_	_	_	_	_	_
+42	kōkua	_	_	_	_	_	_	_	_
+43	ʻana	_	_	_	_	_	_	_	_
+44	me	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	n	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	me	_	_	_	_	_	_	_	_
+49	nā	_	_	_	_	_	_	_	_
+50	ʻohana	_	_	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	mākou	_	_	_	_	_	_	_	_
+53	e	_	_	_	_	_	_	_	_
+54	k	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	{	_	PUNCT	_	_	_	_	_	_
+57	amū	_	_	_	_	_	_	_	_
+58	,	_	PUNCT	_	_	_	_	_	_
+59	}	_	PUNCT	_	_	_	_	_	_
+60	mālama	_	_	_	_	_	_	_	_
+61	nei	_	_	_	_	_	_	_	_
+62	i	_	_	_	_	_	_	_	_
+63	kēia	_	_	_	_	_	_	_	_
+64	manawa	_	_	_	_	_	_	_	_
+65	,	_	PUNCT	_	_	_	_	_	_
+66	ma	_	_	_	_	_	_	_	_
+67	nā	_	_	_	_	_	_	_	_
+68	ʻike	_	_	_	_	_	_	_	_
+69	o	_	_	_	_	_	_	_	_
+70	ke	_	_	_	_	_	_	_	_
+71	au	_	_	_	_	_	_	_	_
+72	kahiko	_	_	_	_	_	_	_	_
+73	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_122
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_123
+# text = ʻO ko kāua lāhui ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	kāua	_	_	_	_	_	_	_	_
+4	lāhui	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_124
+# text = ma laila, {amū.
+1	ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	amū	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_125
+# text = } No ka mea, he ʻokoʻa loa nō kekahi ʻano m , loina o ka Hawaiʻi, ka nui nō o ka loina kahiko.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	ʻokoʻa	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	m	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	loina	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	nui	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	loina	_	_	_	_	_	_	_	_
+25	kahiko	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_126
+# text = Ua noʻonoʻo paha kekahi poʻe o kēia au hou, a, ua hala nō paha kēlā mau mea, akā aia nō paha kekahi mau mea ke ola mai nei.
+1	Ua	_	_	_	_	_	_	_	_
+2	noʻonoʻo	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	au	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ua	_	_	_	_	_	_	_	_
+14	hala	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	paha	_	_	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	mau	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	akā	_	_	_	_	_	_	_	_
+22	aia	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	kekahi	_	_	_	_	_	_	_	_
+26	mau	_	_	_	_	_	_	_	_
+27	mea	_	_	_	_	_	_	_	_
+28	ke	_	_	_	_	_	_	_	_
+29	ola	_	_	_	_	_	_	_	_
+30	mai	_	_	_	_	_	_	_	_
+31	nei	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_127
+# text = Aia nō kekahi, ʻAe.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_128
+# text = ke ola nei.
+1	ke	_	_	_	_	_	_	_	_
+2	ola	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_129
+# text = A, ke ʻoe noʻonoʻo he n , poʻe loina maikaʻi no ko kāua lā , a, kūpuna.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	noʻonoʻo	_	_	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	n	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	loina	_	_	_	_	_	_	_	_
+11	maikaʻi	_	_	_	_	_	_	_	_
+12	no	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	kāua	_	_	_	_	_	_	_	_
+15	lā	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kūpuna	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_130
+# text = Pololei, pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_131
+# text = Akā, no ka huikau nō paha ka noho ʻana i kēia au.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	huikau	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	noho	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	au	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_132
+# text = Nalowale loa.
+1	Nalowale	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_133
+# text = A ʻo ia.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_134
+# text = Ma laila nō paha kahi pilikia.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	kahi	_	_	_	_	_	_	_	_
+6	pilikia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_135
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_136
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_137
+# text = Ma laila ka, a, ka pilikia o ko kākou poʻe kamaliʻi i kēia manawa.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pilikia	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	kākou	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	kamaliʻi	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	manawa	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_138
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_139
+# text = E kala mai, e hoʻolaha ana nō ke keiki i wahi hoʻolaha na kākou o kēia kahua, KCCN.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻolaha	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	keiki	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	hoʻolaha	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	kahua	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	KCCN	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_140
+# text = ʻAe, ua kūkākūkā ihola kāua pili ana nō i nā loina o ke au kahiko.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	kūkākūkā	_	_	_	_	_	_	_	_
+5	ihola	_	_	_	_	_	_	_	_
+6	kāua	_	_	_	_	_	_	_	_
+7	pili	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	loina	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	kahiko	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_141
+# text = A, hiki nō paha iā ʻoe ke wehewehe mai i kekahi mau loina a ʻoukou i, i hoʻomaopopo ai i kēia manawa no ka pilina nō o kēia mau lo loina i loko nō o kēia manawa e, a kākou e noho nei? Maopopo paha iā ʻoe kekahi mau loina a ka Hawaiʻi? A pehea, pehea kou manaʻo i kēia mea ʻo ka hoʻoponopono? Koʻu manaʻo, he mea maikaʻi kēia, no ka mea, noʻu iho, ua noho wau, a, me koʻu ʻohana i loko nō hoʻi o nā pōpilikia a mākou, a, ʻākoakoa mākou nā ʻohana, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	wehewehe	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kekahi	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	loina	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hoʻomaopopo	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	manawa	_	_	_	_	_	_	_	_
+25	no	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	pilina	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	kēia	_	_	_	_	_	_	_	_
+31	mau	_	_	_	_	_	_	_	_
+32	lo	_	_	_	_	_	_	_	_
+33	loina	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	loko	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	kēia	_	_	_	_	_	_	_	_
+39	manawa	_	_	_	_	_	_	_	_
+40	e	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	a	_	_	_	_	_	_	_	_
+43	kākou	_	_	_	_	_	_	_	_
+44	e	_	_	_	_	_	_	_	_
+45	noho	_	_	_	_	_	_	_	_
+46	nei	_	_	_	_	_	_	_	_
+47	?	_	PUNCT	_	_	_	_	_	_
+48	Maopopo	_	_	_	_	_	_	_	_
+49	paha	_	_	_	_	_	_	_	_
+50	iā	_	_	_	_	_	_	_	_
+51	ʻoe	_	_	_	_	_	_	_	_
+52	kekahi	_	_	_	_	_	_	_	_
+53	mau	_	_	_	_	_	_	_	_
+54	loina	_	_	_	_	_	_	_	_
+55	a	_	_	_	_	_	_	_	_
+56	ka	_	_	_	_	_	_	_	_
+57	Hawaiʻi	_	_	_	_	_	_	_	_
+58	?	_	PUNCT	_	_	_	_	_	_
+59	A	_	_	_	_	_	_	_	_
+60	pehea	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	pehea	_	_	_	_	_	_	_	_
+63	kou	_	_	_	_	_	_	_	_
+64	manaʻo	_	_	_	_	_	_	_	_
+65	i	_	_	_	_	_	_	_	_
+66	kēia	_	_	_	_	_	_	_	_
+67	mea	_	_	_	_	_	_	_	_
+68	ʻo	_	_	_	_	_	_	_	_
+69	ka	_	_	_	_	_	_	_	_
+70	hoʻoponopono	_	_	_	_	_	_	_	_
+71	?	_	PUNCT	_	_	_	_	_	_
+72	Koʻu	_	_	_	_	_	_	_	_
+73	manaʻo	_	_	_	_	_	_	_	_
+74	,	_	PUNCT	_	_	_	_	_	_
+75	he	_	_	_	_	_	_	_	_
+76	mea	_	_	_	_	_	_	_	_
+77	maikaʻi	_	_	_	_	_	_	_	_
+78	kēia	_	_	_	_	_	_	_	_
+79	,	_	PUNCT	_	_	_	_	_	_
+80	no	_	_	_	_	_	_	_	_
+81	ka	_	_	_	_	_	_	_	_
+82	mea	_	_	_	_	_	_	_	_
+83	,	_	PUNCT	_	_	_	_	_	_
+84	noʻu	_	_	_	_	_	_	_	_
+85	iho	_	_	_	_	_	_	_	_
+86	,	_	PUNCT	_	_	_	_	_	_
+87	ua	_	_	_	_	_	_	_	_
+88	noho	_	_	_	_	_	_	_	_
+89	wau	_	_	_	_	_	_	_	_
+90	,	_	PUNCT	_	_	_	_	_	_
+91	a	_	_	_	_	_	_	_	_
+92	,	_	PUNCT	_	_	_	_	_	_
+93	me	_	_	_	_	_	_	_	_
+94	koʻu	_	_	_	_	_	_	_	_
+95	ʻohana	_	_	_	_	_	_	_	_
+96	i	_	_	_	_	_	_	_	_
+97	loko	_	_	_	_	_	_	_	_
+98	nō	_	_	_	_	_	_	_	_
+99	hoʻi	_	_	_	_	_	_	_	_
+100	o	_	_	_	_	_	_	_	_
+101	nā	_	_	_	_	_	_	_	_
+102	pōpilikia	_	_	_	_	_	_	_	_
+103	a	_	_	_	_	_	_	_	_
+104	mākou	_	_	_	_	_	_	_	_
+105	,	_	PUNCT	_	_	_	_	_	_
+106	a	_	_	_	_	_	_	_	_
+107	,	_	PUNCT	_	_	_	_	_	_
+108	ʻākoakoa	_	_	_	_	_	_	_	_
+109	mākou	_	_	_	_	_	_	_	_
+110	nā	_	_	_	_	_	_	_	_
+111	ʻohana	_	_	_	_	_	_	_	_
+112	,	_	PUNCT	_	_	_	_	_	_
+113	ʻAe	_	_	_	_	_	_	_	_
+114	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_142
+# text = a, hoʻoponopono.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻoponopono	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_143
+# text = Hoʻoponopono.
+1	Hoʻoponopono	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_144
+# text = Ma k , ma ke ʻano kūkākūkā? Kekahi manawa, kūkākūkā wale nō, kekahi manawa me ka, leo pule, ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	k	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	kūkākūkā	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Kekahi	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kūkākūkā	_	_	_	_	_	_	_	_
+13	wale	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kekahi	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	leo	_	_	_	_	_	_	_	_
+22	pule	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_145
+# text = me ka Paipala, nō hoʻi, wehe i ka Paipala.
+1	me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	Paipala	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	wehe	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	Paipala	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_146
+# text = A ma laila nō ʻoe e hoʻoponopono ai i ka pilikia, ʻae? Pololei.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻoponopono	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	pilikia	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻae	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Pololei	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_147
+# text = A he aha hoʻi kēia mea ʻo ka, ka hehikū aʻu i lohe ai? Pehea kou manaʻo i kēia, he loina paha, he manaʻo nō paha kēia i ka poʻe Hawaiʻi, he aha ka manaʻo nui o ka hehikū? He loina nō paha.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hehikū	_	_	_	_	_	_	_	_
+12	aʻu	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	lohe	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Pehea	_	_	_	_	_	_	_	_
+18	kou	_	_	_	_	_	_	_	_
+19	manaʻo	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	loina	_	_	_	_	_	_	_	_
+25	paha	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	he	_	_	_	_	_	_	_	_
+28	manaʻo	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	paha	_	_	_	_	_	_	_	_
+31	kēia	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	poʻe	_	_	_	_	_	_	_	_
+35	Hawaiʻi	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	he	_	_	_	_	_	_	_	_
+38	aha	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	manaʻo	_	_	_	_	_	_	_	_
+41	nui	_	_	_	_	_	_	_	_
+42	o	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	hehikū	_	_	_	_	_	_	_	_
+45	?	_	PUNCT	_	_	_	_	_	_
+46	He	_	_	_	_	_	_	_	_
+47	loina	_	_	_	_	_	_	_	_
+48	nō	_	_	_	_	_	_	_	_
+49	paha	_	_	_	_	_	_	_	_
+50	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_148
+# text = {Amū,} koʻu manaʻo, ʻaʻole wau maopopo loa, maliʻa paha, he poʻe nō, a e hoʻolohe nei, hiki iā lākou ke kōkua iā kāua.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	}	_	PUNCT	_	_	_	_	_	_
+5	koʻu	_	_	_	_	_	_	_	_
+6	manaʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻole	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	maopopo	_	_	_	_	_	_	_	_
+11	loa	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	maliʻa	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	hoʻolohe	_	_	_	_	_	_	_	_
+23	nei	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	hiki	_	_	_	_	_	_	_	_
+26	iā	_	_	_	_	_	_	_	_
+27	lākou	_	_	_	_	_	_	_	_
+28	ke	_	_	_	_	_	_	_	_
+29	kōkua	_	_	_	_	_	_	_	_
+30	iā	_	_	_	_	_	_	_	_
+31	kāua	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_149
+# text = {Aha.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Aha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_150
+# text = } ʻAe, ua pololei nō ʻoe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_151
+# text = Aia nō paha kekahi o ʻoukou e hoʻolohe mai nei i kēia ahiahi, maopopo nō paha iā ʻoukou kekahi mau loina ke ola nei nō i loko nō o ko kākou manawa.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻolohe	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	ahiahi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	maopopo	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	paha	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	kekahi	_	_	_	_	_	_	_	_
+21	mau	_	_	_	_	_	_	_	_
+22	loina	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	ola	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	loko	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	ko	_	_	_	_	_	_	_	_
+32	kākou	_	_	_	_	_	_	_	_
+33	manawa	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_152
+# text = A, no laila, e hoʻolaha ana au i, i nā helu kelepona i hiki iā ʻoukou ke kelepona mai, inā makemake nō ʻoukou e wehewehe mai i ko ʻoukou manaʻo, a, inā paha he nīnau kā ʻoukou.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	helu	_	_	_	_	_	_	_	_
+15	kelepona	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	hiki	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	kelepona	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	inā	_	_	_	_	_	_	_	_
+25	makemake	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	ʻoukou	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	wehewehe	_	_	_	_	_	_	_	_
+30	mai	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	ko	_	_	_	_	_	_	_	_
+33	ʻoukou	_	_	_	_	_	_	_	_
+34	manaʻo	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	inā	_	_	_	_	_	_	_	_
+39	paha	_	_	_	_	_	_	_	_
+40	he	_	_	_	_	_	_	_	_
+41	nīnau	_	_	_	_	_	_	_	_
+42	kā	_	_	_	_	_	_	_	_
+43	ʻoukou	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_153
+# text = A eia nā helu kelepona, ʻo ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻehā.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	helu	_	_	_	_	_	_	_	_
+10	ʻeiwa	_	_	_	_	_	_	_	_
+11	ʻelua	_	_	_	_	_	_	_	_
+12	ʻekolu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻekahi	_	_	_	_	_	_	_	_
+15	ʻewalu	_	_	_	_	_	_	_	_
+16	ʻehā	_	_	_	_	_	_	_	_
+17	ʻehā	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_154
+# text = Ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Ka	_	_	_	_	_	_	_	_
+2	helu	_	_	_	_	_	_	_	_
+3	ʻeiwa	_	_	_	_	_	_	_	_
+4	ʻelua	_	_	_	_	_	_	_	_
+5	ʻekolu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	ʻehā	_	_	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻekolu	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_155
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_156
+# text = Ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	Ka	_	_	_	_	_	_	_	_
+2	helu	_	_	_	_	_	_	_	_
+3	ʻeiwa	_	_	_	_	_	_	_	_
+4	ʻelua	_	_	_	_	_	_	_	_
+5	ʻekolu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	ʻehā	_	_	_	_	_	_	_	_
+9	ʻole	_	_	_	_	_	_	_	_
+10	ʻelua	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_157
+# text = A ʻo ia ihola nō nā helu.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ihola	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	helu	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_158
+# text = Inā nō he manaʻo nō paha ko ʻoukou e kelepona mai, a wehewehe mai, a inā nō he nīnau nō, e nīnau mai.
+1	Inā	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kelepona	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	wehewehe	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	inā	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	nīnau	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	nīnau	_	_	_	_	_	_	_	_
+26	mai	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_159
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_160
+# text = A ʻo wai ka i ʻo wai ka mea e kōkua nei iā ʻoukou ma kēia mea ʻo nā, ʻo nā loina Hawaiʻi, nā loina kahiko? A, {Amū,} he ʻekolu, a, {amū,} hoʻokahi wale nō, {amū,} a, Tūtū Mary Kawena Pukui.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	wai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	loina	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	loina	_	_	_	_	_	_	_	_
+28	kahiko	_	_	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+30	A	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	{	_	PUNCT	_	_	_	_	_	_
+33	Amū	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	}	_	PUNCT	_	_	_	_	_	_
+36	he	_	_	_	_	_	_	_	_
+37	ʻekolu	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	{	_	PUNCT	_	_	_	_	_	_
+42	amū	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	}	_	PUNCT	_	_	_	_	_	_
+45	hoʻokahi	_	_	_	_	_	_	_	_
+46	wale	_	_	_	_	_	_	_	_
+47	nō	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	{	_	PUNCT	_	_	_	_	_	_
+50	amū	_	_	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	}	_	PUNCT	_	_	_	_	_	_
+53	a	_	_	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	Tūtū	_	_	_	_	_	_	_	_
+56	Mary	_	_	_	_	_	_	_	_
+57	Kawena	_	_	_	_	_	_	_	_
+58	Pukui	_	_	_	_	_	_	_	_
+59	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_161
+# text = Nāna i, ʻO ia ka mea e kōkua nei iā mākou ma nā ʻike o ka poʻe Hawaiʻi.
+1	Nāna	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻO	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	kōkua	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	ʻike	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_162
+# text = ʻAe, mahalo nui nō iā ia.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_163
+# text = Mahalo nō ko mākou iā ia.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_164
+# text = A he aha ke ʻano o nā poʻe lawelawe hana, ma kēia hui Liliʻuokalani? He nui wale? No ka mea, He n i kēia manawa nō, a, he nui nō nā ʻano poʻe hana.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	lawelawe	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	hui	_	_	_	_	_	_	_	_
+15	Liliʻuokalani	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	He	_	_	_	_	_	_	_	_
+18	nui	_	_	_	_	_	_	_	_
+19	wale	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	No	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	mea	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	He	_	_	_	_	_	_	_	_
+26	n	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	manawa	_	_	_	_	_	_	_	_
+30	nō	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	he	_	_	_	_	_	_	_	_
+35	nui	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	nā	_	_	_	_	_	_	_	_
+38	ʻano	_	_	_	_	_	_	_	_
+39	poʻe	_	_	_	_	_	_	_	_
+40	hana	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_165
+# text = ʻAʻohe nō hoʻokahi ʻano e like nō me ke au kahiko.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻokahi	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	like	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	kahiko	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_166
+# text = He nui nō nā ʻano kāhuna, pēlā nō paha i kēia manawa iā kākou? Pololei, pēlā nō.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	kāhuna	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	pēlā	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Pololei	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	pēlā	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_167
+# text = He nui nō nā ʻano hana a mākou e hana nei me ka poʻe ʻohana.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	ʻohana	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_168
+# text = A, kūkulu kumuhana, hoʻoponopono, palekāna , lawe hānai, hānai, kōkua, nānā i ke kumu, hana me nā ʻoihana ʻē aʻe, ma ka wahi noho o ka poʻe Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kūkulu	_	_	_	_	_	_	_	_
+4	kumuhana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻoponopono	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	palekāna	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	lawe	_	_	_	_	_	_	_	_
+11	hānai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hānai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kōkua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	nānā	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	kumu	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hana	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	ʻoihana	_	_	_	_	_	_	_	_
+26	ʻē	_	_	_	_	_	_	_	_
+27	aʻe	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ma	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	wahi	_	_	_	_	_	_	_	_
+32	noho	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	poʻe	_	_	_	_	_	_	_	_
+36	Hawaiʻi	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_169
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_170
+# text = O, A ʻo kēia mea ʻo ka, ʻo, ʻo ka nānā i ke kumu, ʻo ia nō ka inoa o kēia poʻe hana? ʻAʻole, nānā i ke kumu, he me , he mea, ka ʻike o ka poʻe Hawaiʻi i ke au kahiko, ē? Nānā nō i ke kumu o, {Aha.
+1	O	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	A	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	nānā	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	kumu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	ia	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	inoa	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	ʻAʻole	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	nānā	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ke	_	_	_	_	_	_	_	_
+34	kumu	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	he	_	_	_	_	_	_	_	_
+37	me	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	he	_	_	_	_	_	_	_	_
+40	mea	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	ʻike	_	_	_	_	_	_	_	_
+44	o	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	poʻe	_	_	_	_	_	_	_	_
+47	Hawaiʻi	_	_	_	_	_	_	_	_
+48	i	_	_	_	_	_	_	_	_
+49	ke	_	_	_	_	_	_	_	_
+50	au	_	_	_	_	_	_	_	_
+51	kahiko	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	ē	_	_	_	_	_	_	_	_
+54	?	_	PUNCT	_	_	_	_	_	_
+55	Nānā	_	_	_	_	_	_	_	_
+56	nō	_	_	_	_	_	_	_	_
+57	i	_	_	_	_	_	_	_	_
+58	ke	_	_	_	_	_	_	_	_
+59	kumu	_	_	_	_	_	_	_	_
+60	o	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	{	_	PUNCT	_	_	_	_	_	_
+63	Aha	_	_	_	_	_	_	_	_
+64	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_171
+# text = } I hiki, o nā ʻike a ka Hawaiʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_172
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_173
+# text = A ʻo ka palekana.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	palekana	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_174
+# text = Palekana he mea, poʻe, {amū,} mākua, {amū,} ʻaʻole i male me ka pēpē.
+1	Palekana	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	{	_	PUNCT	_	_	_	_	_	_
+8	amū	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	}	_	PUNCT	_	_	_	_	_	_
+11	mākua	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	{	_	PUNCT	_	_	_	_	_	_
+14	amū	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	}	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻole	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	male	_	_	_	_	_	_	_	_
+20	me	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	pēpē	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_175
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_176
+# text = ʻO nā kaikamahine male ʻole? Pololei, kaikamahine male ʻole, pololei.
+1	ʻO	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kaikamahine	_	_	_	_	_	_	_	_
+4	male	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Pololei	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kaikamahine	_	_	_	_	_	_	_	_
+10	male	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	pololei	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_177
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_178
+# text = Palekana.
+1	Palekana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_179
+# text = No ka mea, ʻo koʻu I koʻu manaʻo, ʻo ka huaʻōlelo palekana, ʻo ia nō, a, ka manaʻo o he ʻohana nō kēia, ʻeā? {Uhu.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	I	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	manaʻo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	huaʻōlelo	_	_	_	_	_	_	_	_
+14	palekana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	manaʻo	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	he	_	_	_	_	_	_	_	_
+26	ʻohana	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻeā	_	_	_	_	_	_	_	_
+31	?	_	PUNCT	_	_	_	_	_	_
+32	{	_	PUNCT	_	_	_	_	_	_
+33	Uhu	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_180
+# text = } Ka palekana, pili nō i ka ʻohana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ka	_	_	_	_	_	_	_	_
+3	palekana	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pili	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻohana	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_181
+# text = Inā nō kāua he ʻohana, he, he palekana nō paha kāua.
+1	Inā	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kāua	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	he	_	_	_	_	_	_	_	_
+10	palekana	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	paha	_	_	_	_	_	_	_	_
+13	kāua	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_182
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_183
+# text = } Pēlā nō koʻu hoʻomaopopo ʻana, ʻaʻohe paha pololei loa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Pēlā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	hoʻomaopopo	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻohe	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	pololei	_	_	_	_	_	_	_	_
+11	loa	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_184
+# text = A, ʻo ke kū , kūkulu kumuhana, he aha ia mea? Hana, m , mea, poʻe hana o Liliʻuokalani, kekahi nō ka po a, ka ha lawelawe ʻana, ʻĒ, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kū	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kūkulu	_	_	_	_	_	_	_	_
+8	kumuhana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	aha	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Hana	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	m	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	poʻe	_	_	_	_	_	_	_	_
+22	hana	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	Liliʻuokalani	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	kekahi	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	po	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	ha	_	_	_	_	_	_	_	_
+34	lawelawe	_	_	_	_	_	_	_	_
+35	ʻana	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ʻĒ	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	ʻē	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_185
+# text = me nā ʻohana.
+1	me	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_186
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_187
+# text = } Hele lākou kūkākūkā pū me ka ʻohana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Hele	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	kūkākūkā	_	_	_	_	_	_	_	_
+5	pū	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_188
+# text = ʻO lākou wale nō.
+1	ʻO	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_189
+# text = Ma waena o lākou wale nō, ē? ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	waena	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ē	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_190
+# text = A kēia hana a ʻoukou nō e hana nei, a, hele mua nō ʻoukou e huli i nā kamaliʻi ma mua nō o nā mākua, ʻeā? Hi Hana, hana nō ʻoukou me nā kamaliʻi, ʻo ia ka mua.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	mua	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	huli	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	kamaliʻi	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	mua	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	mākua	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻeā	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	Hi	_	_	_	_	_	_	_	_
+32	Hana	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	hana	_	_	_	_	_	_	_	_
+35	nō	_	_	_	_	_	_	_	_
+36	ʻoukou	_	_	_	_	_	_	_	_
+37	me	_	_	_	_	_	_	_	_
+38	nā	_	_	_	_	_	_	_	_
+39	kamaliʻi	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻo	_	_	_	_	_	_	_	_
+42	ia	_	_	_	_	_	_	_	_
+43	ka	_	_	_	_	_	_	_	_
+44	mua	_	_	_	_	_	_	_	_
+45	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_191
+# text = Kā mākou hana n , no ka pono o ka poʻe kamaliʻi, akā nō naʻe, hana nō mākou me nā mākua, i hiki iā, iā lākou ke, {amū,} mālama i ko lākou poʻe kamaliʻi.
+1	Kā	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	n	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pono	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	kamaliʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	akā	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	naʻe	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hana	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	mākua	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	hiki	_	_	_	_	_	_	_	_
+27	iā	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	iā	_	_	_	_	_	_	_	_
+30	lākou	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	{	_	PUNCT	_	_	_	_	_	_
+34	amū	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	}	_	PUNCT	_	_	_	_	_	_
+37	mālama	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	ko	_	_	_	_	_	_	_	_
+40	lākou	_	_	_	_	_	_	_	_
+41	poʻe	_	_	_	_	_	_	_	_
+42	kamaliʻi	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_192
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_193
+# text = A mai, maiā wai mai kēia, a, kōkua, a, kēia kōkua i ka hui, he hui mālama waiwai nō kēia ʻo Liliʻuokalani, ʻeā? A mai kona ʻāina mai nō ka waiwai, ka, ke kākoʻo? Pololei, ma kona poʻe ʻāina ma ʻaneʻi, ma Hawaiʻi, a nā ʻāina hoʻolimalima ʻia, mai laila mai kēia waiwai kālā.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	maiā	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	kōkua	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	hui	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	he	_	_	_	_	_	_	_	_
+22	hui	_	_	_	_	_	_	_	_
+23	mālama	_	_	_	_	_	_	_	_
+24	waiwai	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	Liliʻuokalani	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻeā	_	_	_	_	_	_	_	_
+31	?	_	PUNCT	_	_	_	_	_	_
+32	A	_	_	_	_	_	_	_	_
+33	mai	_	_	_	_	_	_	_	_
+34	kona	_	_	_	_	_	_	_	_
+35	ʻāina	_	_	_	_	_	_	_	_
+36	mai	_	_	_	_	_	_	_	_
+37	nō	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	waiwai	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ke	_	_	_	_	_	_	_	_
+44	kākoʻo	_	_	_	_	_	_	_	_
+45	?	_	PUNCT	_	_	_	_	_	_
+46	Pololei	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	ma	_	_	_	_	_	_	_	_
+49	kona	_	_	_	_	_	_	_	_
+50	poʻe	_	_	_	_	_	_	_	_
+51	ʻāina	_	_	_	_	_	_	_	_
+52	ma	_	_	_	_	_	_	_	_
+53	ʻaneʻi	_	_	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	ma	_	_	_	_	_	_	_	_
+56	Hawaiʻi	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	a	_	_	_	_	_	_	_	_
+59	nā	_	_	_	_	_	_	_	_
+60	ʻāina	_	_	_	_	_	_	_	_
+61	hoʻolimalima	_	_	_	_	_	_	_	_
+62	ʻia	_	_	_	_	_	_	_	_
+63	,	_	PUNCT	_	_	_	_	_	_
+64	mai	_	_	_	_	_	_	_	_
+65	laila	_	_	_	_	_	_	_	_
+66	mai	_	_	_	_	_	_	_	_
+67	kēia	_	_	_	_	_	_	_	_
+68	waiwai	_	_	_	_	_	_	_	_
+69	kālā	_	_	_	_	_	_	_	_
+70	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_194
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_195
+# text = A, me kēia kālā, hiki iā mākou ke kōkua aku i nā poʻe kamaliʻi ma lalo o mākou.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	kālā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hiki	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	aku	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	kamaliʻi	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	lalo	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_196
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_197
+# text = He nui nō ka ʻāina o Liliʻuokalani? He nui nō.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Liliʻuokalani	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	He	_	_	_	_	_	_	_	_
+10	nui	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_198
+# text = He nui nō.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_199
+# text = Aia i hea nō ka nui o kēia poʻe ʻāina? Ma Honolulu nei, Ma O m , ma Oʻahu nei.
+1	Aia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hea	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Ma	_	_	_	_	_	_	_	_
+13	Honolulu	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	Ma	_	_	_	_	_	_	_	_
+17	O	_	_	_	_	_	_	_	_
+18	m	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	Oʻahu	_	_	_	_	_	_	_	_
+22	nei	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_200
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_201
+# text = A ua ʻano lohe liʻiliʻi au, he inoa ʻāina nō ko ʻoukou ko, ko ka ʻāina o kēia hale, {amū,} ka hale o ka hui Liliʻuokalani.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	liʻiliʻi	_	_	_	_	_	_	_	_
+6	au	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	ʻoukou	_	_	_	_	_	_	_	_
+14	ko	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻāina	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	hale	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	{	_	PUNCT	_	_	_	_	_	_
+24	amū	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	}	_	PUNCT	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	hale	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	hui	_	_	_	_	_	_	_	_
+32	Liliʻuokalani	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_202
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_203
+# text = ʻO Kapālama nō paha ka ʻāina nui, a i ʻole he, he inoa liʻiliʻi nō ko kēia wahi o, o, ʻoukou, ko ʻoukou hale? K , Kapālama he inoa kēlā o kēlā wahi.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kapālama	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	inoa	_	_	_	_	_	_	_	_
+16	liʻiliʻi	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ko	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	wahi	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻoukou	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ko	_	_	_	_	_	_	_	_
+28	ʻoukou	_	_	_	_	_	_	_	_
+29	hale	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	K	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Kapālama	_	_	_	_	_	_	_	_
+34	he	_	_	_	_	_	_	_	_
+35	inoa	_	_	_	_	_	_	_	_
+36	kēlā	_	_	_	_	_	_	_	_
+37	o	_	_	_	_	_	_	_	_
+38	kēlā	_	_	_	_	_	_	_	_
+39	wahi	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_204
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_205
+# text = Akā, ʻo ko mākou keʻena, aia ma luna o kēia ʻāina o Li , no Liliʻuokalani nō, akā, ma mua o ke kūkulu ʻia ʻana o ko mākou keʻena ma laila.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	keʻena	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aia	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	luna	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	ʻāina	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	Li	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	Liliʻuokalani	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	akā	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	mua	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	kūkulu	_	_	_	_	_	_	_	_
+28	ʻia	_	_	_	_	_	_	_	_
+29	ʻana	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	ko	_	_	_	_	_	_	_	_
+32	mākou	_	_	_	_	_	_	_	_
+33	keʻena	_	_	_	_	_	_	_	_
+34	ma	_	_	_	_	_	_	_	_
+35	laila	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_206
+# text = Kāhea ʻia kēlā wahi ʻo Muʻolaulani, he home nō kēlā ma mua no Liliʻuokalani, a kūkulu ʻana ʻia ko mākou keʻena ma laila, kapa ʻia nō ko mākou keʻena ʻo Muʻolaulani.
+1	Kāhea	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Muʻolaulani	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	home	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	mua	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	Liliʻuokalani	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	kūkulu	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	ko	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	keʻena	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	laila	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	kapa	_	_	_	_	_	_	_	_
+28	ʻia	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	ko	_	_	_	_	_	_	_	_
+31	mākou	_	_	_	_	_	_	_	_
+32	keʻena	_	_	_	_	_	_	_	_
+33	ʻo	_	_	_	_	_	_	_	_
+34	Muʻolaulani	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_207
+# text = ʻAe, a ua ʻike ihola wau i ka inoa ʻo Puʻuhonua ma ka hōʻailona o, o kēlā hale.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	ihola	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Puʻuhonua	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	hōʻailona	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	hale	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_208
+# text = Puʻuhonua, he Pā pōhaku.
+1	Puʻuhonua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	Pā	_	_	_	_	_	_	_	_
+5	pōhaku	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_209
+# text = ʻEā? Ka pā pōhaku.
+1	ʻEā	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Ka	_	_	_	_	_	_	_	_
+4	pā	_	_	_	_	_	_	_	_
+5	pōhaku	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_210
+# text = ʻŌ, ma nuna o ka pā, pā pōhaku.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	nuna	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	pā	_	_	_	_	_	_	_	_
+10	pōhaku	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_211
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_212
+# text = } ʻO ia kā.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	kā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_213
+# text = A, ʻo ka puʻuhonua, he huaʻōlelo kahiko loa nō kēlā, ʻeā? A, ka puʻuhonua, heiau o ke au kahiko.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	puʻuhonua	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	huaʻōlelo	_	_	_	_	_	_	_	_
+9	kahiko	_	_	_	_	_	_	_	_
+10	loa	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻeā	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	A	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	puʻuhonua	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	heiau	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	au	_	_	_	_	_	_	_	_
+25	kahiko	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_214
+# text = A, hele ka poʻe lāhui Hawaiʻi i loko o laila.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	lāhui	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	loko	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	laila	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_215
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_216
+# text = Hoʻomana paha, m , mea, ʻĒ.
+1	Hoʻomana	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	m	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_217
+# text = Kēlā o, pakele ai, yeah? ʻĒ.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pakele	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	yeah	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_218
+# text = ʻO kēlā puʻuhonua i Hōnaunau, kēlā puʻuhonua no ka pakele ʻana o nā poʻe pio i ke au kahiko, a ʻo ia nō paha ka manaʻo nui o kēia puʻuhonua o ka, o ka i , ka huaʻōlelo puʻuhonua, no ka pakele ʻana o ke ola o nā, o nā poʻe pio, nā poʻe hana hewa, nā poʻe ʻaʻe kapu paha, Polo .
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	puʻuhonua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Hōnaunau	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	puʻuhonua	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	pakele	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	pio	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	au	_	_	_	_	_	_	_	_
+20	kahiko	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	manaʻo	_	_	_	_	_	_	_	_
+29	nui	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	kēia	_	_	_	_	_	_	_	_
+32	puʻuhonua	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	o	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	huaʻōlelo	_	_	_	_	_	_	_	_
+42	puʻuhonua	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	no	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	pakele	_	_	_	_	_	_	_	_
+47	ʻana	_	_	_	_	_	_	_	_
+48	o	_	_	_	_	_	_	_	_
+49	ke	_	_	_	_	_	_	_	_
+50	ola	_	_	_	_	_	_	_	_
+51	o	_	_	_	_	_	_	_	_
+52	nā	_	_	_	_	_	_	_	_
+53	,	_	PUNCT	_	_	_	_	_	_
+54	o	_	_	_	_	_	_	_	_
+55	nā	_	_	_	_	_	_	_	_
+56	poʻe	_	_	_	_	_	_	_	_
+57	pio	_	_	_	_	_	_	_	_
+58	,	_	PUNCT	_	_	_	_	_	_
+59	nā	_	_	_	_	_	_	_	_
+60	poʻe	_	_	_	_	_	_	_	_
+61	hana	_	_	_	_	_	_	_	_
+62	hewa	_	_	_	_	_	_	_	_
+63	,	_	PUNCT	_	_	_	_	_	_
+64	nā	_	_	_	_	_	_	_	_
+65	poʻe	_	_	_	_	_	_	_	_
+66	ʻaʻe	_	_	_	_	_	_	_	_
+67	kapu	_	_	_	_	_	_	_	_
+68	paha	_	_	_	_	_	_	_	_
+69	,	_	PUNCT	_	_	_	_	_	_
+70	Polo	_	_	_	_	_	_	_	_
+71	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_219
+# text = o ia manawa, a hiki mai nō iā kākou i kēia manawa.
+1	o	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_220
+# text = Puʻuhonua, he manaʻo maikaʻi nō ko ka puʻuhonua.
+1	Puʻuhonua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	maikaʻi	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	puʻuhonua	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_221
+# text = Po No ka pa , no ka hoʻopakele ʻana nō o nā kānaka.
+1	Po	_	_	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hoʻopakele	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	kānaka	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_222
+# text = Pololei, ʻo ia ʻano hana nō a mākou e hana nei, no laila, a, he puʻuhonua n , he puʻuhonua nō kēia iā mākou.
+1	Pololei	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	he	_	_	_	_	_	_	_	_
+20	puʻuhonua	_	_	_	_	_	_	_	_
+21	n	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	puʻuhonua	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	iā	_	_	_	_	_	_	_	_
+28	mākou	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_223
+# text = ʻĒ, he puʻuhonua.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	puʻuhonua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_224
+# text = A ua aloha nui ʻia ʻo ka mōʻī wahine Liliʻuokalani e mākou i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mōʻī	_	_	_	_	_	_	_	_
+9	wahine	_	_	_	_	_	_	_	_
+10	Liliʻuokalani	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_225
+# text = ʻAʻohe, ʻaʻohe au ʻike maka i kona mau hana i hana ʻia ai i kēlā manawa, akā, eia nō iā kākou i kēia manawa, kekahi mau mea āna i hoʻoili ai, i hoʻoili ʻia mai iā mākou.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻaʻohe	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	maka	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kona	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēlā	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	akā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	eia	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	iā	_	_	_	_	_	_	_	_
+24	kākou	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	manawa	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	kekahi	_	_	_	_	_	_	_	_
+30	mau	_	_	_	_	_	_	_	_
+31	mea	_	_	_	_	_	_	_	_
+32	āna	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	hoʻoili	_	_	_	_	_	_	_	_
+35	ai	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	hoʻoili	_	_	_	_	_	_	_	_
+39	ʻia	_	_	_	_	_	_	_	_
+40	mai	_	_	_	_	_	_	_	_
+41	iā	_	_	_	_	_	_	_	_
+42	mākou	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_226
+# text = A, ʻo kekahi mea aʻu e makemake ai e nīnau iā ʻoe pili ana i kona noʻeau i ka haku hīmeni ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	aʻu	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	makemake	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	nīnau	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	pili	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kona	_	_	_	_	_	_	_	_
+18	noʻeau	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	haku	_	_	_	_	_	_	_	_
+22	hīmeni	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_227
+# text = Ua kaulana nō kona inoa ma ka haku mele.
+1	Ua	_	_	_	_	_	_	_	_
+2	kaulana	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	haku	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_228
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_229
+# text = Lohe wau he mōʻī wahine aloha, {amū,} nā mele, no laila, haku ʻo ia haneli, haku ʻo ia i haneli a ʻoi mele.
+1	Lohe	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mōʻī	_	_	_	_	_	_	_	_
+5	wahine	_	_	_	_	_	_	_	_
+6	aloha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	{	_	PUNCT	_	_	_	_	_	_
+9	amū	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	}	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	laila	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	haku	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	ia	_	_	_	_	_	_	_	_
+21	haneli	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	haku	_	_	_	_	_	_	_	_
+24	ʻo	_	_	_	_	_	_	_	_
+25	ia	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	haneli	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	ʻoi	_	_	_	_	_	_	_	_
+30	mele	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_230
+# text = A i waena o kēia poʻe mele ʻo Aloha ʻOe ka mea kaulana, A ʻo ia paha ka mea, kaulana loa!! kaulana loa i kēia manawa iā kākou.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	waena	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	Aloha	_	_	_	_	_	_	_	_
+10	ʻOe	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	kaulana	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	A	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	kaulana	_	_	_	_	_	_	_	_
+23	loa	_	_	_	_	_	_	_	_
+24	!!	_	PUNCT	_	_	_	_	_	_
+25	kaulana	_	_	_	_	_	_	_	_
+26	loa	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	manawa	_	_	_	_	_	_	_	_
+30	iā	_	_	_	_	_	_	_	_
+31	kākou	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_231
+# text = Akā he nui nō nā mele āna i haku ai.
+1	Akā	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	āna	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	haku	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_232
+# text = A ʻo, a ʻo kekahi mea aʻu i lohe liʻiliʻi ai e pili ana nō i kona akamai ma ke kula, ke kula āna i hele ai, ʻo ia nō ke kula aliʻi paha.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	aʻu	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	lohe	_	_	_	_	_	_	_	_
+11	liʻiliʻi	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	pili	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kona	_	_	_	_	_	_	_	_
+19	akamai	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	kula	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	kula	_	_	_	_	_	_	_	_
+26	āna	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	hele	_	_	_	_	_	_	_	_
+29	ai	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	ia	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	ke	_	_	_	_	_	_	_	_
+35	kula	_	_	_	_	_	_	_	_
+36	aliʻi	_	_	_	_	_	_	_	_
+37	paha	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_233
+# text = Yeah, ʻae, ke kula, kula aliʻi.
+1	Yeah	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	aliʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_234
+# text = A, a, ʻōlelo ʻia nō he akamai nō ka mōʻī wahine ʻo Liliʻuokalani i, i ka ʻōlelo, nā ʻōlelo like ʻole, ʻŌ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻōlelo	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	akamai	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	mōʻī	_	_	_	_	_	_	_	_
+13	wahine	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Liliʻuokalani	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	ʻōlelo	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	like	_	_	_	_	_	_	_	_
+25	ʻole	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻŌ	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_235
+# text = ʻo ia hoʻi, ka ʻōlelo Pelekāne nō, ka ʻōlelo ʻĪkālia, ka ʻōlelo Palani, a, ʻike maka nō kākou i kēia manawa ke ʻano o nā, ke ʻano o ka haku ʻana a kēia mōʻī wahine o kākou.
+1	ʻo	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	Pelekāne	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	ʻĪkālia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	Palani	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻike	_	_	_	_	_	_	_	_
+21	maka	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	kākou	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	manawa	_	_	_	_	_	_	_	_
+27	ke	_	_	_	_	_	_	_	_
+28	ʻano	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ke	_	_	_	_	_	_	_	_
+33	ʻano	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	haku	_	_	_	_	_	_	_	_
+37	ʻana	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	kēia	_	_	_	_	_	_	_	_
+40	mōʻī	_	_	_	_	_	_	_	_
+41	wahine	_	_	_	_	_	_	_	_
+42	o	_	_	_	_	_	_	_	_
+43	kākou	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_236
+# text = E, ua hoʻokomo ʻo ia i nā huaʻōlelo haole kekahi manawa i loko nō o nā mele a hoʻohui ʻia me ka Hawaiʻi, ka ʻōlelo Hawaiʻi, a i koʻu nānā, kaʻu nānā ʻana i ka haku ʻana, ua akamai loa, no ka mea, a, wae, wae ʻo ia i nā huaʻōlelo haole kūpono nō i ka manaʻo o ka mele a hoʻohui like ʻia me ka ʻōlelo Hawaiʻi.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻokomo	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	huaʻōlelo	_	_	_	_	_	_	_	_
+10	haole	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	loko	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mele	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	hoʻohui	_	_	_	_	_	_	_	_
+21	ʻia	_	_	_	_	_	_	_	_
+22	me	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	ʻōlelo	_	_	_	_	_	_	_	_
+28	Hawaiʻi	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	koʻu	_	_	_	_	_	_	_	_
+33	nānā	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	kaʻu	_	_	_	_	_	_	_	_
+36	nānā	_	_	_	_	_	_	_	_
+37	ʻana	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	haku	_	_	_	_	_	_	_	_
+41	ʻana	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	ua	_	_	_	_	_	_	_	_
+44	akamai	_	_	_	_	_	_	_	_
+45	loa	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	no	_	_	_	_	_	_	_	_
+48	ka	_	_	_	_	_	_	_	_
+49	mea	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	wae	_	_	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	wae	_	_	_	_	_	_	_	_
+56	ʻo	_	_	_	_	_	_	_	_
+57	ia	_	_	_	_	_	_	_	_
+58	i	_	_	_	_	_	_	_	_
+59	nā	_	_	_	_	_	_	_	_
+60	huaʻōlelo	_	_	_	_	_	_	_	_
+61	haole	_	_	_	_	_	_	_	_
+62	kūpono	_	_	_	_	_	_	_	_
+63	nō	_	_	_	_	_	_	_	_
+64	i	_	_	_	_	_	_	_	_
+65	ka	_	_	_	_	_	_	_	_
+66	manaʻo	_	_	_	_	_	_	_	_
+67	o	_	_	_	_	_	_	_	_
+68	ka	_	_	_	_	_	_	_	_
+69	mele	_	_	_	_	_	_	_	_
+70	a	_	_	_	_	_	_	_	_
+71	hoʻohui	_	_	_	_	_	_	_	_
+72	like	_	_	_	_	_	_	_	_
+73	ʻia	_	_	_	_	_	_	_	_
+74	me	_	_	_	_	_	_	_	_
+75	ka	_	_	_	_	_	_	_	_
+76	ʻōlelo	_	_	_	_	_	_	_	_
+77	Hawaiʻi	_	_	_	_	_	_	_	_
+78	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_237
+# text = Pololei, he mōʻī wahine naʻauao ʻo ia.
+1	Pololei	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mōʻī	_	_	_	_	_	_	_	_
+5	wahine	_	_	_	_	_	_	_	_
+6	naʻauao	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_238
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_239
+# text = A, he, he wahi manaʻo koʻu iā ʻIliahi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	manaʻo	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ʻIliahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_240
+# text = Inā ʻoe e hoʻolohe ana i kēia ahiahi, e ʻoluʻolu ʻoe, e kāhea mai i kēia kahua.
+1	Inā	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻolohe	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	ʻoluʻolu	_	_	_	_	_	_	_	_
+12	ʻoe	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	kāhea	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	kahua	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_241
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_242
+# text = No laila, ka, e hoʻonui aʻe ana paha ʻoukou i kā ʻoukou hana me kēia hui Liliʻuokalani a i ʻole, a, ʻaʻohe, ʻaʻohe hiki paha iā ʻoukou ke hoʻonui aʻe.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻonui	_	_	_	_	_	_	_	_
+8	aʻe	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kā	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	hui	_	_	_	_	_	_	_	_
+19	Liliʻuokalani	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ʻole	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻaʻohe	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻaʻohe	_	_	_	_	_	_	_	_
+29	hiki	_	_	_	_	_	_	_	_
+30	paha	_	_	_	_	_	_	_	_
+31	iā	_	_	_	_	_	_	_	_
+32	ʻoukou	_	_	_	_	_	_	_	_
+33	ke	_	_	_	_	_	_	_	_
+34	hoʻonui	_	_	_	_	_	_	_	_
+35	aʻe	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_243
+# text = ʻAʻole i, Ua hiki paha ʻoukou i ka piha ʻana o ko ʻoukou waiwai paha? Pololei, ʻaʻole i kēia manawa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Ua	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	piha	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	waiwai	_	_	_	_	_	_	_	_
+16	paha	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	Pololei	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻaʻole	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	manawa	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_244
+# text = A n Hoʻokuʻu nō mākou nā, nā haku kahu waiwai.
+1	A	_	_	_	_	_	_	_	_
+2	n	_	_	_	_	_	_	_	_
+3	Hoʻokuʻu	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	haku	_	_	_	_	_	_	_	_
+10	kahu	_	_	_	_	_	_	_	_
+11	waiwai	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_245
+# text = Na lākou nō hoʻoponopono.
+1	Na	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻoponopono	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_246
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_247
+# text = A na wai i wae mai i nā kahu waiwai o ka hui? Na ka, Na wai i koho? Hale Hoʻokolokolo, mai laila mai.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	wae	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	kahu	_	_	_	_	_	_	_	_
+10	waiwai	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hui	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Na	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Na	_	_	_	_	_	_	_	_
+19	wai	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	koho	_	_	_	_	_	_	_	_
+22	?	_	PUNCT	_	_	_	_	_	_
+23	Hale	_	_	_	_	_	_	_	_
+24	Hoʻokolokolo	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	mai	_	_	_	_	_	_	_	_
+27	laila	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_248
+# text = Na lākou.
+1	Na	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_249
+# text = A ʻekolu wale nō lākou? ʻEkolu wale nō.
+1	A	_	_	_	_	_	_	_	_
+2	ʻekolu	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻEkolu	_	_	_	_	_	_	_	_
+8	wale	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_250
+# text = Pehea kēia panakō ʻo ka panakō Hawaiʻi o ka poʻe Hawaiʻi? ʻAe? Ka panakō Hawaiʻi? Pololei.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	panakō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	panakō	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Ka	_	_	_	_	_	_	_	_
+16	panakō	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	Pololei	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_251
+# text = Panakō Hawaiʻi Mua.
+1	Panakō	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	Mua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_252
+# text = First Hawaiian Bank ʻAe, ka Panakō Hawaiʻi Mua, ʻo ia hoʻi ka First, {Uhu.
+1	First	_	_	_	_	_	_	_	_
+2	Hawaiian	_	_	_	_	_	_	_	_
+3	Bank	_	_	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	Panakō	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	Mua	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	hoʻi	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	First	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	{	_	PUNCT	_	_	_	_	_	_
+18	Uhu	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_253
+# text = } Hawaiian, {Aha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Hawaiian	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	Aha	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_254
+# text = } ʻAe? A, na nā poʻe alakaʻi o kēia panakō, na lākou nō, i mālama mai nō i kēia waiwai, Yeah.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	A	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	alakaʻi	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	panakō	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	lākou	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	mālama	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	waiwai	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	Yeah	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_255
+# text = o Liliʻuokalani? A i ʻole hoʻokahi nō mea ʻo ka panakō? Ma mua ʻo Cooke Trust, kēia manawa, hui pū ʻo Cooke Trust me ka Panakō Mua o, o ka poʻe Hawaiʻi.
+1	o	_	_	_	_	_	_	_	_
+2	Liliʻuokalani	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	A	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	hoʻokahi	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	panakō	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Ma	_	_	_	_	_	_	_	_
+15	mua	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Cooke	_	_	_	_	_	_	_	_
+18	Trust	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	manawa	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	hui	_	_	_	_	_	_	_	_
+24	pū	_	_	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Cooke	_	_	_	_	_	_	_	_
+27	Trust	_	_	_	_	_	_	_	_
+28	me	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	Panakō	_	_	_	_	_	_	_	_
+31	Mua	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	poʻe	_	_	_	_	_	_	_	_
+37	Hawaiʻi	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_256
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_257
+# text = A ko lākou kū hoʻi, ʻo Mr.
+1	A	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	kū	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Mr	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_258
+# text = Cha Charles Dole.
+1	Cha	_	_	_	_	_	_	_	_
+2	Charles	_	_	_	_	_	_	_	_
+3	Dole	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_259
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_260
+# text = A pehea kou manaʻo i, i loko nō o kāu hana ʻana me nā kamaliʻi Hawaiʻi, ua, ua ola nō paha ko lākou pilikia? Nui ko a, Ua hoʻoponopono ʻia e ʻoukou i kēia mau pilikia? ʻAe, nui nō nā kamaliʻi i hoʻoponopono ʻia ko lākou pilikia, a, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	loko	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kāu	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	kamaliʻi	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ua	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ua	_	_	_	_	_	_	_	_
+22	ola	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	ko	_	_	_	_	_	_	_	_
+26	lākou	_	_	_	_	_	_	_	_
+27	pilikia	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	Nui	_	_	_	_	_	_	_	_
+30	ko	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Ua	_	_	_	_	_	_	_	_
+34	hoʻoponopono	_	_	_	_	_	_	_	_
+35	ʻia	_	_	_	_	_	_	_	_
+36	e	_	_	_	_	_	_	_	_
+37	ʻoukou	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	kēia	_	_	_	_	_	_	_	_
+40	mau	_	_	_	_	_	_	_	_
+41	pilikia	_	_	_	_	_	_	_	_
+42	?	_	PUNCT	_	_	_	_	_	_
+43	ʻAe	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	nui	_	_	_	_	_	_	_	_
+46	nō	_	_	_	_	_	_	_	_
+47	nā	_	_	_	_	_	_	_	_
+48	kamaliʻi	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	hoʻoponopono	_	_	_	_	_	_	_	_
+51	ʻia	_	_	_	_	_	_	_	_
+52	ko	_	_	_	_	_	_	_	_
+53	lākou	_	_	_	_	_	_	_	_
+54	pilikia	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	a	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	ʻAe	_	_	_	_	_	_	_	_
+59	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_261
+# text = ke piha lākou makahiki ʻumikūmāwalu.
+1	ke	_	_	_	_	_	_	_	_
+2	piha	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_262
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_263
+# text = A, pau aʻela ko mākou ko kōkua iā lākou, a inā mau ko lākou hele ʻana kulanui, kōkua nō m mākou iā lākou.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	aʻela	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	kōkua	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	lākou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	inā	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	ko	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	hele	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	kulanui	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	kōkua	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	m	_	_	_	_	_	_	_	_
+24	mākou	_	_	_	_	_	_	_	_
+25	iā	_	_	_	_	_	_	_	_
+26	lākou	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_264
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_265
+# text = A kekahi nō o kēia poʻe kamaliʻi a mākou i kōkua ai ma mua loa, aia lākou ke noho nei i, Kale ma Honolulu nei, nā wahi a pau.
+1	A	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	kamaliʻi	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kōkua	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	mua	_	_	_	_	_	_	_	_
+15	loa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	aia	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	noho	_	_	_	_	_	_	_	_
+21	nei	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	Kale	_	_	_	_	_	_	_	_
+25	ma	_	_	_	_	_	_	_	_
+26	Honolulu	_	_	_	_	_	_	_	_
+27	nei	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	nā	_	_	_	_	_	_	_	_
+30	wahi	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	pau	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_266
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_267
+# text = Kōkua nō ʻoukou i nā poʻe kamaliʻi, a, e makemake ana e hele i ke kula.
+1	Kōkua	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	kamaliʻi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	makemake	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kula	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_268
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_269
+# text = Kula kamaliʻi, me nā kula kiʻekiʻe, a hiki i ke kulanui.
+1	Kula	_	_	_	_	_	_	_	_
+2	kamaliʻi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	kiʻekiʻe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kulanui	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_270
+# text = M , ma mua, kōkua mākou i nā kamaliʻi a pau, akā i kēia manawa, kōkua wale nō mākou i n nā kamaliʻi ma lalo o ko mākou keʻena.
+1	M	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	kōkua	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	kamaliʻi	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	pau	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	akā	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kōkua	_	_	_	_	_	_	_	_
+20	wale	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	n	_	_	_	_	_	_	_	_
+25	nā	_	_	_	_	_	_	_	_
+26	kamaliʻi	_	_	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	lalo	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ko	_	_	_	_	_	_	_	_
+31	mākou	_	_	_	_	_	_	_	_
+32	keʻena	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_271
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_272
+# text = E kala mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_273
+# text = E hoʻomaha liʻiliʻi nō kāua, e hoʻolohe nō kākou i kēia mele kaulana a Liliʻuokalani i haku ai.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻomaha	_	_	_	_	_	_	_	_
+3	liʻiliʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kāua	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻolohe	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	kaulana	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	Liliʻuokalani	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	haku	_	_	_	_	_	_	_	_
+19	ai	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_274
+# text = ʻO ia nō kēia mele a kāua i kamaʻilio ai, ʻo Aloha ʻOe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kāua	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kamaʻilio	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Aloha	_	_	_	_	_	_	_	_
+14	ʻOe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_275
+# text = A, ʻeā? Aloha? Auē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻeā	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Aloha	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Auē	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_276
+# text = ʻAʻohe wau i lohe pono i kona leo.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	pono	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kona	_	_	_	_	_	_	_	_
+8	leo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_277
+# text = ʻAno wawā mai nei nō kēia mīkini.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	wawā	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mīkini	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_278
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_279
+# text = ʻAe, nui nō paha ka mahalo o nā poʻe a ʻoukou e kōkua nei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	mahalo	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kōkua	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_280
+# text = Na ka hui nō ʻo Liliʻuokalani e kōkua nei i kēia poʻe i loko nō o ko lākou pilikia.
+1	Na	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	hui	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Liliʻuokalani	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	kōkua	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	loko	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ko	_	_	_	_	_	_	_	_
+18	lākou	_	_	_	_	_	_	_	_
+19	pilikia	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_281
+# text = ʻAʻohe nō paha kēia he pilikia, a, pilikia nō, i, k i, aia nō paha i ka nānā ʻana o ke kanaka, ke ʻano nō o, o ka pilikia.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	pilikia	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	pilikia	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	k	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	aia	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	paha	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	nānā	_	_	_	_	_	_	_	_
+24	ʻana	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	ke	_	_	_	_	_	_	_	_
+27	kanaka	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	ʻano	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	pilikia	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_282
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_283
+# text = ʻAʻohe mākou maopopo he aha ka pilikia.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pilikia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_284
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_285
+# text = Ke hele mai lākou me ko lākou pilikia, a, hoʻokahi wale nō, mea, poʻe hana mākou, hana me lākou.
+1	Ke	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	pilikia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hoʻokahi	_	_	_	_	_	_	_	_
+13	wale	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	hana	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hana	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_286
+# text = ʻO kēlā hoa hana o mākou, ʻo ia wale nō ka mea ʻike.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	hoa	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	wale	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	ʻike	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_287
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_288
+# text = Ka pilikia o kēlā ʻohana.
+1	Ka	_	_	_	_	_	_	_	_
+2	pilikia	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ʻohana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_289
+# text = A, a, ʻo kēlā nīnau a kēlā kanaka i nīnau mai nei pili ana i ke ʻano, i ke ʻano hea a ʻoukou e, e huli ai, e loaʻa ai ka, ka poʻe e makemake ana i ke kōkua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	nīnau	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	kanaka	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nīnau	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	pili	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	ʻano	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	ʻano	_	_	_	_	_	_	_	_
+24	hea	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	ʻoukou	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	huli	_	_	_	_	_	_	_	_
+31	ai	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	loaʻa	_	_	_	_	_	_	_	_
+35	ai	_	_	_	_	_	_	_	_
+36	ka	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	poʻe	_	_	_	_	_	_	_	_
+40	e	_	_	_	_	_	_	_	_
+41	makemake	_	_	_	_	_	_	_	_
+42	ana	_	_	_	_	_	_	_	_
+43	i	_	_	_	_	_	_	_	_
+44	ke	_	_	_	_	_	_	_	_
+45	kōkua	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_290
+# text = A na, na lākou Ua hiki nō lā iā lākou ke kelepona mai, a i ʻole na ʻoukou nō e, e, e hele nō i waena nō o lākou e, e hoʻopaʻa? ʻAʻole, na lākou nō e kelepona mai, a i ʻole, hele mai i ko mākou keʻena.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	Ua	_	_	_	_	_	_	_	_
+7	hiki	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	lā	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ʻole	_	_	_	_	_	_	_	_
+19	na	_	_	_	_	_	_	_	_
+20	ʻoukou	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	hele	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	waena	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	lākou	_	_	_	_	_	_	_	_
+34	e	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	e	_	_	_	_	_	_	_	_
+37	hoʻopaʻa	_	_	_	_	_	_	_	_
+38	?	_	PUNCT	_	_	_	_	_	_
+39	ʻAʻole	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	na	_	_	_	_	_	_	_	_
+42	lākou	_	_	_	_	_	_	_	_
+43	nō	_	_	_	_	_	_	_	_
+44	e	_	_	_	_	_	_	_	_
+45	kelepona	_	_	_	_	_	_	_	_
+46	mai	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	ʻole	_	_	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	hele	_	_	_	_	_	_	_	_
+53	mai	_	_	_	_	_	_	_	_
+54	i	_	_	_	_	_	_	_	_
+55	ko	_	_	_	_	_	_	_	_
+56	mākou	_	_	_	_	_	_	_	_
+57	keʻena	_	_	_	_	_	_	_	_
+58	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_291
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_292
+# text = A, i kēlā kanaka i kāhea mai nei, inā he pilikia ma waena kona, m , {amū,} kāna poʻe kamaliʻi a hiki nō iā ia ke kāhea mai, a, he poʻe hoa hana nō a mākou, hiki ke kūkākūkā pū me ia.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	kanaka	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kāhea	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	inā	_	_	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	pilikia	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	waena	_	_	_	_	_	_	_	_
+16	kona	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	m	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	{	_	PUNCT	_	_	_	_	_	_
+21	amū	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	}	_	PUNCT	_	_	_	_	_	_
+24	kāna	_	_	_	_	_	_	_	_
+25	poʻe	_	_	_	_	_	_	_	_
+26	kamaliʻi	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	hiki	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	iā	_	_	_	_	_	_	_	_
+31	ia	_	_	_	_	_	_	_	_
+32	ke	_	_	_	_	_	_	_	_
+33	kāhea	_	_	_	_	_	_	_	_
+34	mai	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	he	_	_	_	_	_	_	_	_
+39	poʻe	_	_	_	_	_	_	_	_
+40	hoa	_	_	_	_	_	_	_	_
+41	hana	_	_	_	_	_	_	_	_
+42	nō	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	mākou	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	hiki	_	_	_	_	_	_	_	_
+47	ke	_	_	_	_	_	_	_	_
+48	kūkākūkā	_	_	_	_	_	_	_	_
+49	pū	_	_	_	_	_	_	_	_
+50	me	_	_	_	_	_	_	_	_
+51	ia	_	_	_	_	_	_	_	_
+52	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_293
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_294
+# text = No ka pono o ka, kāna poʻe kamaliʻi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pono	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kāna	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	kamaliʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_295
+# text = ʻAʻole wau maopopo kāna poʻe kamaliʻi paha, kamaliʻi o ka poʻe hoaaloha ona paha.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	kāna	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	kamaliʻi	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kamaliʻi	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	hoaaloha	_	_	_	_	_	_	_	_
+14	ona	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_296
+# text = ʻAʻole wau maopopo.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	maopopo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_297
+# text = A hāʻawi mua ʻoukou i ke kōkua i, i nā ʻano poʻe hea? I nā ʻano poʻe, {Amū,} kamaliʻi m , makua ʻole.
+1	A	_	_	_	_	_	_	_	_
+2	hāʻawi	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kōkua	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	ʻano	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	hea	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	I	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	ʻano	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	{	_	PUNCT	_	_	_	_	_	_
+22	Amū	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	}	_	PUNCT	_	_	_	_	_	_
+25	kamaliʻi	_	_	_	_	_	_	_	_
+26	m	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	makua	_	_	_	_	_	_	_	_
+29	ʻole	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_298
+# text = ʻO ia ka mua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_299
+# text = ʻO ia kamaliʻi, ʻo ia ke, ka poʻe kamaliʻi mua a mākou kōkua ai, a kamaliʻi hoʻokahi wale nō makua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	kamaliʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	kamaliʻi	_	_	_	_	_	_	_	_
+12	mua	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	kōkua	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	kamaliʻi	_	_	_	_	_	_	_	_
+20	hoʻokahi	_	_	_	_	_	_	_	_
+21	wale	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	makua	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_300
+# text = {Amū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Amū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_301
+# text = } Malia paha, make sa (ka) pāpā, kōkua nō mākou i māmā me kāna poʻe kamaliʻi, a i ʻole, make n , make sa (ka) māmā, kōkua nō mākou i ka pāpā me kāna poʻe kamaliʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Malia	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	make	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	(	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	)	_	PUNCT	_	_	_	_	_	_
+10	pāpā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kōkua	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	māmā	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	kāna	_	_	_	_	_	_	_	_
+19	poʻe	_	_	_	_	_	_	_	_
+20	kamaliʻi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ʻole	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	make	_	_	_	_	_	_	_	_
+27	n	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	make	_	_	_	_	_	_	_	_
+30	sa	_	_	_	_	_	_	_	_
+31	(	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	)	_	PUNCT	_	_	_	_	_	_
+34	māmā	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	kōkua	_	_	_	_	_	_	_	_
+37	nō	_	_	_	_	_	_	_	_
+38	mākou	_	_	_	_	_	_	_	_
+39	i	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	pāpā	_	_	_	_	_	_	_	_
+42	me	_	_	_	_	_	_	_	_
+43	kāna	_	_	_	_	_	_	_	_
+44	poʻe	_	_	_	_	_	_	_	_
+45	kamaliʻi	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_302
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_303
+# text = A, ʻo ka kolu hoʻi, kōkua nō mākou, mea liʻiliʻi wale nō, i nā mākua me ko lākou poʻe kamaliʻi, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	kolu	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kōkua	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	liʻiliʻi	_	_	_	_	_	_	_	_
+14	wale	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	mākua	_	_	_	_	_	_	_	_
+20	me	_	_	_	_	_	_	_	_
+21	ko	_	_	_	_	_	_	_	_
+22	lākou	_	_	_	_	_	_	_	_
+23	poʻe	_	_	_	_	_	_	_	_
+24	kamaliʻi	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻAe	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_304
+# text = ma ke kūkākūkā wale nō.
+1	ma	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	kūkākūkā	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_305
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_306
+# text = No laila, nui nō koʻu mahalo iā ʻoukou i loko nō o kā ʻoukou hana ʻana, kā ʻoukou hana maikaʻi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	mahalo	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	loko	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kā	_	_	_	_	_	_	_	_
+15	ʻoukou	_	_	_	_	_	_	_	_
+16	hana	_	_	_	_	_	_	_	_
+17	ʻana	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kā	_	_	_	_	_	_	_	_
+20	ʻoukou	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	maikaʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_307
+# text = A ua hiki nō mai kākou i ka hopena o kēia papahana.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hopena	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_308
+# text = No laila, ma mua nō naʻe o ka hoʻopau ʻana o kēia papahana, ua makemake, makemake nō wau e hoʻomaikaʻi aku i nā poʻe i kōkua mai i kēia ahiahi iā mākou.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	naʻe	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hoʻopau	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	papahana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ua	_	_	_	_	_	_	_	_
+17	makemake	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	makemake	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	wau	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hoʻomaikaʻi	_	_	_	_	_	_	_	_
+24	aku	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	poʻe	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kōkua	_	_	_	_	_	_	_	_
+30	mai	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	kēia	_	_	_	_	_	_	_	_
+33	ahiahi	_	_	_	_	_	_	_	_
+34	iā	_	_	_	_	_	_	_	_
+35	mākou	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_309
+# text = ʻO ia nō, ʻo Al Kalama, ke kanaka hoʻolele leo o kēia kahua, KCCN, me Keoki Donavan, ka mea nāna ka haʻiʻōlelo ʻana no Ka Leo Hawaiʻi, me Keoana Holk (Holt), ka mea nāna i haʻiʻōlelo no Liliʻuokalani me Eldon Akamine, Kaniala Akaka, Haunani Bernardino, Kuʻulei Bernardino, Mikala McClellan na lākou nō ka hoʻokani ʻana o nā pila me ka hīmeni ʻana, me Nona Bernardino, Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Al	_	_	_	_	_	_	_	_
+7	Kalama	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kanaka	_	_	_	_	_	_	_	_
+11	hoʻolele	_	_	_	_	_	_	_	_
+12	leo	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	kahua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	KCCN	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	me	_	_	_	_	_	_	_	_
+20	Keoki	_	_	_	_	_	_	_	_
+21	Donavan	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	mea	_	_	_	_	_	_	_	_
+25	nāna	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	haʻiʻōlelo	_	_	_	_	_	_	_	_
+28	ʻana	_	_	_	_	_	_	_	_
+29	no	_	_	_	_	_	_	_	_
+30	Ka	_	_	_	_	_	_	_	_
+31	Leo	_	_	_	_	_	_	_	_
+32	Hawaiʻi	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	me	_	_	_	_	_	_	_	_
+35	Keoana	_	_	_	_	_	_	_	_
+36	Holk	_	_	_	_	_	_	_	_
+37	(	_	PUNCT	_	_	_	_	_	_
+38	Holt	_	_	_	_	_	_	_	_
+39	)	_	PUNCT	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	mea	_	_	_	_	_	_	_	_
+43	nāna	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	haʻiʻōlelo	_	_	_	_	_	_	_	_
+46	no	_	_	_	_	_	_	_	_
+47	Liliʻuokalani	_	_	_	_	_	_	_	_
+48	me	_	_	_	_	_	_	_	_
+49	Eldon	_	_	_	_	_	_	_	_
+50	Akamine	_	_	_	_	_	_	_	_
+51	,	_	PUNCT	_	_	_	_	_	_
+52	Kaniala	_	_	_	_	_	_	_	_
+53	Akaka	_	_	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	Haunani	_	_	_	_	_	_	_	_
+56	Bernardino	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	Kuʻulei	_	_	_	_	_	_	_	_
+59	Bernardino	_	_	_	_	_	_	_	_
+60	,	_	PUNCT	_	_	_	_	_	_
+61	Mikala	_	_	_	_	_	_	_	_
+62	McClellan	_	_	_	_	_	_	_	_
+63	na	_	_	_	_	_	_	_	_
+64	lākou	_	_	_	_	_	_	_	_
+65	nō	_	_	_	_	_	_	_	_
+66	ka	_	_	_	_	_	_	_	_
+67	hoʻokani	_	_	_	_	_	_	_	_
+68	ʻana	_	_	_	_	_	_	_	_
+69	o	_	_	_	_	_	_	_	_
+70	nā	_	_	_	_	_	_	_	_
+71	pila	_	_	_	_	_	_	_	_
+72	me	_	_	_	_	_	_	_	_
+73	ka	_	_	_	_	_	_	_	_
+74	hīmeni	_	_	_	_	_	_	_	_
+75	ʻana	_	_	_	_	_	_	_	_
+76	,	_	PUNCT	_	_	_	_	_	_
+77	me	_	_	_	_	_	_	_	_
+78	Nona	_	_	_	_	_	_	_	_
+79	Bernardino	_	_	_	_	_	_	_	_
+80	,	_	PUNCT	_	_	_	_	_	_
+81	Mrs	_	_	_	_	_	_	_	_
+82	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_310
+# text = Nona Bernardino, nāna i mānai mai i kēia mau lei wehiwehi o, o kākou, o mākou i kēia ahiahi.
+1	Nona	_	_	_	_	_	_	_	_
+2	Bernardino	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	nāna	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	mānai	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	lei	_	_	_	_	_	_	_	_
+12	wehiwehi	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	kākou	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	mākou	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	ahiahi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_311
+# text = Iā ʻoukou a pau loa, ko mākou mahalo nui.
+1	Iā	_	_	_	_	_	_	_	_
+2	ʻoukou	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	mahalo	_	_	_	_	_	_	_	_
+10	nui	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_312
+# text = A, iā ʻoukou, e nā mea e hoʻolohe ana iā mākou i kēia ahiahi, e kala mai, e hoʻomanawanui mai ʻoukou me mākou no kā mākou hemahema nō i ka hoʻo hoʻoholo ʻana i nā mīkini o kēia kahua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻolohe	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ahiahi	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	kala	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hoʻomanawanui	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	ʻoukou	_	_	_	_	_	_	_	_
+26	me	_	_	_	_	_	_	_	_
+27	mākou	_	_	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	kā	_	_	_	_	_	_	_	_
+30	mākou	_	_	_	_	_	_	_	_
+31	hemahema	_	_	_	_	_	_	_	_
+32	nō	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	hoʻo	_	_	_	_	_	_	_	_
+36	hoʻoholo	_	_	_	_	_	_	_	_
+37	ʻana	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	nā	_	_	_	_	_	_	_	_
+40	mīkini	_	_	_	_	_	_	_	_
+41	o	_	_	_	_	_	_	_	_
+42	kēia	_	_	_	_	_	_	_	_
+43	kahua	_	_	_	_	_	_	_	_
+44	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_313
+# text = E hui hou mai nō ʻoukou me mākou i kēia Poʻalua aʻe.
+1	E	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	mākou	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	Poʻalua	_	_	_	_	_	_	_	_
+12	aʻe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_314
+# text = ʻO ko mākou hoa kipa o kēlā ahiahi, ʻo Mr.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	hoa	_	_	_	_	_	_	_	_
+5	kipa	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Mr	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_315
+# text = Abraham Piʻianāiʻa.
+1	Abraham	_	_	_	_	_	_	_	_
+2	Piʻianāiʻa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_316
+# text = No laila, iā ʻoukou a pau loa, welina o ke aloha.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	welina	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	aloha	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_317
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_318
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_319
+# text = Eia nō, eia nō kēia ke ho , ke hoʻomaikaʻi hou aku nei iā ʻoukou no kēia ahiahi.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	eia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	ho	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	hoʻomaikaʻi	_	_	_	_	_	_	_	_
+12	hou	_	_	_	_	_	_	_	_
+13	aku	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	ahiahi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_320
+# text = A mahalo nui aku , iā ʻoe, e Mālia i kou hele ʻana mai i kēia ahiahi e wehewehe m , i loko, mea, e wehewehe mai nō i kā ʻoukou hana ʻana me ka hui Liliʻuokalani.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	Mālia	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	ahiahi	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	wehewehe	_	_	_	_	_	_	_	_
+21	m	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	loko	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	mea	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	wehewehe	_	_	_	_	_	_	_	_
+30	mai	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	kā	_	_	_	_	_	_	_	_
+34	ʻoukou	_	_	_	_	_	_	_	_
+35	hana	_	_	_	_	_	_	_	_
+36	ʻana	_	_	_	_	_	_	_	_
+37	me	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	hui	_	_	_	_	_	_	_	_
+40	Liliʻuokalani	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_321
+# text = E hoʻomau nō i ka hana maikaʻi.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻomau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	maikaʻi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_322
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_323
+# text = Nui nō koʻu mahalo iā ʻoukou no ke kono ʻana mai iaʻu e hele mai ma ʻaneʻi.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	mahalo	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kono	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	iaʻu	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hele	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	ʻaneʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_324
+# text = A hui kala nō mai iaʻu no koʻu haʻalulu nō i kēia pō.
+1	A	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	kala	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	haʻalulu	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	pō	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_325
+# text = A ʻaʻohe pili ʻoe, haʻalulu pū nō kāua.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	pili	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	haʻalulu	_	_	_	_	_	_	_	_
+7	pū	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	kāua	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_326
+# text = No ka mea, ʻaʻohe maʻa loa nō i kēia ʻano hana ʻana o ka he , o ka hoʻolele ʻana nō ma ka rādiō (lēkiō).
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	maʻa	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hoʻolele	_	_	_	_	_	_	_	_
+21	ʻana	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	rādiō	_	_	_	_	_	_	_	_
+26	(	_	PUNCT	_	_	_	_	_	_
+27	lēkiō	_	_	_	_	_	_	_	_
+28	)	_	PUNCT	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_327
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.007_Mālia_Craver_19720919_328
+# text = Aloha nō, a hui hou nō kākou.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hui	_	_	_	_	_	_	_	_
+6	hou	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+

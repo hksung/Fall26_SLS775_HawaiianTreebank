@@ -1,0 +1,6432 @@
+# newdoc id = HV24.023_Lydia_Hale_19730220
+# sent_id = HV24.023_Lydia_Hale_19730220_1
+# text = E nā ʻōiwi, me nā pua o ka ʻāina aloha, i hoʻākoakoa mai nei i kēia ahiahi, ma ka pahu hoʻolele leo ʻo KCCN.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	ʻōiwi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	pua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻāina	_	_	_	_	_	_	_	_
+11	aloha	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	hoʻākoakoa	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	nei	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	ahiahi	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	pahu	_	_	_	_	_	_	_	_
+24	hoʻolele	_	_	_	_	_	_	_	_
+25	leo	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	KCCN	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_2
+# text = Mai ka mokupuni ʻo Hawaiʻi kuauli, a hiki i Niʻihau o ke one pūpū o Kahelelani.
+1	Mai	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mokupuni	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	kuauli	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Niʻihau	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	one	_	_	_	_	_	_	_	_
+15	pūpū	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Kahelelani	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_3
+# text = Ke aloha nō kākou a pau.
+1	Ke	_	_	_	_	_	_	_	_
+2	aloha	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_4
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_5
+# text = E hoʻopumehana kākou i kēia ahiahi ʻo ka ua peno, ma ka hui ʻōlelo ʻana o kā kākou ʻōlelo makuahine.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻopumehana	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	ahiahi	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	peno	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hui	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	kā	_	_	_	_	_	_	_	_
+19	kākou	_	_	_	_	_	_	_	_
+20	ʻōlelo	_	_	_	_	_	_	_	_
+21	makuahine	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_6
+# text = A eia nō me kākou i kēia ahiahi, ko mākou poʻe hoa kipa, a, e hoʻolauna mua ana au i ke alakaʻi o kēia, a, hui hoa kipa i kēia ahiahi, ʻo ia ʻo Līlia Hale.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	hoa	_	_	_	_	_	_	_	_
+14	kipa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	hoʻolauna	_	_	_	_	_	_	_	_
+20	mua	_	_	_	_	_	_	_	_
+21	ana	_	_	_	_	_	_	_	_
+22	au	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	alakaʻi	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	hui	_	_	_	_	_	_	_	_
+32	hoa	_	_	_	_	_	_	_	_
+33	kipa	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	kēia	_	_	_	_	_	_	_	_
+36	ahiahi	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ʻo	_	_	_	_	_	_	_	_
+39	ia	_	_	_	_	_	_	_	_
+40	ʻo	_	_	_	_	_	_	_	_
+41	Līlia	_	_	_	_	_	_	_	_
+42	Hale	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_7
+# text = Aloha mai nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_8
+# text = Wainapu , wai puna lau ke aloha.
+1	Wainapu	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	puna	_	_	_	_	_	_	_	_
+5	lau	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_9
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_10
+# text = A, i loko nō o kēia keʻena hīmeni me aʻu nei i kēia pō, ʻo ia kuʻu n , hoa hīmeni, ʻo Kalei Reece, ko mākou makua kāne e hoʻokani i ka, ka, ka pila nui, ʻO Miliama Tollefson, hoʻolele leo, ʻo Mikala, a, Kekahu, a, Kaniela, a me aʻu.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	keʻena	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	aʻu	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	pō	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	kuʻu	_	_	_	_	_	_	_	_
+20	n	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hoa	_	_	_	_	_	_	_	_
+23	hīmeni	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻo	_	_	_	_	_	_	_	_
+26	Kalei	_	_	_	_	_	_	_	_
+27	Reece	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ko	_	_	_	_	_	_	_	_
+30	mākou	_	_	_	_	_	_	_	_
+31	makua	_	_	_	_	_	_	_	_
+32	kāne	_	_	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	hoʻokani	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	ka	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	pila	_	_	_	_	_	_	_	_
+42	nui	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	ʻO	_	_	_	_	_	_	_	_
+45	Miliama	_	_	_	_	_	_	_	_
+46	Tollefson	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	hoʻolele	_	_	_	_	_	_	_	_
+49	leo	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	ʻo	_	_	_	_	_	_	_	_
+52	Mikala	_	_	_	_	_	_	_	_
+53	,	_	PUNCT	_	_	_	_	_	_
+54	a	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	Kekahu	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	a	_	_	_	_	_	_	_	_
+59	,	_	PUNCT	_	_	_	_	_	_
+60	Kaniela	_	_	_	_	_	_	_	_
+61	,	_	PUNCT	_	_	_	_	_	_
+62	a	_	_	_	_	_	_	_	_
+63	me	_	_	_	_	_	_	_	_
+64	aʻu	_	_	_	_	_	_	_	_
+65	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_11
+# text = ʻAe, ʻo wai, ʻo wai ka inoa o kēia mele mua a ʻoukou e hīmeni ai? Kaulana Nā Pua.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	wai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	wai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	mua	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ʻoukou	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	hīmeni	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	Kaulana	_	_	_	_	_	_	_	_
+21	Nā	_	_	_	_	_	_	_	_
+22	Pua	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_12
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_13
+# text = E hoʻokani mai.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻokani	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_14
+# text = Mahalo a nui loa iā ʻoukou a pau.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_15
+# text = Mahalo no ko ʻoukou hele ʻana mai i kēia ahiahi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	ahiahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_16
+# text = A, e Līlia, e nīnau mua ana au iā ʻoe i kekahi mau nīnau no ka hoʻolauna ʻana mai iā ʻoe i ka poʻe e hoʻolohe mai nei i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	Līlia	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nīnau	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	ʻoe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	nīnau	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	hoʻolauna	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	ʻoe	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	poʻe	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	hoʻolohe	_	_	_	_	_	_	_	_
+29	mai	_	_	_	_	_	_	_	_
+30	nei	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	kēia	_	_	_	_	_	_	_	_
+33	ahiahi	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_17
+# text = A ʻo kou wahi i hānau ʻia ai? I Pālama, ka alanui Kapūpule, Pūpule alanui.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hānau	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	I	_	_	_	_	_	_	_	_
+11	Pālama	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	alanui	_	_	_	_	_	_	_	_
+15	Kapūpule	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Pūpule	_	_	_	_	_	_	_	_
+18	alanui	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_18
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_19
+# text = A hānau wau i loko o ka home o Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	hānau	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	loko	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	home	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Mrs	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_20
+# text = Macalton.
+1	Macalton	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_21
+# text = ʻO ia hoʻi ke kupuna wahine o Emma Veary.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kupuna	_	_	_	_	_	_	_	_
+6	wahine	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Emma	_	_	_	_	_	_	_	_
+9	Veary	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_22
+# text = ʻAe, a ʻo ko , ka inoa o kou mau mākua? Koʻu māmā, kona inoa ʻo Kealohanui.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kou	_	_	_	_	_	_	_	_
+11	mau	_	_	_	_	_	_	_	_
+12	mākua	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Koʻu	_	_	_	_	_	_	_	_
+15	māmā	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	kona	_	_	_	_	_	_	_	_
+18	inoa	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Kealohanui	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_23
+# text = ʻAne Kealohanui Kanahele.
+1	ʻAne	_	_	_	_	_	_	_	_
+2	Kealohanui	_	_	_	_	_	_	_	_
+3	Kanahele	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_24
+# text = Koʻu pāpā, Herbert Kaʻapuiki.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	pāpā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Herbert	_	_	_	_	_	_	_	_
+5	Kaʻapuiki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_25
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_26
+# text = A ka inoa o nā kūpuna? Kuʻu kupuna kāne, ʻo Kamuela Kanahele.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	kūpuna	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Kuʻu	_	_	_	_	_	_	_	_
+9	kupuna	_	_	_	_	_	_	_	_
+10	kāne	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kamuela	_	_	_	_	_	_	_	_
+14	Kanahele	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_27
+# text = Koʻu kupuna wahine ʻo Elizabeth Kaukeano.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	kupuna	_	_	_	_	_	_	_	_
+3	wahine	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Elizabeth	_	_	_	_	_	_	_	_
+6	Kaukeano	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_28
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_29
+# text = He nani nō kā ʻoukou hīmeni ʻana kēia ahiahi.
+1	He	_	_	_	_	_	_	_	_
+2	nani	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	hīmeni	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	ahiahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_30
+# text = Mahalo iā ʻoe.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_31
+# text = He hana maʻa mau paha kēia iā ʻoukou? ʻAe, ko mākou hana m , maikaʻi kēia.
+1	He	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	maʻa	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	m	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	maikaʻi	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_32
+# text = Ma , a, aloha mākou i ka poʻe hīmeni.
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aloha	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	hīmeni	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_33
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_34
+# text = Well, mahalo nui iā ʻoukou no ka mea, hīmeni akula nō ʻoukou me ka hoʻopo , hoʻomaopopo ʻana, ʻAe.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hīmeni	_	_	_	_	_	_	_	_
+12	akula	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	ʻoukou	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hoʻopo	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	hoʻomaopopo	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_35
+# text = i ka ʻōlelo Hawaiʻi.
+1	i	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	Hawaiʻi	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_36
+# text = He, a, a ʻumi makahiki a ʻoi paha, hī , hīmeni mākou.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ʻumi	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ʻoi	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hī	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hīmeni	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_37
+# text = Mākou ʻehā i loko nei.
+1	Mākou	_	_	_	_	_	_	_	_
+2	ʻehā	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_38
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_39
+# text = I luna o nā ha , ʻākoakoa mai nā misiona i loko o mākou ʻekalesia.
+1	I	_	_	_	_	_	_	_	_
+2	luna	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ha	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻākoakoa	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	misiona	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	loko	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	ʻekalesia	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_40
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_41
+# text = I loko o ko lākou home, hoʻolana, a ko lākou hoʻi ʻana, hīmeni hou mākou no lākou.
+1	I	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	home	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoʻolana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	hoʻi	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	hīmeni	_	_	_	_	_	_	_	_
+17	hou	_	_	_	_	_	_	_	_
+18	mākou	_	_	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	lākou	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_42
+# text = A aia i hea ʻoe e noho nei i kēia, kēia manawa? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	aia	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	noho	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_43
+# text = Ua hāʻawi mai ke Akua iaʻu he wahi home ma Waimānalo.
+1	Ua	_	_	_	_	_	_	_	_
+2	hāʻawi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	Akua	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	home	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	Waimānalo	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_44
+# text = He, a, ʻāina hoʻopulapula.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	hoʻopulapula	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_45
+# text = ʻĀina hoʻopulapula i Waimānalo.
+1	ʻĀina	_	_	_	_	_	_	_	_
+2	hoʻopulapula	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Waimānalo	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_46
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_47
+# text = Na ke Akua i hāʻawi mai, ʻumitūmāwalu, makeʻe au e kali no kēia ha , home, Hā.
+1	Na	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	Akua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hāʻawi	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻumitūmāwalu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	makeʻe	_	_	_	_	_	_	_	_
+11	au	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	kali	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ha	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	home	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Hā	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_48
+# text = A hāʻawi mai ke Akua iaʻu i kēia home.
+1	A	_	_	_	_	_	_	_	_
+2	hāʻawi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	Akua	_	_	_	_	_	_	_	_
+6	iaʻu	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	home	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_49
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_50
+# text = A, hānau mai nō nā keiki, hānai i ke keiki, ʻEhā keiki aʻu, ʻelua keiki kāne, ʻelua kaikamāhine.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hānau	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hānai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	keiki	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻEhā	_	_	_	_	_	_	_	_
+15	keiki	_	_	_	_	_	_	_	_
+16	aʻu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻelua	_	_	_	_	_	_	_	_
+19	keiki	_	_	_	_	_	_	_	_
+20	kāne	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻelua	_	_	_	_	_	_	_	_
+23	kaikamāhine	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_51
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_52
+# text = } ʻUmitūmā , iwakālua, ʻumitūmā ʻelua moʻopuna.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻUmitūmā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	iwakālua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻumitūmā	_	_	_	_	_	_	_	_
+7	ʻelua	_	_	_	_	_	_	_	_
+8	moʻopuna	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_53
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_54
+# text = A ʻo kāu kāne, no hea ʻo ia? Ua hala kuʻu kāne.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kāu	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	hea	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Ua	_	_	_	_	_	_	_	_
+12	hala	_	_	_	_	_	_	_	_
+13	kuʻu	_	_	_	_	_	_	_	_
+14	kāne	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_55
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_57
+# text = A kona, a, makua kāne o kuʻu kāne, mai Kona mai.
+1	A	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	makua	_	_	_	_	_	_	_	_
+7	kāne	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kuʻu	_	_	_	_	_	_	_	_
+10	kāne	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	Kona	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_58
+# text = ʻO Kiaʻihale ka inoa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kiaʻihale	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_59
+# text = No Kona? ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_60
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_61
+# text = A kona māmā, mai, a, Koʻolau Poko.
+1	A	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	māmā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Koʻolau	_	_	_	_	_	_	_	_
+10	Poko	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_62
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_63
+# text = } Kaualoku kola , kona inoa, Mālia Kaualoku, ʻo ia ka makuahine o koʻu kāne.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kaualoku	_	_	_	_	_	_	_	_
+3	kola	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kona	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Mālia	_	_	_	_	_	_	_	_
+9	Kaualoku	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	makuahine	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	koʻu	_	_	_	_	_	_	_	_
+17	kāne	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_64
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_65
+# text = No laila, eia nō ʻoe ke noho nei ma ka malu o nā Koʻolau.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	eia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	noho	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	malu	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	Koʻolau	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_66
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_67
+# text = I Waimānalo.
+1	I	_	_	_	_	_	_	_	_
+2	Waimānalo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_68
+# text = A, ka inoa o ko mākou hui, ʻo ia hoʻi, Kaʻehukaionākoʻolau.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	mākou	_	_	_	_	_	_	_	_
+8	hui	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Kaʻehukaionākoʻolau	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_69
+# text = Kēia hui nei? No kēia hui a mākou e noho nei ma, a, Waimānalo.
+1	Kēia	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	No	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hui	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Waimānalo	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_70
+# text = Ua hoʻohui hoʻi mākou he wahi hui.
+1	Ua	_	_	_	_	_	_	_	_
+2	hoʻohui	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	hui	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_71
+# text = A, ʻŌ.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻŌ	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_72
+# text = a, kaʻu hana hoʻi, kaʻu hana makemake loa e hana ai, e aʻo Hawaiʻi i nā poʻe e noho nei i, i kēlā wahi.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kaʻu	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kaʻu	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	makemake	_	_	_	_	_	_	_	_
+10	loa	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	poʻe	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	noho	_	_	_	_	_	_	_	_
+23	nei	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	kēlā	_	_	_	_	_	_	_	_
+28	wahi	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_73
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_74
+# text = Aia nō ʻoe ke aʻo nei i ka ʻōlelo Hawaiʻi? ʻAe.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_75
+# text = Pō nei, a, nā poʻe keiki liʻiliʻi.
+1	Pō	_	_	_	_	_	_	_	_
+2	nei	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	keiki	_	_	_	_	_	_	_	_
+9	liʻiliʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_76
+# text = Aʻo wau iā lākou, a ʻāpōpō, nā Poʻahā, e aʻo ana au i nā mākuahine.
+1	Aʻo	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ʻāpōpō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	Poʻahā	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	ana	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mākuahine	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_77
+# text = ʻŌ, maikaʻi, mahalo.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mahalo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_78
+# text = No ka mea, kuʻu puke heluhelu, ʻo ia hoʻi, ka Paipala.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	puke	_	_	_	_	_	_	_	_
+7	heluhelu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	hoʻi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	Paipala	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_79
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_80
+# text = No ka mea, i loko o n , i loko o ka Paipala, aia nō ka nani o ka ʻōlelo a ke akua.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	loko	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	n	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	loko	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	Paipala	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	aia	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	nani	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	akua	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_81
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_82
+# text = Pēlā nō me ka ʻōlelo Hawaiʻi.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻōlelo	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_83
+# text = ʻAe, pololei ʻoe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_84
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_85
+# text = Pehea no ka puke haʻawina o ka ʻōlelo Hawaiʻi.
+1	Pehea	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	puke	_	_	_	_	_	_	_	_
+5	haʻawina	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_86
+# text = Ma mua, ke au i loaʻa ʻole nā puke haʻawina o kēia manawa, ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	au	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	loaʻa	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	puke	_	_	_	_	_	_	_	_
+11	haʻawina	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_87
+# text = E heluhelu mau nō i ka Paipala, a paʻa nō ka ʻōlelo.
+1	E	_	_	_	_	_	_	_	_
+2	heluhelu	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	Paipala	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	paʻa	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_88
+# text = Koʻu manaʻo, ʻĒ.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	manaʻo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_89
+# text = Ka manawa i, i paʻi i kēlā Paipala, ka , nā ʻōlelo Hawaiʻi hoʻoko , i hoʻopaʻi ʻia, he ʻōlelo, a, ʻoiaʻiʻo.
+1	Ka	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	paʻi	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	Paipala	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	hoʻoko	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	hoʻopaʻi	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	he	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻoiaʻiʻo	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_90
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_91
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_92
+# text = A, nani ka ʻōlelo Hawaiʻi, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nani	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻōlelo	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_93
+# text = i loko o ka Paipala.
+1	i	_	_	_	_	_	_	_	_
+2	loko	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	Paipala	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_94
+# text = Hemolele nō ka huaʻōlelo.
+1	Hemolele	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	huaʻōlelo	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_95
+# text = ʻAe, nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_96
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_97
+# text = No laila, kēlā kuʻu puke e hoʻo , a, e aʻo ai i nā poʻe a pau i ka leo Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	puke	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	poʻe	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	pau	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	leo	_	_	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_98
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_99
+# text = Mahalo no kēia, a pehea, he mele hou, hou aʻe nō kā ʻoukou e hīmeni mai nei? Makemake wau e hīmeni i ka himeni a koʻu kupuna kāne i haku ai no koʻu kupuna wahine.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pehea	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	hou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hou	_	_	_	_	_	_	_	_
+13	aʻe	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	kā	_	_	_	_	_	_	_	_
+16	ʻoukou	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	hīmeni	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	Makemake	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	hīmeni	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	himeni	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	koʻu	_	_	_	_	_	_	_	_
+31	kupuna	_	_	_	_	_	_	_	_
+32	kāne	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	haku	_	_	_	_	_	_	_	_
+35	ai	_	_	_	_	_	_	_	_
+36	no	_	_	_	_	_	_	_	_
+37	koʻu	_	_	_	_	_	_	_	_
+38	kupuna	_	_	_	_	_	_	_	_
+39	wahine	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_100
+# text = A ka inoa o kēia mele, ʻo ia hoʻi, Pauoa Liko Lehua.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Pauoa	_	_	_	_	_	_	_	_
+13	Liko	_	_	_	_	_	_	_	_
+14	Lehua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_101
+# text = Na kou kupuna kāne i haku? ʻAe, na koʻu kupuna kāne ʻo Kamuela Kanahele, nāna i haku kēia mele.
+1	Na	_	_	_	_	_	_	_	_
+2	kou	_	_	_	_	_	_	_	_
+3	kupuna	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	haku	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	koʻu	_	_	_	_	_	_	_	_
+12	kupuna	_	_	_	_	_	_	_	_
+13	kāne	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Kamuela	_	_	_	_	_	_	_	_
+16	Kanahele	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	nāna	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	haku	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	mele	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_102
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_103
+# text = } Ka manawa āna i hoʻohaʻi ai i kuʻu kupuna wahine i Pauoa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ka	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	āna	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hoʻohaʻi	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kuʻu	_	_	_	_	_	_	_	_
+10	kupuna	_	_	_	_	_	_	_	_
+11	wahine	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Pauoa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_104
+# text = ʻŌ, no Pauoa kou kupuna wahine? ʻAe.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	Pauoa	_	_	_	_	_	_	_	_
+5	kou	_	_	_	_	_	_	_	_
+6	kupuna	_	_	_	_	_	_	_	_
+7	wahine	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_105
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_106
+# text = Mai Molokaʻi mai nō koʻu kupuna kāne.
+1	Mai	_	_	_	_	_	_	_	_
+2	Molokaʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	koʻu	_	_	_	_	_	_	_	_
+6	kupuna	_	_	_	_	_	_	_	_
+7	kāne	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_107
+# text = ʻŌ, ʻae.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_108
+# text = !! kēia hīmeni, no , nona kēia hīmeni no kuʻu kupuna wahine.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	hīmeni	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nona	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	kuʻu	_	_	_	_	_	_	_	_
+12	kupuna	_	_	_	_	_	_	_	_
+13	wahine	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_109
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_110
+# text = He nui nā poʻe hīmeni nei kēia hīmeni but ʻaʻole, kēia hīmeni, ʻaʻole no lākou.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hīmeni	_	_	_	_	_	_	_	_
+9	but	_	_	_	_	_	_	_	_
+10	ʻaʻole	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hīmeni	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	lākou	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_111
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_112
+# text = E hīmeni mai nei nō kēia mele i kēia manawa.
+1	E	_	_	_	_	_	_	_	_
+2	hīmeni	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_113
+# text = Pauoa Liko Lehua.
+1	Pauoa	_	_	_	_	_	_	_	_
+2	Liko	_	_	_	_	_	_	_	_
+3	Lehua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_114
+# text = ʻAe, mahalo nui iā ʻoukou no kēia mele.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_115
+# text = Ua akamai nō hoʻi ka poʻe o Pālama i ka hoʻokani mele no ka mea, kēlā Poʻalua aku nei, ua hele mai nei ʻo Henry Machado no Pālama.
+1	Ua	_	_	_	_	_	_	_	_
+2	akamai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Pālama	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hoʻokani	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	Poʻalua	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	nei	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ua	_	_	_	_	_	_	_	_
+23	hele	_	_	_	_	_	_	_	_
+24	mai	_	_	_	_	_	_	_	_
+25	nei	_	_	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Henry	_	_	_	_	_	_	_	_
+28	Machado	_	_	_	_	_	_	_	_
+29	no	_	_	_	_	_	_	_	_
+30	Pālama	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_116
+# text = Ua kamaʻāina ʻoe me ia? ʻAʻole.
+1	Ua	_	_	_	_	_	_	_	_
+2	kamaʻāina	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAʻole	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_117
+# text = ʻAʻohe kamaʻāina? No Pālama nō ʻo ia.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	kamaʻāina	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	No	_	_	_	_	_	_	_	_
+5	Pālama	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_118
+# text = Hānau wale nō wau i Pālama.
+1	Hānau	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Pālama	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_119
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_120
+# text = A ʻo kou hānai ʻia ʻana? Ma, a, Kuakini, aia i Pauoa.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	hānai	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Ma	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Kuakini	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	aia	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Pauoa	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_121
+# text = ʻŌ, he, he inoa ʻāina nō kēlā? ʻO Kuakini? He, e ka alanui kēlā.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻO	_	_	_	_	_	_	_	_
+12	Kuakini	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	He	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	alanui	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_122
+# text = ʻO ke alanui? Kuakini.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	alanui	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Kuakini	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_123
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_124
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_125
+# text = Ma Puʻunui? ʻAʻole.
+1	Ma	_	_	_	_	_	_	_	_
+2	Puʻunui	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAʻole	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_126
+# text = Ma Lusitana.
+1	Ma	_	_	_	_	_	_	_	_
+2	Lusitana	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_127
+# text = Ma mua o kuʻu kupuna kāne i make, kuʻu kupuna wahine mua.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	kupuna	_	_	_	_	_	_	_	_
+6	kāne	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	make	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kuʻu	_	_	_	_	_	_	_	_
+11	kupuna	_	_	_	_	_	_	_	_
+12	wahine	_	_	_	_	_	_	_	_
+13	mua	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_128
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_129
+# text = } Male kuʻu kupuna kāne iā Mrs.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Male	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	kupuna	_	_	_	_	_	_	_	_
+5	kāne	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	Mrs	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_130
+# text = Kaʻuhane.
+1	Kaʻuhane	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_131
+# text = But kona ʻāina ma Lusitana, kokue kokoke iā, iā Fort Street hoʻi.
+1	But	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Lusitana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kokue	_	_	_	_	_	_	_	_
+8	kokoke	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	Fort	_	_	_	_	_	_	_	_
+13	Street	_	_	_	_	_	_	_	_
+14	hoʻi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_132
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_133
+# text = } I ka makahiki hea ʻoe i hānau ʻia ai? Ka lā iwakālua o ʻApeli , ʻApelila, a, ʻumitūmāiwa ʻumitūmātolu.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hānau	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Ka	_	_	_	_	_	_	_	_
+13	lā	_	_	_	_	_	_	_	_
+14	iwakālua	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ʻApeli	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻApelila	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻumitūmāiwa	_	_	_	_	_	_	_	_
+23	ʻumitūmātolu	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_134
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_135
+# text = } Kēia makahiki, Hā.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kēia	_	_	_	_	_	_	_	_
+3	makahiki	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Hā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_136
+# text = kēia mahina aʻe, ʻeā.
+1	kēia	_	_	_	_	_	_	_	_
+2	mahina	_	_	_	_	_	_	_	_
+3	aʻe	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻeā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_137
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_138
+# text = Kanaono makahiki au.
+1	Kanaono	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_139
+# text = Kokoke nō e piʻi hou ana nō nā makahiki.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	piʻi	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	makahiki	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_140
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_141
+# text = ʻAʻole hiki ke hōʻemi ʻia.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	hōʻemi	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_142
+# text = ʻAʻole hiki.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_143
+# text = A, i hea ʻoe i hoʻonaʻauao ai? Central Grammar.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hea	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	hoʻonaʻauao	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Central	_	_	_	_	_	_	_	_
+11	Grammar	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_144
+# text = Kēlā manawa, ʻo ia hoʻi, ka, ka mea ku , kula e hoʻonamu a, Pelekānia hoʻi.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	hoʻi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	ku	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kula	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hoʻonamu	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Pelekānia	_	_	_	_	_	_	_	_
+20	hoʻi	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_145
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_146
+# text = A ua moʻolelo mai nō ʻoe ma mua aku nei e pili ana i kou inoa ʻo Līlia.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	moʻolelo	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	aku	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	pili	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kou	_	_	_	_	_	_	_	_
+16	inoa	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Līlia	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_147
+# text = Pehea lā i loaʻa ai kēia inoa? Kēlā nō koʻu inoa, a, kuʻu makua i mea, i hāʻawi mai iaʻu.
+1	Pehea	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loaʻa	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	Kēlā	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	koʻu	_	_	_	_	_	_	_	_
+12	inoa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kuʻu	_	_	_	_	_	_	_	_
+17	makua	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	hāʻawi	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	iaʻu	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_148
+# text = Ua hele aku nei wau i kēia kula.
+1	Ua	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_149
+# text = ʻO Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Mrs	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_150
+# text = Victor, ʻo ia koʻu kumu kula.
+1	Victor	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	koʻu	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	kula	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_151
+# text = Koʻu manaʻo, ʻaʻole ʻo ia makamake, mea, ka ʻōlelo Hawaiʻi, no ka mea, pāpā ʻo ia iaʻu i ka mea, ka n , ka namu Hawaiʻi.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	manaʻo	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	makamake	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	pāpā	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	ia	_	_	_	_	_	_	_	_
+22	iaʻu	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	mea	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	n	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	namu	_	_	_	_	_	_	_	_
+32	Hawaiʻi	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_152
+# text = ʻAʻole ʻo ia makamake kēlā inoa ʻo Līlia, hāʻawi ʻia mai kēlā inoa ʻo Lydia.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	makamake	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Līlia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hāʻawi	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	inoa	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Lydia	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_153
+# text = Waiho kuʻu lo , paʻa kēlā inoa iaʻu, ʻo Lydia.
+1	Waiho	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	lo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	paʻa	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	iaʻu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Lydia	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_154
+# text = ʻAno lauwili aku paha ka, mea, kona alelo i ka, No.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	lauwili	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kona	_	_	_	_	_	_	_	_
+10	alelo	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	No	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_155
+# text = walaʻau? Ke hoʻi wau i ka hale, a hoʻi wau me wahi pepa.
+1	walaʻau	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Ke	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hale	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	hoʻi	_	_	_	_	_	_	_	_
+12	wau	_	_	_	_	_	_	_	_
+13	me	_	_	_	_	_	_	_	_
+14	wahi	_	_	_	_	_	_	_	_
+15	pepa	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_156
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_157
+# text = } Aia i loko o ka pepa, a, "Mai namu, a, a, Hawaiʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Aia	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	loko	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pepa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	"	_	PUNCT	_	_	_	_	_	_
+12	Mai	_	_	_	_	_	_	_	_
+13	namu	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_158
+# text = Namu haole wale nō.
+1	Namu	_	_	_	_	_	_	_	_
+2	haole	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_159
+# text = " Kā .
+1	"	_	PUNCT	_	_	_	_	_	_
+2	Kā	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_160
+# text = Nānā kuʻu kupuna, "A he aha kēlā Līlia? ʻAʻole, mai ke kumu, mai namu, a, Hawaiʻi.
+1	Nānā	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	kupuna	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	"	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	aha	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	Līlia	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAʻole	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kumu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	namu	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	Hawaiʻi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_161
+# text = Kā .
+1	Kā	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_162
+# text = " {Mū.
+1	"	_	PUNCT	_	_	_	_	_	_
+2	{	_	PUNCT	_	_	_	_	_	_
+3	Mū	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_163
+# text = } Nānā kākou kēia manawa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Nānā	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_164
+# text = A, nānā kākou, !! poʻe haole i ka poʻe !! He aha lā ka hoʻope , ka hopena o kēia manawa? Make kākou.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nānā	_	_	_	_	_	_	_	_
+4	kākou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	!!	_	PUNCT	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	haole	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	!!	_	PUNCT	_	_	_	_	_	_
+13	He	_	_	_	_	_	_	_	_
+14	aha	_	_	_	_	_	_	_	_
+15	lā	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hoʻope	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hopena	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	manawa	_	_	_	_	_	_	_	_
+24	?	_	PUNCT	_	_	_	_	_	_
+25	Make	_	_	_	_	_	_	_	_
+26	kākou	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_165
+# text = Nui ka minamina o kēia manawa.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	minamina	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_166
+# text = ʻAe, aloha.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_167
+# text = A, ʻo, ʻehia, pehea ka lōkihi o kou noho ʻana i Waimānalo? Hoʻokahi makahiki.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻehia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	pehea	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lōkihi	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kou	_	_	_	_	_	_	_	_
+12	noho	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	Waimānalo	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	Hoʻokahi	_	_	_	_	_	_	_	_
+18	makahiki	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_168
+# text = ʻO ia wale nō? I kēia mahina.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	mahina	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_169
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_170
+# text = Hoʻokahi makahiki.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_171
+# text = A i hea ʻoe i noho ai ma mua? Well, kuʻu kāne me aʻu, hana mākou no ka mis , Seventh Day Adventist.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hea	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	mua	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Well	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kuʻu	_	_	_	_	_	_	_	_
+14	kāne	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	aʻu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hana	_	_	_	_	_	_	_	_
+19	mākou	_	_	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	mis	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	Seventh	_	_	_	_	_	_	_	_
+25	Day	_	_	_	_	_	_	_	_
+26	Adventist	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_172
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_173
+# text = } Poʻaono, Poʻahā, hoʻomana Poʻahā.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Poʻaono	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Poʻahā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻomana	_	_	_	_	_	_	_	_
+7	Poʻahā	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_174
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_175
+# text = A hana kuʻu kāne i ka, no mālama i ka pā, a, so hāʻawi mai lākou i wahi mākou e noho ai, ma hope o ka Hawaiian Mission Academy.
+1	A	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	mālama	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pā	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	so	_	_	_	_	_	_	_	_
+17	hāʻawi	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	lākou	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	wahi	_	_	_	_	_	_	_	_
+22	mākou	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	noho	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ma	_	_	_	_	_	_	_	_
+28	hope	_	_	_	_	_	_	_	_
+29	o	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	Hawaiian	_	_	_	_	_	_	_	_
+32	Mission	_	_	_	_	_	_	_	_
+33	Academy	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_176
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_177
+# text = } Ma laila mākou i noho ai, a hāʻawi mai kēia home, a, neʻe wau i laila.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	noho	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hāʻawi	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	home	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	neʻe	_	_	_	_	_	_	_	_
+18	wau	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	laila	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_178
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_179
+# text = } Pehea ʻo ka, pehea kēlā wahi kou ma, kou mau lā ʻōpiopio? A koʻu wā ʻōpiopio, noho wau i, i, Lusitana me kuʻu kupuna kāne.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Pehea	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pehea	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	lā	_	_	_	_	_	_	_	_
+15	ʻōpiopio	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	koʻu	_	_	_	_	_	_	_	_
+19	wā	_	_	_	_	_	_	_	_
+20	ʻōpiopio	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	noho	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Lusitana	_	_	_	_	_	_	_	_
+29	me	_	_	_	_	_	_	_	_
+30	kuʻu	_	_	_	_	_	_	_	_
+31	kupuna	_	_	_	_	_	_	_	_
+32	kāne	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_180
+# text = A, hele wau i Kaumakapili.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hele	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Kaumakapili	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_181
+# text = Ma laila kuʻu, mea, ʻekalesia mua au i hele ai.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻekalesia	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	hele	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_182
+# text = Ma laila wau i aʻo ʻia ai ka hīmeni ʻana i nā mea hīmeni haipule.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	hīmeni	_	_	_	_	_	_	_	_
+15	haipule	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_183
+# text = A i loko o ko mākou noho me nā kūpuna, a, ʻohana mākou nā pō a pau, a me nā kakahiaka a pau.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	loko	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	noho	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	kūpuna	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻohana	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	pō	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	pau	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	me	_	_	_	_	_	_	_	_
+23	nā	_	_	_	_	_	_	_	_
+24	kakahiaka	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	pau	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_184
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_185
+# text = A mai laila au i ha , kamaʻāina ai i ka Paipala.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kamaʻāina	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	Paipala	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_186
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_187
+# text = Mai laila mai i kamaʻāina ai i ko mākou haku Iesu Kristo.
+1	Mai	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kamaʻāina	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	haku	_	_	_	_	_	_	_	_
+11	Iesu	_	_	_	_	_	_	_	_
+12	Kristo	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_188
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_189
+# text = } Kēlā mau lā, hana mau nō ka, ka hōʻike? ʻŌ, hana nō i ka hōʻike.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kēlā	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	lā	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hōʻike	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻŌ	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	hana	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hōʻike	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_190
+# text = {A.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_191
+# text = } Ma laila nō ʻoe e ʻike ai i nā hīmeni hou i haku ʻia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	hīmeni	_	_	_	_	_	_	_	_
+12	hou	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	haku	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_192
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_193
+# text = Kēia manawa, he ʻole loaʻa, a, well, ʻAe.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	loaʻa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	well	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_194
+# text = he, ke ʻano heleleʻi nei, ʻaʻohe nō, ʻAe.
+1	he	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	heleleʻi	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻaʻohe	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_195
+# text = e hoʻomau ana.
+1	e	_	_	_	_	_	_	_	_
+2	hoʻomau	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_196
+# text = Ma mua, he mea, inā, inā noho ʻoe me nā kūpuna, nā, me nā kūpuna, a hele ʻoe i ka pule, ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	inā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	inā	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	kūpuna	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	nā	_	_	_	_	_	_	_	_
+20	kūpuna	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	hele	_	_	_	_	_	_	_	_
+24	ʻoe	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	pule	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ʻAe	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_197
+# text = Nā, nā, nā, nā, I nā Lāpule a pau.
+1	Nā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	I	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	Lāpule	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	pau	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_198
+# text = nā Lāpule a pau.
+1	nā	_	_	_	_	_	_	_	_
+2	Lāpule	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_199
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_200
+# text = A he mea, hele ʻoe i kakahiaka , hele, hele wau i kakahiaka i Kaumakapili, a i ka ʻauinalā, a hele mākou i ka Pauoa, he wahi mea ʻekelesia i Pauoa.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kakahiaka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hele	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kakahiaka	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Kaumakapili	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻauinalā	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	hele	_	_	_	_	_	_	_	_
+26	mākou	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	Pauoa	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	he	_	_	_	_	_	_	_	_
+32	wahi	_	_	_	_	_	_	_	_
+33	mea	_	_	_	_	_	_	_	_
+34	ʻekelesia	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	Pauoa	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_201
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_202
+# text = } A i ka pō hola ʻehiku, hoʻi hou i Kaumakapila a hiki i ka hola ʻeiwa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	pō	_	_	_	_	_	_	_	_
+6	hola	_	_	_	_	_	_	_	_
+7	ʻehiku	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	hou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Kaumakapila	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hola	_	_	_	_	_	_	_	_
+18	ʻeiwa	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_203
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_204
+# text = Pēlā kuʻu mau hoʻomaopopo ʻana koʻu manawa liʻiliʻi, ʻAe.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	hoʻomaopopo	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	liʻiliʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_205
+# text = a hiki i kuʻu nui ʻana.
+1	a	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_206
+# text = Haipule no ka poʻe ma mua.
+1	Haipule	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_207
+# text = Haipule nō.
+1	Haipule	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_208
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_209
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_210
+# text = Kamaʻāina wau i ka Paipala.
+1	Kamaʻāina	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	Paipala	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_211
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_212
+# text = } Kamaʻāina wau i ka ʻōlelo o ke Akua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Kamaʻāina	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	Akua	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_213
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_214
+# text = Well, maikaʻi nō.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maikaʻi	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_215
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_216
+# text = Mahalo nō ke Akua.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	Akua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_217
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_218
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_219
+# text = Hoʻomaikaʻi ke Akua.
+1	Hoʻomaikaʻi	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	Akua	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_220
+# text = Kēia manawa, a, e hoʻolaha ana au i nā helu kelepona ma mua o ke kani ʻana o ka hola, hapalua hola ʻewalu.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	helu	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	mua	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kani	_	_	_	_	_	_	_	_
+19	ʻana	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hola	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	hapalua	_	_	_	_	_	_	_	_
+25	hola	_	_	_	_	_	_	_	_
+26	ʻewalu	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_221
+# text = A, ʻō, e kala mai.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	kala	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_222
+# text = Eia nō kekahi kelepona ʻana.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	kelepona	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_223
+# text = ʻAe, aloha nō kākou.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_224
+# text = Eia nō mākou kēia ka papa ʻo Ka Leo Hawaiʻi, ka papahana ʻo Ka Leo Hawaiʻi.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	papa	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Ka	_	_	_	_	_	_	_	_
+9	Leo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	papahana	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Ka	_	_	_	_	_	_	_	_
+16	Leo	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_225
+# text = A, ʻo ko mākou hoa kipa, ʻo Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	mākou	_	_	_	_	_	_	_	_
+6	hoa	_	_	_	_	_	_	_	_
+7	kipa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Mrs	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_226
+# text = , a, Līlia Hale.
+1	,	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Līlia	_	_	_	_	_	_	_	_
+5	Hale	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_227
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_228
+# text = A, e, {amū,} e ʻoluʻolu mai ʻoukou e hoʻokani hou mai kekahi mele, inā hiki.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	amū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	}	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	ʻoluʻolu	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hoʻokani	_	_	_	_	_	_	_	_
+15	hou	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	kekahi	_	_	_	_	_	_	_	_
+18	mele	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	inā	_	_	_	_	_	_	_	_
+21	hiki	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_229
+# text = A kēia mele, na koʻu aunty, a, Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	mele	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	aunty	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Mrs	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_230
+# text = Bishaw, Keliana Bishaw, nāna i haku kēia hīmeni, kēia mele.
+1	Bishaw	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Keliana	_	_	_	_	_	_	_	_
+4	Bishaw	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	nāna	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	haku	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	hīmeni	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_231
+# text = A kona kaikamahine ʻo Kananaʻi Rawlins ʻo ia ka mea aʻu i hoʻolohe mua i koʻu manawa liʻiliʻi e n , noho ana i, i, a, Kalamaʻula, Molokaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	kaikamahine	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Kananaʻi	_	_	_	_	_	_	_	_
+6	Rawlins	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	aʻu	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hoʻolohe	_	_	_	_	_	_	_	_
+14	mua	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	koʻu	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	liʻiliʻi	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	n	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	noho	_	_	_	_	_	_	_	_
+23	ana	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	Kalamaʻula	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	Molokaʻi	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_232
+# text = Ua hala ʻo ia ala koe nō nā keiki a me nā moʻopuna.
+1	Ua	_	_	_	_	_	_	_	_
+2	hala	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ala	_	_	_	_	_	_	_	_
+6	koe	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	keiki	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	moʻopuna	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_233
+# text = No laila, kēia hīmeni, Only You, kēia i, i haku ʻia na kuʻu aunty, Mrs.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Only	_	_	_	_	_	_	_	_
+8	You	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	haku	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	kuʻu	_	_	_	_	_	_	_	_
+18	aunty	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	Mrs	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_234
+# text = Keliana Bishaw.
+1	Keliana	_	_	_	_	_	_	_	_
+2	Bishaw	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_235
+# text = Mahalo a nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_236
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_237
+# text = A, e ʻoluʻolu ʻoe haʻi mai, e haʻi hou mai i ka inoa o kou ʻanakē i maopopo ka poʻe ho !!, Keliana Bishaw.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻoluʻolu	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	haʻi	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	haʻi	_	_	_	_	_	_	_	_
+11	hou	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	inoa	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kou	_	_	_	_	_	_	_	_
+18	ʻanakē	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	maopopo	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	ho	_	_	_	_	_	_	_	_
+24	!!	_	PUNCT	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	Keliana	_	_	_	_	_	_	_	_
+27	Bishaw	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_238
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_239
+# text = No ka.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_240
+# text = Noho ʻo ia ma Paoakalani ma, ka, Ma Waikīkī nei? Waikīkī.
+1	Noho	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	Paoakalani	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Ma	_	_	_	_	_	_	_	_
+11	Waikīkī	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Waikīkī	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_241
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_242
+# text = Paona , Paoakalani and Lemon Road.
+1	Paona	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Paoakalani	_	_	_	_	_	_	_	_
+4	and	_	_	_	_	_	_	_	_
+5	Lemon	_	_	_	_	_	_	_	_
+6	Road	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_243
+# text = Aia nō kuʻu uncle ke ola nei.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	uncle	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ola	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_244
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_245
+# text = ʻO Joe Bishaw.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Joe	_	_	_	_	_	_	_	_
+3	Bishaw	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_246
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_247
+# text = And ʻo ia ke noho nei ma koʻu wahi e noho nei mai, ʻAe.
+1	And	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	noho	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	wahi	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_248
+# text = Waimānalo.
+1	Waimānalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_249
+# text = Noho nei me kona kaikamahine, Kuʻuipo Woolsey.
+1	Noho	_	_	_	_	_	_	_	_
+2	nei	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	kaikamahine	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kuʻuipo	_	_	_	_	_	_	_	_
+8	Woolsey	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_250
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_251
+# text = No ka mea, ua hoʻokaulana ʻia kēia mele e kekahi poʻe ʻōpiopio, e hoʻokani nei.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	hoʻokaulana	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	ʻōpiopio	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hoʻokani	_	_	_	_	_	_	_	_
+17	nei	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_252
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_253
+# text = No.
+1	No	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_254
+# text = kēia mele no ka māmā o kuʻu uncle Joe Bishaw.
+1	kēia	_	_	_	_	_	_	_	_
+2	mele	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	māmā	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kuʻu	_	_	_	_	_	_	_	_
+8	uncle	_	_	_	_	_	_	_	_
+9	Joe	_	_	_	_	_	_	_	_
+10	Bishaw	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_255
+# text = Nāna kēia, kēia mele.
+1	Nāna	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_256
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_257
+# text = He nui nā mele i, i, i haku ʻia e ka poʻe a lawe i, e haʻi na !! ʻAe, pololei kēia manawa.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	haku	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	poʻe	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	lawe	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	haʻi	_	_	_	_	_	_	_	_
+21	na	_	_	_	_	_	_	_	_
+22	!!	_	PUNCT	_	_	_	_	_	_
+23	ʻAe	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	pololei	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	manawa	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_258
+# text = Kekahi poʻe, a, lawe i ke mele, a, kahi mea i haku ai, a, ʻaʻohe nō lākou kuleana akā, ʻAe.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	lawe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kahi	_	_	_	_	_	_	_	_
+14	mea	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	haku	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ʻaʻohe	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	lākou	_	_	_	_	_	_	_	_
+24	kuleana	_	_	_	_	_	_	_	_
+25	akā	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻAe	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_259
+# text = ʻAʻohe nō nānā ʻia ka mea pololei.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nānā	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	pololei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_260
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_261
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_262
+# text = E kala mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_263
+# text = E hoʻolaha ana au i nā helu kelepona o kēia wahi.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolaha	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	helu	_	_	_	_	_	_	_	_
+8	kelepona	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_264
+# text = A, e ʻolu , e ʻoluʻolu mai ʻoukou e nā Hawaiʻi e hoʻolohe nei kēia ahiahi, e kāhea mai nō.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ʻoluʻolu	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hoʻolohe	_	_	_	_	_	_	_	_
+15	nei	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	ahiahi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	kāhea	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_265
+# text = Inā nō he manaʻo paha ko ʻoukou, e wehewehe mai nō ma kēia kahua hoʻolele leo ʻo KCCN.
+1	Inā	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	wehewehe	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	kahua	_	_	_	_	_	_	_	_
+16	hoʻolele	_	_	_	_	_	_	_	_
+17	leo	_	_	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	KCCN	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_266
+# text = E walaʻau kanaka nō kākou i kēia ahiahi.
+1	E	_	_	_	_	_	_	_	_
+2	walaʻau	_	_	_	_	_	_	_	_
+3	kanaka	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ahiahi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_267
+# text = A, eia nō ka, nā helu o kēia wahi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	helu	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	wahi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_268
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻelua	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_269
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_270
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_271
+# text = A, helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻehā.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻeiwa	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻekahi	_	_	_	_	_	_	_	_
+9	ʻewalu	_	_	_	_	_	_	_	_
+10	ʻehā	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_272
+# text = A me ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻelima.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	ʻeiwa	_	_	_	_	_	_	_	_
+6	ʻelua	_	_	_	_	_	_	_	_
+7	ʻekolu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻekahi	_	_	_	_	_	_	_	_
+10	ʻewalu	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	ʻelima	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_273
+# text = Nui loa nō kēia poʻe helu o kēia wahi.
+1	Nui	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	wahi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_274
+# text = No laila, a, hiki nō iā ʻoukou ke kelepona mai i kēia mau helu aʻu i haʻi aku nei iā ʻoukou kēia ahiahi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kelepona	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	helu	_	_	_	_	_	_	_	_
+17	aʻu	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	haʻi	_	_	_	_	_	_	_	_
+20	aku	_	_	_	_	_	_	_	_
+21	nei	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	ʻoukou	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	ahiahi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_275
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_276
+# text = A, ʻo kēia mele ʻo, ka inoa o kēia mele Only You, he mele hoʻoipoipo paha kēia? ʻAe, he m , he, he mele hoʻoipoipo kēia, no kuʻu aunty.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	inoa	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	Only	_	_	_	_	_	_	_	_
+14	You	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	hoʻoipoipo	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	he	_	_	_	_	_	_	_	_
+25	m	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	he	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	he	_	_	_	_	_	_	_	_
+30	mele	_	_	_	_	_	_	_	_
+31	hoʻoipoipo	_	_	_	_	_	_	_	_
+32	kēia	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	no	_	_	_	_	_	_	_	_
+35	kuʻu	_	_	_	_	_	_	_	_
+36	aunty	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_277
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_278
+# text = Hoʻokahi wale nō paukū.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paukū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_279
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_280
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_281
+# text = ʻO ia wale nō ka paukū, kona kaikamahine ʻo Kanalaʻi mai Molokaʻi mai, nāna ka mea i hīmeni mua i kēia mele.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	paukū	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kona	_	_	_	_	_	_	_	_
+9	kaikamahine	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	Kanalaʻi	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	Molokaʻi	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	nāna	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	hīmeni	_	_	_	_	_	_	_	_
+21	mua	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	mele	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_282
+# text = Uʻi kona leo.
+1	Uʻi	_	_	_	_	_	_	_	_
+2	kona	_	_	_	_	_	_	_	_
+3	leo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_283
+# text = Ua make ʻo ia.
+1	Ua	_	_	_	_	_	_	_	_
+2	make	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_284
+# text = And, nui nā keiki e noho nei i Molokaʻi.
+1	And	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	noho	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Molokaʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_285
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_286
+# text = Ka Rawlins family.
+1	Ka	_	_	_	_	_	_	_	_
+2	Rawlins	_	_	_	_	_	_	_	_
+3	family	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_287
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_288
+# text = Ko mākou ʻohana nō kēlā.
+1	Ko	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	ʻohana	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_289
+# text = ʻO ia? ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_290
+# text = And, no kuʻu, a, kuʻu māmā, noho nei i Maui, ʻo Reverend Mary Moku.
+1	And	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	māmā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	noho	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Maui	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Reverend	_	_	_	_	_	_	_	_
+18	Mary	_	_	_	_	_	_	_	_
+19	Moku	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_291
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_292
+# text = } A he ʻohana kēia, kona māmā a me Keliana Bishaw, he, he sister lāua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	ʻohana	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kona	_	_	_	_	_	_	_	_
+8	māmā	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	me	_	_	_	_	_	_	_	_
+11	Keliana	_	_	_	_	_	_	_	_
+12	Bishaw	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	he	_	_	_	_	_	_	_	_
+17	sister	_	_	_	_	_	_	_	_
+18	lāua	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_293
+# text = ʻAe, ʻē.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_294
+# text = No laila, he pili kēia no ko mākou ʻohana kēia mele.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	pili	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	ʻohana	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_295
+# text = {Mū, mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mū	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_296
+# text = } ʻO ia ka mea, e, e mele ana wau i kēia mau mele no ka mea, he mele ʻohana kēia.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	wau	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	mele	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	he	_	_	_	_	_	_	_	_
+22	mele	_	_	_	_	_	_	_	_
+23	ʻohana	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_297
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_298
+# text = ʻO Mrs.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Mrs	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_299
+# text = Moku, ʻo ia nō kahuna pule o, ʻAe.
+1	Moku	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kahuna	_	_	_	_	_	_	_	_
+7	pule	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_300
+# text = ʻAe, !! kēia hale pule o Kaʻahumanu.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	!!	_	PUNCT	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hale	_	_	_	_	_	_	_	_
+6	pule	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Kaʻahumanu	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_301
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_302
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_303
+# text = Nāna i hānai mai iaʻu kuʻu wā liʻiliʻi.
+1	Nāna	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hānai	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	kuʻu	_	_	_	_	_	_	_	_
+7	wā	_	_	_	_	_	_	_	_
+8	liʻiliʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_304
+# text = ʻO ia, na, Nāna nō, ʻē.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Nāna	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_305
+# text = na , nāna nō i pūʻā mai iaʻu a hiki kēia i ka nui puʻipuʻi.
+1	na	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nāna	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	pūʻā	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	iaʻu	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	nui	_	_	_	_	_	_	_	_
+15	puʻipuʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_306
+# text = Ka ʻono o nā ʻai kūpuna.
+1	Ka	_	_	_	_	_	_	_	_
+2	ʻono	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ʻai	_	_	_	_	_	_	_	_
+6	kūpuna	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_307
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_308
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_309
+# text = } Aia nō ʻo ia ke ola nei.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Aia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ola	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_310
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_311
+# text = } Noho nō ʻo ia i, i Maui.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Noho	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Maui	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_312
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_313
+# text = I Waimea nō ʻo ia me kāna kāne ma mua.
+1	I	_	_	_	_	_	_	_	_
+2	Waimea	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	kāna	_	_	_	_	_	_	_	_
+8	kāne	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_314
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_315
+# text = Ma ka, Neʻe aku nei i, Ma Hawaiʻi.
+1	Ma	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Neʻe	_	_	_	_	_	_	_	_
+5	aku	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Ma	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_316
+# text = Waiʻōhinu.
+1	Waiʻōhinu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_317
+# text = ʻAe, i Waiʻōhinu.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Waiʻōhinu	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_318
+# text = A, mai Waiʻōhinu, a hele aku nei lāua i Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	Waiʻōhinu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	nei	_	_	_	_	_	_	_	_
+10	lāua	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Hilo	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_319
+# text = ʻAe, i Haili.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Haili	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_320
+# text = Haili.
+1	Haili	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_321
+# text = Mai Haili, ho , hele aku nei lāua i Maui, a make ku , kuʻu kāne.
+1	Mai	_	_	_	_	_	_	_	_
+2	Haili	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ho	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	aku	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	lāua	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Maui	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	make	_	_	_	_	_	_	_	_
+15	ku	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	kuʻu	_	_	_	_	_	_	_	_
+18	kāne	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_322
+# text = Ke kāne ma mua, ʻē.
+1	Ke	_	_	_	_	_	_	_	_
+2	kāne	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻē	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_323
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_324
+# text = ʻO ia ʻumi makahiki a ʻoi kēia āna i, i hiamoe ai.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ʻumi	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ʻoi	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	āna	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	hiamoe	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_325
+# text = A mahalo.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_326
+# text = Mahalo iā ʻoe.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_327
+# text = Kōkua.
+1	Kōkua	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_328
+# text = ʻAe, mahalo no kēia kāhea ʻana mai.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kāhea	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_329
+# text = E hoʻomākaʻukaʻu paha nei ʻoe i ka poʻe hoʻolohe mai nei i kēia ahiahi.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻomākaʻukaʻu	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	hoʻolohe	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_330
+# text = ʻAʻole paha lākou makemake e kāhea mai no kou kan , o, kono aku iā lākou e hele mai.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	makemake	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	kāhea	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	kan	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kono	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	lākou	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	hele	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_331
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_332
+# text = ʻAe, aloha nō kāua.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kāua	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_333
+# text = ʻAe, a, he hīmeni hou kā ʻoukou i kēia manawa e hīmeni aku ai? ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	hīmeni	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	kā	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	hīmeni	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	ʻAe	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_334
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_335
+# text = Hoʻomaha nō paha i kēia kamaʻilio ʻana.
+1	Hoʻomaha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kamaʻilio	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_336
+# text = Hoʻokani maila nā manu.
+1	Hoʻokani	_	_	_	_	_	_	_	_
+2	maila	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	manu	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_337
+# text = ʻAe, mahalo a nui.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_338
+# text = E ʻoluʻolu e haʻi mai i ka inoa o kēia mele.
+1	E	_	_	_	_	_	_	_	_
+2	ʻoluʻolu	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	haʻi	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_339
+# text = Manu O Ka Lani.
+1	Manu	_	_	_	_	_	_	_	_
+2	O	_	_	_	_	_	_	_	_
+3	Ka	_	_	_	_	_	_	_	_
+4	Lani	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_340
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_341
+# text = Koʻu manawa mua i lohe i kēia hīmeni o, {mū,} Kalama.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	lohe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hīmeni	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	mū	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	Kalama	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_342
+# text = He aha ka inoa o kēlā keiki mea? ʻŌ, Al Kalama? ʻAʻole, kēlā kaikamahine.
+1	He	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	keiki	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	ʻŌ	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	Al	_	_	_	_	_	_	_	_
+13	Kalama	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAʻole	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	kēlā	_	_	_	_	_	_	_	_
+18	kaikamahine	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_343
+# text = 47:49 !! ʻO Kealoha.
+1	47	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	49	_	_	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	Kealoha	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_344
+# text = Kealoha Kalama.
+1	Kealoha	_	_	_	_	_	_	_	_
+2	Kalama	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_345
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_346
+# text = Nāna ka mea mua i hoʻo , mele ai i kēia me , kēia hīmeni, a, makemake mākou i kēia hīmeni.
+1	Nāna	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hoʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mele	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	hīmeni	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	makemake	_	_	_	_	_	_	_	_
+20	mākou	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	kēia	_	_	_	_	_	_	_	_
+23	hīmeni	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_347
+# text = ʻAe, nani nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	nani	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_348
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_349
+# text = A, kēia inoa āu i haʻi mai ai pili ana i ka makani.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	āu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	haʻi	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	pili	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	makani	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_350
+# text = ʻO ka makani Hili Maiʻa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	makani	_	_	_	_	_	_	_	_
+4	Hili	_	_	_	_	_	_	_	_
+5	Maiʻa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_351
+# text = No ke ʻano o ka makani o ka hihili i ka, ka lau o ka maiʻa.
+1	No	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	ʻano	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	makani	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hihili	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	lau	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	maiʻa	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_352
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_353
+# text = A hina paha ka maiʻa.
+1	A	_	_	_	_	_	_	_	_
+2	hina	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	maiʻa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_354
+# text = He, he a, Hoʻohina i ka maiʻa.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Hoʻohina	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	maiʻa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_355
+# text = ka makani Kona Kū, Kona Kai, Kona Hae.
+1	ka	_	_	_	_	_	_	_	_
+2	makani	_	_	_	_	_	_	_	_
+3	Kona	_	_	_	_	_	_	_	_
+4	Kū	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Kona	_	_	_	_	_	_	_	_
+7	Kai	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Kona	_	_	_	_	_	_	_	_
+10	Hae	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_356
+# text = He, a, nui nā ʻano makani o Kona.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	makani	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Kona	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_357
+# text = ʻO ia? ʻO koʻu mea i hoʻomaopopo ai he Kona Kai, Kona Hae, Kona Lani.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻO	_	_	_	_	_	_	_	_
+5	koʻu	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hoʻomaopopo	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	Kona	_	_	_	_	_	_	_	_
+12	Kai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Kona	_	_	_	_	_	_	_	_
+15	Hae	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kona	_	_	_	_	_	_	_	_
+18	Lani	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_358
+# text = Makani Kona Lani.
+1	Makani	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	Lani	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_359
+# text = Makona (Makani), a, makani Hili Maiʻa.
+1	Makona	_	_	_	_	_	_	_	_
+2	(	_	PUNCT	_	_	_	_	_	_
+3	Makani	_	_	_	_	_	_	_	_
+4	)	_	PUNCT	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	makani	_	_	_	_	_	_	_	_
+9	Hili	_	_	_	_	_	_	_	_
+10	Maiʻa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_360
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_361
+# text = ʻO wai kēia, Ke ʻano makani hele a mai ka, ma , ma , ma , mauna mai.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	makani	_	_	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mauna	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_362
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_363
+# text = Kuahiwi mai, a, i, wili i ka mea.
+1	Kuahiwi	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	wili	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_364
+# text = ʻO ia ka ʻano.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_365
+# text = ʻO ia hoʻi ka ʻano, ka wehewehe ʻana i kēia makani, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	wehewehe	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	makani	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻAe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_366
+# text = Hili Maiʻa.
+1	Hili	_	_	_	_	_	_	_	_
+2	Maiʻa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_367
+# text = Hili Maiʻa.
+1	Hili	_	_	_	_	_	_	_	_
+2	Maiʻa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_368
+# text = Hoʻohina i ka maiʻa.
+1	Hoʻohina	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	maiʻa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_369
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_370
+# text = Pehea kēia Kona Kū? ʻAʻohe wau maopopo loa kēia.
+1	Pehea	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	Kona	_	_	_	_	_	_	_	_
+4	Kū	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻAʻohe	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	maopopo	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_371
+# text = ʻĒ, Kona Kū, Kona Hae.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Kona	_	_	_	_	_	_	_	_
+4	Kū	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Kona	_	_	_	_	_	_	_	_
+7	Hae	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_372
+# text = !! ʻĒ.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_373
+# text = he makani paha, he, me ka ua liʻiliʻi paha.
+1	he	_	_	_	_	_	_	_	_
+2	makani	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ua	_	_	_	_	_	_	_	_
+10	liʻiliʻi	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_374
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_375
+# text = No ka mea nui nā ʻano inoa makani.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	makani	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_376
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_377
+# text = Nui nā, ʻĒ, ʻē.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻē	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_378
+# text = nā poʻe Hawaiʻi !! Paʻa nō iā lākou nā inoa.
+1	nā	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	Paʻa	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_379
+# text = Paʻa lākou nā makani.
+1	Paʻa	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	makani	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_380
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_381
+# text = Pēlā kēlā wahi i Kauaʻi.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Kauaʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_382
+# text = Kaumakani.
+1	Kaumakani	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_383
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_384
+# text = He inoa ʻāina kēlā.
+1	He	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_385
+# text = !! Well, a, koʻu maopopo, au i ʻike i kēlā inoa, kēlā wahi, no ka mea, ma laila kau i ka makani, hoʻomaopopo, mai laila ka wahi nui ka makani.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Well	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	maopopo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ʻike	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēlā	_	_	_	_	_	_	_	_
+14	inoa	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	kēlā	_	_	_	_	_	_	_	_
+17	wahi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	laila	_	_	_	_	_	_	_	_
+25	kau	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	makani	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	hoʻomaopopo	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	mai	_	_	_	_	_	_	_	_
+33	laila	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	wahi	_	_	_	_	_	_	_	_
+36	nui	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	makani	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_386
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_387
+# text = Kauaʻi.
+1	Kauaʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_388
+# text = No ka nui o ka makani ma laila.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	makani	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_389
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_390
+# text = Ka poʻe Hawaiʻi, ke, ke hāʻawi aku i ka inoa i ka wahi, he kūlana paha ma kēlā wahi.
+1	Ka	_	_	_	_	_	_	_	_
+2	poʻe	_	_	_	_	_	_	_	_
+3	Hawaiʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	hāʻawi	_	_	_	_	_	_	_	_
+9	aku	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	inoa	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	kūlana	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	kēlā	_	_	_	_	_	_	_	_
+22	wahi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_391
+# text = ʻAe, he pili nō, ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	pili	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_392
+# text = ka inoa o nā ʻāina.
+1	ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_393
+# text = Pili nā inoa i nā wahi a pau, ʻAe.
+1	Pili	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	inoa	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pau	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_394
+# text = i, i, kapa i nā poʻe Hawaiʻi.
+1	i	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kapa	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_395
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_396
+# text = Akamai nō lākou i ka, ka hākilo ʻana o ke ʻano o ka makani, ʻAe.
+1	Akamai	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hākilo	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	ʻano	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	makani	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_397
+# text = me ka ua nō hoʻi.
+1	me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_398
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_399
+# text = Ke kai.
+1	Ke	_	_	_	_	_	_	_	_
+2	kai	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_400
+# text = Makani Houhouʻili.
+1	Makani	_	_	_	_	_	_	_	_
+2	Houhouʻili	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_401
+# text = Makani Houhouʻili.
+1	Makani	_	_	_	_	_	_	_	_
+2	Houhouʻili	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_402
+# text = ʻAe, no Waipiʻo, No hea kēlā makani? no Wai , Wai , a, Waikapū kēlā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	Waipiʻo	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	No	_	_	_	_	_	_	_	_
+7	hea	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	makani	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	Wai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Wai	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	Waikapū	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_403
+# text = Waikapū? Wailuku, Waipū, a, Waikapū.
+1	Waikapū	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Wailuku	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Waipū	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Waikapū	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_404
+# text = Kokololio.
+1	Kokololio	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_405
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_406
+# text = Waiʻehu , a.
+1	Waiʻehu	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_407
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_408
+# text = Ka makani a, o, ʻehā o Maui kēlā.
+1	Ka	_	_	_	_	_	_	_	_
+2	makani	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Maui	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_409
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_410
+# text = //Nā wai ʻehā o Maui\\.
+1	/	_	PUNCT	_	_	_	_	_	_
+2	/	_	PUNCT	_	_	_	_	_	_
+3	Nā	_	_	_	_	_	_	_	_
+4	wai	_	_	_	_	_	_	_	_
+5	ʻehā	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	Maui	_	_	_	_	_	_	_	_
+8	\	_	PUNCT	_	_	_	_	_	_
+9	\	_	PUNCT	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_411
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_412
+# text = Makani ʻĀpaʻapaʻa ko Kohala.
+1	Makani	_	_	_	_	_	_	_	_
+2	ʻĀpaʻapaʻa	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	Kohala	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_413
+# text = ʻAe, ʻae, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pololei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_414
+# text = ʻŌlelo kaena kēia.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	kaena	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_415
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_416
+# text = Well, he kūpono nō ka inoa.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	kūpono	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_417
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_418
+# text = Pili nō ka manaʻo i ke ʻano o ka ua me ka makani.
+1	Pili	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	makani	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_419
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_420
+# text = ʻĀpaʻapaʻa.
+1	ʻĀpaʻapaʻa	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_421
+# text = Pāpaʻa mai nō ka ʻāina.
+1	Pāpaʻa	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻāina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_422
+# text = !! koʻu manaʻo i ka poʻe, ko kākou poʻe kahiko.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	kākou	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	kahiko	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_423
+# text = Ua hāʻawi mai ka ʻike o lākou, ka ʻike me ka naʻauao i nā mea a pau.
+1	Ua	_	_	_	_	_	_	_	_
+2	hāʻawi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻike	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	naʻauao	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mea	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	pau	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_424
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_425
+# text = Akā, manaʻo au, ka manawa i hele mai paha ka poʻe misiona, a, kapa ʻia paha kēia mea he poʻe superstitious paha kēia.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	au	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	misiona	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kapa	_	_	_	_	_	_	_	_
+19	ʻia	_	_	_	_	_	_	_	_
+20	paha	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	he	_	_	_	_	_	_	_	_
+24	poʻe	_	_	_	_	_	_	_	_
+25	superstitious	_	_	_	_	_	_	_	_
+26	paha	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_426
+# text = ʻAe, ʻae.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻae	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_427
+# text = A !! ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	!!	_	PUNCT	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_428
+# text = Ua poina ʻia nō paha ka nui o nā inoa.
+1	Ua	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	nui	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_429
+# text = No ka mea, ma ka ʻōlelo haole, ʻaʻohe loaʻa ia ʻano mau mea.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	haole	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻaʻohe	_	_	_	_	_	_	_	_
+11	loaʻa	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	ʻano	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_430
+# text = Ua maopopo wau wahi moʻolelo, {amū,} i kahu, o Kaʻap , Ka, a.
+1	Ua	_	_	_	_	_	_	_	_
+2	maopopo	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	wahi	_	_	_	_	_	_	_	_
+5	moʻolelo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	{	_	PUNCT	_	_	_	_	_	_
+8	amū	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	}	_	PUNCT	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kahu	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	Kaʻap	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Ka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_431
+# text = Kaʻapu? ʻAʻole.
+1	Kaʻapu	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	ʻAʻole	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_432
+# text = Maiā Kapoho.
+1	Maiā	_	_	_	_	_	_	_	_
+2	Kapoho	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_433
+# text = ʻO ia ke kahu o Kawaiahaʻo ma mua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	kahu	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	Kawaiahaʻo	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_434
+# text = Ua make ʻo ia.
+1	Ua	_	_	_	_	_	_	_	_
+2	make	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_435
+# text = Kahale? Kapoho kona inoa.
+1	Kahale	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Kapoho	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	inoa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_436
+# text = ʻO.
+1	ʻO	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_437
+# text = Kapoʻo.
+1	Kapoʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_438
+# text = ʻO.
+1	ʻO	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_439
+# text = Kapoʻo.
+1	Kapoʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_440
+# text = Kapoʻo.
+1	Kapoʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_441
+# text = Kapoʻo.
+1	Kapoʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_442
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_443
+# text = ʻO ia ka !! Kapoʻo.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	Kapoʻo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_444
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_445
+# text = Well, hoʻokahi manawa, hele aku i ka manawa i make ai ʻo Reverend Noho.
+1	Well	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻokahi	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	aku	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	make	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Reverend	_	_	_	_	_	_	_	_
+16	Noho	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_446
+# text = Holo aku nei mākou i Maui.
+1	Holo	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Maui	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_447
+# text = A noho ʻo ia me mākou, so, kēia kakahiaka, a ʻōlelo aku nei he moʻolelo kāna i makemake e haʻi iā mākou.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	kakahiaka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	aku	_	_	_	_	_	_	_	_
+16	nei	_	_	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	moʻolelo	_	_	_	_	_	_	_	_
+19	kāna	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	makemake	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	haʻi	_	_	_	_	_	_	_	_
+24	iā	_	_	_	_	_	_	_	_
+25	mākou	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_448
+# text = A ʻōlelo mai nei ʻo ia i ka, iā mākou, ʻo ia ke kumu ka poʻe Hawaiʻi i kēia manawa, ʻaʻole lākou, he, a, mikioi i nā mea, no ka mea, ka manawa liʻiliʻi, a, ke ʻoaka ka waha, a kulikuli ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	ʻōlelo	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	kumu	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻaʻole	_	_	_	_	_	_	_	_
+25	lākou	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	he	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	mikioi	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	nā	_	_	_	_	_	_	_	_
+34	mea	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	no	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	mea	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	manawa	_	_	_	_	_	_	_	_
+42	liʻiliʻi	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	,	_	PUNCT	_	_	_	_	_	_
+46	ke	_	_	_	_	_	_	_	_
+47	ʻoaka	_	_	_	_	_	_	_	_
+48	ka	_	_	_	_	_	_	_	_
+49	waha	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	kulikuli	_	_	_	_	_	_	_	_
+53	ʻia	_	_	_	_	_	_	_	_
+54	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_449
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_450
+# text = A ke he , and, ke lālau ka lima, a paʻi ʻia ka lima, no ka mea, mahaʻoi.
+1	A	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	lālau	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	lima	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	paʻi	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	lima	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	mahaʻoi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_451
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_452
+# text = } A ka manawa ulu lākou, a na ka poʻe wale nō e hao ai.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	ulu	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	wale	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	hao	_	_	_	_	_	_	_	_
+16	ai	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_453
+# text = 51:28 ʻAe.
+1	51	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	28	_	_	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_454
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_455
+# text = Kau mea, ka poʻe Hawaiʻi.
+1	Kau	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_456
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_457
+# text = } No laila, nele ka poʻe Hawaiʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	nele	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_458
+# text = ʻAe, minamina.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	minamina	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_459
+# text = Minamina.
+1	Minamina	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_460
+# text = Hoʻāʻā ka maka.
+1	Hoʻāʻā	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	maka	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_461
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_462
+# text = But ʻaʻohe nō kēlā ke kūlana o ka poʻe ma mua, Pololei.
+1	But	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kūlana	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	mua	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Pololei	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_463
+# text = poʻe Hawaiʻi.
+1	poʻe	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_464
+# text = A pēia nō a hiki, a hiki i kēia lā.
+1	A	_	_	_	_	_	_	_	_
+2	pēia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	hiki	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_465
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_466
+# text = Aia nō a manana nō ka lima i lalo, a, ʻAe.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	manana	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	lima	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	lalo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_467
+# text = Manana nō.
+1	Manana	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_468
+# text = ola.
+1	ola	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_469
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_470
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_471
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_472
+# text = E hoʻokani hou mai kekahi mele.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻokani	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_473
+# text = Ua nani nō nā puʻu o nā manu kēia ahiahi.
+1	Ua	_	_	_	_	_	_	_	_
+2	nani	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	puʻu	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	manu	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	ahiahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_474
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_475
+# text = Kēia mele no kuʻu aunty Keliana Bishaw.
+1	Kēia	_	_	_	_	_	_	_	_
+2	mele	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	aunty	_	_	_	_	_	_	_	_
+6	Keliana	_	_	_	_	_	_	_	_
+7	Bishaw	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_476
+# text = Kona manawa mua i ho , e hele ai i Hilo, ʻike ʻo ia i kēia, i, ma Kūhiō Bay ma luna hoʻi o ka moku, manaʻo wau ka, a, ka, m , ka, Kīnaʻu paha ka, m , ka inoa o kēlā moku.
+1	Kona	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ho	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Hilo	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻike	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ia	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	Kūhiō	_	_	_	_	_	_	_	_
+23	Bay	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	luna	_	_	_	_	_	_	_	_
+26	hoʻi	_	_	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	moku	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	manaʻo	_	_	_	_	_	_	_	_
+32	wau	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	m	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	Kīnaʻu	_	_	_	_	_	_	_	_
+44	paha	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	m	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	inoa	_	_	_	_	_	_	_	_
+51	o	_	_	_	_	_	_	_	_
+52	kēlā	_	_	_	_	_	_	_	_
+53	moku	_	_	_	_	_	_	_	_
+54	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_477
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_478
+# text = A haku aku nei ʻo ia i kēia mele, Kūhiō Bay.
+1	A	_	_	_	_	_	_	_	_
+2	haku	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Kūhiō	_	_	_	_	_	_	_	_
+12	Bay	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_479
+# text = A hīmeni ana wau.
+1	A	_	_	_	_	_	_	_	_
+2	hīmeni	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_480
+# text = Kēia ka, ka mele a kuʻu aunty, n , {amū,} Keliana Bishaw.
+1	Kēia	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kuʻu	_	_	_	_	_	_	_	_
+8	aunty	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	n	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	{	_	PUNCT	_	_	_	_	_	_
+13	amū	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	}	_	PUNCT	_	_	_	_	_	_
+16	Keliana	_	_	_	_	_	_	_	_
+17	Bishaw	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_481
+# text = Aia nō kuʻu uncle, a, Joe Bishaw ke ola nei.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kuʻu	_	_	_	_	_	_	_	_
+4	uncle	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Joe	_	_	_	_	_	_	_	_
+9	Bishaw	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	ola	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_482
+# text = Kēia mele, ke hīmeni aku nei wau i kēia nou.
+1	Kēia	_	_	_	_	_	_	_	_
+2	mele	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	aku	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	wau	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	nou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_483
+# text = ʻAe, mahalo.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_484
+# text = Kokoke nō pau nō kēia hola pōkole nō.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	hola	_	_	_	_	_	_	_	_
+7	pōkole	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_485
+# text = Akā ma mua nō o ka hoʻopau ʻana, ua makemake nō wau e hoʻomanaʻo aku iā ʻoukou, e nā Hawaiʻi, kekahi mau mea e hana, e hana nei i kēi , kēia mau lā, no ka pono nō o nā Hawaiʻi.
+1	Akā	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻopau	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ua	_	_	_	_	_	_	_	_
+11	makemake	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	wau	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	hoʻomanaʻo	_	_	_	_	_	_	_	_
+16	aku	_	_	_	_	_	_	_	_
+17	iā	_	_	_	_	_	_	_	_
+18	ʻoukou	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	kekahi	_	_	_	_	_	_	_	_
+25	mau	_	_	_	_	_	_	_	_
+26	mea	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	hana	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	hana	_	_	_	_	_	_	_	_
+32	nei	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	kēi	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	kēia	_	_	_	_	_	_	_	_
+37	mau	_	_	_	_	_	_	_	_
+38	lā	_	_	_	_	_	_	_	_
+39	,	_	PUNCT	_	_	_	_	_	_
+40	no	_	_	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	pono	_	_	_	_	_	_	_	_
+43	nō	_	_	_	_	_	_	_	_
+44	o	_	_	_	_	_	_	_	_
+45	nā	_	_	_	_	_	_	_	_
+46	Hawaiʻi	_	_	_	_	_	_	_	_
+47	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_486
+# text = ʻAʻole nō e, e hoʻāʻā wale nō nā maka o nā Hawaiʻi i kēia mau lā, no ka mea, kēia Malaki, mahina ʻo Malaki, e, a, hoʻokumu ana nō kekahi ʻaha kī hōʻalu ma ka lā ʻehiku o Malaki.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻāʻā	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	maka	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	lā	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	Malaki	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	mahina	_	_	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	Malaki	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	hoʻokumu	_	_	_	_	_	_	_	_
+35	ana	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	kekahi	_	_	_	_	_	_	_	_
+38	ʻaha	_	_	_	_	_	_	_	_
+39	kī	_	_	_	_	_	_	_	_
+40	hōʻalu	_	_	_	_	_	_	_	_
+41	ma	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	lā	_	_	_	_	_	_	_	_
+44	ʻehiku	_	_	_	_	_	_	_	_
+45	o	_	_	_	_	_	_	_	_
+46	Malaki	_	_	_	_	_	_	_	_
+47	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_487
+# text = A he mea hoʻomanaʻo wale nō kēia iā ʻoukou e, inā he manawa nō ko ʻoukou i kēlā ahiahi, e hele nō, ma kahi o kēia, a, Coral Ball , Ballroom.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	hoʻomanaʻo	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	iā	_	_	_	_	_	_	_	_
+9	ʻoukou	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	inā	_	_	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	manawa	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	ʻoukou	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	ahiahi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hele	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ma	_	_	_	_	_	_	_	_
+27	kahi	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	Coral	_	_	_	_	_	_	_	_
+34	Ball	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	Ballroom	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_488
+# text = Ka lā ʻehiku o Malaki.
+1	Ka	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	ʻehiku	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	Malaki	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_489
+# text = A ʻo kekahi mea hou aʻe nō hoʻi, a, kēia poʻe haumāna o ka ʻōlelo Hawaiʻi e hana nei ma ke kulanui, ʻo ia kēia palapala a lākou i kapa ai ʻo Ka Ulu Hoi.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	aʻe	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	haumāna	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻōlelo	_	_	_	_	_	_	_	_
+18	Hawaiʻi	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	nei	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	kulanui	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	ia	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	palapala	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	lākou	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	kapa	_	_	_	_	_	_	_	_
+34	ai	_	_	_	_	_	_	_	_
+35	ʻo	_	_	_	_	_	_	_	_
+36	Ka	_	_	_	_	_	_	_	_
+37	Ulu	_	_	_	_	_	_	_	_
+38	Hoi	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_490
+# text = A ua kākau ʻia ka nui o kēia palapala ma ka ʻōlelo Hawaiʻi, a ua hiki nō iā ʻoukou ke, a, noi mai i wahi palapala na ʻoukou, a nā mākou nō e hoʻouna aku iā ʻoukou i kēia palapala no ka heluhelu ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	kākau	_	_	_	_	_	_	_	_
+4	ʻia	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	palapala	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	ua	_	_	_	_	_	_	_	_
+17	hiki	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	iā	_	_	_	_	_	_	_	_
+20	ʻoukou	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	noi	_	_	_	_	_	_	_	_
+26	mai	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	wahi	_	_	_	_	_	_	_	_
+29	palapala	_	_	_	_	_	_	_	_
+30	na	_	_	_	_	_	_	_	_
+31	ʻoukou	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	nā	_	_	_	_	_	_	_	_
+35	mākou	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	e	_	_	_	_	_	_	_	_
+38	hoʻouna	_	_	_	_	_	_	_	_
+39	aku	_	_	_	_	_	_	_	_
+40	iā	_	_	_	_	_	_	_	_
+41	ʻoukou	_	_	_	_	_	_	_	_
+42	i	_	_	_	_	_	_	_	_
+43	kēia	_	_	_	_	_	_	_	_
+44	palapala	_	_	_	_	_	_	_	_
+45	no	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	heluhelu	_	_	_	_	_	_	_	_
+48	ʻana	_	_	_	_	_	_	_	_
+49	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_491
+# text = ʻAe, a.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_492
+# text = A, eia nō ʻo Kaniala Akaka ma ʻaneʻi nei kē , kēia ahiahi, a ʻo ia nō kekahi mea e hoʻokani pila ai no kēia kī, a, hōʻalu.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kaniala	_	_	_	_	_	_	_	_
+7	Akaka	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ʻaneʻi	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	kē	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	kekahi	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hoʻokani	_	_	_	_	_	_	_	_
+24	pila	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	no	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	kī	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	hōʻalu	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_493
+# text = A mahalo i kou hele ʻana mai e Kaniela.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	Kaniela	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_494
+# text = A mahalo nui iā ʻoukou a pau e Mililani, mea, Miliama, Mikala, me Kalei, a iā ʻoe nō hoʻi e Līlia.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	Mililani	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Miliama	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	Mikala	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	Kalei	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	iā	_	_	_	_	_	_	_	_
+22	ʻoe	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	hoʻi	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	Līlia	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_495
+# text = Ua nui ko mākou hauʻoli i ko ʻoukou hele ʻana mai i kēia ahiahi.
+1	Ua	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	hauʻoli	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_496
+# text = He mea ʻuʻuku wale nō.
+1	He	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	ʻuʻuku	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_497
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_498
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_499
+# text = Mahalo nō a aloha nō.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	aloha	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_500
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_501
+# text = A mahalo nui iā ʻoukou e nā poʻe hoʻolohe nei.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	hoʻolohe	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.023_Lydia_Hale_19730220_502
+# text = A, a hui hou aku nō kākou i kēia Poʻalua aʻe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	aku	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	Poʻalua	_	_	_	_	_	_	_	_
+12	aʻe	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+

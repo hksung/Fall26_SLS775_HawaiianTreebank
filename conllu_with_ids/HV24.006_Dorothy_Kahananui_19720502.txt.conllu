@@ -1,0 +1,5804 @@
+# newdoc id = HV24.006_Dorothy_Kahananui_19720502
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_1
+# text = E nā makamaka mai nā mokupuni o Hawaiʻi o Keawe a hiki i Niʻihau o Kahelelani, aloha ahiahi kākou.
+1	E	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	makamaka	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	mokupuni	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Keawe	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	hiki	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Niʻihau	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Kahelelani	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	aloha	_	_	_	_	_	_	_	_
+19	ahiahi	_	_	_	_	_	_	_	_
+20	kākou	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_2
+# text = Eia me kākou i kēia ahiahi, kuʻu hoa kipa, ʻo kaʻu kumu kula o kuʻu wā, a, ʻōpiopio, kuʻu wā hele ana i ke Kula ʻo Kamehameha, ʻo Kōleka Kahananui.
+1	Eia	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	ahiahi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	kuʻu	_	_	_	_	_	_	_	_
+9	hoa	_	_	_	_	_	_	_	_
+10	kipa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	kaʻu	_	_	_	_	_	_	_	_
+14	kumu	_	_	_	_	_	_	_	_
+15	kula	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kuʻu	_	_	_	_	_	_	_	_
+18	wā	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻōpiopio	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	kuʻu	_	_	_	_	_	_	_	_
+25	wā	_	_	_	_	_	_	_	_
+26	hele	_	_	_	_	_	_	_	_
+27	ana	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	Kula	_	_	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	Kamehameha	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ʻo	_	_	_	_	_	_	_	_
+35	Kōleka	_	_	_	_	_	_	_	_
+36	Kahananui	_	_	_	_	_	_	_	_
+37	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_3
+# text = Aloha mai, e Kahananui wahine.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	Kahananui	_	_	_	_	_	_	_	_
+6	wahine	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_4
+# text = Aloha nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_5
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_6
+# text = He nui nā hana a like ʻole āu i hana ai e pili ana ma nā māhele mele, a ma nā māhele ʻōlelo Hawaiʻi.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	like	_	_	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	āu	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	pili	_	_	_	_	_	_	_	_
+14	ana	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	māhele	_	_	_	_	_	_	_	_
+18	mele	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	māhele	_	_	_	_	_	_	_	_
+24	ʻōlelo	_	_	_	_	_	_	_	_
+25	Hawaiʻi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_7
+# text = E, e nīnau mua ana au e pili ana i kou, i kou ʻohana.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	nīnau	_	_	_	_	_	_	_	_
+5	mua	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	au	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	pili	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kou	_	_	_	_	_	_	_	_
+16	ʻohana	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_8
+# text = A, e ʻoluʻolu ʻo e ʻoluʻolu ʻoe e haʻi mai i ka inoa o kou mau kūpuna.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻoluʻolu	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ʻoluʻolu	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	haʻi	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	inoa	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	kou	_	_	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	kūpuna	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_9
+# text = ʻO koʻu kupuna kāne, ʻo Joel Hulu Māhoe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	kupuna	_	_	_	_	_	_	_	_
+4	kāne	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Joel	_	_	_	_	_	_	_	_
+8	Hulu	_	_	_	_	_	_	_	_
+9	Māhoe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_10
+# text = A, kekahi inoa ona, ua kāpae ʻia e ia i kona wā i lilo ai i, i Kalikiano.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	ona	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ua	_	_	_	_	_	_	_	_
+8	kāpae	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kona	_	_	_	_	_	_	_	_
+14	wā	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	lilo	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Kalikiano	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_11
+# text = ʻO koʻu kupuna wahine, ʻo Olivia Kale.
+1	ʻO	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	kupuna	_	_	_	_	_	_	_	_
+4	wahine	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Olivia	_	_	_	_	_	_	_	_
+8	Kale	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_12
+# text = No Maui koʻu kupuna wahine.
+1	No	_	_	_	_	_	_	_	_
+2	Maui	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	kupuna	_	_	_	_	_	_	_	_
+5	wahine	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_13
+# text = No Kona koʻu kupuna kāne.
+1	No	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	kupuna	_	_	_	_	_	_	_	_
+5	kāne	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_14
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_15
+# text = A ʻo kou mau mākua? A ʻo koʻu makuahine nō hoʻi, kekahi o nā kaikamāhine a koʻu kupuna kāne Māhoe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	mākua	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	koʻu	_	_	_	_	_	_	_	_
+10	makuahine	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	kaikamāhine	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	koʻu	_	_	_	_	_	_	_	_
+20	kupuna	_	_	_	_	_	_	_	_
+21	kāne	_	_	_	_	_	_	_	_
+22	Māhoe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_16
+# text = Koʻu makua kāne, no nā ʻāina ʻē mai.
+1	Koʻu	_	_	_	_	_	_	_	_
+2	makua	_	_	_	_	_	_	_	_
+3	kāne	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻāina	_	_	_	_	_	_	_	_
+8	ʻē	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_17
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_18
+# text = A i hea ʻoe i hānau ʻia ai? A hānau ʻia au ma Kōloa, Kauaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hea	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hānau	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	ai	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	A	_	_	_	_	_	_	_	_
+11	hānau	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	au	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	Kōloa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kauaʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_19
+# text = ʻO Kauaʻi koʻu one hānau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kauaʻi	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	one	_	_	_	_	_	_	_	_
+5	hānau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_20
+# text = A ua noho lōʻihi ʻoe ma laila ma Kauaʻi? A ʻaʻole loa, no ka mea, i ka piha ʻana o koʻu mau, o koʻu mau mahina he ʻelua wale nō, pēpē loa nō wau i ia manawa, a hele koʻu mau mākua i nā ʻāina Kilipaki.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	lōʻihi	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	Kauaʻi	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	A	_	_	_	_	_	_	_	_
+12	ʻaʻole	_	_	_	_	_	_	_	_
+13	loa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	no	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	piha	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	koʻu	_	_	_	_	_	_	_	_
+25	mau	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	koʻu	_	_	_	_	_	_	_	_
+29	mau	_	_	_	_	_	_	_	_
+30	mahina	_	_	_	_	_	_	_	_
+31	he	_	_	_	_	_	_	_	_
+32	ʻelua	_	_	_	_	_	_	_	_
+33	wale	_	_	_	_	_	_	_	_
+34	nō	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	pēpē	_	_	_	_	_	_	_	_
+37	loa	_	_	_	_	_	_	_	_
+38	nō	_	_	_	_	_	_	_	_
+39	wau	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	ia	_	_	_	_	_	_	_	_
+42	manawa	_	_	_	_	_	_	_	_
+43	,	_	PUNCT	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	hele	_	_	_	_	_	_	_	_
+46	koʻu	_	_	_	_	_	_	_	_
+47	mau	_	_	_	_	_	_	_	_
+48	mākua	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	nā	_	_	_	_	_	_	_	_
+51	ʻāina	_	_	_	_	_	_	_	_
+52	Kilipaki	_	_	_	_	_	_	_	_
+53	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_21
+# text = I laila nō koʻu mau kūpuna ma mua.
+1	I	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	kūpuna	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_22
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_23
+# text = A i ka manawa i ka makahiki ʻumikūmāwalu kanahikukūmāhiku paha.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+9	kanahikukūmāhiku	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_24
+# text = ʻAʻole, kala mai, ʻumikūmāwalu kanalimakūmāhiku i hele ai koʻu mau kūpuna i nā ʻāina Kilipaki.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	kala	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+7	kanalimakūmāhiku	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	koʻu	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	kūpuna	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	ʻāina	_	_	_	_	_	_	_	_
+17	Kilipaki	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_25
+# text = A noho ma, noho lāua ma laila no ʻaneʻane ʻumi, ʻumikūmālima paha makahiki.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	noho	_	_	_	_	_	_	_	_
+6	lāua	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	ʻaneʻane	_	_	_	_	_	_	_	_
+11	ʻumi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻumikūmālima	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	makahiki	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_26
+# text = A i laila i hānau ʻia ai koʻu makuahine a me kekahi o koʻu mau makuahine ʻōpio, kona mau kaikaina.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hānau	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	makuahine	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	kekahi	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	koʻu	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	makuahine	_	_	_	_	_	_	_	_
+17	ʻōpio	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	kona	_	_	_	_	_	_	_	_
+20	mau	_	_	_	_	_	_	_	_
+21	kaikaina	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_27
+# text = A hoʻi mai lākou i Hawaiʻi nei.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	lākou	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Hawaiʻi	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_28
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_29
+# text = A, Mai kuʻu manawa pēpē a holo mākou i nā ʻāina Kilipaki.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Mai	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	pēpē	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	holo	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	Kilipaki	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_30
+# text = Noho i laila no kekahi mau makahiki, a hoʻi mai i Hawaiʻi nei.
+1	Noho	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_31
+# text = A ʻo ka hana o ko o kou mau kūpuna, he aʻo i ka palapala hemolele? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kou	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	kūpuna	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	palapala	_	_	_	_	_	_	_	_
+17	hemolele	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	ʻAe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_32
+# text = He kahuna pule koʻu kupuna kāne.
+1	He	_	_	_	_	_	_	_	_
+2	kahuna	_	_	_	_	_	_	_	_
+3	pule	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	kupuna	_	_	_	_	_	_	_	_
+6	kāne	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_33
+# text = A hoʻonaʻauao ʻia ʻo ia ma ke Kula Hānai o Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻonaʻauao	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	Kula	_	_	_	_	_	_	_	_
+9	Hānai	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	Hilo	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_34
+# text = A i ka puka ʻana mai, a hoʻouna ʻia i Lahaina Luna.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	puka	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hoʻouna	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Lahaina	_	_	_	_	_	_	_	_
+13	Luna	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_35
+# text = A puka mai Lahaina Luna mai, a hoʻomaka ʻo ia i kāna hana.
+1	A	_	_	_	_	_	_	_	_
+2	puka	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	Lahaina	_	_	_	_	_	_	_	_
+5	Luna	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hoʻomaka	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kāna	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_36
+# text = A aʻo paha i ka, a, i ke ʻano o ka hana kahuna pule.
+1	A	_	_	_	_	_	_	_	_
+2	aʻo	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	kahuna	_	_	_	_	_	_	_	_
+16	pule	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_37
+# text = A hana mua paha ʻo ia ma Hauʻula, ʻo ia kaʻu i heluhelu ai.
+1	A	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	Hauʻula	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	kaʻu	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	heluhelu	_	_	_	_	_	_	_	_
+15	ai	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_38
+# text = A i ko lāua male ʻana, a hoʻouna ʻia lāua i mau mikioneli i nā ʻāina Kilipaki.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	lāua	_	_	_	_	_	_	_	_
+5	male	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hoʻouna	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	lāua	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	mikioneli	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	ʻāina	_	_	_	_	_	_	_	_
+18	Kilipaki	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_39
+# text = Nui nō nā poʻe Hawaiʻi i hoʻouna ʻia i nā ʻāina Kilipaki.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	hoʻouna	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	ʻāina	_	_	_	_	_	_	_	_
+12	Kilipaki	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_40
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_41
+# text = He nui, ē? ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	ʻAe	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_42
+# text = Ua kaulana kēlā inoa moku ʻo Hōkūao? ʻAe, ka moku Hōkūao.
+1	Ua	_	_	_	_	_	_	_	_
+2	kaulana	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	moku	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Hōkūao	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	moku	_	_	_	_	_	_	_	_
+13	Hōkūao	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_43
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_44
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_45
+# text = Moku kālepa.
+1	Moku	_	_	_	_	_	_	_	_
+2	kālepa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_46
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_47
+# text = Na kēia moku nō i lawe i nā poʻe Hawaiʻi, nā poʻe mikionali Hawaiʻi, ʻAe.
+1	Na	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	moku	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	lawe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	mikionali	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_48
+# text = i ka ʻāina Maikonekia me Kilipaki? ʻAe.
+1	i	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	Maikonekia	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	Kilipaki	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_49
+# text = Kēlā mau pae ʻāina o ka hema.
+1	Kēlā	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	pae	_	_	_	_	_	_	_	_
+4	ʻāina	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hema	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_50
+# text = A, ʻo nā kula hea āu i hele ai e hoʻonaʻauao iā ʻoe iho? A hoʻomaka nō hoʻi nā, ma nā kula kamaliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	kula	_	_	_	_	_	_	_	_
+6	hea	_	_	_	_	_	_	_	_
+7	āu	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	hoʻonaʻauao	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	ʻoe	_	_	_	_	_	_	_	_
+15	iho	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	hoʻomaka	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	hoʻi	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	kula	_	_	_	_	_	_	_	_
+26	kamaliʻi	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_51
+# text = Ma Kōloa ka mua.
+1	Ma	_	_	_	_	_	_	_	_
+2	Kōloa	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_52
+# text = A mai laila, hele mākou i Waimea.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Waimea	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_53
+# text = A mai Wai mai Waimea mai, hele mākou, hele mai mākou i Oʻahu nei.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	Wai	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	Waimea	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	mākou	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hele	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	Oʻahu	_	_	_	_	_	_	_	_
+16	nei	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_54
+# text = A i ia manawa, ma ka papa ʻeono au, hapa o ka papa ʻeono.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	papa	_	_	_	_	_	_	_	_
+9	ʻeono	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hapa	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	papa	_	_	_	_	_	_	_	_
+16	ʻeono	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_55
+# text = A komo māua me kuʻu kaikunāne ma ke kula aʻo kumu, ʻo ia hoʻi Territorial Normal Training School ma Honolulu nei.
+1	A	_	_	_	_	_	_	_	_
+2	komo	_	_	_	_	_	_	_	_
+3	māua	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	kuʻu	_	_	_	_	_	_	_	_
+6	kaikunāne	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	kula	_	_	_	_	_	_	_	_
+10	aʻo	_	_	_	_	_	_	_	_
+11	kumu	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	Territorial	_	_	_	_	_	_	_	_
+17	Normal	_	_	_	_	_	_	_	_
+18	Training	_	_	_	_	_	_	_	_
+19	School	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	Honolulu	_	_	_	_	_	_	_	_
+22	nei	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_56
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_57
+# text = A eia ka nīnau.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	nīnau	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_58
+# text = Ua kaulana kou inoa i kēia manawa ma ka māhele ʻōlelo Hawaiʻi.
+1	Ua	_	_	_	_	_	_	_	_
+2	kaulana	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	māhele	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_59
+# text = Akā, ʻo Ua hoʻomaka nō ʻoe me ka hoʻonaʻauao, hoʻonaʻauao ʻana o ka mele, ke aʻo ʻana i ka mele.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	Ua	_	_	_	_	_	_	_	_
+5	hoʻomaka	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hoʻonaʻauao	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hoʻonaʻauao	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	mele	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	aʻo	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	mele	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_60
+# text = A, ma, Pe , ʻAe? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	Pe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_61
+# text = Kala mai iaʻu.
+1	Kala	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	iaʻu	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_62
+# text = Pehea ʻoe i lilo ai i kumu, Aʻo mele? mele? ʻAe, aʻo mele.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	lilo	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kumu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Aʻo	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻAe	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_63
+# text = A ma mua i ia manawa, aʻo mua wau i nā kamaliʻi ʻōpiopio, a ma nā kula o Maui.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	mua	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	kamaliʻi	_	_	_	_	_	_	_	_
+14	ʻōpiopio	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	kula	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	Maui	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_64
+# text = Ma hope, hoʻi mai i Honolulu nei, a aʻo nō ma nā kula o nā kamaliʻi ma Kalihi Kai.
+1	Ma	_	_	_	_	_	_	_	_
+2	hope	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Honolulu	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	aʻo	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	kula	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	kamaliʻi	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	Kalihi	_	_	_	_	_	_	_	_
+21	Kai	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_65
+# text = A, ma Kauluwela.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Kauluwela	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_66
+# text = Akā, lilo koʻu hoihoi i ka hana mele.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	lilo	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	hoihoi	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_67
+# text = No laila, kākau wau i kekahi leka, palapala noi i ka papa hoʻonaʻauao, e, i loaʻa iaʻu ka hana ma kēia ʻano hana aʻo mele.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kākau	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	leka	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	palapala	_	_	_	_	_	_	_	_
+11	noi	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	papa	_	_	_	_	_	_	_	_
+15	hoʻonaʻauao	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	loaʻa	_	_	_	_	_	_	_	_
+21	iaʻu	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	hana	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	ʻano	_	_	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	aʻo	_	_	_	_	_	_	_	_
+29	mele	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_68
+# text = ʻŌlelo ʻia mai, ʻaʻohe wahi kaʻawale.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	wahi	_	_	_	_	_	_	_	_
+7	kaʻawale	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_69
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_70
+# text = A ma hope, lohe mai wau he wahi kaʻawale ma ke kula aʻo kumu.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	hope	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	lohe	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	wahi	_	_	_	_	_	_	_	_
+10	kaʻawale	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kula	_	_	_	_	_	_	_	_
+14	aʻo	_	_	_	_	_	_	_	_
+15	kumu	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_71
+# text = A hele wau i laila, a hāʻawi ʻia mai iaʻu kēlā ha kēlā hana.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	hāʻawi	_	_	_	_	_	_	_	_
+9	ʻia	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	iaʻu	_	_	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	ha	_	_	_	_	_	_	_	_
+14	kēlā	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_72
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_73
+# text = A hana wau a kanakolu, kanakolu makahiki paha ma kēlā ʻano hana.
+1	A	_	_	_	_	_	_	_	_
+2	hana	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	kanakolu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kanakolu	_	_	_	_	_	_	_	_
+8	makahiki	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	ʻano	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_74
+# text = Ma ke kula aʻo kumu a ma hope mai, ma ke Kulanui o Hawaiʻi.
+1	Ma	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	kula	_	_	_	_	_	_	_	_
+4	aʻo	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	hope	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	Kulanui	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_75
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_76
+# text = A i ka manawa hea ʻoe i hoʻomaka ai ia, me kēia hana aʻo i ka ʻōlelo Hawaiʻi? Auē.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	hoʻomaka	_	_	_	_	_	_	_	_
+9	ai	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	aʻo	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻōlelo	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	?	_	PUNCT	_	_	_	_	_	_
+21	Auē	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_77
+# text = ʻAʻole wau i hoʻomaka a hiki i koʻu hoʻomaha ʻana mai kaʻu hana ʻana i ke aʻo, a, ke, ke aʻo ʻana i ka ʻōlelo i, ʻaʻole, i ka mele ma ka makahiki ʻumikūmāwalu kanaono.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hoʻomaka	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	hoʻomaha	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	kaʻu	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	aʻo	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ke	_	_	_	_	_	_	_	_
+24	aʻo	_	_	_	_	_	_	_	_
+25	ʻana	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	ʻōlelo	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻaʻole	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	ka	_	_	_	_	_	_	_	_
+35	mele	_	_	_	_	_	_	_	_
+36	ma	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	makahiki	_	_	_	_	_	_	_	_
+39	ʻumikūmāwalu	_	_	_	_	_	_	_	_
+40	kanaono	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_78
+# text = A hoʻomaha au.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻomaha	_	_	_	_	_	_	_	_
+3	au	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_79
+# text = Piha kuʻu mau makahiki kanaonokūmālima.
+1	Piha	_	_	_	_	_	_	_	_
+2	kuʻu	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	kanaonokūmālima	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_80
+# text = A i ia manawa, hoʻokumu ʻia kekahi, a, ʻaha aʻo i nā poʻe kumu aʻo i nā ʻōlelo ʻē, i ke ʻano hou o ke aʻo ʻana i ka ʻōlelo.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hoʻokumu	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻaha	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	poʻe	_	_	_	_	_	_	_	_
+17	kumu	_	_	_	_	_	_	_	_
+18	aʻo	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	nā	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	ʻē	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	ʻano	_	_	_	_	_	_	_	_
+27	hou	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	aʻo	_	_	_	_	_	_	_	_
+31	ʻana	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	ka	_	_	_	_	_	_	_	_
+34	ʻōlelo	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_81
+# text = Ua hoʻololi ʻia hoʻi ke ʻano o ke aʻo ʻana i ka ʻōlelo.
+1	Ua	_	_	_	_	_	_	_	_
+2	hoʻololi	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	aʻo	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_82
+# text = A hele mai kekahi mau kumu mai Cornell mai.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	Cornell	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_83
+# text = A ka mea i ʻae mua e lilo i kumu hoʻokūkū, mea hoʻopilipili hoʻi i nā poʻe haumāna, nā poʻe e hele mai ana i kēlā kula.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ʻae	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	lilo	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kumu	_	_	_	_	_	_	_	_
+11	hoʻokūkū	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	hoʻopilipili	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	haumāna	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	poʻe	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hele	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	ana	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	kēlā	_	_	_	_	_	_	_	_
+29	kula	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_84
+# text = A ʻōlelo ʻo ia ʻelua paha pule ma mua o ka noho ʻana o kēlā kula.
+1	A	_	_	_	_	_	_	_	_
+2	ʻōlelo	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	pule	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	mua	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	noho	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēlā	_	_	_	_	_	_	_	_
+16	kula	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_85
+# text = A ʻōlelo ʻo ia e hele ana ʻo ia i nā ʻāina ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	ʻōlelo	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	ʻāina	_	_	_	_	_	_	_	_
+13	ʻē	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_86
+# text = A ma Hōʻāʻā kēia poʻe, a na wai lā e kōkua ana iā lākou.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	Hōʻāʻā	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	wai	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	kōkua	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	lākou	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_87
+# text = A hele mai ʻo Polopeka ʻElepaki iaʻu nīnau inā hiki iaʻu ke kōkua.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Polopeka	_	_	_	_	_	_	_	_
+6	ʻElepaki	_	_	_	_	_	_	_	_
+7	iaʻu	_	_	_	_	_	_	_	_
+8	nīnau	_	_	_	_	_	_	_	_
+9	inā	_	_	_	_	_	_	_	_
+10	hiki	_	_	_	_	_	_	_	_
+11	iaʻu	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	kōkua	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_88
+# text = ʻAe aku wau.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_89
+# text = A ʻo ia kuʻu komo ʻana i loko o kēia ʻano hana.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	kuʻu	_	_	_	_	_	_	_	_
+5	komo	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	loko	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	ʻano	_	_	_	_	_	_	_	_
+12	hana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_90
+# text = A ua, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻē	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_91
+# text = Mai ia manawa a hiki i kēia manawa.
+1	Mai	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_92
+# text = ʻUmikūmālua makahiki, ē? Pololei? ʻUmikū , Kanaono, a, kanahikiukūmālua.
+1	ʻUmikūmālua	_	_	_	_	_	_	_	_
+2	makahiki	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ē	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Pololei	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻUmikū	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	Kanaono	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kanahikiukūmālua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_93
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_94
+# text = Kanahikukūmālua.
+1	Kanahikukūmālua	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_95
+# text = ʻAe, pololei nō.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_96
+# text = A ua puka mai he mau puke ʻōlelo, puke haʻawina ʻōlelo Hawaiʻi āu i kākau ai.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	puka	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	mau	_	_	_	_	_	_	_	_
+7	puke	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	puke	_	_	_	_	_	_	_	_
+11	haʻawina	_	_	_	_	_	_	_	_
+12	ʻōlelo	_	_	_	_	_	_	_	_
+13	Hawaiʻi	_	_	_	_	_	_	_	_
+14	āu	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kākau	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_97
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_98
+# text = ʻO ka mua, !! ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	!!	_	PUNCT	_	_	_	_	_	_
+6	ʻĒ	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_99
+# text = kākau wau no nā Kula ʻo Kamehameha.
+1	kākau	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	Kula	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Kamehameha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_100
+# text = No ka mea, i loko o kēia I waena o kēlā poʻe i hele mai ai e aʻo i kēia ʻano hou o ke aʻo ʻana i ka ʻōlelo, ʻo, a, Colonel Kent kekahi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	loko	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	I	_	_	_	_	_	_	_	_
+10	waena	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēlā	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	aʻo	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	ʻano	_	_	_	_	_	_	_	_
+23	hou	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	aʻo	_	_	_	_	_	_	_	_
+27	ʻana	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	ʻōlelo	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ʻo	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	Colonel	_	_	_	_	_	_	_	_
+37	Kent	_	_	_	_	_	_	_	_
+38	kekahi	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_101
+# text = A nui kona hoihoi e hoʻomaka i kēia ʻano hana ma nā Kula ʻo Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	kona	_	_	_	_	_	_	_	_
+4	hoihoi	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	hoʻomaka	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	ʻano	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	Kula	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Kamehameha	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_102
+# text = E like nō hoʻi me nā ʻano ʻōlelo ʻē ʻē aʻe.
+1	E	_	_	_	_	_	_	_	_
+2	like	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	ʻē	_	_	_	_	_	_	_	_
+10	ʻē	_	_	_	_	_	_	_	_
+11	aʻe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_103
+# text = Ma mua aku, ua aʻo ʻia nō ka ʻōlelo akā, ʻaʻohe, e like me ke ʻano o ke aʻo ʻia ʻana o nā ʻōlelo ʻē ʻē aʻe.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	aʻo	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	akā	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻaʻohe	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	like	_	_	_	_	_	_	_	_
+17	me	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	ʻano	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	aʻo	_	_	_	_	_	_	_	_
+23	ʻia	_	_	_	_	_	_	_	_
+24	ʻana	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	ʻōlelo	_	_	_	_	_	_	_	_
+28	ʻē	_	_	_	_	_	_	_	_
+29	ʻē	_	_	_	_	_	_	_	_
+30	aʻe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_104
+# text = ʻO nā haumāna makemake ana, hele, hele nō lākou.
+1	ʻO	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	haumāna	_	_	_	_	_	_	_	_
+4	makemake	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_105
+# text = A ʻaʻohe nō hoihoi loa nā poʻe haumāna.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoihoi	_	_	_	_	_	_	_	_
+5	loa	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	haumāna	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_106
+# text = A nāna i hoʻokumu i kēia hana ma laila, a, i kūlike ke ʻano o ke kūlana me nā, a, ʻōlelo ʻē ʻē aʻe e aʻo ʻia ana i ia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	nāna	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hoʻokumu	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	laila	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kūlike	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	ʻano	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ke	_	_	_	_	_	_	_	_
+19	kūlana	_	_	_	_	_	_	_	_
+20	me	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻōlelo	_	_	_	_	_	_	_	_
+26	ʻē	_	_	_	_	_	_	_	_
+27	ʻē	_	_	_	_	_	_	_	_
+28	aʻe	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	aʻo	_	_	_	_	_	_	_	_
+31	ʻia	_	_	_	_	_	_	_	_
+32	ana	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	ia	_	_	_	_	_	_	_	_
+35	manawa	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_107
+# text = A hele ʻo ia i ke kulanui e nīnau ai, a, ʻo wai lā ka mea hiki ke kōkua iā ia e hoʻokumu i kēia ʻano hana ma ke Kula, ma nā Kula ʻo Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kulanui	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	nīnau	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	wai	_	_	_	_	_	_	_	_
+16	lā	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	hiki	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	kōkua	_	_	_	_	_	_	_	_
+22	iā	_	_	_	_	_	_	_	_
+23	ia	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	hoʻokumu	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	kēia	_	_	_	_	_	_	_	_
+28	ʻano	_	_	_	_	_	_	_	_
+29	hana	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	Kula	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	ma	_	_	_	_	_	_	_	_
+35	nā	_	_	_	_	_	_	_	_
+36	Kula	_	_	_	_	_	_	_	_
+37	ʻo	_	_	_	_	_	_	_	_
+38	Kamehameha	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_108
+# text = A ʻōlelo aku nā poʻe, a, noho koʻikoʻi nō hoʻi ma ke kulanui.
+1	A	_	_	_	_	_	_	_	_
+2	ʻōlelo	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	noho	_	_	_	_	_	_	_	_
+10	koʻikoʻi	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	kulanui	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_109
+# text = A hāʻawi aku i koʻu inoa.
+1	A	_	_	_	_	_	_	_	_
+2	hāʻawi	_	_	_	_	_	_	_	_
+3	aku	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	koʻu	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_110
+# text = Kāhea mai ʻo ia iaʻu, ʻōlelo aku au, "E, hemahema au, ʻaʻole hiki iaʻu ke hana i kēlā hana.
+1	Kāhea	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	iaʻu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	"	_	PUNCT	_	_	_	_	_	_
+12	E	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hemahema	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻole	_	_	_	_	_	_	_	_
+18	hiki	_	_	_	_	_	_	_	_
+19	iaʻu	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēlā	_	_	_	_	_	_	_	_
+24	hana	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_111
+# text = " A eia nō kākou, nā mea, mākou, nā mea ʻōpio ke hoʻomaikaʻi aku nei iā ʻoe i kou hana maikaʻi mai iā mākou i ka hana, ka hoʻomākaukau ʻana i nā puke haʻawina no ka ʻōlelo Hawaiʻi.
+1	"	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	ʻōpio	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	hoʻomaikaʻi	_	_	_	_	_	_	_	_
+17	aku	_	_	_	_	_	_	_	_
+18	nei	_	_	_	_	_	_	_	_
+19	iā	_	_	_	_	_	_	_	_
+20	ʻoe	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	kou	_	_	_	_	_	_	_	_
+23	hana	_	_	_	_	_	_	_	_
+24	maikaʻi	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	iā	_	_	_	_	_	_	_	_
+27	mākou	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	hana	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	hoʻomākaukau	_	_	_	_	_	_	_	_
+34	ʻana	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	nā	_	_	_	_	_	_	_	_
+37	puke	_	_	_	_	_	_	_	_
+38	haʻawina	_	_	_	_	_	_	_	_
+39	no	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	ʻōlelo	_	_	_	_	_	_	_	_
+42	Hawaiʻi	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_112
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_113
+# text = Akā, hoʻoikaika nō.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hoʻoikaika	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_114
+# text = No ka mea, ʻaʻole nō wau mākaukau loa.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	mākaukau	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_115
+# text = Pīhoihoi wau i koʻu hele ʻana i laila, hoʻomaka i ka hana.
+1	Pīhoihoi	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	koʻu	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hoʻomaka	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_116
+# text = Hele mai kekahi poʻe akamai i ka ʻōlelo Hawaiʻi, a makemake e kamaʻilio me aʻu, he aha ana kaʻu mea e hana ai, no ka mea, i ia manawa, ʻaʻole hiki iaʻu ke kamaʻilio pono.
+1	Hele	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	akamai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	makemake	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kamaʻilio	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	aʻu	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	he	_	_	_	_	_	_	_	_
+19	aha	_	_	_	_	_	_	_	_
+20	ana	_	_	_	_	_	_	_	_
+21	kaʻu	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hana	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	no	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	mea	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	ia	_	_	_	_	_	_	_	_
+33	manawa	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ʻaʻole	_	_	_	_	_	_	_	_
+36	hiki	_	_	_	_	_	_	_	_
+37	iaʻu	_	_	_	_	_	_	_	_
+38	ke	_	_	_	_	_	_	_	_
+39	kamaʻilio	_	_	_	_	_	_	_	_
+40	pono	_	_	_	_	_	_	_	_
+41	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_117
+# text = Hemahema loa nō.
+1	Hemahema	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_118
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_119
+# text = } Akā hoʻoikaika nō wau, a, {amū,} paipai mai nō hoʻi ʻo Kent iaʻu, a, hoʻoikaika nō wau.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Akā	_	_	_	_	_	_	_	_
+3	hoʻoikaika	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	amū	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	}	_	PUNCT	_	_	_	_	_	_
+13	paipai	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	hoʻi	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Kent	_	_	_	_	_	_	_	_
+19	iaʻu	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	hoʻoikaika	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	wau	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_120
+# text = Kākau.
+1	Kākau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_121
+# text = I kekahi manawa, ʻaʻohe hiki ke maopopo ka mea kākau ai, a waiho wale.
+1	I	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	maopopo	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	kākau	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	waiho	_	_	_	_	_	_	_	_
+16	wale	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_122
+# text = A holoi pā paha, a hoʻomaʻemaʻe hale pale paha, a, hōʻea mai ana kekahi manaʻo, a hele wau e kākau.
+1	A	_	_	_	_	_	_	_	_
+2	holoi	_	_	_	_	_	_	_	_
+3	pā	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	hoʻomaʻemaʻe	_	_	_	_	_	_	_	_
+8	hale	_	_	_	_	_	_	_	_
+9	pale	_	_	_	_	_	_	_	_
+10	paha	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	hōʻea	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	kekahi	_	_	_	_	_	_	_	_
+18	manaʻo	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	hele	_	_	_	_	_	_	_	_
+22	wau	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	kākau	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_123
+# text = Pēia i hana ai a paʻa ka puke.
+1	Pēia	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	hana	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	paʻa	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	puke	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_124
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_125
+# text = Akā, ua lohe mau nō ʻoe i kou wā ʻōpiopio i ka ʻōlelo Hawaiʻi, ʻaʻole anei? ʻAe, ʻae.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	wā	_	_	_	_	_	_	_	_
+11	ʻōpiopio	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻaʻole	_	_	_	_	_	_	_	_
+18	anei	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	ʻAe	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻae	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_126
+# text = No ka mea, i ia manawa, ʻeā? Ma nā hale pule Kalawi , Kalawina, a, ma ka ʻōlelo Hawaiʻi wale nō e haʻiʻōlelo ʻia ai.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Ma	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	hale	_	_	_	_	_	_	_	_
+14	pule	_	_	_	_	_	_	_	_
+15	Kalawi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	Kalawina	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻōlelo	_	_	_	_	_	_	_	_
+24	Hawaiʻi	_	_	_	_	_	_	_	_
+25	wale	_	_	_	_	_	_	_	_
+26	nō	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	haʻiʻōlelo	_	_	_	_	_	_	_	_
+29	ʻia	_	_	_	_	_	_	_	_
+30	ai	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_127
+# text = Aʻo ai i nā kamaliʻi kula pa , kula Kāpaki.
+1	Aʻo	_	_	_	_	_	_	_	_
+2	ai	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	kamaliʻi	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kula	_	_	_	_	_	_	_	_
+10	Kāpaki	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_128
+# text = Heluhelu nō hoʻi i ka Paipala.
+1	Heluhelu	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	hoʻi	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	Paipala	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_129
+# text = A hoʻopaʻanaʻau, a, i, a, nā Halelū, kekahi mau Halelū, a, Pule A Ka Haku, a, ka Haʻiʻōlelo Ma Ka Mauna nō hoʻi, A ʻae.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻopaʻanaʻau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	Halelū	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	kekahi	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	Halelū	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Pule	_	_	_	_	_	_	_	_
+20	A	_	_	_	_	_	_	_	_
+21	Ka	_	_	_	_	_	_	_	_
+22	Haku	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	Haʻiʻōlelo	_	_	_	_	_	_	_	_
+28	Ma	_	_	_	_	_	_	_	_
+29	Ka	_	_	_	_	_	_	_	_
+30	Mauna	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	hoʻi	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	A	_	_	_	_	_	_	_	_
+35	ʻae	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_130
+# text = mau paukū paʻanaʻau like ʻole, a pēlā wale nō, a lohe nō hoʻi i kekahi poʻe kamaʻilio ana.
+1	mau	_	_	_	_	_	_	_	_
+2	paukū	_	_	_	_	_	_	_	_
+3	paʻanaʻau	_	_	_	_	_	_	_	_
+4	like	_	_	_	_	_	_	_	_
+5	ʻole	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	pēlā	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	lohe	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kekahi	_	_	_	_	_	_	_	_
+18	poʻe	_	_	_	_	_	_	_	_
+19	kamaʻilio	_	_	_	_	_	_	_	_
+20	ana	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_131
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_132
+# text = A pehea kou manaʻo i ka ʻōlelo Hawaiʻi o kuaʻāina? Ua noho nō ʻoe i kuaʻāina i kou wā ʻōpiopio.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kou	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kuaʻāina	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Ua	_	_	_	_	_	_	_	_
+13	noho	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kuaʻāina	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kou	_	_	_	_	_	_	_	_
+20	wā	_	_	_	_	_	_	_	_
+21	ʻōpiopio	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_133
+# text = Pehea ka mea ʻokoʻa ma waena o kuaʻāina me ke kūlanakauhale o Honolulu nei? Ua, ʻoi aku nō ka walaʻau ʻana o ka ʻōlelo Hawaiʻi ma kuaʻāina ma mua o Honolulu nei? ʻAʻole maopopo loa iaʻu, no ka mea, a, ʻuʻuku loa wau i ko mākou manawa e noho ana ma Kona.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	ʻokoʻa	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	waena	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kuaʻāina	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kūlanakauhale	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	Honolulu	_	_	_	_	_	_	_	_
+14	nei	_	_	_	_	_	_	_	_
+15	?	_	PUNCT	_	_	_	_	_	_
+16	Ua	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻoi	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	walaʻau	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	ʻōlelo	_	_	_	_	_	_	_	_
+27	Hawaiʻi	_	_	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	kuaʻāina	_	_	_	_	_	_	_	_
+30	ma	_	_	_	_	_	_	_	_
+31	mua	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	Honolulu	_	_	_	_	_	_	_	_
+34	nei	_	_	_	_	_	_	_	_
+35	?	_	PUNCT	_	_	_	_	_	_
+36	ʻAʻole	_	_	_	_	_	_	_	_
+37	maopopo	_	_	_	_	_	_	_	_
+38	loa	_	_	_	_	_	_	_	_
+39	iaʻu	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	no	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	mea	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	ʻuʻuku	_	_	_	_	_	_	_	_
+48	loa	_	_	_	_	_	_	_	_
+49	wau	_	_	_	_	_	_	_	_
+50	i	_	_	_	_	_	_	_	_
+51	ko	_	_	_	_	_	_	_	_
+52	mākou	_	_	_	_	_	_	_	_
+53	manawa	_	_	_	_	_	_	_	_
+54	e	_	_	_	_	_	_	_	_
+55	noho	_	_	_	_	_	_	_	_
+56	ana	_	_	_	_	_	_	_	_
+57	ma	_	_	_	_	_	_	_	_
+58	Kona	_	_	_	_	_	_	_	_
+59	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_134
+# text = ʻAʻole nō mākou, ʻaʻole mākou ʻike, a, ʻike nui i ka poʻe.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻole	_	_	_	_	_	_	_	_
+6	mākou	_	_	_	_	_	_	_	_
+7	ʻike	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻike	_	_	_	_	_	_	_	_
+12	nui	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	poʻe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_135
+# text = Kākaʻikahi wale nō mākou ma laila.
+1	Kākaʻikahi	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_136
+# text = ʻO mākou ma ka ʻaoʻao ma kai o ke alanui, a, kekahi, ke kaikaina o kuʻu makuahine ma ka ʻaoʻao ma uka me kahi, me ke kaikuahine o kuʻu kupuna kāne ʻo Nāʻopeʻope ka inoa, a, me kekahi mau, a, kona mau kaikunāne ʻo Kalālauwale lāua ʻo Kamanawa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ʻaoʻao	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	kai	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	alanui	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ke	_	_	_	_	_	_	_	_
+17	kaikaina	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kuʻu	_	_	_	_	_	_	_	_
+20	makuahine	_	_	_	_	_	_	_	_
+21	ma	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	ʻaoʻao	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	uka	_	_	_	_	_	_	_	_
+26	me	_	_	_	_	_	_	_	_
+27	kahi	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	me	_	_	_	_	_	_	_	_
+30	ke	_	_	_	_	_	_	_	_
+31	kaikuahine	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	kuʻu	_	_	_	_	_	_	_	_
+34	kupuna	_	_	_	_	_	_	_	_
+35	kāne	_	_	_	_	_	_	_	_
+36	ʻo	_	_	_	_	_	_	_	_
+37	Nāʻopeʻope	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	inoa	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	a	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	me	_	_	_	_	_	_	_	_
+44	kekahi	_	_	_	_	_	_	_	_
+45	mau	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	a	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	kona	_	_	_	_	_	_	_	_
+50	mau	_	_	_	_	_	_	_	_
+51	kaikunāne	_	_	_	_	_	_	_	_
+52	ʻo	_	_	_	_	_	_	_	_
+53	Kalālauwale	_	_	_	_	_	_	_	_
+54	lāua	_	_	_	_	_	_	_	_
+55	ʻo	_	_	_	_	_	_	_	_
+56	Kamanawa	_	_	_	_	_	_	_	_
+57	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_137
+# text = A ʻo mākou wale nō ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_138
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_139
+# text = ʻO hea kēia o Kona? ʻAʻole nui nā poʻe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	hea	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	Kona	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAʻole	_	_	_	_	_	_	_	_
+8	nui	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	poʻe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_140
+# text = Ma Kona.
+1	Ma	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_141
+# text = ʻO hea? A, ʻOpihihali.
+1	ʻO	_	_	_	_	_	_	_	_
+2	hea	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	A	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻOpihihali	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_142
+# text = ʻOpihihali.
+1	ʻOpihihali	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_143
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_144
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_145
+# text = A ʻo koʻu kupuna wahine i ia manawa e noho ana ma ʻŌlelomoana.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	kupuna	_	_	_	_	_	_	_	_
+5	wahine	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	ʻŌlelomoana	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_146
+# text = ʻŌlelomoana.
+1	ʻŌlelomoana	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_147
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_148
+# text = I Kona? ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	Kona	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_149
+# text = ʻAʻole wau i lohe i kēlā inoa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	inoa	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_150
+# text = ʻAʻole ʻoe lohe i kēlā.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	lohe	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēlā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_151
+# text = ʻAʻole.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_152
+# text = Aia nō ma ka palapalaʻāina.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	palapalaʻāina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_153
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_154
+# text = Hoʻomaopopo ʻoe i kēlā palapalaʻāina a kāua e a, kā mākou e nānā ana i kēia lā, ʻAe, ʻae.
+1	Hoʻomaopopo	_	_	_	_	_	_	_	_
+2	ʻoe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēlā	_	_	_	_	_	_	_	_
+5	palapalaʻāina	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kāua	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	kā	_	_	_	_	_	_	_	_
+12	mākou	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	nānā	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	lā	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻAe	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻae	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_155
+# text = Aia nō ma laila? A hōʻike ʻia nō kēlā mau, ʻŌ.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	hōʻike	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	mau	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻŌ	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_156
+# text = kēlā mau wahi ma laila.
+1	kēlā	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	laila	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_157
+# text = Nui nā wahi liʻiliʻi !! He wahi pili i Hoʻokena? Kokoke i Hoʻokena.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	wahi	_	_	_	_	_	_	_	_
+4	liʻiliʻi	_	_	_	_	_	_	_	_
+5	!!	_	PUNCT	_	_	_	_	_	_
+6	He	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	pili	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Hoʻokena	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Kokoke	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Hoʻokena	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_158
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_159
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_160
+# text = Maikaʻi.
+1	Maikaʻi	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_161
+# text = A pehea ka ʻāina ʻo Kaupō? Ua noho nō ʻoe i Kaupō? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻāina	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kaupō	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	Ua	_	_	_	_	_	_	_	_
+9	noho	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Kaupō	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_162
+# text = Ma laila wau i hoʻomaka ai e, e aʻo kula.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hoʻomaka	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	aʻo	_	_	_	_	_	_	_	_
+11	kula	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_163
+# text = Ma laila nō.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_164
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_165
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_166
+# text = ʻElua, ʻelua māua.
+1	ʻElua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	māua	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_167
+# text = A, ke ku kumu poʻo, a ʻo wau.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	poʻo	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	wau	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_168
+# text = Ke kumu poʻo ʻo Lily Marciel.
+1	Ke	_	_	_	_	_	_	_	_
+2	kumu	_	_	_	_	_	_	_	_
+3	poʻo	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Lily	_	_	_	_	_	_	_	_
+6	Marciel	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_169
+# text = Kēia ʻohana Marciel.
+1	Kēia	_	_	_	_	_	_	_	_
+2	ʻohana	_	_	_	_	_	_	_	_
+3	Marciel	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_170
+# text = A ʻelua, he kaikuaʻana, he kaikaina ma laila.
+1	A	_	_	_	_	_	_	_	_
+2	ʻelua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	kaikuaʻana	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	kaikaina	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	laila	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_171
+# text = A he, a, mālama pipi, a he mālama puaʻa, kanu kalo nō hoʻi kā lākou hana.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mālama	_	_	_	_	_	_	_	_
+7	pipi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	mālama	_	_	_	_	_	_	_	_
+12	puaʻa	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kanu	_	_	_	_	_	_	_	_
+15	kalo	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	hoʻi	_	_	_	_	_	_	_	_
+18	kā	_	_	_	_	_	_	_	_
+19	lākou	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_172
+# text = A ka wahine a Tony, a ʻo ia ke kumu poʻo ma laila i ia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	wahine	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Tony	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kumu	_	_	_	_	_	_	_	_
+12	poʻo	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	laila	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ia	_	_	_	_	_	_	_	_
+17	manawa	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_173
+# text = A ʻo wau ma lalo ona.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	lalo	_	_	_	_	_	_	_	_
+6	ona	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_174
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_175
+# text = A ua kuhi mua wau, a, aʻo nō ʻoe ma Molokaʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	kuhi	_	_	_	_	_	_	_	_
+4	mua	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	aʻo	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻoe	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Molokaʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_176
+# text = Akā, ua hele nō ʻoe e hoʻomaha wale nō.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻomaha	_	_	_	_	_	_	_	_
+9	wale	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_177
+# text = Hoʻomaha wale nō.
+1	Hoʻomaha	_	_	_	_	_	_	_	_
+2	wale	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_178
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_179
+# text = Makahiki ʻumikūmāiwa ʻumikūmālima, kono mai ʻo Kalāʻau iaʻu.
+1	Makahiki	_	_	_	_	_	_	_	_
+2	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+3	ʻumikūmālima	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kono	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Kalāʻau	_	_	_	_	_	_	_	_
+9	iaʻu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_180
+# text = I Hālawa ʻo ia i ia manawa.
+1	I	_	_	_	_	_	_	_	_
+2	Hālawa	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_181
+# text = A hele wau i Hālawa hoʻomaha ai.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Hālawa	_	_	_	_	_	_	_	_
+6	hoʻomaha	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_182
+# text = A noho wau no ʻelua paha mahina.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	ʻelua	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	mahina	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_183
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_184
+# text = I kēia manawa, ʻaʻohe poʻe o Hālawa? Pau i ka hele, ʻAʻole wau i hele iki i Hālawa mai ia manawa mai a hiki i kēia manawa.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Hālawa	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	Pau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hele	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAʻole	_	_	_	_	_	_	_	_
+16	wau	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	hele	_	_	_	_	_	_	_	_
+19	iki	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Hālawa	_	_	_	_	_	_	_	_
+22	mai	_	_	_	_	_	_	_	_
+23	ia	_	_	_	_	_	_	_	_
+24	manawa	_	_	_	_	_	_	_	_
+25	mai	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	hiki	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	manawa	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_185
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_186
+# text = } ʻAʻole nō wau i hoʻo ho hoʻi hou i Molokaʻi.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAʻole	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hoʻo	_	_	_	_	_	_	_	_
+7	ho	_	_	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Molokaʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_187
+# text = I laila koʻu ke kaʻu kaikamahine, a, makahiki ʻumikūmāiwa haneli kanahākūmākahi, hele ʻo ia i laila e aʻo ai.
+1	I	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kaʻu	_	_	_	_	_	_	_	_
+6	kaikamahine	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	makahiki	_	_	_	_	_	_	_	_
+11	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+12	haneli	_	_	_	_	_	_	_	_
+13	kanahākūmākahi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	hele	_	_	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	laila	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	aʻo	_	_	_	_	_	_	_	_
+22	ai	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_188
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_189
+# text = A, ʻelua makahiki i laila, hoʻi mai, a hoʻi i Kamehameha e aʻo ai.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	makahiki	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	laila	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	hoʻi	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Kamehameha	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_190
+# text = ʻAʻole wau i hoʻi hou i laila mai ka makahiki ʻumikūmāiwa haneli a hiki i kē a, ʻumikūmālima a hiki i kēia manawa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	laila	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	makahiki	_	_	_	_	_	_	_	_
+11	ʻumikūmāiwa	_	_	_	_	_	_	_	_
+12	haneli	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kē	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻumikūmālima	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	hiki	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	manawa	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_191
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_192
+# text = } Lōʻihi loa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Lōʻihi	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_193
+# text = ʻAe, l lōʻihi nō kēlā.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	l	_	_	_	_	_	_	_	_
+4	lōʻihi	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_194
+# text = Lōʻihi loa.
+1	Lōʻihi	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_195
+# text = A pehea, ua paʻa nō iā ʻoe i kekahi mele o Molokaʻi? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ua	_	_	_	_	_	_	_	_
+5	paʻa	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	Molokaʻi	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_196
+# text = No ka mea, i kēlā manawa aʻu i noho ai me, a, Kalāʻau, ʻo ia nō hoʻi ke alakaʻi hīmeni, papa hīmeni o Molokaʻi i ia manawa.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	aʻu	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	noho	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	Kalāʻau	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	hoʻi	_	_	_	_	_	_	_	_
+22	ke	_	_	_	_	_	_	_	_
+23	alakaʻi	_	_	_	_	_	_	_	_
+24	hīmeni	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	papa	_	_	_	_	_	_	_	_
+27	hīmeni	_	_	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	Molokaʻi	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	ia	_	_	_	_	_	_	_	_
+32	manawa	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_197
+# text = ʻO Kalāʻau, ʻae.
+1	ʻO	_	_	_	_	_	_	_	_
+2	Kalāʻau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻae	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_198
+# text = A, ua hoʻi mai lākou mai ka papa, mai ka ʻAha Pae ʻĀina mai i Hilo.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	papa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻAha	_	_	_	_	_	_	_	_
+14	Pae	_	_	_	_	_	_	_	_
+15	ʻĀina	_	_	_	_	_	_	_	_
+16	mai	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	Hilo	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_199
+# text = A hoʻomaka nō hoʻi e ʻimi kālā no kekahi makahiki hōʻea mai ana no ka hele ʻana o ka papa hīmeni.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻomaka	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	ʻimi	_	_	_	_	_	_	_	_
+7	kālā	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	kekahi	_	_	_	_	_	_	_	_
+10	makahiki	_	_	_	_	_	_	_	_
+11	hōʻea	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	ana	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hele	_	_	_	_	_	_	_	_
+17	ʻana	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	papa	_	_	_	_	_	_	_	_
+21	hīmeni	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_200
+# text = A hele pū wau me, me lākou, hele mākou i Maui.
+1	A	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	pū	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	lākou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hele	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Maui	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_201
+# text = Hāʻawi ʻaha mele i Maui.
+1	Hāʻawi	_	_	_	_	_	_	_	_
+2	ʻaha	_	_	_	_	_	_	_	_
+3	mele	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Maui	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_202
+# text = I loaʻa, ho i ho loaʻa hoʻi ke kālā e hele ai.
+1	I	_	_	_	_	_	_	_	_
+2	loaʻa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ho	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ho	_	_	_	_	_	_	_	_
+7	loaʻa	_	_	_	_	_	_	_	_
+8	hoʻi	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kālā	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	hele	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_203
+# text = ʻE.
+1	ʻE	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_204
+# text = ʻAha Pae ʻĀina kēia o ka haipule Kalawaina, ē? Hale pule Kalawina.
+1	ʻAha	_	_	_	_	_	_	_	_
+2	Pae	_	_	_	_	_	_	_	_
+3	ʻĀina	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	haipule	_	_	_	_	_	_	_	_
+8	Kalawaina	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ē	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	Hale	_	_	_	_	_	_	_	_
+13	pule	_	_	_	_	_	_	_	_
+14	Kalawina	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_205
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_206
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_207
+# text = A pehea, hiki iā ʻoe ke helu, mea, ke mele mai i kekahi mele o Molokaʻi, Auē.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	helu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	mea	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	mele	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kekahi	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	Molokaʻi	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	Auē	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_208
+# text = i paʻanaʻau iā ʻoe? Hiki.
+1	i	_	_	_	_	_	_	_	_
+2	paʻanaʻau	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Hiki	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_209
+# text = Hiki paha.
+1	Hiki	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_210
+# text = Pehea lā? !! Ka leo o ka luahine.
+1	Pehea	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	!!	_	PUNCT	_	_	_	_	_	_
+5	Ka	_	_	_	_	_	_	_	_
+6	leo	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	luahine	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_211
+# text = A penei mākou i mele ai i ia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	penei	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	mele	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_212
+# text = ʻAno ʻokoʻa paha mai ke ʻano o ka mele ʻana kekahi poʻe i kēia manawa.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	ʻokoʻa	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_213
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_214
+# text = Kēia manawa, ke ʻano o ka hīmeni ʻana o ka poʻe o kēia manawa, hīmeni nō lākou e like nō me ka lōʻihi o ka pā.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	ʻano	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hīmeni	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	hīmeni	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	lākou	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	like	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	lōʻihi	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	pā	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_215
+# text = A ʻekolu paha minuke, ʻehā paha minuke, ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻekolu	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	minuke	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻehā	_	_	_	_	_	_	_	_
+7	paha	_	_	_	_	_	_	_	_
+8	minuke	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_216
+# text = ka lōkihi o ka pā.
+1	ka	_	_	_	_	_	_	_	_
+2	lōkihi	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	pā	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_217
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_218
+# text = A ma laila nō e pau ai ka hīmeni ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	ai	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_219
+# text = Pau.
+1	Pau	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_220
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_221
+# text = ʻAʻole hīmeni piha mai nā paukū pau loa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hīmeni	_	_	_	_	_	_	_	_
+3	piha	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	paukū	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_222
+# text = No ka lawa ʻole o ka manawa.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lawa	_	_	_	_	_	_	_	_
+4	ʻole	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_223
+# text = No ka lawa ʻole o , ʻAʻohe paʻa pono ka moʻolelo o ka hīmeni.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	lawa	_	_	_	_	_	_	_	_
+4	ʻole	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻAʻohe	_	_	_	_	_	_	_	_
+8	paʻa	_	_	_	_	_	_	_	_
+9	pono	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	moʻolelo	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	hīmeni	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_224
+# text = Kekahi nō, ʻaʻole paha nui ka poʻe, a, i aʻo ʻia i ka ʻōle i ka paukū ʻelua.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	poʻe	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻōle	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	paukū	_	_	_	_	_	_	_	_
+21	ʻelua	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_225
+# text = Lōʻihi loa, ʻaʻole wau i lohe i kēlā paukū ʻelua.
+1	Lōʻihi	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	lohe	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	paukū	_	_	_	_	_	_	_	_
+11	ʻelua	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_226
+# text = ʻAkahi nō wau i lohe.
+1	ʻAkahi	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	lohe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_227
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_228
+# text = A i kēia manawa, e hoʻolaha ana au i ka helu kelepona o kēia kahua hoʻolele leo inā he manaʻo paha kou, ko ʻoukou.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	au	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	helu	_	_	_	_	_	_	_	_
+13	kelepona	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	kahua	_	_	_	_	_	_	_	_
+17	hoʻolele	_	_	_	_	_	_	_	_
+18	leo	_	_	_	_	_	_	_	_
+19	inā	_	_	_	_	_	_	_	_
+20	he	_	_	_	_	_	_	_	_
+21	manaʻo	_	_	_	_	_	_	_	_
+22	paha	_	_	_	_	_	_	_	_
+23	kou	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ko	_	_	_	_	_	_	_	_
+26	ʻoukou	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_229
+# text = A inā he nīnau paha kā ʻoukou, e kelepona mai.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	nīnau	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	kā	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kelepona	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_230
+# text = A eia ka helu, helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	ʻeiwa	_	_	_	_	_	_	_	_
+8	ʻelua	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	ʻehā	_	_	_	_	_	_	_	_
+13	ʻole	_	_	_	_	_	_	_	_
+14	ʻelua	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_231
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_232
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_233
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_234
+# text = A, ke hoʻoponopono anei ʻoe i nā puke haʻawina, nā puke ʻōlelo haʻawina i kēia manawa, ʻeā? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	hoʻoponopono	_	_	_	_	_	_	_	_
+5	anei	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	puke	_	_	_	_	_	_	_	_
+10	haʻawina	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	puke	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	haʻawina	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	manawa	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻeā	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	ʻAe	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_235
+# text = A, ua hoʻoponopono wau i ka puke aʻu i kākau ai no ke Kulanui o Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hoʻoponopono	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	puke	_	_	_	_	_	_	_	_
+9	aʻu	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kākau	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	Kulanui	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_236
+# text = A ua pau i ka hoʻoponopono ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hoʻoponopono	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_237
+# text = A kali ana a kēia makahiki aʻe paha, a, paʻi ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	kali	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	makahiki	_	_	_	_	_	_	_	_
+7	aʻe	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	paʻi	_	_	_	_	_	_	_	_
+13	ʻia	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_238
+# text = A e hoʻomaka ana wau hoʻoponopono i ka puke aʻu i kākau ai no nā Kula ʻo Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	hoʻomaka	_	_	_	_	_	_	_	_
+4	ana	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	hoʻoponopono	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	puke	_	_	_	_	_	_	_	_
+10	aʻu	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kākau	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	Kula	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Kamehameha	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_239
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_240
+# text = ʻO ia ka puke, E Pāpāʻōlelo, E Pāpāʻōlelo Kākou.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	puke	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	E	_	_	_	_	_	_	_	_
+7	Pāpāʻōlelo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	E	_	_	_	_	_	_	_	_
+10	Pāpāʻōlelo	_	_	_	_	_	_	_	_
+11	Kākou	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_241
+# text = ʻŌlelo Kākou.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	Kākou	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_242
+# text = A kēia puke hope nei, ʻo ia ka puke, E Kamaʻilio Hawaiʻi Kākou.
+1	A	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	puke	_	_	_	_	_	_	_	_
+4	hope	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	puke	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	E	_	_	_	_	_	_	_	_
+13	Kamaʻilio	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	Kākou	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_243
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_244
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_245
+# text = A, pehea kou manaʻo i ke ʻano o ka hoʻopuka ʻana o nā, o nā mele i kēia manawa? Auē nō hoʻi ē.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	ʻano	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hoʻopuka	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mele	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	manawa	_	_	_	_	_	_	_	_
+22	?	_	PUNCT	_	_	_	_	_	_
+23	Auē	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	hoʻi	_	_	_	_	_	_	_	_
+26	ē	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_246
+# text = No ka mea, ʻAe.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_247
+# text = ua, ua hele nō ʻoe i mua o kēia ʻaha mele, kēia Hawaiian, a, Music Foundation, {Mū.
+1	ua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	hele	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ʻoe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	mua	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	ʻaha	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	Hawaiian	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Music	_	_	_	_	_	_	_	_
+20	Foundation	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	{	_	PUNCT	_	_	_	_	_	_
+23	Mū	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_248
+# text = } e haʻiʻōlelo ai, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	haʻiʻōlelo	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻAe	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_249
+# text = e pili ana i ke ʻano o ka mele ʻana o kēia manawa.
+1	e	_	_	_	_	_	_	_	_
+2	pili	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	ʻano	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mele	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_250
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_251
+# text = A hiki iā, hiki iā ʻoe ke wehewehe liʻiliʻi mai i kekahi o kou manaʻo e pili ana i kēia māhele? ʻAʻole paha noʻu wale nō kēia manaʻo, he poʻe ʻē aʻe nō, i kūlike ka manaʻo me koʻu, ʻo ia hoʻi, a, kekahi poʻe ʻōpio o kēia manawa, ʻaʻole maopopo pono ka ʻōlelo Hawaiʻi iā lākou.
+1	A	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hiki	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	ʻoe	_	_	_	_	_	_	_	_
+8	ke	_	_	_	_	_	_	_	_
+9	wehewehe	_	_	_	_	_	_	_	_
+10	liʻiliʻi	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kekahi	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	kou	_	_	_	_	_	_	_	_
+16	manaʻo	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	pili	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	māhele	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	ʻAʻole	_	_	_	_	_	_	_	_
+25	paha	_	_	_	_	_	_	_	_
+26	noʻu	_	_	_	_	_	_	_	_
+27	wale	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	manaʻo	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	he	_	_	_	_	_	_	_	_
+33	poʻe	_	_	_	_	_	_	_	_
+34	ʻē	_	_	_	_	_	_	_	_
+35	aʻe	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	kūlike	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	manaʻo	_	_	_	_	_	_	_	_
+42	me	_	_	_	_	_	_	_	_
+43	koʻu	_	_	_	_	_	_	_	_
+44	,	_	PUNCT	_	_	_	_	_	_
+45	ʻo	_	_	_	_	_	_	_	_
+46	ia	_	_	_	_	_	_	_	_
+47	hoʻi	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	a	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	kekahi	_	_	_	_	_	_	_	_
+52	poʻe	_	_	_	_	_	_	_	_
+53	ʻōpio	_	_	_	_	_	_	_	_
+54	o	_	_	_	_	_	_	_	_
+55	kēia	_	_	_	_	_	_	_	_
+56	manawa	_	_	_	_	_	_	_	_
+57	,	_	PUNCT	_	_	_	_	_	_
+58	ʻaʻole	_	_	_	_	_	_	_	_
+59	maopopo	_	_	_	_	_	_	_	_
+60	pono	_	_	_	_	_	_	_	_
+61	ka	_	_	_	_	_	_	_	_
+62	ʻōlelo	_	_	_	_	_	_	_	_
+63	Hawaiʻi	_	_	_	_	_	_	_	_
+64	iā	_	_	_	_	_	_	_	_
+65	lākou	_	_	_	_	_	_	_	_
+66	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_252
+# text = No laila, i ke a kekahi manawa nō hoʻi paha, ʻaʻole nō paha lākou i ʻike i kēia mau, i nānā i kēia mau hīmeni ma nā puke, a hoʻolohe wale nō, a hoʻopaʻa i ka hī i nā hīmeni a, a lākou lohe ai i nā, e lohe ai i nā poʻe e hīmeni ana.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	hoʻi	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻaʻole	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ʻike	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	mau	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	nānā	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	mau	_	_	_	_	_	_	_	_
+28	hīmeni	_	_	_	_	_	_	_	_
+29	ma	_	_	_	_	_	_	_	_
+30	nā	_	_	_	_	_	_	_	_
+31	puke	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	hoʻolohe	_	_	_	_	_	_	_	_
+35	wale	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	hoʻopaʻa	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	ka	_	_	_	_	_	_	_	_
+42	hī	_	_	_	_	_	_	_	_
+43	i	_	_	_	_	_	_	_	_
+44	nā	_	_	_	_	_	_	_	_
+45	hīmeni	_	_	_	_	_	_	_	_
+46	a	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	lākou	_	_	_	_	_	_	_	_
+50	lohe	_	_	_	_	_	_	_	_
+51	ai	_	_	_	_	_	_	_	_
+52	i	_	_	_	_	_	_	_	_
+53	nā	_	_	_	_	_	_	_	_
+54	,	_	PUNCT	_	_	_	_	_	_
+55	e	_	_	_	_	_	_	_	_
+56	lohe	_	_	_	_	_	_	_	_
+57	ai	_	_	_	_	_	_	_	_
+58	i	_	_	_	_	_	_	_	_
+59	nā	_	_	_	_	_	_	_	_
+60	poʻe	_	_	_	_	_	_	_	_
+61	e	_	_	_	_	_	_	_	_
+62	hīmeni	_	_	_	_	_	_	_	_
+63	ana	_	_	_	_	_	_	_	_
+64	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_253
+# text = Kekahi manawa, pāʻani paha i pāleo i hana ʻia e kekahi poʻe.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pāʻani	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	pāleo	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	ʻia	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	kekahi	_	_	_	_	_	_	_	_
+13	poʻe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_254
+# text = A hoʻolohe i ka pāleo.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻolohe	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	pāleo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_255
+# text = ʻO ia paha, pēia paha lākou i aʻo ai i ka, i nā hīmeni.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pēia	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	aʻo	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	hīmeni	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_256
+# text = A kekahi manawa, ʻaʻohe paha lohe pono ka le a, pepeiao i nā huaʻōlelo, no ka mea, kekahi poʻe ke mele ʻeā, ʻaʻohe puka pono nā huaʻōlelo.
+1	A	_	_	_	_	_	_	_	_
+2	kekahi	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	lohe	_	_	_	_	_	_	_	_
+8	pono	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	pepeiao	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	huaʻōlelo	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	kekahi	_	_	_	_	_	_	_	_
+23	poʻe	_	_	_	_	_	_	_	_
+24	ke	_	_	_	_	_	_	_	_
+25	mele	_	_	_	_	_	_	_	_
+26	ʻeā	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻaʻohe	_	_	_	_	_	_	_	_
+29	puka	_	_	_	_	_	_	_	_
+30	pono	_	_	_	_	_	_	_	_
+31	nā	_	_	_	_	_	_	_	_
+32	huaʻōlelo	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_257
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_258
+# text = A inā ʻaʻole lohe pono, a laila, hewa ka hoʻopuka ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	ʻaʻole	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	pono	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	laila	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	hewa	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	hoʻopuka	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_259
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_260
+# text = No laila, i kahi manawa nō, a hewa nō nā hoʻopuka ʻana i nā huaʻōlelo.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kahi	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hewa	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	hoʻopuka	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	huaʻōlelo	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_261
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_262
+# text = Inā pēlā ke ʻano o ke aʻo ʻana o nā mele, e mau ana nō ka hewa, a e hoʻonui ana ka hewa.
+1	Inā	_	_	_	_	_	_	_	_
+2	pēlā	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	aʻo	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	hewa	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	hoʻonui	_	_	_	_	_	_	_	_
+23	ana	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	hewa	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_263
+# text = ʻAʻohe mea nāna e, Pēlā nō paha, pehea lā.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	mea	_	_	_	_	_	_	_	_
+3	nāna	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Pēlā	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	pehea	_	_	_	_	_	_	_	_
+11	lā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_264
+# text = hoʻopololei aku.
+1	hoʻopololei	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_265
+# text = Pehea lā e hoʻopololei ai? Pehea lā hoʻi? Na nā mea e, e hoʻopuka ana i ka mele, nāna nō, nāna nō kēia kuleana e hele huli, mea, nāna e hiki ke kōkua mai iā ia i ka, ke ʻano o ka puana ʻana o ka mele.
+1	Pehea	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻopololei	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Pehea	_	_	_	_	_	_	_	_
+8	lā	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Na	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	hoʻopuka	_	_	_	_	_	_	_	_
+18	ana	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	mele	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	nāna	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	nāna	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	kēia	_	_	_	_	_	_	_	_
+29	kuleana	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	hele	_	_	_	_	_	_	_	_
+32	huli	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	mea	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	nāna	_	_	_	_	_	_	_	_
+37	e	_	_	_	_	_	_	_	_
+38	hiki	_	_	_	_	_	_	_	_
+39	ke	_	_	_	_	_	_	_	_
+40	kōkua	_	_	_	_	_	_	_	_
+41	mai	_	_	_	_	_	_	_	_
+42	iā	_	_	_	_	_	_	_	_
+43	ia	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	ka	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	ke	_	_	_	_	_	_	_	_
+48	ʻano	_	_	_	_	_	_	_	_
+49	o	_	_	_	_	_	_	_	_
+50	ka	_	_	_	_	_	_	_	_
+51	puana	_	_	_	_	_	_	_	_
+52	ʻana	_	_	_	_	_	_	_	_
+53	o	_	_	_	_	_	_	_	_
+54	ka	_	_	_	_	_	_	_	_
+55	mele	_	_	_	_	_	_	_	_
+56	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_266
+# text = Malia paha, hiki mai ana nō ka manawa e, {amū} hoʻoponopono ʻia ai i kēia mau mea.
+1	Malia	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hiki	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	{	_	PUNCT	_	_	_	_	_	_
+13	amū	_	_	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	hoʻoponopono	_	_	_	_	_	_	_	_
+16	ʻia	_	_	_	_	_	_	_	_
+17	ai	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	mau	_	_	_	_	_	_	_	_
+21	mea	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_267
+# text = ʻAʻole hiki ke hoʻoponopono ʻia pau loa i ka manawa hoʻokahi.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	hiki	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	hoʻoponopono	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	manawa	_	_	_	_	_	_	_	_
+11	hoʻokahi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_268
+# text = A hoʻomanawanui nō paha, a, hana i nā mea hiki ke hana, a pēlā wale aku.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻomanawanui	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	hiki	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	hana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	pēlā	_	_	_	_	_	_	_	_
+18	wale	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_269
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_270
+# text = E kala mai.
+1	E	_	_	_	_	_	_	_	_
+2	kala	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_271
+# text = E hoʻolele ana ke keiki i wahi manaʻo no kēia kahua.
+1	E	_	_	_	_	_	_	_	_
+2	hoʻolele	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	keiki	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	manaʻo	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	kahua	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_272
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_273
+# text = ! haʻalele.
+1	!	_	PUNCT	_	_	_	_	_	_
+2	haʻalele	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_274
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_275
+# text = ʻO ia nō kekahi mea ʻāpiki o kākou i kēia manawa.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	ʻāpiki	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_276
+# text = ʻAʻohe kākou nānā pono i ke ʻano o hoʻopuka ʻana i ka ʻōlelo Hawaiʻi ma ka mele ʻana a ma ke kamaʻilio ʻana.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	kākou	_	_	_	_	_	_	_	_
+3	nānā	_	_	_	_	_	_	_	_
+4	pono	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	hoʻopuka	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	ʻōlelo	_	_	_	_	_	_	_	_
+14	Hawaiʻi	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	ke	_	_	_	_	_	_	_	_
+22	kamaʻilio	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_277
+# text = ʻAno pāhemahema kākou i kēia manawa.
+1	ʻAno	_	_	_	_	_	_	_	_
+2	pāhemahema	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_278
+# text = Akā, eia nō kekahi poʻe ke kūlia, ke kūlia nei i ke aʻo ʻana i ka ʻōlelo Hawaiʻi, Pololei nō.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kūlia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	kūlia	_	_	_	_	_	_	_	_
+12	nei	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	aʻo	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ʻōlelo	_	_	_	_	_	_	_	_
+20	Hawaiʻi	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	Pololei	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_279
+# text = ma nā kula.
+1	ma	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kula	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_280
+# text = Pololei nō.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_281
+# text = Koe kēia, kohu mea, ʻakahi nō e hoʻomaka ana kēia hana ʻo ke aʻo ʻana i ka ʻōlelo Hawaiʻi.
+1	Koe	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kohu	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻakahi	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻomaka	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	ke	_	_	_	_	_	_	_	_
+16	aʻo	_	_	_	_	_	_	_	_
+17	ʻana	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	ʻōlelo	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_282
+# text = A he mau pilikia ma waena o kēia hoʻomaka ʻana o ke aʻo ʻana.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	pilikia	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	waena	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	hoʻomaka	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_283
+# text = ʻAʻohe lawa nā puke haʻawina.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	lawa	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	puke	_	_	_	_	_	_	_	_
+5	haʻawina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_284
+# text = ʻAʻohe lawa nō hoʻi nā kumu kula.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	lawa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	hoʻi	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	kumu	_	_	_	_	_	_	_	_
+7	kula	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_285
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_286
+# text = ʻEhia lā ʻoukou e aʻo nei i kēia manawa? ʻAe.
+1	ʻEhia	_	_	_	_	_	_	_	_
+2	lā	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	aʻo	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_287
+# text = ʻEkolu ʻoukou, ʻehā ma ke kulanui, ʻeā? A ma Kamehameha kekahi.
+1	ʻEkolu	_	_	_	_	_	_	_	_
+2	ʻoukou	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻehā	_	_	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kulanui	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻeā	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	A	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Kamehameha	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_288
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_289
+# text = ʻAʻole nui loa ka poʻe hiki ke aʻo i ka ʻōlelo.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	loa	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_290
+# text = ʻAe, pololei.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pololei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_291
+# text = A ʻo ia paha kā kākou hana i kēia mua aku.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	paha	_	_	_	_	_	_	_	_
+5	kā	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mua	_	_	_	_	_	_	_	_
+11	aku	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_292
+# text = Hoʻoikaika, a paipai i nā haumāna i loaʻa nā poʻe hiki ke aʻo i ka ʻōlelo.
+1	Hoʻoikaika	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	paipai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	haumāna	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	loaʻa	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	poʻe	_	_	_	_	_	_	_	_
+12	hiki	_	_	_	_	_	_	_	_
+13	ke	_	_	_	_	_	_	_	_
+14	aʻo	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻōlelo	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_293
+# text = Pololei nō.
+1	Pololei	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_294
+# text = Akā, pehea kou manaʻo? ʻO kēia, ʻo kēia manawa nō paha ka wā kūpono o ka hoʻomaka ʻana o ka, ʻAe.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	kou	_	_	_	_	_	_	_	_
+5	manaʻo	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻO	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	wā	_	_	_	_	_	_	_	_
+17	kūpono	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hoʻomaka	_	_	_	_	_	_	_	_
+21	ʻana	_	_	_	_	_	_	_	_
+22	o	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	ʻAe	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_295
+# text = Pono hoʻomaka.
+1	Pono	_	_	_	_	_	_	_	_
+2	hoʻomaka	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_296
+# text = o ke ʻAe.
+1	o	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	ʻAe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_297
+# text = ʻAʻole kali lōʻihi loa.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	kali	_	_	_	_	_	_	_	_
+3	lōʻihi	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_298
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_299
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_300
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_301
+# text = Ke hele nei nō kākou a poina i ka ʻōlelo Hawaiʻi.
+1	Ke	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	poina	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_302
+# text = A i koʻu manaʻo, ma ke aʻo nō ma ma ke aʻo nō kākou e hoʻomau ai i ka ʻōlelo makuahine a kā kākou.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	manaʻo	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	aʻo	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	kākou	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	hoʻomau	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	makuahine	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	kā	_	_	_	_	_	_	_	_
+25	kākou	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_303
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_304
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_305
+# text = Inā lawa nā kumu, a lawa nā puke i hoʻomākaukau ʻia, a laila, holomua nō paha ka hana.
+1	Inā	_	_	_	_	_	_	_	_
+2	lawa	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	kumu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	lawa	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	puke	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	hoʻomākaukau	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	laila	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	holomua	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	hana	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_306
+# text = Inā ʻaʻole, ʻaʻole holomua.
+1	Inā	_	_	_	_	_	_	_	_
+2	ʻaʻole	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻaʻole	_	_	_	_	_	_	_	_
+5	holomua	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_307
+# text = Pololei.
+1	Pololei	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_308
+# text = A, e hoʻonohonoho ana ʻoukou a ʻo wau nō hoʻi kekahi papahana pili ana i ka ʻōlelo Hawaiʻi no, no kēia lā iwakālua o Mei.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻonohonoho	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	hoʻi	_	_	_	_	_	_	_	_
+12	kekahi	_	_	_	_	_	_	_	_
+13	papahana	_	_	_	_	_	_	_	_
+14	pili	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	ʻōlelo	_	_	_	_	_	_	_	_
+19	Hawaiʻi	_	_	_	_	_	_	_	_
+20	no	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	no	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	lā	_	_	_	_	_	_	_	_
+25	iwakālua	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	Mei	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_309
+# text = Ka ʻaha, {Mū.
+1	Ka	_	_	_	_	_	_	_	_
+2	ʻaha	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	Mū	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_310
+# text = } ka ʻaha ʻōlelo Hawaiʻi mua.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻaha	_	_	_	_	_	_	_	_
+4	ʻōlelo	_	_	_	_	_	_	_	_
+5	Hawaiʻi	_	_	_	_	_	_	_	_
+6	mua	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_311
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_312
+# text = Ka ʻaha ʻōlelo e mālama ʻia ana ma ke Kula ʻo Kamehameha.
+1	Ka	_	_	_	_	_	_	_	_
+2	ʻaha	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	mālama	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	ana	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	Kula	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Kamehameha	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_313
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_314
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_315
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_316
+# text = No laila, e nā mea e lohe ana i kēia ahiahi, inā he makemake ko ʻoukou e hele mai i kēia ʻaha ʻōlelo Hawaiʻi, ʻo ia nō ka ʻaha mua, ka ʻaha ʻōlelo Hawaiʻi mua ma ke Kula ʻo Kamehameha e hoʻolālā ai no ko kākou pono me ka pono o ko kā ka mea o ka me ka pono o kā kākou ʻōlelo Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	mea	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	lohe	_	_	_	_	_	_	_	_
+9	ana	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	inā	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	makemake	_	_	_	_	_	_	_	_
+17	ko	_	_	_	_	_	_	_	_
+18	ʻoukou	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hele	_	_	_	_	_	_	_	_
+21	mai	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	ʻaha	_	_	_	_	_	_	_	_
+25	ʻōlelo	_	_	_	_	_	_	_	_
+26	Hawaiʻi	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	ʻo	_	_	_	_	_	_	_	_
+29	ia	_	_	_	_	_	_	_	_
+30	nō	_	_	_	_	_	_	_	_
+31	ka	_	_	_	_	_	_	_	_
+32	ʻaha	_	_	_	_	_	_	_	_
+33	mua	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	ʻaha	_	_	_	_	_	_	_	_
+37	ʻōlelo	_	_	_	_	_	_	_	_
+38	Hawaiʻi	_	_	_	_	_	_	_	_
+39	mua	_	_	_	_	_	_	_	_
+40	ma	_	_	_	_	_	_	_	_
+41	ke	_	_	_	_	_	_	_	_
+42	Kula	_	_	_	_	_	_	_	_
+43	ʻo	_	_	_	_	_	_	_	_
+44	Kamehameha	_	_	_	_	_	_	_	_
+45	e	_	_	_	_	_	_	_	_
+46	hoʻolālā	_	_	_	_	_	_	_	_
+47	ai	_	_	_	_	_	_	_	_
+48	no	_	_	_	_	_	_	_	_
+49	ko	_	_	_	_	_	_	_	_
+50	kākou	_	_	_	_	_	_	_	_
+51	pono	_	_	_	_	_	_	_	_
+52	me	_	_	_	_	_	_	_	_
+53	ka	_	_	_	_	_	_	_	_
+54	pono	_	_	_	_	_	_	_	_
+55	o	_	_	_	_	_	_	_	_
+56	ko	_	_	_	_	_	_	_	_
+57	kā	_	_	_	_	_	_	_	_
+58	ka	_	_	_	_	_	_	_	_
+59	mea	_	_	_	_	_	_	_	_
+60	o	_	_	_	_	_	_	_	_
+61	ka	_	_	_	_	_	_	_	_
+62	me	_	_	_	_	_	_	_	_
+63	ka	_	_	_	_	_	_	_	_
+64	pono	_	_	_	_	_	_	_	_
+65	o	_	_	_	_	_	_	_	_
+66	kā	_	_	_	_	_	_	_	_
+67	kākou	_	_	_	_	_	_	_	_
+68	ʻōlelo	_	_	_	_	_	_	_	_
+69	Hawaiʻi	_	_	_	_	_	_	_	_
+70	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_317
+# text = A mai ia ʻaha, e kūkākūkā ana kākou i nā wahi pōwehiwehi a me nā wahi pilikia o ka ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ʻaha	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kūkākūkā	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	kākou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	wahi	_	_	_	_	_	_	_	_
+13	pōwehiwehi	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	wahi	_	_	_	_	_	_	_	_
+18	pilikia	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_318
+# text = A e kūkā , kū , kūkā ana kā kākou i nā mea hiki iā kākou ke hana aku ai e, e hoʻopo pololei ai, e hoʻoponopono ai i ka ʻōlelo i, i ola maikaʻi hoʻi ka ʻōlelo kanaka.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kūkā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kū	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	kūkā	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	kā	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	kākou	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	hana	_	_	_	_	_	_	_	_
+19	aku	_	_	_	_	_	_	_	_
+20	ai	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hoʻopo	_	_	_	_	_	_	_	_
+25	pololei	_	_	_	_	_	_	_	_
+26	ai	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	hoʻoponopono	_	_	_	_	_	_	_	_
+30	ai	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	ʻōlelo	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	ola	_	_	_	_	_	_	_	_
+38	maikaʻi	_	_	_	_	_	_	_	_
+39	hoʻi	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	ʻōlelo	_	_	_	_	_	_	_	_
+42	kanaka	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_319
+# text = A inā makemake ke kekahi o ʻoukou e hele mai i kēia ʻaha ʻōlelo Hawaiʻi ma ka lā iwakālua o Mei, ka lā Poʻaono kēia, e ʻoluʻolu ʻoukou e kelepona aku i ke Kula ʻo Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	makemake	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	ʻaha	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	lā	_	_	_	_	_	_	_	_
+19	iwakālua	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	Mei	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	lā	_	_	_	_	_	_	_	_
+25	Poʻaono	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	ʻoluʻolu	_	_	_	_	_	_	_	_
+30	ʻoukou	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	kelepona	_	_	_	_	_	_	_	_
+33	aku	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	ke	_	_	_	_	_	_	_	_
+36	Kula	_	_	_	_	_	_	_	_
+37	ʻo	_	_	_	_	_	_	_	_
+38	Kamehameha	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_320
+# text = A e nīnau aku iā Mrs.
+1	A	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	nīnau	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	Mrs	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_321
+# text = Bernie no ka, a, no ka hoʻopaʻa ʻana i kou inoa ma ka papa inoa o kēia ʻaha ʻōlelo Hawaiʻi.
+1	Bernie	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hoʻopaʻa	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kou	_	_	_	_	_	_	_	_
+13	inoa	_	_	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	papa	_	_	_	_	_	_	_	_
+17	inoa	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	ʻaha	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_322
+# text = A eia ka helu kelepona o kēia keʻena o ke Kula ʻo Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	keʻena	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ke	_	_	_	_	_	_	_	_
+11	Kula	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kamehameha	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_323
+# text = Ka helu ʻewalu ʻehā ʻelima, ʻeono ʻeono ʻekolu ʻekahi.
+1	Ka	_	_	_	_	_	_	_	_
+2	helu	_	_	_	_	_	_	_	_
+3	ʻewalu	_	_	_	_	_	_	_	_
+4	ʻehā	_	_	_	_	_	_	_	_
+5	ʻelima	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻeono	_	_	_	_	_	_	_	_
+8	ʻeono	_	_	_	_	_	_	_	_
+9	ʻekolu	_	_	_	_	_	_	_	_
+10	ʻekahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_324
+# text = E ʻoluʻolu ʻoukou e kelepona ma mua o ka lā ʻumikūmāhiku i hiki ke, i hiki kēia keʻena ke hoʻomākaukau mua nā mea e pono ai no kēia ʻaha ʻōlelo Hawaiʻi.
+1	E	_	_	_	_	_	_	_	_
+2	ʻoluʻolu	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	kelepona	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	mua	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	lā	_	_	_	_	_	_	_	_
+11	ʻumikūmāhiku	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	hiki	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	hiki	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	keʻena	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	hoʻomākaukau	_	_	_	_	_	_	_	_
+22	mua	_	_	_	_	_	_	_	_
+23	nā	_	_	_	_	_	_	_	_
+24	mea	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	pono	_	_	_	_	_	_	_	_
+27	ai	_	_	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	kēia	_	_	_	_	_	_	_	_
+30	ʻaha	_	_	_	_	_	_	_	_
+31	ʻōlelo	_	_	_	_	_	_	_	_
+32	Hawaiʻi	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_325
+# text = A ʻo ka ʻauhau uku o kēia ʻaha, he, he oko ʻekolu kālā no ka pāʻina awakea.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻauhau	_	_	_	_	_	_	_	_
+5	uku	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	ʻaha	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	oko	_	_	_	_	_	_	_	_
+14	ʻekolu	_	_	_	_	_	_	_	_
+15	kālā	_	_	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	pāʻina	_	_	_	_	_	_	_	_
+19	awakea	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_326
+# text = A me ka papa kuhikuhi hoʻomanaʻo.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	papa	_	_	_	_	_	_	_	_
+5	kuhikuhi	_	_	_	_	_	_	_	_
+6	hoʻomanaʻo	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_327
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_328
+# text = No ka papa kuhikuhi hoʻomanaʻo.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	papa	_	_	_	_	_	_	_	_
+4	kuhikuhi	_	_	_	_	_	_	_	_
+5	hoʻomanaʻo	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_329
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_330
+# text = A, pehea ka lōkihi o kou aʻo ʻana ma ke kula o, kula o Hawaiʻi, Kulanui o Hawaiʻi? Kanakolu makahiki.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	lōkihi	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	aʻo	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	kula	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kula	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	Kulanui	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	Hawaiʻi	_	_	_	_	_	_	_	_
+22	?	_	PUNCT	_	_	_	_	_	_
+23	Kanakolu	_	_	_	_	_	_	_	_
+24	makahiki	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_331
+# text = Kanakolu.
+1	Kanakolu	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_332
+# text = Kokoke kanakolu makahiki.
+1	Kokoke	_	_	_	_	_	_	_	_
+2	kanakolu	_	_	_	_	_	_	_	_
+3	makahiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_333
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_334
+# text = A he, he mau makahiki wale nō āu i aʻo ai ma ka māhele ʻōlelo Hawaiʻi ma ke kulanui? {Amū,} kanaonokūmākahi.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	makahiki	_	_	_	_	_	_	_	_
+7	wale	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	āu	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	aʻo	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	māhele	_	_	_	_	_	_	_	_
+16	ʻōlelo	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	ke	_	_	_	_	_	_	_	_
+20	kulanui	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	{	_	PUNCT	_	_	_	_	_	_
+23	Amū	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	}	_	PUNCT	_	_	_	_	_	_
+26	kanaonokūmākahi	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_335
+# text = Kanaonokūmākahi? Aia nō ʻoe i ke kula, A, kanao kanaono, kanaonokūmākahi kau ʻelua.
+1	Kanaonokūmākahi	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Aia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	A	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kanao	_	_	_	_	_	_	_	_
+13	kanaono	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kanaonokūmākahi	_	_	_	_	_	_	_	_
+16	kau	_	_	_	_	_	_	_	_
+17	ʻelua	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_336
+# text = Aʻo wau ma ke kulanui.
+1	Aʻo	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kulanui	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_337
+# text = Pani hakahaka no ʻElepeka.
+1	Pani	_	_	_	_	_	_	_	_
+2	hakahaka	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	ʻElepeka	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_338
+# text = A kanaonokūmākahi, Kepakemapa, hele wau i Kamehameha.
+1	A	_	_	_	_	_	_	_	_
+2	kanaonokūmākahi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Kepakemapa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Kamehameha	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_339
+# text = Aʻo au i laila no ʻekolu makahiki.
+1	Aʻo	_	_	_	_	_	_	_	_
+2	au	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	laila	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	ʻekolu	_	_	_	_	_	_	_	_
+7	makahiki	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_340
+# text = A hoʻi hou wau i ke kulanui, kanaonokūmāhā, a aʻo a hiki i kanaonokūmāwalu.
+1	A	_	_	_	_	_	_	_	_
+2	hoʻi	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	kulanui	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kanaonokūmāhā	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	aʻo	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	hiki	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kanaonokūmāwalu	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_341
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_342
+# text = } A hoʻomaha loa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	hoʻomaha	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_343
+# text = I kēia manawa, ʻike ana kākou ka nui o nā poʻe makemake ana e, e aʻo i ka ʻōlelo Hawaiʻi.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻike	_	_	_	_	_	_	_	_
+6	ana	_	_	_	_	_	_	_	_
+7	kākou	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	makemake	_	_	_	_	_	_	_	_
+14	ana	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	aʻo	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	ʻōlelo	_	_	_	_	_	_	_	_
+22	Hawaiʻi	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_344
+# text = E, e piha ana nā papa ʻōlelo Hawaiʻi ma ke kulanui.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	piha	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	papa	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	kulanui	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_345
+# text = A ʻaʻohe lawa ke kumu, A !! e aʻo ai i ka nui o nā haumāna e makemake ana e komo i loko o nā papa ʻōlelo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻohe	_	_	_	_	_	_	_	_
+3	lawa	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	A	_	_	_	_	_	_	_	_
+8	!!	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	aʻo	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	nui	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	haumāna	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	makemake	_	_	_	_	_	_	_	_
+20	ana	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	komo	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	loko	_	_	_	_	_	_	_	_
+25	o	_	_	_	_	_	_	_	_
+26	nā	_	_	_	_	_	_	_	_
+27	papa	_	_	_	_	_	_	_	_
+28	ʻōlelo	_	_	_	_	_	_	_	_
+29	Hawaiʻi	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_346
+# text = Eia kā nō mākou ke hoʻomanawanui me ka mea a ka, a mākou e hiki ke hana ai.
+1	Eia	_	_	_	_	_	_	_	_
+2	kā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	mākou	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	hoʻomanawanui	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hiki	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	hana	_	_	_	_	_	_	_	_
+19	ai	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_347
+# text = A, e, e kala mai iaʻu.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	kala	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	iaʻu	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_348
+# text = Aloha ahiahi.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_349
+# text = ʻAe, aloha.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_350
+# text = Pau koke ka manawa.
+1	Pau	_	_	_	_	_	_	_	_
+2	koke	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_351
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_352
+# text = Nui ka poʻe ma ke kelepona.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	poʻe	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kelepona	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_353
+# text = !! No laila, ua hiki mai kākou i ka hopena o kā mākou papahana.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	No	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	hiki	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	hopena	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	kā	_	_	_	_	_	_	_	_
+14	mākou	_	_	_	_	_	_	_	_
+15	papahana	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_354
+# text = Ma mua nō naʻe o ka hoʻopau ʻana o kēia papahana, makemake au e hoʻomanaʻo hou iā ʻoukou e nā mea e makemake ana e hele mai i kēia ʻaha ʻōlelo Hawaiʻi, ka mua kēia o ka ʻaha ʻōlelo Hawaiʻi e mālama ʻia nei ma ke kula, ma, ma ke Kula ʻo Kamehameha.
+1	Ma	_	_	_	_	_	_	_	_
+2	mua	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	naʻe	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻopau	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	papahana	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	makemake	_	_	_	_	_	_	_	_
+14	au	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	hoʻomanaʻo	_	_	_	_	_	_	_	_
+17	hou	_	_	_	_	_	_	_	_
+18	iā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	mea	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	makemake	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	hele	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	kēia	_	_	_	_	_	_	_	_
+31	ʻaha	_	_	_	_	_	_	_	_
+32	ʻōlelo	_	_	_	_	_	_	_	_
+33	Hawaiʻi	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	mua	_	_	_	_	_	_	_	_
+37	kēia	_	_	_	_	_	_	_	_
+38	o	_	_	_	_	_	_	_	_
+39	ka	_	_	_	_	_	_	_	_
+40	ʻaha	_	_	_	_	_	_	_	_
+41	ʻōlelo	_	_	_	_	_	_	_	_
+42	Hawaiʻi	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	mālama	_	_	_	_	_	_	_	_
+45	ʻia	_	_	_	_	_	_	_	_
+46	nei	_	_	_	_	_	_	_	_
+47	ma	_	_	_	_	_	_	_	_
+48	ke	_	_	_	_	_	_	_	_
+49	kula	_	_	_	_	_	_	_	_
+50	,	_	PUNCT	_	_	_	_	_	_
+51	ma	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	ma	_	_	_	_	_	_	_	_
+54	ke	_	_	_	_	_	_	_	_
+55	Kula	_	_	_	_	_	_	_	_
+56	ʻo	_	_	_	_	_	_	_	_
+57	Kamehameha	_	_	_	_	_	_	_	_
+58	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_355
+# text = Inā makemake ʻoukou e hele mai i kēia ʻaha ʻōlelo Hawaiʻi, e kelepona mua iā Mrs.
+1	Inā	_	_	_	_	_	_	_	_
+2	makemake	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	ʻaha	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	Hawaiʻi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kelepona	_	_	_	_	_	_	_	_
+15	mua	_	_	_	_	_	_	_	_
+16	iā	_	_	_	_	_	_	_	_
+17	Mrs	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_356
+# text = Bernie ma ke Kula ʻo Kamehameha.
+1	Bernie	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	Kula	_	_	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	Kamehameha	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_357
+# text = A eia ka helu, helu ʻei ʻewalu ʻehā ʻelima, ʻeono ʻeono ʻekolu ʻekahi.
+1	A	_	_	_	_	_	_	_	_
+2	eia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	helu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	ʻei	_	_	_	_	_	_	_	_
+8	ʻewalu	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	ʻelima	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻeono	_	_	_	_	_	_	_	_
+13	ʻeono	_	_	_	_	_	_	_	_
+14	ʻekolu	_	_	_	_	_	_	_	_
+15	ʻekahi	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_358
+# text = A ʻo nā haumāna i kōkua lokomaikaʻi mai i kēia ahiahi ma kēia papahana, ʻo Tai Crouch ka mea i ʻōlelo ai ma ʻōlelo haole, me Pakele Freitas lāua ʻo Kiana Nāone ma ke kamaʻilio ʻana no Oʻahu, me Kuʻulei Kaikainahaole no ka haʻiʻōlelo ʻana ʻo ka manu kōlea.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	haumāna	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kōkua	_	_	_	_	_	_	_	_
+7	lokomaikaʻi	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	ahiahi	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	papahana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	Tai	_	_	_	_	_	_	_	_
+18	Crouch	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mea	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	ai	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	ʻōlelo	_	_	_	_	_	_	_	_
+26	haole	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	me	_	_	_	_	_	_	_	_
+29	Pakele	_	_	_	_	_	_	_	_
+30	Freitas	_	_	_	_	_	_	_	_
+31	lāua	_	_	_	_	_	_	_	_
+32	ʻo	_	_	_	_	_	_	_	_
+33	Kiana	_	_	_	_	_	_	_	_
+34	Nāone	_	_	_	_	_	_	_	_
+35	ma	_	_	_	_	_	_	_	_
+36	ke	_	_	_	_	_	_	_	_
+37	kamaʻilio	_	_	_	_	_	_	_	_
+38	ʻana	_	_	_	_	_	_	_	_
+39	no	_	_	_	_	_	_	_	_
+40	Oʻahu	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	me	_	_	_	_	_	_	_	_
+43	Kuʻulei	_	_	_	_	_	_	_	_
+44	Kaikainahaole	_	_	_	_	_	_	_	_
+45	no	_	_	_	_	_	_	_	_
+46	ka	_	_	_	_	_	_	_	_
+47	haʻiʻōlelo	_	_	_	_	_	_	_	_
+48	ʻana	_	_	_	_	_	_	_	_
+49	ʻo	_	_	_	_	_	_	_	_
+50	ka	_	_	_	_	_	_	_	_
+51	manu	_	_	_	_	_	_	_	_
+52	kōlea	_	_	_	_	_	_	_	_
+53	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_359
+# text = A ʻo Kaniela Akaka, ʻo Pila Wilson me Eldon Akamine nā mea i, i hīmeni ai a i hoʻokani ai i ka pila.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Kaniela	_	_	_	_	_	_	_	_
+4	Akaka	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	Pila	_	_	_	_	_	_	_	_
+8	Wilson	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	Eldon	_	_	_	_	_	_	_	_
+11	Akamine	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mea	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	hīmeni	_	_	_	_	_	_	_	_
+18	ai	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	hoʻokani	_	_	_	_	_	_	_	_
+22	ai	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	pila	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_360
+# text = A mahalo nui iā ʻoe, e Kahananui wahine i kou kipa ʻana mai i kēia ahiahi.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Kahananui	_	_	_	_	_	_	_	_
+9	wahine	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kou	_	_	_	_	_	_	_	_
+12	kipa	_	_	_	_	_	_	_	_
+13	ʻana	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	ahiahi	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_361
+# text = A me nā makamaka lehulehu i kōkua lokomaikaʻi mai i kēia papahana ʻo Ka Leo Hawaiʻi.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	makamaka	_	_	_	_	_	_	_	_
+5	lehulehu	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kōkua	_	_	_	_	_	_	_	_
+8	lokomaikaʻi	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	Ka	_	_	_	_	_	_	_	_
+15	Leo	_	_	_	_	_	_	_	_
+16	Hawaiʻi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_362
+# text = A mahalo nui iā ʻoukou e nā mea e hoʻolohe ana.
+1	A	_	_	_	_	_	_	_	_
+2	mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻolohe	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_363
+# text = A aloha nui iā ʻoukou a pau loa.
+1	A	_	_	_	_	_	_	_	_
+2	aloha	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	pau	_	_	_	_	_	_	_	_
+8	loa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.006_Dorothy_Kahananui_19720502_364
+# text = A hui hou aku kākou.
+1	A	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+

@@ -1,0 +1,1259 @@
+00:00	# This is Hawaiian tape HV24 reel 34.
+00:08	Hui Aloha ʻĀina Tuahine
+		> ~ Aloha ʻĀina Tuahine, ʻeā ʻeā
+
+00:43 AR	## ʻAuhea ʻoukou e nā makamaka.  E hoʻolohe mai iā mākou, i nā ʻōpio o ke Kulanui o Hawaiʻi.  E lohe ana ʻoukou i nā mea e pili ana i nā hana a me nā ʻike a nā kūpuna i aloha nui ʻia.  E hoʻolele ana ʻo Ka Leo Hawaiʻi i kēlā me kēia Poʻalua.  E hoʻomaka ana kēia hoʻolele i kēia manawa,
+01:16	ka hola ʻewalu o ke ahiahi.
+01:17 LK	E kuʻu lāhui Hawaiʻi o kēia pae ʻāina i aloha nui ʻia.  Me ʻoukou ka welina o ke aloha i kēia ahiahi.  Hauʻoli nō kuʻu naʻau i ko ʻoukou hoʻākoakoa ʻana i kēia ahiahi no ka hoʻolohe ʻana maila a me ke kamaʻilio ʻana ma ka ʻōlelo Hawaiʻi i kēia hola pōkole o ka Poʻalua.  I kēia manawa, e hoʻolaha ana kekahi poʻe haumāna i kā lākou, a, haʻawina kamaʻilio a lākou i hoʻomākaukau ai.  A eia nō ʻo Kuʻulei Bernardino me Kauluwehi, a me Keoki.
+02:02 h:KB	@ Eia he wahi moʻolelo e pili ana i ka Hālau Maile, kekahi hōʻailona no ka hula hālau o Māiki.  Mahalo aku iā Māiki no kona ʻae ʻana i kēia moʻolelo o kona kupuna wahine, ʻo Helen Correa.  Mahalo aku nō iā Kauanoe no kok^^, no kona kōkua ʻana i kēia unuhi ʻana.
+	Hālau Maile:
+	ʻO Hālau Maile ka inoa i kapa ʻia, kapa ʻia i nā lei i hana ʻia me ka baniana ʻĪnia.  Ua hāʻawi ʻia kēia inoa ʻo Hālau Maile i ka hālau hula o Māiki e kona kupuna wahine, ʻo Helen Correa.  No ke awāwa ʻo Pauoa mai ʻo ia.  ʻO ka pahu a me ka hālau maile, ʻo ia nō nā hōʻailona o kēia hālau.  ʻIke ʻia nā haumāna o kēia hālau hula ma ka inoa ʻo Ka Hula Hālau o Māiki.  Ua like kēia mau lei baniana ʻĪnia me ka lau onaona o ka maile lau liʻi ma Kauaʻi.  ʻO Kauaʻi ka ʻāina hānau o ko Māiki ʻohana.  He ʻaʻala ko kēia lei baniana.  Nona iho wale nō kēia ʻaʻala, ʻaʻole e like me nā ʻaʻala ʻē aʻe.  ʻAno like kēia lei hālau maile me ka maile maoli.  Penei ka hana ʻana.
+03:20 h:h1	ʻO ka mua, e wae a e ʻohi ʻoe i mau muʻo ʻōpiopio a loloa.  ʻOhi ʻoe a lawa nā muʻo he iwakālua no ka hana ʻana o ka lei hoʻokahi.  ʻO ka lua, e kuʻikuʻi i nā lālā muʻo a ʻuʻu ihola.  ʻO ke kolu, e nākiʻikiʻi ʻoe i nā ʻāpana muʻo.  ʻElua ʻaoʻao o kēia lei baniana, a peinei^^(penei) ka nākiʻi ʻana o ia mau ʻaoʻao ʻelua i moe pololei nā lau o nā lālā.  ʻO ka mua, e nākiʻi i ke kumu o kēia lālā i ka welelau o kēlā lālā.  A pēia aku ana a lawa ka lōʻihi i kou makemake.  A pēlā ʻoe e nākiʻi ai i ke, i ka lua o nā ʻaoʻao.  A laila, nākiʻi ʻoe i nā ʻaoʻao ʻelua ma nā kumu lālā ʻelua.  A ua paʻa ihola kēia lei hālau maile no ka wehiwehi o ke kanaka.  I kēia manawa, e mele ana mākou i ka mele Aloha Kauaʻi i haku ʻia e Māiki Aiu Lake.
+04:29	Aloha Kauaʻi
+		> Aloha mokihana, pua o Kauaʻi
+		Wili ʻia me ka maile lau liʻiliʻi, maile liʻiliʻi
+		He uʻi onaona, aloha wau iā ʻoe
+		Me aʻu, me ʻoe i ka puʻuwai
+		
+		Aloha nō ʻo Kauaʻi, luana hoʻokipa malihini
+		Puana kaulana ka inoa no Kauaʻi
+		Haʻaheo he nani hiwahiwa
+		
+		Aloha nō ʻo Kauaʻi, luana hoʻokipa malihini
+		Puana kaulana ka inoa o Kauaʻi
+		Haʻaheo he nani hiwahiwa
+06:23		Kauaʻi he nani nō e kā ʻoe_
+
+06:24 LK	Mahalo nui iā ʻoukou, e nā haumāna i hiki kino mai i kēia ahiahi i kēia keʻena, ʻo kēia kahua radio ʻo KCCN.  Mahalo iā ʻoe, e Velda, e Kauluwehi, e Keoki, a iā ʻoe, e Kuʻulei.  Mahalo nui no kēia haʻawina maikaʻi e pili ana i ka maile hālau.  A eia nō me kākou i kēia ahiahi, ko kākou hoa kipa, ʻo Mrs. Irene Peters.  Aloha nō kāua.
+07:00 IP	Aloha nō.
+07:01 LK	A pehea ʻoe i kēia ahiahi?
+07:03 IP	A ʻano maikaʻi hoʻi.
+07:05 LK	ʻAe.
+07:06 IP	No ka mea, ua maʻi iho nei he mau mahina kēia o ka makahiki i hala aku nei.
+07:11 LK	ʻAe, ʻae.  He, he ua nō kā kākou kēia ahiahi, akā ke mahana mai nei nō nā lā.
+07:17 IP	ʻAe.
+07:17 LK	ʻAe.
+07:17 IP	No ka mea, u^^, mahana ke aloha o, o ka poʻe i loko o kēia keʻena, kēia poʻe ʻōpio, poʻe nani lā^^, lākou.  Poʻe piha me ke aloha.
+07:29 LK	Mahalo nui iā ʻoe.  A e ʻoluʻolu e haʻi mai iā mākou i kou one hānau.
+07:38 IP	Ua hānau ʻia nō wau i Oʻahu nei i Hālualanikamakēlā?? o Honolulu.  Ko, koʻu mau mākua, ʻo ia nō ʻo William Kalanikauikaʻalaneo Isaacs.  ʻO koʻu māmā, ʻo ia nō ʻo Margaret Māleka, Māleka Pāpaʻikanīʻau?? Broad.  No Kona ʻo ia.  A ʻo koʻu makua kāne ma ka ʻaoʻao o ka makuahine, mai Maui ʻo ia.  Ma ka ʻaoʻao o ka makua kāne, mai Kohala mai.
+08:09 LK	ʻO ia.  ʻĒ.
+08:10 IP	A.  ʻAe.
+08:11 LK	ʻŌ, ʻo Kohala,
+08:11 IP	Pili a kou,
+08:12 LK	ʻĒ.  ^^^
+08:12 IP	Pili paha ka, a koʻu ʻaoʻao iā ʻoe, e,
+08:15 LK	ʻĒ.
+08:15 IP	Kauanoe.  ^^^
+08:16 LK	ʻAe, he pili nō paha.
+08:18 IP	A ʻo kēia mele a Māiki i unuhi, unuhi mai a hīmeni mai nei nā haumāna,
+08:26 LK	ʻAe.
+08:27 IP	A kēia kaikamahine, kona kaikunāne male i koʻu kaikamahine.
+08:32 LK	ʻŌ.  Male i kāu kaikamahine.
+08:34 IP	ʻAe.
+08:35 LK	ʻŌ.
+08:35 IP	Kēia ke kaikamahine, a, kaʻu muli loa.
+08:37 LK	ʻAe.
+08:38 IP	ʻO Lei kona inoa.
+08:38 LK	ʻEhia, ʻehia āu keiki?
+08:41 IP	ʻEhā,
+08:41 LK	ʻEhia.
+08:42 IP	ʻehā a ʻe^^, ʻehā aʻu.  ʻEkolu poʻe kamaliʻi kāne, a hoʻokahi kaikamahine.
+08:46 LK	ʻAe.
+08:46 IP	Ma ka male mua ʻana i ke kāne.  ʻO Alexander ʻAumala Ahlo.
+08:51 LK	ʻŌ.
+08:51 IP	A kāne ʻelua, ʻo ia nō ʻo Wiliam Kinimakakoʻolua Peters.
+08:56 LK	ʻAe.
+08:56 IP	No Kauaʻi nō ʻo ia.
+08:58 LK	ʻŌ, no Kauaʻi ʻo ia.  ʻAe, he hapa Hawaiʻi?
+09:01 IP	He hapa Hawaiʻi.
+09:03 LK	ʻAe.
+09:03 IP	A he hapa haole.  ^^^
+09:04 LK	^^^  A ʻo kou hānai ʻia ʻana, ua hānai ʻia ʻoe ma Oʻahu nei?
+09:10 IP	Ma Oʻahu nei, a hiki ʻana i nā makahiki ʻelima, a hele mākou i Hawaiʻi e noho ai i Hilo.
+09:17 LK	ʻŌ.  I Hilo ʻoe i,
+09:19 IP	I {mū,} noho ai.
+09:19 LK	i noho ai ma mua.
+09:20 IP	ʻAe.
+09:20 LK	ʻĒ.
+09:21 IP	I kip^^, kipa nō mākou i, i Kalapana, no ka mea, he ʻohana nō ko mākou i Kalapana.
+09:27 LK	ʻO ia.
+09:27 IP	ʻO ia nō ʻo Kalaʻi me Kamelamela mā.
+09:30 LK	ʻAe, ʻohana kaulana.
+09:31 IP	ʻAe.
+09:31 LK	Kamaʻāina ʻo Puna ʻo Kamelamela mā.  ʻAe.
+09:35 IP	ʻAe.  Koʻu wā liʻiliʻi, he, he kumu kula ʻo ia.
+09:39 LK	ʻAe.
+09:39 IP	A pili au iā lākou ma kāna wahine.
+09:42 LK	ʻŌ.
+09:42 IP	No ka mea, hele mai, kēlā ʻohana mai Kona mai.
+09:46 LK	ʻAe.  He kumu kula ʻo ia ma Kalapana?
+09:49 IP	ʻAe.  Like me kāna wahine.
+09:52 LK	ʻĒ, ʻē.
+09:52 IP	Poʻo kumu ʻo ia.
+09:54 LK	Ua hele anei ʻoe i ke kula o Kalapana?
+09:56 IP	ʻAʻole wau i hele i laila.  But, ua hele wau i, e noho i Hilo, no ka mea.
+10:01 LK	ʻĒ.
+10:02 IP	Maʻi koʻu makua kāne a mea mai ke kauka, pono e hele i Hawaiʻi a noho a hiki ke ola ke kino.
+10:10 LK	ʻAe.
+10:11 IP	Ka ola ʻana maikaʻi ʻana o ke kino, hoʻi mai kā mākou i, i ko mākou lā nei o Oʻahu nei.
+10:17 LK	ʻAe, ʻae.
+10:19 IP	Ua hānau ʻia koʻu makua kāne i Pūʻiwa.
+10:22 LK	I, i Pūʻiwa.
+10:22 IP	ʻO, ʻo Nuʻu^^, Pūʻiwa, Nuʻuanu.
+10:25 LK	ʻŌ.  ʻAe.  A.  A ma hea ʻoe i noho ai ma Hilo?
+10:33 IP	I Waiākea nō, kokoke i ke ka^^, i ka muliwai ʻo, mea, Waiākea.
+10:38 LK	ʻŌ, ʻō, ʻē.
+10:39 IP	Ua hele wau ma luna o, o ka m^^, ka moku e halihali ai i ke kō,
+10:45 LK	ʻĒ.
+10:45 IP	kōpaʻa.  Hiki aku i ka, i ke Kūhiō Bay i kēlā mau lā.
+10:50 LK	ʻAe.
+10:51 IP	A kau i kēia poʻe ʻeke,
+10:53 LK	He one paha ko kēlā, ko kēlā wahi o Kūhiō Bay, ē?
+10:58 IP	Ka hele ʻana,
+10:58 LK	I ia mau lā.
+10:59 IP	he hohonu ke kai.
+11:00 LK	Hohonu?
+11:01 IP	ʻAe.
+11:01 LK	ʻAʻohe one?
+11:03 IP	ʻAʻole wau i ʻike i ke one.  ^^^
+11:04 LK	ʻAe.
+11:05 IP	ʻO, ua ʻike au i ke koholā.  Ua kau.
+11:08 LK	I loko o kēlā wahi?
+11:09 IP	Hoʻokahi koholā,
+11:10 LK	ʻĒ.
+11:10 IP	ua make a nui kona kino, a,
+11:12 LK	ʻAe.
+11:13 IP	hoʻokau koʻu kupuna iaʻu i luna.
+11:16 LK	ʻĒ.
+11:16 IP	A ka poʻe o laila, ʻokiʻoki lākou i ka mea i ka, momona o ka koholā.
+11:22 LK	{Mū, mū.}  ^^^  He mea, hana kēia lawaiʻa hukilau?
+11:27 IP	ʻAʻole.
+11:28 LK	Ma laila.
+11:28 IP	Kēia koholā,
+11:29 LK	A.
+11:29 IP	ʻōlelo haole, he whale kēlā.
+11:30 LK	ʻAe, ʻae.
+11:31 IP	^^^
+11:31 LK	Akā, ʻo ka wā ma mua, he hana ʻia ka lawaiʻa hukilau i loko o kēlā awa o Hilo?
+11:37 IP	Ua hana ʻia paha, ʻaʻole wau maopopo,
+11:39 LK	{Mū.}
+11:39 IP	no ka mea, a, koʻu mau kūpuna no Kona.  ʻO lākou hāʻawi, hāʻawi lākou i ka meaʻai,
+11:48 LK	{Mū.}
+11:48 IP	e, i ka mea, i ka iʻa,
+11:51 LK	ʻAe.
+11:51 IP	i nā koʻa.
+11:52 LK	ʻAe, ʻae.
+11:53 IP	Hānai iʻa lākou.
+11:54 LK	He hānai ʻia ka iʻa ma nā koʻa, ʻeā?
+11:55 IP	!!  ʻAe.
+11:57 LK	I ka wā ma mua.
+11:58 IP	Ma mua.
+11:58 LK	ʻAe, pololei.
+11:59 IP	A hānai nō hoʻi i kekahi meaʻai, a hele lākou me kekahi koʻa aku i kekahi koʻa.
+12:04 LK	ʻĒ.
+12:04 IP	Puni nā koʻa.
+12:06 LK	Inā ʻoe makemake paha ka,
+12:09 IP	Inā ʻoe makema^^,
+12:09 LK	kekahi iʻa, he moi paha kāua e makemake ai a hele ʻoe i, ma kēia koʻa e kiʻi ai.
+12:14 IP	ʻAe.
+12:15 LK	Inā, mea, e, inā he iʻa ʻokoʻa nō paha kāu i makemake ai, a hele i kahi ʻē aʻe e kiʻi ai.
+12:20 IP	Pololei.
+12:21 LK	Maopopo nō iā lākou ke,
+12:22 IP	Maopopo nō.
+12:23 LK	kahi o nā koʻa.
+12:24 IP	{Aha.}  Pēia nō hoʻi me ke kiʻi ʻana i ka mea, i ka ʻahi.
+12:28 LK	ʻĒ.
+12:29 IP	Ua aʻo ʻia nō lākou, ke,
+12:31 LK	{Mū.}
+12:31 IP	ka lōkihi o ka, a, nā hana ʻana i ka ʻaho^(aho).  Hiki ke kāʻili i ka mea, i ke ʻahi.
+12:37 LK	{Mū,} ka ʻahi.
+12:38 IP	{Mū.} 
+12:38 LK	A he aha ka, ka ʻai i hānai ʻia ai i nā koʻa?
+12:44 IP	Ka palu.  ^^^
+12:45 LK	Ka palu nō.
+12:46 IP	ʻAe, me ka limu, me ka limu.
+12:47 LK	ʻĒ, ʻō, me ka limu.
+12:49 IP	A momona ka iʻa.
+12:51 LK	ʻĒ.
+12:51 IP	ʻAʻole nele ka poʻe, no ka mea, nā pule a pau a hele ana lākou e kiʻi i ka aʻi^^, ka iʻa.
+12:56 LK	ʻĒ.
+12:57 IP	ʻAʻole lākou e kiʻi aku {mū,} ʻoi aku ma mua o, o ka {mū,} o, o ka mea i makemake ʻia no ka ʻohana.
+13:06 LK	{Mū, mū, mū.}
+13:07 IP	ʻAʻole lākou i ʻuhaʻuha.
+13:09 LK	ʻAe.
+13:09 IP	Ke kiʻi ʻana, i nā meaʻai.
+13:10 LK	ʻAʻole ʻuhaʻuha.
+13:11 IP	ʻAʻole.
+13:12 LK	ʻAe.
+13:13 IP	Nui ka naʻauao.
+13:15 LK	ʻAe, nui.
+13:15 IP	Nui ka holomua, nui ke kōkua ʻana kekahi i kekahi.
+13:18 LK	ʻAe.
+13:19 IP	Naʻauao kēia poʻe ma ke kanu ʻana i ka ʻuala.
+13:22 LK	ʻAe.
+13:22 IP	Me ka, me ke kalo.
+13:25 LK	Ke kalo.
+13:25 IP	Kalo maloʻo.
+13:26 LK	Kalo maloʻo.
+13:26 IP	O ka ʻāina maloʻo.
+13:27 LK	Pehea ka lōʻihi o kou noho ʻana i Hilo?
+13:31 IP	ʻEkolu makahiki.
+13:32 LK	ʻEkolu makahiki.
+13:34 IP	{Uhu.}
+13:34 LK	Ka piha ʻana ia nō o kou mau makahiki ʻewalu.
+13:38 IP	ʻEwalu.  A hoʻi hou mai.
+13:40 LK	A hoʻi hou mai i neʻi nei.
+13:41 IP	Koʻu wā i noho ai i laila, ʻaʻole wau i hele i ke kula, no ka mea, lōkihi ke kula mai ka home mai.
+13:47 LK	ʻĒ.
+13:47 IP	A ko mākou walaʻau ʻana, he Hawaiʻi wale nō.
+13:50 LK	ʻAe.
+13:50 IP	Ka hoʻi hou ʻana mai i Oʻahu nei, a aʻo ʻia mākou e namu haole wale nō, ʻaʻole hiki ke ʻōlelo Hawaiʻi.
+13:58 LK	Aloha ʻino.  ^^^  A me wai ʻoe i noho ai i Hilo?
+14:05 IP	Me.
+14:05 LK	Me nā kūpuna paha?
+14:06 IP	Me nā ʻohana o kuʻu ma^^, makua kāne.
+14:09 LK	ʻŌ.
+14:09 IP	ʻO ia nō hoʻi ʻo John Kaleimanuia.
+14:12 LK	ʻAe, ʻae.
+14:13 IP	Nāna i hoʻokele i kēlā waʻapā e lawe ai i ka, nā scow me nā kō i waho i ka moku nui.
+14:20 LK	ʻĒ, ʻē.  Kēlā mau lā, ʻaʻohe uapo o Hilo?
+14:25 IP	ʻAʻole, ʻaʻole uapo.
+14:27 LK	ʻĒ.  Kū nō ka moku ma waho.
+14:29 IP	Ma waho, a.
+14:29 LK	A na nā poʻe waʻapā e lawe,
+14:31 IP	e hele ai e loaʻa, lawe i nā,
+14:32 LK	i ka ukana.
+14:32 IP	poʻe i loko.  {Aha.}
+14:34 LK	ʻŌ.
+14:35 IP	Ma hope mai, koʻu hele ʻana i ka makahiki ʻumikūmāiwa kanakolukūmākahi, a ʻike aku wau i ka uapo.
+14:43 LK	ʻĒ.  I ka makahiki hea ʻoe i hānau ʻia ai?
+14:47 IP	Makahiki ʻumikūmāiwa haneli, ʻAukake, lā iwakāluakūmākolu.
+14:55 LK	ʻAe.  ʻAe.
+14:57 IP	Kokoke piha nā makahiki kanahikukūmākolu.
+14:59 LK	{Mū.}  ^^^  Aloha nō ia mau lā, ʻeā.
+15:02 IP	Aloha nō.
+15:03 LK	ʻAe.
+15:05 IP	No kēlā mau lā, koʻu hana, he mea nui kēlā.
+15:08 LK	Pololei.
+15:09 IP	Nā kūpuna, nā, nā keiki me nā moʻopuna me nā kuakahi.
+15:14 LK	ʻAe.
+15:14 IP	ʻO ka haipule, he mau, mea nui kēlā.
+15:17 LK	He mea nui.  He noho like nō,
+15:20 IP	Ke kau lāʻau lā??
+15:20 LK	hoʻolaulima.
+15:22 IP	Laulima.
+15:22 LK	ʻAe.
+15:23 IP	Ka hoʻoponopono ʻana ma mua o ka hele ʻana i ke kauka.
+15:28 LK	Ka hoʻoponopono ʻana.
+15:28 IP	No^^.  ʻAe.  ʻO ia ka māhele, kāhea ka poʻe haole, a therapy.
+15:33 LK	ʻAe.
+15:34 IP	ʻO ia ka hana.  ʻAʻole kēlā he hana kahuna.  ʻO ia ka noho ʻana, hoʻomaopopo ʻana i nā ʻōlelo a kākou kēlā mau manaʻo kūpono ʻole, a,
+15:44 LK	ʻAe.
+15:44 IP	hoʻokiʻekiʻe,
+15:46 LK	Ma ke.
+15:46 IP	pākīkē.
+15:47 LK	ʻĒ.
+15:47 IP	{Amū,} noho a haipule, kala i kekahi i kekahi.
+15:52 LK	Kūkā like.
+15:53 IP	A kūkā like.  A inā holo ma nā māhele a pau, hoʻokē ʻai a hele ʻoe i ke kauka.  Lanakila ka hele ʻana.
+16:00 LK	ʻĒ, pololei.
+16:01 IP	Hiki ke ola.  Pololei.
+16:02 LK	He pono nō kēlā ʻano hana.
+16:04 IP	ʻAe.
+16:05 LK	I kēia manawa, e mau ana nō paha kēia hana i, i waena o kekahi poʻe ʻohana?
+16:11 IP	Ua mau nō iā kākou a pau loa.
+16:14 LK	ʻĒ.
+16:14 IP	Ua ʻike nō wau, ulu ana kēia ʻuhane i^^, iā ʻoukou.
+16:17 LK	ʻĒ.
+16:18 IP	Eia nō naʻe, ʻaʻole piha ka manaʻoʻiʻo. ^^^
+16:22 LK	^^^  ʻĒ.
+16:23 IP	ʻAʻole piha ka manaʻoʻiʻo i loko o nā poʻe ʻōpio.  Kānalua lākou, no ka mea, ua hoʻonaʻauao ʻia kākou ma ka māhele o ka haole.
+16:31 LK	ʻAe.
+16:32 IP	Ma nā māhele a pau, makemake lākou e ʻike i kēlā, ka hōʻoiaʻiʻo ʻana.
+16:36 LK	ʻAe, ʻae.
+16:38 IP	ʻO ka poʻe Hawaiʻi,
+16:39 LK	Ma mua,
+16:39 IP	me ka manaʻoʻiʻo ʻana.
+16:40 LK	ʻĒ, ʻē.  Ma ke manaʻoʻiʻo, ʻo ia.
+16:42 IP	ʻAe.  Manaʻoʻiʻo nō i ke Akua.
+16:42 LK	Hilinaʻi nō i ke Akua.
+16:43 IP	Hilinaʻi ke Akua.  Nāna nō e pane mai.
+16:47 LK	ʻAe.  ʻO ia nō ka mea nui paha ʻo kēia manaʻoʻiʻo,
+16:51 IP	ʻĒ.
+16:51 LK	ʻo ka hilinaʻi.
+16:52 IP	Ka hilinaʻi.
+16:52 LK	Me ka manaʻoʻiʻo i ke Akua.
+16:54 IP	ʻO ia ka hana pono,
+16:55 LK	ʻAe.
+16:55 IP	me ka mihi ʻana,
+16:57 LK	{Mū.}
+16:57 IP	me ke kala ʻana.
+16:58 LK	ʻAe.
+16:59 IP	Nui ka nani o kēia mau māhele.
+17:01 LK	Pololoi.  He minamina nō iā kākou, nā, nā ʻōpio i, i maʻa ʻole i ia ʻano hana.
+17:09 IP	No, ke ʻike nei au iā ʻoukou, poʻe ʻōpiopio o, o ke Kulanui ʻo University of Hawaiʻi, ka naʻauao i loaʻa mai iā ʻoukou.
+17:17 LK	^^^
+17:18 IP	Nui ka māhele o ka naʻauao, nā kumu, nā haumāna,
+17:22 LK	{Mū.}
+17:22 IP	ka hīmeni ʻana, ka walaʻau ʻana,
+17:23 LK	ʻAe.
+17:24 IP	a me ke aloha.  Nui ka mahalo i kēia.
+17:25 LK	Ke hoʻāʻo nei nō mākou e, e huli i ka naʻauao ma ia mau māhele o nā kūpuna.  No ka mea, he e^^, he nani nō ka ʻike a nā kūpuna e haʻi mai iā mākou.
+17:34 IP	N^^, nui ko lākou naʻauao.
+17:36 LK	Nui.
+17:37 IP	ʻAʻole kākou i hoʻomaopopo i ka naʻauao o nā poʻe, a, Hawaiʻi, ko kākou mau kūpuna.  Me nā kūpuna o nā poʻe Polynesian, no ka mea,
+17:46 LK	ʻAe.
+17:46 IP	ʻo lākou nō ko kākou pili.
+17:50 LK	Pololei.  Pololei.
+17:52 IP	ʻAe.
+17:52 LK	A eia naʻe nō ka naʻauao o ka poʻe o ka wā ma mua, ʻaʻole nō i loko o nā puke, ʻaʻohe nō i kākau ʻia ma ka palapala.  Aia nō,
+18:01 IP	Kekahi wale nō.
+18:01 LK	aia nō.  ʻĒ.  Aia nō i ka naʻau.
+18:04 IP	Aia nō i ka naʻau, a nui ka kūkā^^.
+18:06 LK	Ma mua o ka hiki ʻana mai o ka poʻe mikionali, ʻaʻohe ʻike ʻia ke kākau ʻana.
+18:10 IP	Eia nō naʻe, i ka naʻauao o ka mea, o ka, ka poʻo.
+18:14 LK	ʻAe.
+18:14 IP	Hoʻomaopopo ʻana, ua loaʻa nō i ka, ko kākou mau kūpuna.
+18:15 LK	ʻĒ.  //Ka puke a Kā\\ kēlā.  ^^^
+18:19 IP	ʻO ia ka loaʻa ʻana mai ko mākou moʻokūʻauhau mai ka naʻauao o nā kūpuna.
+18:24 LK	ʻAe.  Pololei.  He nui.
+18:29 IP	He.
+18:29 LK	ʻĒ.  He nui nō nā māhele, a, o ka wā kahiko, ke ʻano nalowale aku nei i kēia mau lā.
+18:37 IP	ʻAe, ua nalowale nā māhele he nui.
+18:38 LK	E.  ʻĒ.
+18:39 IP	Eia nō naʻe, ke hoʻoulu nei ʻoukou i kēia mau māhele.  Nui koʻu mahalo, koʻu ʻike ʻana iā ʻoukou e hana ana.
+18:47 LK	ʻĒ.
+18:47 IP	Ka hele ʻana i kēia university i kēlā lā aku nei, ʻike au i ka nani o nā hana Hawaiʻi.
+18:52 LK	^^^
+18:54 IP	A ke nānā nei iā u^^, iā ʻoukou i loko o kēia keʻena,
+18:58 LK	{Mū.}
+18:58 IP	nui kā ʻoukou,
+18:59 LK	^^^
+19:00 IP	nani a naʻauao.
+19:01 LK	{Mū.}
+19:02 IP	Hoʻomau ʻoukou i loko o kēia mau hana maikaʻi loa.
+19:04 LK	ʻAe.  No ka mea, i kēia manawa, i ka poʻe ʻōpiopio, ke ʻike nei nō lākou i ka ʻōlelo i hoʻopuka ʻia ai ma kēia mele kaulana o kekahi aliʻi wahine, kēia wahine ʻo Kapiʻolani.  Ua haku ʻia kēia mele me kēia paukū, //E nihi e ka hele, mai hoʻopā, mai pūlale i ka ʻike a ka maka\\.  
+	I kona hele ʻana i ka ʻāina haole a haku ʻia kēia mele nona.
+19:33 IP	No kāna kāne nō.
+19:34 LK	ʻAe.
+19:35 IP	No ke aloha nō, no ka ʻike nō, e, he nui nā,
+19:39 LK	Nui nā mea,
+19:39 IP	māhele o nā,
+19:41 LK	^^^
+19:41 IP	hoʻowalewale.  ^^^
+19:42 LK	ʻAe.  ^^^  Pololei.
+19:43 IP	Ua naʻauao.  Ua naʻauao ke kāne.
+19:46 LK	{Mū.}  Ma mua o nā mea pili ana i ka Hawaiʻi i koʻu hoʻomaopopo ʻana i nā kūpuna.  He mea hoʻohilahila ia ka nui o kēia mau mea i mua o ke alo o nā poʻe haole.  Akā, i loko nō o ko lākou noho ʻana, he mea waiwai palena ʻole kēia mau mea.
+20:06 IP	ʻAe, maha^^.
+20:06 LK	Koe kēia, ʻaʻole nō hiki ke hōʻike wale i nā poʻe ʻē,
+20:11 IP	ʻAʻole hiki.
+20:11 LK	no ka mea, hoʻokae ʻia nō paha, a.
+20:15 IP	Hoʻokae me ka maopopo ʻole, ʻo ia ke kumu hoʻokae.
+20:17 LK	ʻAe.  ʻAe.
+20:18 IP	Inā, but, kēia manawa, hiki iaʻu ke ʻike, ke ʻike nā, nā, ke ʻike mai lākou ka nani o nā māhele o ka naʻauao o nā poʻe Hawaiʻi.  Pēia nō hoʻi koʻu wā ʻōpiopio, ʻōlelo wau i koʻu mau kūpuna e walaʻau ana i nā meakanu.
+20:33 LK	ʻAe.
+20:34 IP	E ʻōlelo ana i ke Akua, ka pōmaikaʻi i kēia loaʻa.
+20:37 LK	ʻĒ.
+20:38 IP	A hoʻoulu i kēia maʻia, kēia m^^, kēia m^^, {amū,} kēia maiʻa,
+20:44 LK	ʻAe.
+20:44 IP	i ulu a loaʻa mai ka maiʻa.
+20:47 LK	Nunui ka ʻēkā.
+20:47 IP	Nunui ka ʻe^^, ka ʻēkā o ka maiʻa,
+20:50 LK	ʻĒ.
+20:50 IP	kaumaha loa, ʻaʻole hiki ke hāpai.  ^^^
+20:52 LK	ʻAe, nui ka ʻāhui maiʻa.
+20:53 IP	Nui ka m^^, ʻāhui.
+20:54 LK	Hū.
+20:55 IP	Nui kēlā manamana.
+20:56 LK	{Mū.}
+20:57 IP	Nui ka nani,
+20:58 LK	Pololei.
+20:58 IP	o ka manaʻoʻiʻo.
+21:00 LK	He i^^.
+21:00 IP	ʻO ia ka maikaʻi.
+21:01 LK	ʻĒ.
+21:01 IP	N^^.  A kēia manawa,
+21:02 LK	Na^^, ʻē.
+21:04 IP	lohe wau iā Dr. Clay__??, ka poʻe e kāhea ana iā ia.
+21:06 LK	ʻAe.
+21:07 IP	ʻAe.  U^^, walaʻau wau i kaʻu mau meakanu,
+21:10 LK	ʻAe.
+21:10 IP	a hoʻolohe nō wau i ka mea, meakanu, u^^, ulu me ka maikaʻi.
+21:14 LK	ʻAe.
+21:15 IP	A mea hou.
+21:15 LK	He kuleana nō ka poʻe Hawaiʻi ma mua i kēia hana o ka mahi ʻai, no ka mea, ʻo ia nō ko lākou ola ʻana.
+21:21 IP	ʻAe, pololoi nō.
+21:21 LK	Mahi ʻai, ka lawaiʻa.
+21:24 IP	ʻAe, pololoi nō.
+21:24 LK	Me nā māhele ʻē aʻe.
+21:27 IP	Nui.
+21:27 LK	Nui nō ka naʻauao ma ia māhele.
+21:28 IP	Nui, nui nā naʻauao like ʻole.  ʻAʻole hiki iā kākou ke,
+21:32 LK	ʻĒ.
+21:32 IP	ke like aku.
+21:34 LK	ʻO ka mahi ʻai i ka wā kahiko, {mū,} he nānā ʻia nā, nā ʻōuli o ke ao me ke ʻano o ka mahina, ke ʻano o ka pō, a ke ʻano nō hoʻi o ka manawa.
+21:45 IP	Pēia nō hoʻi me ke kai.
+21:46 LK	A me ke kai, ʻē.  ʻAe.
+21:58 IP	Kaʻu kāne no Kauaʻi, kaʻu kāne ʻelua, no Kauaʻi ʻo ia.  Kēlā ʻohana, poʻe lawaiʻa.  Ko mākou hele ʻana i, i Kahana, i ka lawaiʻa, nānā aku nei wau, maikaʻi ka lā, eia nō naʻe, ʻaʻole lākou ma^^, e hoʻomākaukau e hele ai i ka lawaiʻa.  ʻAʻole wau i nīnau hoʻokahi, a, no, a, kekahi mau nīnau iā ia.  A pau ka hana, hoʻi mākou, nīnau aku nei au iā ia, "Pehea i hele ʻole ʻoukou i ka lawaiʻa, no ka mea, maikaʻi ka lā,
+22:20 LK	ʻAe.
+22:21 IP	a mālie ke kai."  Mea mai nei iaʻu, "ʻIke mai ʻoe i ke kilo?"  "ʻAe, u^^, ʻae, ua ʻike wau." ___  "Nānā aku nei ʻoe i ka moana?"  ʻŌlelo, "ʻAe, a, ʻeono, ʻehiku ma lalo o ka moana, ke kai, he milo ka ʻano."
+22:40 LK	ʻĒ.
+22:40 IP	"ʻAʻole hiki ke hele i ka lawaiʻa, ma hope, milo ʻia kākou."
+22:45 LK	{Mū.}
+22:45 IP	ʻĒ, nui ka naʻauao.
+22:46 LK	Nui.  ʻO kēia, ʻae.  I kēia manawa, e hoʻolaha ana kēia kahua i wahi hoʻolaha, a, a laila, hoʻi hou nō kāua.
+22:56 IP	ʻAe, pololoi, hiki nō.
+23:06 IN	## Aloha e Hawaiʻi. ʻO neia ka hola ahiahi hapalua hola ʻewalu, eight thirty p.m..
+23:21	# The sound of aloha in Honolulu, Radio 1420 KCCN.
+23:34	# You are listening to Ka Leo Hawaiʻi produced by students of the University of Hawaiʻi's Hui Aloha ʻĀina Tuahine.  This program is brought to you as a public service of The Gas Company and the gas appliance dealers in Hawaiʻi.  And now, back to Ka Leo Hawaiʻi.
+23:53 LK	ʻAe, aloha ahiahi nō kākou.  Eia nō mākou, ka papahana kēia ʻo Ka Leo Hawaiʻi, a ʻo ko kākou hoa kipa o kēia ahiahi, ʻo Mrs. Irene Peters.  A i kēia manawa, e hoʻolaha ana au i nā helu kelepona o kēia wahi i hiki iā ʻoukou ke kelepona mai.  Eia nā helu.  Ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.  Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.  Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.  Helu ʻel^^ ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻehā ʻehā.  A me ka helu ʻeiwa ʻelua ʻekolu, ʻekahi ʻewalu ʻelima ʻelima.  ʻAe.  A i kou neʻe ʻana mai i Hawaiʻi nei, a hoʻomaka ʻoe e hele i ke kula ma Oʻahu nei?
+24:49 IP	Ua hoʻi mai, hoʻomau i ke kula.
+24:51 LK	ʻĒ.
+24:51 IP	Hele wau i Keʻelikōlani, ʻo, ʻo ia ke kula a kākou i maopopo ai i kēia manawa, ʻo Central Grammar.
+25:00 LK	ʻAe.
+25:00 IP	A koʻu wā i hele ai, ʻo Keʻelikōlani, ka inoa.
+25:02 LK	Keʻeliko^^, ma muli o kai^^, o kēia aliʻi ʻo Keʻelikō^^, Keʻelikōlani.
+25:05 IP	ʻAe, ʻo Ruth Keʻelikōlani.
+25:07 LK	ʻAe.
+24:08 IP	A, like kēlā kula me he, he, he hale,
+25:11 LK	Hale.
+25:12 IP	like pū me ka, me ka palace a kākou e nānā, nānā ai.
+25:16 LK	ʻĒ.
+25:17 IP	N^^, uʻi.
+25:18 LK	Uʻi.
+25:19 IP	Eia naʻe, minamina, no ka mea, ua.
+25:23 LK	Ua ʻano hele a kahiko nō kēia manawa, ē?
+25:26 IP	ʻAʻole kahiko.  Ua kulaʻi ʻia ʻo kēlā, kēlā home o Ruth Keʻelikōlani, a.
+25:32 LK	ʻO ka home ia?
+25:33 IP	ʻO ka home.
+25:34 LK	ʻO ka home ia o Keʻelikōlani.
+25:35 IP	O, o, ʻae.  O Keʻelikōlani.
+25:37 LK	ʻŌ.
+25:39 IP	Home nani.  Pā nui.  ʻAʻohe alanui kukui i kēlā manawa.
+25:45 LK	Aia kēia kula ma lalo o nā poʻe hea?  Nā poʻe o ka !!
+25:48 IP	Ma lalo o ka poʻe o l^^, o ka Department of Education o Hawaiʻi nei.
+25:54 LK	ʻO ia.
+25:54 IP	ʻAe.
+25:56 LK	{A.}
+25:56 IP	ʻO ia ʻo Central Grammar i kēia manawa.
+25:58 LK	A hiki nō nā poʻe kamaliʻi like ʻole ke hele i kēia kula?
+26:01 IP	ʻAe.  Ma mua, kēia kula, a, kāhea ʻia ke kula no ka poʻe haole, ka poʻe ma ka, hiki ke ʻōlelo haole wale nō, ʻōlelo haole maikaʻi.
+26:11 LK	{Mū.}
+26:11 IP	A hele i kēlā, u^^ kula.  A nā kula ʻē aʻe, a ʻano haʻahaʻa ko lākou, ko^^ kūlana.  ^^^
+26:16 LK	ʻĒ.  ^^^  Pehea ʻoe i aʻo ai i ka ʻōlelo haole?
+26:22 IP	ʻO ke hele ʻana i ka, i ke kula Central Grammar,
+26:26 LK	ʻAe.
+26:26 IP	a me ka namu ʻana i ka, i ka home.
+26:28 LK	ʻAe.
+26:29 IP	A na koʻu makua kāne nō i ho^^, hoʻomau i ka aʻo ʻana iaʻu i ka ʻōlelo Hawaiʻi.
+26:34 LK	ʻAe.
+26:35 IP	Me koʻu mau kūpuna.
+26:36 LK	{Mū, mū.}
+26:37 IP	No ka mea, ē, mau kūpuna, poʻe ʻoli^(oli) lākou mai, mai Kona mai.  A koʻu mau kūpuna mai, mai Maui mai, ʻaʻole wau i lohe iā lākou e ʻoli^(oli) ana, akā inā hiki mai ka manawa o ka make ʻana o kekahi o koʻu ʻohana,
+26:52 LK	ʻĒ.
+26:52 IP	kaukau lākou.  ʻO ia kā lākou hana.
+26:55 LK	ʻAe.
+26:56 IP	A ka loaʻa ʻana ka moʻokūʻauhau mai ka ʻohana o Maui, a haʻi lākou i ka moʻokūʻauhau.
+27:03 LK	{Uhu.}
+27:04 IP	ʻO Kona, ʻoli^(oli) lākou.
+27:07 LK	Oli.  He oli koʻihonua^^(koihonua)?
+27:10 IP	ʻO ia, pololei.
+27:11 LK	Pili ana i ka moʻokūʻauhau.
+27:13 IP	ʻAe.
+27:14 LK	ʻAe, akamai nō ka poʻe Ha^^,
+27:15 IP	ʻAe, maikaʻi.
+27:16 LK	Hawaiʻi mai.  ʻĒ.  E kala mai.
+27:18 IP	ʻAe.
+27:20 LK	Aloha nō kāua.
+27:21 mk:AK3	Aloha.
+27:22 LK	Aloha a, e Puna.  Pehea ʻoe?
+27:23 mk:AK3	Auē nō hoʻi ē.
+27:25 LK	^^^
+27:25 mk:AK3	Auē, ʻoe e Kauanoe.
+27:27 LK	Aloha nō kāua.  ^^^
+27:28 mk:AK3	Aloha Kauanoe.
+27:30 LK	ʻAe.
+27:30 mk:AK3	Nui koʻu aloha iā ʻoe.
+27:32 LK	{Mū.}
+27:32 mk:AK3	Kou hele[!] ʻana i kēlā ʻāina ʻo Maui.
+27:35 LK	ʻAe, i laila nō wau i kou ʻāina.
+27:38 mk:AK3	ʻAe.
+27:38 LK	Ua ʻike maka au i kou ʻāina noho ʻo Honoman^^, Honomanū.
+27:42 mk:AK3	{A.}
+27:43 LK	A ua nīnau aku wau i ka poʻe kamaʻāina o kēlā wahi e kuhikuhi mai iaʻu kēia wai āu i ʻōlelo mai ai.
+27:50 mk:AK3	A.
+27:51 LK	Ka wai a, o, ka wai o Kanaloa.
+27:53 mk:AK3	ʻAe, ka wai a Kanaloa.
+27:54 LK	ʻA^^, ʻae.  A hōʻike m^^,
+27:55 mk:AK3	ʻAʻole paha ʻoe i hiki i laila.
+27:58 LK	A ʻike, mea, kuhikuhi wale mai nō ka poʻe, a aia ma kēia ʻaoʻao o ke alanui, ma kai aku o ke alanui.
+28:04 mk:AK3	ʻAe.
+28:04 LK	He wai puna kēlā.
+28:06 mk:AK3	ʻAe.
+28:06 LK	ʻAe.  ʻIke.
+28:08 mk:AK3	{A.}
+28:08 LK	A hōʻike mai nō kēia wahi ʻo Wahinepeʻe.
+28:11 mk:AK3	ʻAe, Wahinepeʻe.
+28:12 LK	ʻĒ.
+28:12 mk:AK3	Hōʻea ʻoe i Wahinepeʻe a loaʻa mai ʻo Kaumahina.
+28:16 LK	ʻO Kaumahina.
+28:17 mk:AK3	Kaumahina.
+28:18 LK	ʻŌ.
+28:19 mk:AK3	Aia i laila kahi hoʻomaha o poʻe ke hele.
+28:22 LK	ʻĒ.
+28:23 mk:AK3	A mamake ʻoe e, e hele hoʻopaupilikia,
+28:26 LK	ʻĒ.
+28:26 mk:AK3	mamake ʻoe e inu wai, hoʻomaha,
+28:28 LK	ʻĒ.
+28:28 mk:AK3	a aia ma laila.
+28:29 LK	{Mū.}
+28:30 mk:AK3	ʻAe, kou hoʻomaka ʻana haʻalele i kēlā wahi, a hoʻomaka aku ʻoe e hele[!] i nā pali a ʻo ia ka hele ʻana a hōʻea i Honomanū.
+28:37 LK	ʻĒ, ʻē, ʻē.
+28:38 mk:AK3	Hoʻomaka[!] ʻana mai āu e haʻalele akula ʻoe i nā, nā Hāmākua,
+28:43 LK	ʻĒ, ʻē.
+28:43 mk:AK3	a hoʻomaka ʻoe e hele.  Loaʻa maila kēia poʻe kahawai nunui.
+28:47 LK	ʻĒ.
+28:48 mk:AK3	ʻO ia ʻo Waikamoi.
+28:50 LK	ʻAe.
+28:50 mk:AK3	!! ʻoe?
+28:51 LK	ʻĒ. ʻē.  A.
+28:52 mk:AK3	A Pohōkamoa^(Puohokamoa).
+28:54 LK	ʻŌ, ʻō.
+28:55 mk:AK3	Kēlā poʻe kahawai, ʻekolu kahawai.
+28:56 LK	ʻĒ, ʻē.
+28:57 mk:AK3	Mau kahawai makaʻu loa ʻia kēlā.
+28:59 LK	ʻAe.
+29:00 mk:AK3	ʻO ia nā kahawai aʻu i ʻōlelo aku ai, ʻaʻole poʻe lanakila ke hele ma kēlā wahi.  !!
+29:04 LK	ʻAe.  Ua ʻohuʻohu nō kou ʻāina i ka pua kiele i ka manawa aʻu i hele ai.
+29:08 mk:AK3	He aha?
+29:09 LK	ʻOhuʻohu kou ʻāina i ka pua kiele,
+29:12 mk:AK3	ʻAe.
+29:12 LK	i ka manawa aʻu i hele ai.
+29:13 mk:AK3	ʻAe, pololei.
+29:14 LK	ʻAe.  Pua ka pua kiele.
+29:16 mk:AK3	ʻAʻole naʻe, ʻo ia ka pua ma mua.
+29:18 LK	ʻAe, ʻae.
+29:18 mk:AK3	Ma mua, i ke au ma mua, hoʻomaka ʻoe e komo i kēlā mau kua^^, kuahiwi, kēlā mau pali,
+29:23 LK	ʻĒ.
+29:24 mk:AK3	he maile kā^^, kāu lei e lei ai.
+29:26 LK	ʻĒ.
+29:27 mk:AK3	Ka maile, a pēia me kēia pala.
+29:31 LK	ʻŌ, ʻō.
+29:32 mk:AK3	A me ka, me ka pua {mū,} kā, a n^^, ʻo ia nā, nā lei o ia wahi.
+29:39 LK	ʻĒ, ʻē.
+29:39 mk:AK3	!!
+29:40 LK	ʻAe.
+29:41 mk:AK3	Hele nō ʻoe ma luna a loaʻa ka lei, a,
+29:43 LK	ʻAe.
+29:43 mk:AK3	huki ʻoe i ka maile.
+29:44 LK	ʻŌ, wehiwehi, 
+29:45 mk:AK3	A hele nō a huki nō i ka maile.
+29:47 LK	ʻĒ.
+29:47 mk:AK3	A lei, a kau ta ʻāʻī.  A lei ihola ka lima.
+29:49 LK	Wehiwehi nō ka ʻāina, ʻē, wehiwehi kou ʻāina i, i nā ʻano meakanu like ʻole.
+29:53 mk:AK3	ʻO ia nō ke ʻano meakanu like ʻole o kēlā ʻāina.
+29:55 LK	ʻAe.
+29:56 mk:AK3	A hōʻea i kēlā wahi a, ʻo Honomanū.
+29:58 LK	ʻA^^, ʻae.  Hi^^.
+29:59 mk:AK3	Lohe wau ua hele ʻoe a hiki i Keʻanae.
+30:01 LK	Ua he^^, hiki hele a i Waia^^, Wailua.
+30:03 mk:AK3	Hele ʻoukou !!  Ha?
+30:05 LK	Wailua.
+30:06 mk:AK3	ʻAe, hele ʻoe a hiki i Wailua.
+30:07 LK	ʻAe, i laila wale nō, a pau, a hoʻi mai.
+30:09 mk:AK3	Pau maila kāu hele ʻana.
+30:11 LK	ʻĒ.  ^^^
+30:11 mk:AK3	{A.}  Ua hala maila kēia wai o, mea, o, a Kanaloa, ua hala maila ma hope ou.
+30:18 LK	ʻAe, pololei.
+30:19 mk:AK3	ʻAe.
+30:20 LK	ʻAe.
+30:20 mk:AK3	A ʻo ʻŌhiʻa ka inoa o kēlā wahi.
+30:23 LK	{Mū, mū,} ʻŌhiʻa.
+30:23 mk:AK3	!! he wahi liʻiliʻi wale nō kēlā.
+30:26 LK	ʻAe, ʻae.
+30:26 mk:AK3	!!
+30:27 LK	ʻAe.
+30:27 mk:AK3	A loaʻa ihola kēia Wai a Kanaloa i pau ai.
+30:30 LK	ʻĒ, ʻē.
+30:30 mk:AK3	A ʻo kēlā wai, he kahawai maoli kēlā mai, mai kēlā alanui aku, holo kēia kahawai a puka i kahakai.
+30:36 LK	ʻAe, ʻae.
+30:38 mk:AK3	A.
+30:38 LK	Minamina i kou hele pū ʻana mai me māua i ka hele ʻana i kou ʻāina.
+30:42 mk:AK3	Auē.
+30:43 LK	^^^
+30:43 mk:AK3	Aloha aʻela i koʻu lohe ʻana iā ʻoe.
+30:45 LK	Malihini nō kēia i ka hele ʻana.
+30:47 mk:AK3	ʻAe.
+30:47 LK	^^^  But.
+30:48 mk:AK3	Koʻu lohe ʻana iā ʻoe, ua hele ʻoe i laila.
+30:50 LK	ʻAe.
+30:50 mk:AK3	Hele ʻoe i Keʻanae.
+30:51 LK	ʻAe.
+30:51 mk:AK3	Auē nō hoʻi.
+30:53 LK	^^^
+30:53 mk:AK3	Aloha aʻela wau iā ʻoe kou hele ʻana,
+30:55 LK	Aloha nō kou ʻāina.
+30:55 mk:AK3	ʻaʻole loaʻa ke kamaʻāina i hele[!] ai. 
+30:58 LK	ʻĒ, pololei.
+30:59 mk:AK3	Lohe aku wau i kēia hoahānau oʻu.  Noho ʻo ia i loko o, aia i mea, aia i Kula.
+31:04 LK	ʻŌ.
+31:05 mk:AK3	ʻAe, ʻohana kēlā noʻu.
+31:05 LK	ʻĒ, na, i kelepona mai nei ʻo ia i kēlā pule aku nei?
+31:08 mk:AK3	ʻAe.
+31:08 LK	I kēia kanaka.
+31:09 mk:AK3	Lohe aku wau iā ia kāhea mai iā ʻoe e walaʻau ana iā ʻoe.
+31:11 LK	ʻAe.
+31:12 mk:AK3	ʻAe, pololei.  ʻO lākou, he poʻe kamaʻāina lākou.
+31:15 LK	ʻAe.
+31:15 mk:AK3	No Kīpahulu.
+31:16 LK	ʻAe, ʻae.
+31:17 mk:AK3	ʻAe.  Aia i neʻi nei kona kaikuaʻana.
+31:19 LK	ʻAe, ʻae.
+31:21 mk:AK3	A.
+31:21 LK	A. 
+31:22 mk:AK3	Aloha ala.
+31:23 LK	ʻAe.
+31:23 mk:AK3	Noʻonoʻo ihola ua hele paha ʻoe a hiki i, i //Keʻanae ka wai kau\\.  !!
+31:28 LK	ʻAe, ʻo ia ka ʻōlelo kaulana o kēlā wahi.
+31:30 mk:AK3	ʻAe.
+31:30 LK 	ʻŌle^^.  Ua lohe au ke, e, ka poʻe i ka hoʻopuka ʻana i kēia ʻōlelo //Ka wai kau o Keʻanae\\.
+31:35 mk:AK3	ʻAe.  ʻO ia kahi kaulana o kēlā wahi.
+31:37 LK	ʻĒ.
+31:38 mk:AK3	//Ka wai kau o Keʻanae\\.
+31:39 LK	No kēia, kēia, ua, a, mea, ho, he aha lā hoʻi, kēlā.
+31:45 mk:AK3	ʻAuwai kēlā.
+31:46 LK	ʻAuwai i hana ʻia me ka papa, ē?
+31:48 mk:AK3	A ʻo ia.
+31:49 LK	A.
+31:49 mk:AK3	Kau aʻela kēia mea, kau i luna.
+31:50 LK	ʻAe, kau i nuna.
+31:52 mk:AK3	A ʻo ia ka mea i kapa ʻia ai ʻo ia ka, ʻo ia ʻauwai i hana ʻia ai a kau i luna,
+31:56 LK	ʻAe.
+31:57 mk:AK3	a holo[!] ko lākou wai ma luna o laila, a ʻo ia ka wai nāna hoʻolawe i kēlā poʻe kūlanakau^^,
+32:02 LK	ʻŌ.
+32:01 mk:AK3	kēlā kūlanakauhale o kai.
+32:03 LK	Pili nō kēia ʻōlelo i kēlā ʻauwai papa.
+32:05 mk:AK3	ʻAe.
+32:06 LK	ʻO ia kā.
+32:06 mk:AK3	Pili i kēlā ʻōlelo, a no ka mea, ʻo ia ka wai nāna i hoʻolawe i ka poʻe a pau !!
+32:11 LK	ʻAe.
+32:12 mk:AK3	Ma kēlā wahi a pau, a ʻo ia ka wai.
+32:14 LK	ʻĒ.  Piha, piha i ka ʻāina o Hawaiʻi nei i nā pana,
+32:17 mk:AK3	ʻAe.
+32:17 LK	me nā mea kaulana.  ^^^
+32:19 mk:AK3	A ʻo kēlā, ʻo kēlā hale noho ala, noʻonoʻo ihola au a ua hele paha ʻoe i kēlā hale ma laila pili ala i kēlā wai.
+32:26 LK	ʻAʻohe oʻu.
+32:27 mk:AK3	ʻAʻole ʻoe i hele?
+32:28 LK	ʻAʻole paha.
+32:29 mk:AK3	ʻŌ.  ʻAʻole ʻoe i lohe i kēia kanaka ʻo, i noho ala ma laila, pili i kēlā alanui.
+32:35 LK	ʻO, ʻo, ʻo wai?
+32:36 mk:AK3	No Hāna kēlā kanaka.
+32:38 LK	ʻŌ, ʻō.
+32:39 mk:AK3	Kāpai.
+32:40 LK	ʻAʻole.  ʻAʻole, ua a e he^^, ui^^, hui.  ʻĒ.
+32:41 mk:AK3	ʻAe.  A ʻo ia ke kanaka kamaʻāina ma ia wahi.
+32:44 LK	ʻĒ.
+32:45 mk:AK3	Ua pau nā kamaʻāina a pau i ka make,
+32:47 LK	ʻAe, ʻae.
+32:47 mk:AK3	a ʻo ia ke kamaʻāina i koe ma kēlā wai.
+32:48 LK	ʻAe.  ʻAe.
+32:50 mk:AK3	ʻO Kāpai.
+32:51 LK	{Mū.}
+32:51 mk:AK3	ʻO ia ka mea pili loa i kēia wai,
+32:53 LK	{Mū.}
+32:54 mk:AK3	wai kau.
+32:54 LK	ʻAe.
+32:56 mk:AK3	Auē.
+32:57 LK	Well, aloha nō ka ʻāina.
+32:58 mk:AK3	Aloha nō.
+32:58 LK	^^^
+32:59 mk:AK3	Aloha nō hoʻi i !! hele malihini ʻana.
+32:59 LK	Ke ʻoe noʻonoʻo a, ʻē, ʻae.  ^^^
+33:02 mk:AK3	{Ha.}
+33:03 LK	Ua mahalo nui au i kou ʻāina, nui ka nani o ka ʻāina.
+33:05 mk:AK3	___
+33:06 LK	ʻAe.  Well.
+33:07 mk:AK3	ʻŌ^^, ʻōlelo akula au, koʻu lohe ʻana a walaʻau au iā,
+33:10 LK	ʻAe.
+33:11 mk:AK3	iā Keʻala,
+33:11 LK	ʻĒ.
+33:12 mk:AK3	Auē.
+33:12 LK	^^^
+33:13 mk:AK3	Lohe wau iā, iā {mū,} Kauanoe,
+33:15 LK	ʻĒ, ʻē.
+33:16 mk:K	a ʻo ia i Maui ʻo ia.
+33:17 LK	{Mū.}
+33:18 mk:AK3	Hele ʻo ia a hiki i Keʻanae.
+33:18 LK	^^^
+33:20 mk:AK3	A ʻōlelo mai ia, "ʻAe, hele ʻo ia a hiki i Keʻanae."
+33:23 LK	ʻĒ.
+33:24 mk:AK3	I hea lā ʻo ia i hele ai?
+33:26 LK	^^^
+33:26 mk:AK3	!! kipa ʻo ia i ka wai kau o Keʻanae, hōʻea paha i ka wai.
+33:29 LK	ʻĒ.
+33:30 mk:AK3	Kēlā wai !!
+33:30 LK	Eia nō ʻo Keʻala i neʻi nei i kēia ahiahi.
+33:32 mk:AK3	ʻAe.
+33:33 LK	ʻĒ.  Ua hele mai nō.
+33:33 mk:AK3	Ua kāhea mai nei ʻo Pila.
+33:35 LK	ʻAe, ʻae.
+33:36 mk:AK3	Kāhea maila ʻo Pila, a lohe aku nei wau, a lohe mai nei aia ma laila ʻo Keʻala.
+33:39 LK	ʻAe.  ʻAe.
+33:40 mk:AK3	A ua ʻōlelo mai nei nō iaʻu,
+33:42 LK	ʻAe.
+33:42 mk:AK3	e hele ana lāua i laila.
+33:43 LK	Ke hoʻolohe mai nei nō lākou.
+33:44 mk:AK3	ʻAe.  ^^^
+33:45 LK	Nui nō ka poʻe haumāna, ua hui nō ʻoe me lākou.
+33:48 mk:AK3	ʻAe.
+33:48 LK	Ke hoʻolohe mai nei.
+33:48 mk:AK3	Aloha, aloha aku ʻoe i nā haumāna a pau.
+33:51 LK	ʻAe.  Hiki.
+33:52 mk:AK3	Nui nō koʻu aloha iā ʻoukou a pau.
+33:54 LK	Mahalo.  ʻAe.
+33:55 mk:AK3	A na ke Akua e kōkua nō i kēia hana,
+33:57 LK	Mahalo nui iā ʻoe.
+33:57 mk:AK3	ʻo ia hoʻi, hoʻoholomua ʻana i nā ʻōlelo a ka Hawaiʻi.
+34:00 LK	ʻAe.
+34:01 mk:AK3	Mahalo wau i kēia mau mea a pau, a mahalo pū lohe nō hoʻi au ko ʻoukou hui walaʻau pū me ʻoe.
+34:07 LK	Hiki.
+34:07 mk:AK3	A hāʻawi koʻu aloha i ka, i ka hoa, hoaaloha o kākou i kēia pō.
+34:12 LK	ʻAe, ʻo Mrs. Peters.  ʻAe.  Eia nō.
+34:14 mk:AK3	OK.  A byebye.  A hui hou aku.
+34:17 LK	ʻAe.  A hui hou aku nō kāua.
+34:19 mk:AK3	ʻAe.
+34:19 LK	Kākou a pau.
+34:20 mk:AK3	ʻAe.
+34:21 LK	Aloha nō.  Aloha nō kāua.
+34:26 mk:AN	Aloha nō ʻoe, e Kauanoe.
+34:27 LK	Auē.  Pehea ʻoe, e Aunty Alice?
+34:29 mk:AN	A maikaʻi nō.
+34:31 LK	ʻAe.  A ua kamaʻāina nō ʻoe me ko kākou hoa kipa o kēia ahiahi?
+34:36 mk:AN	ʻAe, makemake ana hoʻi au e kamaʻilio aku me ia.
+34:40 LK	ʻAe.  ^^^  E kali mālie.
+34:47 IP	Aloha.
+34:48 mk:AN	ʻAe, aloha nō.
+34:49 IP	ʻAe.  Pehea ʻoe, e Alice?
+34:51 mk:AN	Maikaʻi nō wau.
+34:52 IP	ʻAe, aia nō ʻoe e noho nei?
+34:54 mk:AN	Aia, aia nō wau i Honolulu nei.  Aia wau i uka nei o Puʻunui e noho nei.
+34:59 IP	ʻŌ.  Pehea kou olakino?
+35:01 mk:AN	Maikaʻi nō.
+35:02 IP	ʻŌ.  Ke mau nei nō kāu hīmeni ʻana?
+35:05 mk:AN	Ke mau nei nō ke kākau ʻana i nā mele.
+35:08 IP	Mele.
+35:08 mk:AN	ʻAe.
+35:09 IP	Nui nō kou ikaika.
+35:11 mk:AN	ʻAe, mahalo nō hoʻi paha i ke Akua.
+35:14 IP	Nani kēlā manaʻo.
+35:15 mk:AN	ʻAe.
+35:16 IP	A he aha kāu nīnau?
+35:18 mk:AN	ʻĒ, e nīnau aku ana au i ka inoa piha o Pāpā?
+35:22 IP	ʻŌ, kona inoa.
+35:24 mk:AN	Yeah.
+35:24 IP 	Kāhea mau,
+35:24 mk:AN	Kaui^^, Kauikawēkiu.
+35:26 IP	ʻAʻole.  Ko^^, koʻu makua kāne, ʻo ia,
+35:29 mk:AN	Ko William a, inoa Hawaiʻi.
+35:31 IP	Piha.  ʻŌ.
+35:32 mk:AN	A, inoa Hawaiʻi.
+35:33 IP	ʻO Kalanikau, kāhea ʻia mau ana, a ka mi^^, inoa piha, ʻo ia nō ʻo Kalanikauikaʻalaneo.
+35:41 mk:AN	ʻŌ.  Kalanikauikaʻalaneo.
+35:43 IP	ʻAe.
+35:44 mk:AN	ʻAe.
+35:45 IP	A ʻo ia ka, he keiki a Kauhiakama, Kauhiakama me, mea, Keʻalohikīkaupeʻa.  No ka mea, hoʻomaopopo ʻoukou, ua male ʻo Kauhiʻaimokuakama?? iā Lu^^, iā Luʻukia, a loaʻa mai kekahi mau ʻohana keiki.  A ka male ʻana iā Keʻalohikīkaupeʻa, a puka mai ʻo Kalanikauikaʻalaneo me Piʻilaniwahine.  A mai Kalanikauikaʻalaneo male iā Helekūnihi, a hānau ʻia mai ʻumikūmāhiku poʻe kamaliʻi.  A mai ka ʻumikūmāhā,
+36:15 mk:AN	ʻAe, ʻae.
+36:16 IP	kēia ka wahine ʻo Piʻilani.  A puka mai ʻo, ʻo Kūkū Kūkana, maopopo nō iā ʻoe.
+36:20 mk:AN	ʻĒ.
+36:21 IP	A me Pāpā.
+36:22 mk:AN	{Mū.}
+36:23 IP	Nui ka mahalo iā ʻoe no kou kāhea ʻana mai.
+36:26 mk:AN	ʻAe.  E hoʻomanaʻo aʻela i ko kākou mau lā ʻōpiopio.
+36:29 IP	ʻAe.  ^^^
+36:30 mk:AN	E hele ana i ʻAuwaiolimu.
+36:32 IP	ʻAe.  Nui kāu hana^^.
+36:34 mk:AN	A kākou nō hoʻi e noho ana i Kalihi.
+36:36 IP	ʻAe.  Nui kou naʻauao ma ka haku mele ʻana a pāʻani ʻana i ka ʻukulele.
+36:42 mk:AN	ʻO ia hoʻi.
+36:43 IP	Kāu, ak^^, alakaʻi ʻana iā mākou i ka hīmeni ʻana.
+36:47 mk:AN	ʻAe.
+36:47 IP	Nui kāu hana, hana maikaʻi.  Na ke Akua hoʻopōmaikaʻi iā ʻoe.
+36:51 mk:AN	Iā ʻoe.
+36:52 IP	{Mū.}  ʻO ia kāu.
+36:52 mk:AN	Iā ʻoe nō kekahi.
+36:53 IP	ʻAe.
+36:54 mk:AN	ʻĒ.  !!
+36:55 IP	Mahalo.
+36:55 mk:AN	Mahalo iā ʻoukou i kēia pō.
+36:57 IP	ʻAe, nui ka hana.
+36:58 mk:AN	ʻAe.  Aloha nō.
+36:59 IP	Aloha nō.
+36:59 mk:AN	Aloha nō.
+37:04 LK	ʻAe.  Mahalo wau iā Aunty Alice a iā Tūtū Puna i ko lāua kāhea ʻana mai i kēia ahiahi.  A ua lohe nō, ua laha nō kēia mele hou a Aunty Alice i haku ai, ʻo ia kēia mele, a, auē, poina n^^, ʻo Keonimana.  Keonimana.  He, he waltz kēia.
+37:26 IP	{Mū.}
+37:26 LK	A kēia kanaka ʻo Kīhei Brown e hoʻokaulana nei i kēia manawa.
+37:30 IP	{Mū.}
+37:32 LK	Nui nō ke akamai o ka, ka haku ʻana.  Ua kamaʻāina nō ʻolua?
+37:38 IP	Ua kamaʻāina mai ka wā ʻōpiopio mai.
+37:40 LK	ʻĒ.
+37:41 IP	^^^
+37:41 LK	^^^  ʻŌ, noho like nō ʻolua?
+37:43 IP	Noho i luna i, i Kalihi, a hui pū i ʻAuwaiolimu.  Hele mākou i ka hale pule hoʻokahi nō.  ^^^
+37:52 LK	ʻAe.  ^^^
+37:53 IP	Ua ʻike nō wau i ka naʻauao o kē^^, o kēia makuahine ma ka māhele o ka, nā mele, nā hana nui,
+38:00 LK	ʻĒ.
+38:00 IP	nā hana maikaʻi.
+38:01 LK	ʻAe.  I laila nō ʻoe e, e noho ne^^, e mea, i noho ai ma mua?
+38:06 IP	Ua hele mākou i ka pule.
+38:07 LK	I ka pule nō ma laila.
+38:08 IP	ʻAe, i ka pule i ʻAuwaiolimu.
+38:10 LK	ʻAe.
+38:11 IP	^^^
+38:11 LK	Kēia hale pule Molemona?
+38:12 IP	ʻAe, pololoi.  ^^^
+38:12 LK	ʻAe.  ^^^  He wai kaulana kēlā ʻo Wai^^,
+38:17 IP	ʻAe.
+38:17 LK	ʻo Waioli^^, m^^, mea, limu.
+38:19 IP	ʻO Waiolimu.
+38:20 LK	ʻAe.
+38:21 IP	A kāna kāne, pili aku i kēlā ʻohana ʻo Kalani mā, ʻo, ʻo Kūpā Kaluhiokalani.
+38:29 LK	ʻŌ.
+38:29 IP	Ua ʻike wau, a no Kalihi lākou,
+38:31 LK	ʻĒ, ʻē.
+38:32 IP	mai Hawaiʻi mai, ʻo Waipiʻo.
+38:34 LK	ʻŌ.
+38:34 IP	ʻOhana uʻi kēlā.
+38:36 LK	^^^
+38:36 IP	Kāna keiki nui, he u^^, kanaka uʻi.
+38:39 LK	ʻĒ, ʻē.
+38:40 IP	Like nō.
+38:40 LK	Paʻa nō iā ʻoe ka moʻokūʻauhau.
+38:42 IP	^^^
+38:43 LK	^^^
+38:44 IP	ʻŌ.  No ke aloha i nā kūpuna me nā mākua.
+38:46 LK	{Mū.}
+38:46 IP	ʻO ia ke kumu,
+38:47 LK	{Mū.}
+38:47 IP	paʻa.  Koʻu wā liʻiliʻi noho mau ana me nā kūpuna, ʻaʻole wau hele i waho e pāʻani ai.
+38:52 LK	^^^
+38:53 IP	Noho me nā kūpuna, hoʻolohe iā lākou.
+38:55 LK	ʻAe.  No ka mea, he mea nui loa ka ʻohana,
+38:57 IP	ʻAe, nui ka,
+38:57 LK	i ka poʻe Hawaiʻi.
+38:58 IP	nui ka aloha o ka ʻohana.
+39:00 LK	ʻAe.
+39:00 IP	^^^
+39:01 LK	Ua ʻike wau iā ʻoe i kēia hālāwai o ke kulanui i kēia Poʻono aku nei.
+39:06 IP	ʻAe.
+39:06 LK	A pehea kou manaʻo i kēia poʻe haumāna ʻōpio?
+39:09 IP	ʻŌ, nani ka hana.  Nui ka hui ʻana i ka, ka, nā kūpuna, nui ka māhele o ka nani a kā lākou mau māhele ʻohana, a hiki mai kēlā keiki ʻōpiopio lā, nui kona naʻauao ma ka hoʻopilipili ʻana i ka ʻohana.
+39:25 LK	^^^  ʻAe, paʻanaʻau.
+39:28 IP	Paʻanaʻau.  Nui ka.
+39:29 LK	Nāu nō i kōkua, ʻohana kēlā nou?
+39:32 IP	ʻOhana mākou pau loa.
+39:34 LK	ʻĒ.
+39:34 IP	He ʻohana a pau loa kēlā poʻe kamaliʻi iaʻu.
+39:36 LK	^^^
+39:36 IP	^^^  ʻAʻole lākou i ʻike.
+39:37 LK	I ka^^.  ʻĒ, ʻē.
+39:40 IP	ʻO Cy wale nō ka mea i ʻike.
+39:42 LK	ʻAe.
+39:43 IP	Kona inoa Hawaiʻi, ʻo ia nō ʻo Manuʻailehua.
+39:46 LK	Manuʻailehua.
+39:47 IP	ʻAe.  Kekahi kēlā, ʻo ia ke keiki o Kekaulike.  Ua maopopo ʻoe ka manawa e walaʻau ana ʻo UUU  ncle Lindsey i ka poʻe male, i ka poʻe kauā, ʻaʻohe ʻike ʻia lākou.  A kēia mau keiki Manuʻailehua me Nāʻaipaʻakai, a ʻo ia Nāʻaipaʻakai paha,
+40:06 LK	ʻO wai?
+40:06 IP	inā, u^^, Nāʻai.
+40:09 LK	Nāʻaipaʻakai?
+40:10 IP	Nāʻaipaʻakai, ua he^^, I think, ua hewa paha ka māhele ʻelua.  But, Manuʻailehua, he mau kāne, he kāne, he wahine, a e, kaikunāne, kaikuahine.
+40:22 LK	ʻĒ, ʻē, `ē.
+40:23 IP	He mau keiki kēia no Kekaulike me Kekūpoiwa^(Kekuiapoiwa)[!] Nui.  Eia nō naʻe, no ka hele ʻana i ka ua, male aku i ka poʻe haʻahaʻa, a.
+40:33 LK	ʻĒ, poʻe makaʻāinana.  ^^^
+40:34 IP 	A hoʻoka^^, hoʻokae ʻia lākou.
+40:35 LK	ʻŌ.
+40:37 IP	Ma ka puke o, Kali^^, a, lilikāne e ʻike ai ka ʻohana, ka pili.
+40:42 LK	ʻAe.
+40:42 IP	He mau keiki kēlā no, no ka aliʻi Kekaulike me Kekaupoiwa^(Kekuiapoiwa)[!] Nui.  A ʻo wau, puka mai wau mai Kekaulike mai me kāna wahine mua.  Ma o ke keiki o k^^, Kauhiʻaimokuakama, Nui ka laina.  ^^^
+40:58 LK	ʻĒ, ʻē.  ^^^
+40:59 IP	Kēia māmā āu i walaʻau aku nei ʻo, a, ʻo Puna,
+41:04 LK	{Mū.}
+41:05 IP	ʻO ia kona inoa m^^, male?
+41:08 LK	ʻO Kapāona.
+41:10 IP	Kapāona o Kohala?
+41:12 LK	Pololei.
+41:13 IP	ʻŌ.
+41:14 LK	ʻĒ.
+41:14 IP	No ka Nānākuli ʻo ia?
+41:16 LK	Aia ʻo ia i Nānākuli i kēia manawa e noho nei.
+41:19 IP	!!
+41:19 LK	A ʻaʻohe, ʻaʻohe ou manawa e, e hui me ke, kāna moʻopuna.  Aia nō ka moʻopuna i loko nei !!
+41:24 IP	ʻŌ, !! i neʻi nei, ʻō.
+41:25 LK	ʻĒ.  !!
+41:27 IP	No ka,
+41:28 LK	ʻĒ.
+41:28 IP	no ka mea, pili ʻo ia i kēlā ʻohana ʻo Makaokalani.
+41:32 LK	ʻO wai?
+41:33 IP	Pili ʻo ia i ka ʻohana ʻo Makaokalani.
+41:35 LK	Makaokalani.
+41:35 IP	ʻAe.
+41:36 LK	ʻAe.
+41:37 IP	ʻO Anna.
+41:37 LK	ʻO^^, ʻae, e kala mai.  Aloha ahiahi kāua.
+41:42 mk:m1	Aloha.
+41:43 LK	Aloha nō.
+41:44 mk:m1	Aloha.
+41:46 LK	Pehea ʻoe?
+41:46 mk:m1	A maikaʻi.  Pehea ʻoe?
+41:48 LK	Maikaʻi nō mākou a pau.
+41:50 mk:m1 	He aha ka mea hou?
+41:52 LK	Auē.  ^^^  ʻAʻohe oʻu mea, o ka, ke kalekale nei nō hoʻi mākou ma ʻaneʻi nei.
+41:59 mk:m1	{Mū.}
+41:59 LK	^^^  A pehea ka mea hou iā ʻoe?
+42:03 mk:m1	ʻAʻohe nō mea hou.
+42:06 LK	E, no hea ʻoe?
+42:09 mk:m1	No, no Honolulu nei nō wau.
+42:11 LK	No Honolulu.
+42:12 mk:m1	ʻĒ.
+42:12 LK	ʻAe.  Pehea ka ʻōlelo makuahine i kou pepeiao?
+42:16 mk:m1	Maikaʻi.
+42:17 LK	Maikaʻi.  ^^^
+42:18 mk:m1	ʻAe.
+42:19 LK	ʻAe, p^^,
+42:19 mk:m1	!! kuʻu ʻōlelo nō kēlā.
+42:21 LK	He aha?
+42:22 mk:m1	Kā kākou ʻōlelo m^^, paʻa nō kēlā, ʻōlelo makua.
+42:25 LK	ʻAe, ʻo ko kākou ʻōlelo makua nō kēia.
+42:27 mk:m1	{Mū.}
+42:29 LK	Pono nō e hoʻolaha e hoʻomau aku i nā pepeiao o ka poʻe ʻōpiopio,
+42:33 mk:m1	ʻĒ.
+42:34 LK	i puka mai ka, mai ka waha mai.
+42:34 mk:m1	!! poʻe ʻōpiopio, a loaʻa nō {mū,} mea maikaʻi no ka poʻe ʻōpiopio.  Hoʻolohe.
+42:40 LK	ʻAe.
+42:41 mk:m1	Maopopo {mū.}   Poʻe ʻōpiopio i kēia manawa, nui loa nā ʻōlelo haole, ʻaʻole hoʻomaopopo i ka ʻōlelo makua.
+42:47 LK	Pololei.
+42:49 mk:m1	Ke walaʻau aku ʻoe i ka ʻōlelo makua, a ʻōlelo haole maila,
+42:52 LK	ʻAe.
+42:53 mk:m1	Kēnā ke keiki o kēia manawa.
+42:54 LK	ʻAe, ʻae.  Ma mua, a he ʻōlelo mau ʻia nō.
+42:58 mk:m1	ʻO ia.
+42:59 LK	He lohe mau ʻia nō.
+43:01 mk:m1	!!
+43:01 LK	I kēia manawa, ʻaʻole loa.  ʻEā?
+43:05 mk:m1	I nā lā i hala, ka ʻōlelo kēlā, ka ʻōlelo makua.
+43:07 LK	ʻAe, ʻae.
+43:07 mk:m1	!! ʻōlelo makua wale nō.
+43:10 LK	ʻAe.
+43:12 mk:m1	A pilikia nō paha ___ keiki i kēia manawa.
+43:15  LK	He aha?
+43:15 mk:m1	Nui loa ka ʻōlelo m^^, haole.
+43:19 LK	ʻAe, ʻae.  Nui ka minamina o ka ʻōlelo Hawaiʻi.
+43:22 mk:m1	Yeah.  Minamina i kēia manawa.
+43:24 LK	ʻĒ.
+43:25 mk:m1	Nā Ha^^, keiki i kēia manawa, e namu wale nō, namu.
+43:30 LK	ʻAe, he namu.
+43:31 mk:m1	Namu wale nō, ʻaʻole ʻike i ka ʻōlelo makua.  Ke walaʻau aku ʻoe, a walaʻau maila.
+43:38 LK	^^^
+43:39 mk:m1	!!
+43:39 LK	ʻAe.  Pehea kou manaʻo i nā māhele kumuhana o kēia ahiahi, kūkākūkā?
+43:44 mk:m1	ʻŌ, maikaʻi.
+43:45 LK	^^^
+43:47 mk:m1	Maikaʻi.
+43:48 LK	ʻAe.
+43:49 mk:m1	Maikaʻi.
+43:50 LK	He, he pololoi nō ka ʻōlelo, he, a, ke, a, kēia wahine o ko kākou hoa kipa, ʻo Mrs. Peters, i nui nō ka naʻauao o nā kūpuna.
+43:58 mk:m1	Yeah, yeah.
+44:00 LK	Koe kēia, ke ʻano huli kua nō kākou i kēia, i kēia ʻike.
+44:07 mk:m1	{Uhu.}
+44:08 LK	ʻAʻohe nō e ʻaʻapo ana.
+44:11 mk:m1	ʻAʻole.
+44:13 LK	ʻAe, mahalo nui kou kāhea ʻana mai.
+44:15 mk:m1	ʻAe, ʻo ia.
+44:17 LK	ʻAe.  Aloha nō.
+44:18 mk:m1	Aloha.
+44:23 LK	ʻAe.  A ua kelepona mai ʻoe i kēlā mau pule i hala aku nei iā Mrs. Victor i neʻi nei,
+44:33 IP	ʻAe.
+44:33 LK	ma ke ʻano hoa kipa, no ka mea, ua kamaʻāina nō ʻolua.
+44:36 IP	A u^^.
+44:37 LK	He mau hoa kula nō ʻolua, ʻeā?
+44:40 IP	Hele māua i ka hale pule hoʻokahi.  ^^^
+44:42 LK	ʻO ia.  ^^^
+44:43 IP	ʻŌlelo, ʻōlelo like māua, ʻo ia ke kumu, ua ʻike au he wahine uʻi ʻo ia.
+44:48 LK	{Uhu.}
+44:49 IP	Na, wahine naʻauao, akamai ka ʻōlelo Hawaiʻi, ka ʻōlelo haole.  Mau nō kona uʻi.
+44:55 LK	ʻAe, pololei.
+44:56 IP	ʻAʻole wau i ʻike iā ia o, no nā,
+44:59 LK	ʻĒ.
+44:59 IP	makahiki he hoʻokahi paha a ʻoi i kēia manawa.
+45:02 LK	ʻĒ.  Ua paʻa nō ʻo ia.
+45:04 IP	Ua paʻa nō ʻo ia.
+45:05 LK	ʻAe.  Nani nō.
+45:05 IP	Nui koʻu hauʻoli i ko^^, koʻu lohe ʻana iā ia.  
+45:07 LK	ʻAe.
+45:08 IP	Nui koʻu hauʻoli, no ka mea, nā poʻe a pau i hele mai e, i loko o kēia keʻena.  Ua maopopo wau iā lākou a, ʻaʻole hiki iaʻu ke, ke komo i loko o kēia keʻena,
+45:17 LK	^^^
+45:18 IP	no ka mea, inā kelepona mai wau,
+45:20 LK	ʻĒ.
+45:20 IP	a ua paʻa ke kelepona.  ^^^
+45:22 LK	^^^
+45:23 IP	But, mahalo i, iā lākou a pau,
+45:24 LK	ʻAe.
+45:25 IP	kā lākou mau manaʻo maikaʻi.
+45:27 LK	{Uhu.}
+45:28 IP	Kākoʻo ʻana iā ʻoukou.  Akā.
+45:30 LK	ʻAe.  ʻO ʻoe nō kekahi i loko o kēia kula, kumu kula, kumu aʻo ma mua?
+45:34 IP	ʻAe.  !!
+45:35 LK	ʻO kēia Normal School.
+45:36 IP	Normal School.  A ua hele wau i ka university.
+45:38 LK	ʻŌ.  ʻĒ.
+45:39 IP	A ka puka ʻana mai ke kaua,
+45:42 LK	ʻĒ, ʻē.
+45:42 IP	a pau ka hele ʻana, no ka mea, hāʻawi ʻia mai mau hana nui e mālama i nā poʻe keiki a, ^^^ o nā mākua e hele ana i ka hana.
+45:51 LK	ʻAe.
+45:52 IP	Makuahine.  A ma hope mai, a, hana ʻia wau he poʻo kumu no ka summer school.
+45:59 LK	ʻAe, ʻae.
+46:01 IP	A piha wau i kēia mau hana, hele i Pearl Harbor e hana ai.
+46:04 LK	^^^
+46:05 IP	A ʻo ia ke kumu ʻaʻole i, i graduate mai au mai ka kulanui.
+46:10 LK	Akā, ua aʻo nō ʻoe ma ia ʻoihana o ke kumu kula.
+46:13 IP	ʻAe, kanahākūmālima maki^^, makahiki kēia.
+46:16 LK	Hō.
+46:17 IP	Nui nā makahiki.
+46:18 LK	Lōkihi.
+46:18 IP	Mai ka manawa ʻōpio a hiki i kuʻu, a, makahiki kanaonokūmāhā.
+46:24 LK	Hā.
+46:25 IP	Mai laila mai, a hoʻomaha.
+46:27 LK	ʻĒ, hoʻomaha.  Ma nā papa hea ʻoe i aʻo ai?  Nā papa kam^^.
+46:31 IP	Mai nā pēpē a hiki aku i ka high school.
+46:34 LK	^^^  Ua puni ʻia nā kula o Hawaiʻi nei iā `oe.
+46:39 IP	ʻŌ.
+46:39 LK	E.
+46:40 IP	Ma Kāneʻohe, ma Kalihi Uka a Kalihi Kai, Likelike, a Kalākaua, {amū,} i {amū,} Dole Intermediate, a iā Farrington, a me Mckinley.
+46:54 LK	{Mū, mū.}
+46:55 IP	Aia i loko o nā haukapila, i loko o nā home o nā keiki maʻi kahi au e kōkua.
+47:03 LK	ʻAe.
+47:03 IP	E aʻo iā lākou.  A pēia nō hoʻi ka manawa kaua, kāhea ʻia wau e kōkua n^^, e aʻo i nā mākua Kepanī i ka ʻōlelo haole.
+47:13 LK	ʻŌ.
+47:15 IP	A kēlā mau lā, ʻaʻole uku ʻia.
+47:16 LK	Ua kamaʻāina ʻoe me ka ʻōlelo Kepanī?
+47:19 IP	ʻAʻole.  ʻO ia koʻu pilikia paha.
+47:23 LK	^^^
+47:24 IP	Aʻo wau ma ka hōʻikeʻike ʻana i nā kiʻi.
+47:27 LK	ʻĒ.
+47:27 IP	A kākau wau i ka `ōlelo haole, a haʻi aku ma ka ʻōlelo haole a hōʻikeʻike i ke kiʻi a,
+47:32 LK	ʻĒ.
+47:33 IP	hoʻomaopopo mai lākou.  ʻO ia ka !!
+47:35 LK	A na lākou nō e hoʻopilipili i kou leo.
+47:37 IP	ʻĒ, hoʻopilipili.
+47:38 LK	ʻĒ.
+47:39 IP	ʻO ia ka loaʻa ʻana kēlā naʻauao iā lākou.
+47:42 LK	ʻAe.  Kala mai.  Aloha nō kāua.
+47:46 mk:KA5	Aloha mai.  Pehea ʻoe, e Kauanoe?
+47:48 LK	Maikaʻi nō.
+47:49 mk:KA5	A.
+47:49 LK	A pehea ʻoe?
+47:49 mk:KA5	ʻO ia mau.  ʻO ia mau.  Ē, ke kāhea aku nei wau iā ʻoe, ʻaʻole ʻoe poina e hele i ke Poʻaono, a kēia Poʻaono aʻe e hui ana hoʻi ka poʻe Hawaiʻi a me ka poʻe Kawaihae me Waimea.  Ua kono ʻia ʻoe?
+48:05 LK	ʻAe, a.
+48:06 mk:KA5	Pehea lā?  !!
+48:07 LK	^^^  Kono ʻia au, akā, a, inā hiki, a e hele ana nō wau.
+48:13 mk:KA5	{A.}
+48:14 LK	I hea ana ʻoukou e hui ai?
+48:15 mk:KA5	A i Kīhei^(Keʻehi) Lagoon.
+48:17 LK	ʻŌ.
+48:17 mk:KA5	A i, i ka, i ka, i ka komo ʻana i kēlā mea, aia i ʻō loa, kokoke i ka mokulele,
+48:24 LK	ʻAe, ʻae.
+48:24 mk:KA5	kēlā hōkele, you know?
+48:26 LK	He mea, a he, he hui hālāwai maʻamau nō kēia kēlā me kēia makahiki o kēia ʻohana?
+48:32 mk:KA5	ʻO kēia hui hou, a kēia hui ʻana, hoʻokahi wale nō kēia a ʻakahi nō hoʻomaka ʻia.
+48:36 LK	ʻŌ.  ʻAkahi nō.
+48:37 mk:KA5	ʻAe.
+48:38 LK	ʻO.
+48:38 mk:KA5	A hui hou aku paha kēia makahiki, inā ʻae mai ka Haku Iesū Kristo.
+48:42 LK	ʻAe.
+48:43 mk:KA5	ʻAe.
+48:44 LK	Well, ʻo nā poʻe no nā ʻāin^^, no ka mokupuni ʻo Hawaiʻi?
+48:48 mk:KA5	ʻAe.
+48:48 LK	Hui ana nō?
+48:49 mk:KA5	ʻAe.
+48:50 LK	ʻŌ.
+48:50 mk:KA5	ʻAe.  A hiki iaʻu ke walaʻau iā Mrs. Peters?
+48:54 LK	Hiki, hiki.  Alia.
+48:56 mk:KA5	ʻAe.
+49:00 IP	Aloha nō kāua.
+49:01 mk:KA5	Aloha mai.  Pehea ʻoe, Mrs. Peters?
+49:03 IP	ʻŌ, maikaʻi kēia.  ʻO wai kēia?
+49:05 mk:KA5	ʻO, ʻo wau kēia ʻo Kerry ʻĀkau.  Hoʻokahi o kou haumāna i, i, i aʻo ʻoe iaʻu i Kalihi Kai.
+49:12 IP	I Kalihi Kai?
+49:12 mk:KA5	Maopopo^^, ʻae.
+49:14 IP	ʻŌ.
+49:15 mk:KA5	ʻAe.
+49:15 IP	Aloha nui kāua.
+49:16 mk:KA5	Aloha.  A lohe mai nei wau i kou leo.  ʻO ia ke kumu, walaʻau mai nei wau i koʻu mau kaikamāhi^^, kaikamāhine.  Maopopo wau iā ʻoe.  ʻO ia kēia kūhea aku nei.
+49:26 IP	A ʻo wai ka inoa o kāu kaikamahine?
+49:28 mk:KA5	A Kerry  ʻĀkau.
+49:30 IP	Kerry ʻĀkau.
+49:31 mk:KA5	ʻAe.  Maopopo ʻoe iaʻu.  Inā ʻike ʻoe iaʻu, maopopo ʻoe iaʻu.  Kekahi kolohe.
+49:36 IP	^^^
+49:36 mk:KA5	^^^  !!
+49:38 IP	Noho ʻoe i hea, i Kalihi Kai?
+49:39 mk:KA5	I Kalihi Kai, a, i, i ka alanui kēlā manawa ʻo Queen Street.  Noho wau me Kalāhiki mā.
+49:45 IP	ʻŌ, Kalāhiki mā?
+49:46 mk:KA5	ʻAe.
+49:47 IP	ʻŌ, maopopo wau iā ʻoe.
+49:48 mk:KA5	Yeah.  Koʻu kaikuaʻana kēlā.
+49:50 IP	ʻŌ.
+49:51 mk:KA5	ʻAe.
+49:52 IP	Mai^^.
+49:52 mk:KA5	Hauʻoli mai nei wau i ka lohe ʻana mai nei i kou leo.
+49:54 IP	ʻŌ, nani maoli kēia.
+49:56 mk:KA5	{Aha.}  ʻAe.
+49:57 IP	No ka mea, male kēlā ʻohana i ka, i ka ʻohana ʻo Peters.
+50:01 mk:KA5	ʻAe.
+50:01 IP	^^^
+50:01 mk:KA5	ʻAe.
+50:02 IP	ʻŌ.
+50:03 mk:KA5	ʻAe.
+50:03 IP	Maopopo iaʻu iā Kealoha.
+50:05 mk:KA5	Kealoha, ʻae.  Kealoha.
+50:06 IP	{Aha.}
+50:07 mk:KA5	Yeah.  ʻO !!
+50:07 IP	Me Kalāhiki mā.
+50:08 mk:KA5	ʻAe.
+50:09 IP	ʻŌ.  Nui ka nani.
+50:11 mk:KA5	A nani kēia hui ʻana.
+50:13 IP	ʻŌ.
+50:13 mk:KA5	A.
+50:13 IP	Aloha nō.
+50:15 mk:KA5	A hele mau ʻoe i Kāneʻohe?  Lohe wau.
+50:17 IP	{Aha.}
+50:18 mk:KA5	A he ʻoha^^, a he kaiku^^, kaiko^^, kaikoʻeke, {mū,} mea, a, I think, hoʻokahi o kou keiki, male i kēia, ka wahine ʻo Grace.
+50:28 IP	ʻAe, ʻo, ʻo, ʻo, ʻo, mea.  Yeah, hoʻokahi kaʻu keiki.
+50:33 mk:KA5	{Mū.}
+50:34 IP	ʻO ia ke keiki ʻelua.
+50:35 mk:KA5	ʻAe, ʻae.  A ua moku hoʻi lāua.
+50:38 IP	ʻAe.
+50:38 mk:KA5	ʻAe.  A hele mau ka, a, ʻoe i laila, kiʻi i kou kei^^, mea, kou kaikamahine hele kiʻi iā `oe kekahi manawa?
+50:45 IP	ʻAe, pololei.
+50:46 mk:KA5	Aia, hele kuʻu kāne i laila walaʻau, hālāwai me ʻoe ʻelua manawa.
+50:50 IP	ʻElua manawa?
+50:50 mk:KA5	ʻAe.  ʻO !!
+50:51 IP	ʻŌ.  Na^^, ʻike wau iā ia.
+50:54 mk:KA5	Yeah.
+50:55 IP	ʻO Kelelike.
+50:56 mk:KA5	ʻAe.
+50:56 IP	No ka mea.
+50:56 mk:KA5	!! i kēlā.
+50:58 IP	Yeah.  No ka mea, makemake wau e ʻike iā ʻoe, no ka mea, no Kawaihae ʻoe, yeah?
+51:02 mk:KA5	ʻAe, no Kawaihae wau.
+51:03 IP	ʻIke wau kou māmā.
+51:05 mk:KA5	ʻIke ʻoe?
+51:06 IP	ʻAe.
+51:06 mk:KA5 	ʻŌ.
+51:07 IP	Me kou pāpā.
+51:08 mk:KA5	ʻAe, ʻo ʻĀkau.
+51:09 IP	ʻĀkau.
+51:09 mk:KA5	Ka mākaʻi.
+51:10 IP	ʻAe.
+51:11 mk:KA5	ʻAe.
+51:11 IP	Auē.
+51:12 mk:KA5	Aloha nō.  Aloha nō.
+51:13 IP	A me, no ka mea, ua aʻo wau iā Oscar Kelelike^(Kelīliki)[!].
+51:16 mk:KA5	ʻAe.  Oscar, ʻae.  And koʻu kaikunāne i, i, i hāʻawi aku nei, ʻo Akeni.
+51:21 IP	Akeni.
+51:22 mk:KA5	ʻAe.
+51:22 IP	ʻŌ.
+51:23 mk:KA5	Ahsuntai mā.  ʻO lākou.
+51:26 IP	Pili ʻo, mea, ʻo Larry Kaʻohu iā ʻoe, yeah?
+51:28 mk:KA5	ʻAe.  ^^^
+51:30 IP	ʻŌ.  A me Carrie, me Carrie, a, me Mrs. Sorenson.
+51:36 mk:KA5	Yes, yes, yes, yes, yes, yes.  Ka, ʻo ia ka, ka,
+51:38 IP	ʻŌ.
+51:39 mk:KA5	a kā ʻĀkau keiki, kaikamahine kēlā.
+51:41 IP	Yeah.
+51:41 mk:KA5	Yeah.
+51:41 IP	Pololoi.
+51:42 mk:KA5	ʻĀkau.  E hele ana ʻoe i ka Reunion kēia Poʻaono?
+51:46 IP	A.
+51:46 mk:KA5	Ua kono ʻia ʻoe?
+51:48 IP	ʻAʻole wau i kono ʻia.
+51:49 mk:KA5	Auē.
+51:50 IP	^^^
+51:50 mk:KA5	Kono ana wau iā ʻoe.  A e, e hui ana mākou i, i Kehei^(Keʻehi) Lagoon.
+51:56 IP	Kēia ʻohana ʻo mea, ʻo ʻĀkau?
+51:58 mk:KA5	ʻAʻole kēia ana ka mea, {amū,} ʻohana o Waimea me Kawaihae.  E hui ana hoʻi me ka aikāne na lākou, you know?
+52:05 IP	ʻŌ.
+52:06 mk:KA5	A kono ʻia ʻoe.  Hele mai ʻoe.
+52:08 IP	ʻĒ.  Pili anei ʻoukou iā Pele Amina mā?
+52:11 mk:KA5	Yeah.
+52:11 IP	Pele Amina Kawaihae Nui.
+52:13 mk:KA5	ʻAe.
+52:13 IP	A me Kawaihae Uka.
+52:14 mk:KA5	ʻAe.
+52:14 IP	A ʻo ia ka lālā o kuʻu pāpā.
+52:16 mk:KA5	Auē.  ʻOhana paha kākou.
+52:18 IP	ʻOhana paha.
+52:19 mk:KA5	ʻĒ.
+52:19 IP	No ka mea,
+52:20 mk:KA5	Koʻu pāpā, ʻohana ʻo ia no ka Isaacs o Kohala.
+52:23 IP	Well, aia e, koʻu pāpā, ua hele kēlā inoa, no ka mea, hoʻopa^^, paʻakikī ka haole,
+52:30 mk:KA5	ʻĒ.
+52:30 IP	a hāʻawi mai i ka inoa mua o koʻu pāpā, kēlā inoa mua o kona pāpā, a kau kēlā inoa.
+52:35 mk:KA5	Maopopo ʻoe iā Al John Isaacs?
+52:38 IP	Maopopo wau, no ka mea,
+52:38 mk:KA5	!! no Niuliʻi?
+52:40 IP	ʻae, ka ʻohana kēlā ʻo Izeki mā.
+52:42 mk:KA5	ʻAe, Iseki pololei ʻiʻo nō.  He ʻohana kāua.
+52:45 IP	^^^
+52:46 mk:KA5	ʻOhana kākou.
+52:47 IP	No ka mea, male, male ke keikimahine a, Izeki Joe Izeki i kaʻu kaikua^^, kaikunāne ʻōpiopio loa ʻo Melvin Isaacs.
+52:55 mk:KA5	Auē.
+52:56 IP	And then, male hoʻi, a, ke kaikamahine ʻo Mrs. McKee,
+53:00 mk:KA5	Yes.
+53:00 IP	i kaʻu cousin, iā Georgia Hubble.
+53:02 mk:KA5 	Yes.  ʻO Vickie nō hoʻi.
+53:04 IP	Yeah, Vickie.
+53:04 mk:KA5	ʻŌ, maopopo.
+53:05 IP	^^^
+53:05 mk:KA5	ʻŌ, ua hele mākou i ke kula, hui mākou.
+53:08 IP	ʻAe^.
+53:09 mk:KA5	ʻAe.  Kēia Poʻaono, kēlā Poʻaono aku nei, hui, hui mākou.
+53:13 IP	And uh, male ʻo, mea, ʻo Theresa Crim.
+53:16 mk:KA5	ʻAe.
+53:17 IP	iā, i, a, ʻo hea, Izeki ʻo ia, male ʻo ia,
+53:19 mk:KA5	ʻAe.
+53:20 IP	iā Crim, ka cousin o koʻu pāpā kēlā.
+53:23 mk:KA5	ʻAe.  He ʻohana kēlā, he aunty kēlā.
+53:25 IP	^^^
+53:27 mk:KA5	A nānā ʻoe.
+53:28 IP	ʻĒ.  Nui ka, inā hoʻomau ana kāua e pili ana kāua.
+53:31 mk:KA5	ʻĒ, ʻae.  A a hui hou nō kāua.
+53:34 IP	ʻAe, mahalo a nui loa.
+53:34 mk:KA5	ʻAe.  ʻAʻole ʻoe poina i kono ʻia nei ʻoe e hele mai ʻoe i Poʻaono?
+53:38 IP	Ho^^, hola ʻehia?
+53:40 mk:KA5	A mai ka kakahiaka a hōʻea i ka pō.
+53:41 IP	I ka awakea.  A ʻo wau, e, ʻo kou inoa mua, ʻo Kerry?
+53:46 mk:KA5	Yes.
+53:46 IP	{A.}
+53:47 mk:KA5	ʻAe.
+53:47 IP	Mahalo a nui loa.
+53:48 mk:KA5	ʻAe, aloha.
+53:48 IP	Na k^^, ʻae, aloha nō.
+53:49 mk:KA5	Yes.  A hui hou.
+53:51 IP	ʻAe.
+53:51 mk:KA5	Byebye.
+53:51 IP	Byebye.
+53:53 LK	ʻAe.  Mahalo nui iā ʻoukou, e nā poʻe Hawaiʻi e hoʻolohe nei i kēia ahiahi.  A mahalo nui iā ʻoe, e Irene, kou hele ʻana mai i ke kōkua ʻana mai iā mākou i kēia ahiahi.
+54:07 IP	Mahalo iā ʻoukou a pau loa, iā `oe me, me Pila.  Nui ko ʻoukou maikaʻi, nui ko ʻoukou aloha, nui ko ʻoukou lokomaikaʻi iaʻu.  Na ke Akua hoʻopōmaikaʻi iā ʻoukou i nā wā a pau.
+54:18 LK	Mahalo nui.  A ma mua no ka hoʻopau ʻana o kēia hola, kēia papahana {mū,} a ke hāʻawi aku nei i kuʻu aloha iā Mrs. Kaʻaihue.  A na ke Akua nō e hoʻopōmaikaʻi a e mālama mai iā ʻoe.  A aloha nui iā ʻoukou a pau.  A hui hou nō kākou i kēia Poʻalua aʻe. 
+54:40	Hawaiʻi Aloha
+54:45 KS	## ʻAnoʻai ke aloha e nā pua o ka ʻāina.  Ua pā iho nei ko ʻoukou mau pepeiao i Ka Leo Hawaiʻi o ke ahiahi a me nā mele aloha o ka ʻāina, me he kahawai lā, e ʻōlino mau, e nanahe mau, a e nani mau.  Aloha a nui loa iā ʻoukou a pau, a hui hou aku kākou.
+		> E Hawaiʻi e kuʻu one hānau ē, hānau ē
+		Kuʻu home kulāiwi nei
+		ʻOli nō au i nā pono lani ou, lani ou
+		E Hawaiʻi aloha ē
+
+		E hauʻoli e nā ʻōpio Hawaiʻi nei
+		ʻOli ē, ʻoli ē, ʻoli ē, ʻoliʻoli ē
+		Mai nā aheahe makani e pā mai~
+
+55:17	# You have been listening to Ka Leo Hawaiʻi, produced by the students of the University of Hawaiʻi's Hui Aloha ʻĀina Tuahine.  This program has been brought to you through the courtesy of The Gas Company and the gas appliance dealers in Hawaiʻi.  Be sure to tune in again next Tuesday at
+56:07	8 p.m. for another hour of Ka Leo Hawaiʻi.
+56:11	# This is the end of Hawaiian tape HV24 reel 34.

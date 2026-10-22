@@ -1,0 +1,5538 @@
+# newdoc id = HV24.011_Abraham_Hannah_Nīʻau_19721018
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_1
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_2
+# text = A iā ʻoukou a pau loa, welina nō o ke aloha, kākou e nā makamaka.
+1	A	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	pau	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	welina	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	ke	_	_	_	_	_	_	_	_
+12	aloha	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kākou	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	nā	_	_	_	_	_	_	_	_
+17	makamaka	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_3
+# text = Mahalo nui kēia hui ʻana o kākou ma ka pahu hoʻolele leo ʻo KCCN.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kākou	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	pahu	_	_	_	_	_	_	_	_
+11	hoʻolele	_	_	_	_	_	_	_	_
+12	leo	_	_	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	KCCN	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_4
+# text = Eia nō mākou nā lālā o kēia papahana i hea ʻia ʻo Ka Leo Hawaiʻi, ke hoʻolaha nei i ka ʻōlelo o ka ʻāina, ka ʻōlelo makuahine.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	lālā	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	papahana	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	hea	_	_	_	_	_	_	_	_
+11	ʻia	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Ka	_	_	_	_	_	_	_	_
+14	Leo	_	_	_	_	_	_	_	_
+15	Hawaiʻi	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	hoʻolaha	_	_	_	_	_	_	_	_
+19	nei	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	ʻāina	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	ʻōlelo	_	_	_	_	_	_	_	_
+29	makuahine	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_5
+# text = E hui ʻōlelo Hawaiʻi kākou ma kēia hola hoʻokahi wale nō o ka pule, i mea liʻiliʻi nō kēia e hoʻomau aku i ka ʻōlelo a nā kūpuna.
+1	E	_	_	_	_	_	_	_	_
+2	hui	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	Hawaiʻi	_	_	_	_	_	_	_	_
+5	kākou	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	hola	_	_	_	_	_	_	_	_
+9	hoʻokahi	_	_	_	_	_	_	_	_
+10	wale	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	pule	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	mea	_	_	_	_	_	_	_	_
+18	liʻiliʻi	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	hoʻomau	_	_	_	_	_	_	_	_
+23	aku	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	ʻōlelo	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	nā	_	_	_	_	_	_	_	_
+29	kūpuna	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_6
+# text = ʻO ka mokupuni ʻo Niʻihau wale nō paha kahi e ʻōlelo mau nei i ka ʻōlelo Hawaiʻi, a, eia nō me kākou i kēia ahiahi he kupa o Niʻihau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mokupuni	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Niʻihau	_	_	_	_	_	_	_	_
+6	wale	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	kahi	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	ʻōlelo	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	nei	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	ʻōlelo	_	_	_	_	_	_	_	_
+17	Hawaiʻi	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	eia	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	kākou	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	ahiahi	_	_	_	_	_	_	_	_
+28	he	_	_	_	_	_	_	_	_
+29	kupa	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	Niʻihau	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_7
+# text = ʻO koʻu hauʻoli nui kēia e hoʻolauna mai iā ʻoukou me ko mākou hoa kipa ʻelua, ʻo ia ʻo Pāpā Nīʻau me Māmā Nīʻau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	hauʻoli	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolauna	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	ʻoukou	_	_	_	_	_	_	_	_
+11	me	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	hoa	_	_	_	_	_	_	_	_
+15	kipa	_	_	_	_	_	_	_	_
+16	ʻelua	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻo	_	_	_	_	_	_	_	_
+19	ia	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Pāpā	_	_	_	_	_	_	_	_
+22	Nīʻau	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	Māmā	_	_	_	_	_	_	_	_
+25	Nīʻau	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_8
+# text = Aloha mai nō.
+1	Aloha	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_9
+# text = 14:16 AN1 ʻAe, aloha.
+1	14	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	16	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_10
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_11
+# text = Pehea mai nō ʻolua? 14:19 AN1 ʻŌ, maikaʻi nō.
+1	Pehea	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻolua	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	14	_	_	_	_	_	_	_	_
+7	:	_	PUNCT	_	_	_	_	_	_
+8	19	_	_	_	_	_	_	_	_
+9	AN1	_	_	_	_	_	_	_	_
+10	ʻŌ	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	maikaʻi	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_12
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_13
+# text = A, e ʻoluʻolu e, e wehewehe mai iā mākou i kou one hānau, a i ka, i Aia ma hea ʻoe i hānau ʻia ai? 14:36 AN1 A, hānau ʻia nō wau ma ka mokupuni ʻo Niʻihau.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	ʻoluʻolu	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	wehewehe	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kou	_	_	_	_	_	_	_	_
+14	one	_	_	_	_	_	_	_	_
+15	hānau	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	Aia	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	hea	_	_	_	_	_	_	_	_
+25	ʻoe	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	hānau	_	_	_	_	_	_	_	_
+28	ʻia	_	_	_	_	_	_	_	_
+29	ai	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	14	_	_	_	_	_	_	_	_
+32	:	_	PUNCT	_	_	_	_	_	_
+33	36	_	_	_	_	_	_	_	_
+34	AN1	_	_	_	_	_	_	_	_
+35	A	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	hānau	_	_	_	_	_	_	_	_
+38	ʻia	_	_	_	_	_	_	_	_
+39	nō	_	_	_	_	_	_	_	_
+40	wau	_	_	_	_	_	_	_	_
+41	ma	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	mokupuni	_	_	_	_	_	_	_	_
+44	ʻo	_	_	_	_	_	_	_	_
+45	Niʻihau	_	_	_	_	_	_	_	_
+46	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_14
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_15
+# text = A ʻo ʻoe pū nō, e Māmā Nīʻau? Pololei? Hānau ʻia ʻoe i Niʻihau? I Niʻihau.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	pū	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Māmā	_	_	_	_	_	_	_	_
+9	Nīʻau	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Pololei	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	Hānau	_	_	_	_	_	_	_	_
+14	ʻia	_	_	_	_	_	_	_	_
+15	ʻoe	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Niʻihau	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	I	_	_	_	_	_	_	_	_
+20	Niʻihau	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_16
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_17
+# text = A, pehea kēia hele ʻana mai i Oʻahu nei? 14:55 AN1 ʻŌ, maikaʻi nō kēia hele ʻana mai i Oʻahu nei, a hui me ʻo nā ʻohana a pau o mākou ma ʻaneʻi i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Oʻahu	_	_	_	_	_	_	_	_
+10	nei	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	14	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	55	_	_	_	_	_	_	_	_
+15	AN1	_	_	_	_	_	_	_	_
+16	ʻŌ	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	maikaʻi	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	hele	_	_	_	_	_	_	_	_
+22	ʻana	_	_	_	_	_	_	_	_
+23	mai	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	Oʻahu	_	_	_	_	_	_	_	_
+26	nei	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	hui	_	_	_	_	_	_	_	_
+30	me	_	_	_	_	_	_	_	_
+31	ʻo	_	_	_	_	_	_	_	_
+32	nā	_	_	_	_	_	_	_	_
+33	ʻohana	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	pau	_	_	_	_	_	_	_	_
+36	o	_	_	_	_	_	_	_	_
+37	mākou	_	_	_	_	_	_	_	_
+38	ma	_	_	_	_	_	_	_	_
+39	ʻaneʻi	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	kēia	_	_	_	_	_	_	_	_
+42	manawa	_	_	_	_	_	_	_	_
+43	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_18
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_19
+# text = 15:02 AN1 Hauʻoli nō māua i ko māua ʻite ʻana i kā māua mau keiti ma ʻaneʻi i kēia manawa.
+1	15	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	02	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Hauʻoli	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	māua	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	māua	_	_	_	_	_	_	_	_
+11	ʻite	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kā	_	_	_	_	_	_	_	_
+15	māua	_	_	_	_	_	_	_	_
+16	mau	_	_	_	_	_	_	_	_
+17	keiti	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	ʻaneʻi	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_20
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_21
+# text = A i ka po poʻahia a ʻolua e hoʻi ai? 15:11 AN1 A Poʻalima.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	po	_	_	_	_	_	_	_	_
+5	poʻahia	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ʻolua	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hoʻi	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	15	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	11	_	_	_	_	_	_	_	_
+15	AN1	_	_	_	_	_	_	_	_
+16	A	_	_	_	_	_	_	_	_
+17	Poʻalima	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_22
+# text = Poʻalima.
+1	Poʻalima	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_23
+# text = 15:13 AN1 {Mū.
+1	15	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_24
+# text = } Mahalo nui i ko ʻolua hele ʻana mai i kēia ahiahi e, ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Mahalo	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	ʻolua	_	_	_	_	_	_	_	_
+7	hele	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	ahiahi	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_25
+# text = hui kūkākūkā kākou ma ka ʻolelo Maʻamau nō paha iā ʻoukou i Niʻihau, iā kākou ma kēia mau mokupuni ʻē aʻe, ʻaʻohe nō kākou walaʻau mau e like nō paha me kā ʻoukou.
+1	hui	_	_	_	_	_	_	_	_
+2	kūkākūkā	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻolelo	_	_	_	_	_	_	_	_
+7	Maʻamau	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Niʻihau	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	kākou	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	mokupuni	_	_	_	_	_	_	_	_
+21	ʻē	_	_	_	_	_	_	_	_
+22	aʻe	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻaʻohe	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	kākou	_	_	_	_	_	_	_	_
+27	walaʻau	_	_	_	_	_	_	_	_
+28	mau	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	like	_	_	_	_	_	_	_	_
+31	nō	_	_	_	_	_	_	_	_
+32	paha	_	_	_	_	_	_	_	_
+33	me	_	_	_	_	_	_	_	_
+34	kā	_	_	_	_	_	_	_	_
+35	ʻoukou	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_26
+# text = 15:29 AN1 ʻAe.
+1	15	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	29	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_27
+# text = Kā mākou ʻōlelo makuahine a ʻo ia nō ka ʻōlelo o ke a, o mākou ma Niʻihau.
+1	Kā	_	_	_	_	_	_	_	_
+2	mākou	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	makuahine	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ʻo	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	mākou	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	Niʻihau	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_28
+# text = I kēlā me kēia lā, 15:36 AN1 ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	lā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	15	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	36	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_29
+# text = i nā manawa a pau.
+1	i	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	pau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_30
+# text = 15:37 AN1 Kēlā lā kēia lā.
+1	15	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	37	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kēlā	_	_	_	_	_	_	_	_
+6	lā	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	lā	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_31
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_32
+# text = 15:38 AN1 Mākou, nā mākua, kā mākou mau keiti, nā moʻopuna.
+1	15	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	38	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Mākou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mākua	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kā	_	_	_	_	_	_	_	_
+11	mākou	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	keiti	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	moʻopuna	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_33
+# text = Hoʻokahi no ʻōlelo.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_34
+# text = ʻŌlelo makuahine.
+1	ʻŌlelo	_	_	_	_	_	_	_	_
+2	makuahine	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_35
+# text = A pehea lā i ka hele ʻana i ke kula o nā kamaliʻi? Pehea, aʻo nō lākou i ka ʻōlelo haole nō? 15:52 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	ʻana	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	kula	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	kamaliʻi	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	Pehea	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	aʻo	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	lākou	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	ʻōlelo	_	_	_	_	_	_	_	_
+23	haole	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	15	_	_	_	_	_	_	_	_
+27	:	_	PUNCT	_	_	_	_	_	_
+28	52	_	_	_	_	_	_	_	_
+29	AN1	_	_	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_36
+# text = Aʻo nō lākou i ka ʻōlelo haole.
+1	Aʻo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	haole	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_37
+# text = A, pau nō ke kula, a, ʻōlelo nō lākou i ka ʻōlelo makuahine.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ke	_	_	_	_	_	_	_	_
+6	kula	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻōlelo	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻōlelo	_	_	_	_	_	_	_	_
+16	makuahine	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_38
+# text = 16:00LK ʻĒ.
+1	16	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	00LK	_	_	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_39
+# text = A, ʻehia nā papa ma ke kula ʻo Niʻihau? 16:06 AN1 ʻEwalu.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻehia	_	_	_	_	_	_	_	_
+4	nā	_	_	_	_	_	_	_	_
+5	papa	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kula	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	16	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	06	_	_	_	_	_	_	_	_
+15	AN1	_	_	_	_	_	_	_	_
+16	ʻEwalu	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_40
+# text = A he papa ʻewalu, pau.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	papa	_	_	_	_	_	_	_	_
+4	ʻewalu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_41
+# text = ʻŌ, ʻewalu wale nō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻewalu	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_42
+# text = 16:09 AN1 ʻĒ.
+1	16	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	09	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_43
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_44
+# text = A ma waho aʻe o kēlā, pehea? 16:12 AN1 A ma waho aʻe o kēlā, a hele nō lākou a pau i ko lākou manawa hele kula a loaʻa ka papa ʻewalu, pau ko lākou hele ʻana i ke kula, a hoʻomaha nō lākou ma ka hale, a hele nō hoʻi i ka lawaiʻa, ʻĒ.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	waho	_	_	_	_	_	_	_	_
+4	aʻe	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	pehea	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	16	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	12	_	_	_	_	_	_	_	_
+13	AN1	_	_	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	ma	_	_	_	_	_	_	_	_
+16	waho	_	_	_	_	_	_	_	_
+17	aʻe	_	_	_	_	_	_	_	_
+18	o	_	_	_	_	_	_	_	_
+19	kēlā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	hele	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	lākou	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	pau	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	ko	_	_	_	_	_	_	_	_
+29	lākou	_	_	_	_	_	_	_	_
+30	manawa	_	_	_	_	_	_	_	_
+31	hele	_	_	_	_	_	_	_	_
+32	kula	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	loaʻa	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	papa	_	_	_	_	_	_	_	_
+37	ʻewalu	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	pau	_	_	_	_	_	_	_	_
+40	ko	_	_	_	_	_	_	_	_
+41	lākou	_	_	_	_	_	_	_	_
+42	hele	_	_	_	_	_	_	_	_
+43	ʻana	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	ke	_	_	_	_	_	_	_	_
+46	kula	_	_	_	_	_	_	_	_
+47	,	_	PUNCT	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	hoʻomaha	_	_	_	_	_	_	_	_
+50	nō	_	_	_	_	_	_	_	_
+51	lākou	_	_	_	_	_	_	_	_
+52	ma	_	_	_	_	_	_	_	_
+53	ka	_	_	_	_	_	_	_	_
+54	hale	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	a	_	_	_	_	_	_	_	_
+57	hele	_	_	_	_	_	_	_	_
+58	nō	_	_	_	_	_	_	_	_
+59	hoʻi	_	_	_	_	_	_	_	_
+60	i	_	_	_	_	_	_	_	_
+61	ka	_	_	_	_	_	_	_	_
+62	lawaiʻa	_	_	_	_	_	_	_	_
+63	,	_	PUNCT	_	_	_	_	_	_
+64	ʻĒ	_	_	_	_	_	_	_	_
+65	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_45
+# text = 16:24 AN1 a hele i kau lio, a, ʻAe.
+1	16	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	24	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kau	_	_	_	_	_	_	_	_
+9	lio	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_46
+# text = He, he aha ka hana nō ma Niʻihau? 16:30 AN1 A, nui nō ka hana o Niʻihau.
+1	He	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	aha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hana	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	Niʻihau	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	16	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	30	_	_	_	_	_	_	_	_
+14	AN1	_	_	_	_	_	_	_	_
+15	A	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	nui	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	Niʻihau	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_47
+# text = I kēia manawa, hana nānahu.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	nānahu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_48
+# text = Hoʻouna mai ma Kauaʻi, Honolulu nei a hiki loa i Kaleponi.
+1	Hoʻouna	_	_	_	_	_	_	_	_
+2	mai	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Kauaʻi	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	Honolulu	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	hiki	_	_	_	_	_	_	_	_
+10	loa	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Kaleponi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_49
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_50
+# text = 16:42 AN1 ʻO ia ka hana nui i kēia manawa ma ka ʻāina i kēia manawa.
+1	16	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	42	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hana	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	manawa	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	manawa	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_51
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_52
+# text = ʻO ka nānahu wale nō? 16:47 AN1 Nānahu, a mau hana hoʻoponopono i nā pā, i nā wahi hemahema, a poʻe hana paniolo, ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nānahu	_	_	_	_	_	_	_	_
+4	wale	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	16	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	47	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	Nānahu	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	mau	_	_	_	_	_	_	_	_
+15	hana	_	_	_	_	_	_	_	_
+16	hoʻoponopono	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	pā	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	wahi	_	_	_	_	_	_	_	_
+24	hemahema	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	poʻe	_	_	_	_	_	_	_	_
+28	hana	_	_	_	_	_	_	_	_
+29	paniolo	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	ʻĒ	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_53
+# text = 16:54 AN1 Huli pipi, ʻo ia mau hana.
+1	16	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	54	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Huli	_	_	_	_	_	_	_	_
+6	pipi	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ʻo	_	_	_	_	_	_	_	_
+9	ia	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_54
+# text = A ʻo ka hone paha? 16:58 AN1 Ka hone, ʻē.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hone	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	16	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	58	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	Ka	_	_	_	_	_	_	_	_
+12	hone	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻē	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_55
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_56
+# text = 17:00 AN1 Hana hone.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	00	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Hana	_	_	_	_	_	_	_	_
+6	hone	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_57
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_58
+# text = } Mau nō ka hānai ʻana i ka hipa? 17:04 AN1 ʻAe, ʻo ia mau nō ka hānai ʻana i hipa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	Mau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	hānai	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hipa	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	17	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	04	_	_	_	_	_	_	_	_
+14	AN1	_	_	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hānai	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	hipa	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_59
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_60
+# text = 17:07 AN1 ʻO ia mau nō.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	07	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_61
+# text = No ka, no ka hulu, a i ʻole, no ka ʻiʻo nō? 17:11 AN1 A, no ka ʻiʻo ketahi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	hulu	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	no	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻiʻo	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	17	_	_	_	_	_	_	_	_
+18	:	_	PUNCT	_	_	_	_	_	_
+19	11	_	_	_	_	_	_	_	_
+20	AN1	_	_	_	_	_	_	_	_
+21	A	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	no	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	ʻiʻo	_	_	_	_	_	_	_	_
+26	ketahi	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_62
+# text = Inā kātou makemake i ka ʻiʻo o ka hipa, hiki nō.
+1	Inā	_	_	_	_	_	_	_	_
+2	kātou	_	_	_	_	_	_	_	_
+3	makemake	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻiʻo	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hipa	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hiki	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_63
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_64
+# text = 17:15 AN1 A ka hulu, a, mālama ʻia no ka mea kūʻai i ka ʻāina haole, i Kaleponi.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	15	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hulu	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	mālama	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	mea	_	_	_	_	_	_	_	_
+16	kūʻai	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ʻāina	_	_	_	_	_	_	_	_
+20	haole	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	Kaleponi	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_65
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_66
+# text = Pehea, he, he ʻāina maloʻo paha ka nui o Niʻihau? A.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	ʻāina	_	_	_	_	_	_	_	_
+7	maloʻo	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	nui	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Niʻihau	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	A	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_67
+# text = 17:27 AN1 A.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	27	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_68
+# text = ʻAʻohe nui paha ka wai? 17:30 AN1 Wai nō ma kekahi mau wahi, a ma ketahi mau wahi, maloʻo nō.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	17	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	30	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	Wai	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	wahi	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	ketahi	_	_	_	_	_	_	_	_
+21	mau	_	_	_	_	_	_	_	_
+22	wahi	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	maloʻo	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_69
+# text = Maloʻo.
+1	Maloʻo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_70
+# text = 17:34 AN1 {Mū.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	34	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_71
+# text = } ʻĒ.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻĒ	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_72
+# text = A ʻo kēia nānahu, he aha ka lāʻau i hana ʻia ai no ka nānahu? 17:38 AN1 He kiawe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	nānahu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	aha	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	lāʻau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	ʻia	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	nānahu	_	_	_	_	_	_	_	_
+17	?	_	PUNCT	_	_	_	_	_	_
+18	17	_	_	_	_	_	_	_	_
+19	:	_	PUNCT	_	_	_	_	_	_
+20	38	_	_	_	_	_	_	_	_
+21	AN1	_	_	_	_	_	_	_	_
+22	He	_	_	_	_	_	_	_	_
+23	kiawe	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_73
+# text = He kiawe.
+1	He	_	_	_	_	_	_	_	_
+2	kiawe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_74
+# text = 17:39 AN1 Kiawe.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	39	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kiawe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_75
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_76
+# text = A he mau kumu lāʻau ʻē aʻe nō paha? ʻAʻole? 17:46 AN1 A, mau kumu lāʻau ʻokoʻa ʻē aʻe nō ketahi a.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	kumu	_	_	_	_	_	_	_	_
+5	lāʻau	_	_	_	_	_	_	_	_
+6	ʻē	_	_	_	_	_	_	_	_
+7	aʻe	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	ʻAʻole	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	17	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	46	_	_	_	_	_	_	_	_
+16	AN1	_	_	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	kumu	_	_	_	_	_	_	_	_
+21	lāʻau	_	_	_	_	_	_	_	_
+22	ʻokoʻa	_	_	_	_	_	_	_	_
+23	ʻē	_	_	_	_	_	_	_	_
+24	aʻe	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	ketahi	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_77
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_78
+# text = ʻO ke kiawe ka nui? 17:49 AN1 {Mū,} kiawe ka nui.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	kiawe	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	17	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	49	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	{	_	PUNCT	_	_	_	_	_	_
+12	Mū	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	}	_	PUNCT	_	_	_	_	_	_
+15	kiawe	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	nui	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_79
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_80
+# text = 17:51 AN1 Kiawe, ke koa Hawaiʻi, koa, ʻo ia mau ʻano.
+1	17	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	51	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kiawe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	koa	_	_	_	_	_	_	_	_
+9	Hawaiʻi	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	koa	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻo	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	ʻano	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_81
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_82
+# text = A pehea kā ʻoukou wai? Pehea e loaʻa ai ka wai? 17:58 AN1 A, wai nō ko mākou wai i kēia manawa, he wai mai, wai ua.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	kā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	Pehea	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	loaʻa	_	_	_	_	_	_	_	_
+10	ai	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	wai	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	17	_	_	_	_	_	_	_	_
+15	:	_	PUNCT	_	_	_	_	_	_
+16	58	_	_	_	_	_	_	_	_
+17	AN1	_	_	_	_	_	_	_	_
+18	A	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	wai	_	_	_	_	_	_	_	_
+21	nō	_	_	_	_	_	_	_	_
+22	ko	_	_	_	_	_	_	_	_
+23	mākou	_	_	_	_	_	_	_	_
+24	wai	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kēia	_	_	_	_	_	_	_	_
+27	manawa	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	he	_	_	_	_	_	_	_	_
+30	wai	_	_	_	_	_	_	_	_
+31	mai	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	wai	_	_	_	_	_	_	_	_
+34	ua	_	_	_	_	_	_	_	_
+35	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_83
+# text = Wai ua.
+1	Wai	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_84
+# text = 18:02 AN1 ʻĒ.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	02	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_85
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_86
+# text = He pahu wai nō kā ʻoukou? 18:04 AN1 ʻAe, Pahu ua nō ko mākou.
+1	He	_	_	_	_	_	_	_	_
+2	pahu	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	18	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	04	_	_	_	_	_	_	_	_
+11	AN1	_	_	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	Pahu	_	_	_	_	_	_	_	_
+15	ua	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	ko	_	_	_	_	_	_	_	_
+18	mākou	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_87
+# text = ʻAʻohe kahawai o ko, o, Niʻihau? 18:08 AN1 ʻAʻohe kahawai.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	kahawai	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	18	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	08	_	_	_	_	_	_	_	_
+13	AN1	_	_	_	_	_	_	_	_
+14	ʻAʻohe	_	_	_	_	_	_	_	_
+15	kahawai	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_88
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_89
+# text = Pehea ka pūnāwai? {Uhu.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pūnāwai	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Uhu	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_90
+# text = } 18:12 AN1 Pūnāwai, he loaʻa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	18	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	12	_	_	_	_	_	_	_	_
+5	AN1	_	_	_	_	_	_	_	_
+6	Pūnāwai	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	loaʻa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_91
+# text = Loaʻa.
+1	Loaʻa	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_92
+# text = 18:13 AN1 ʻĒ.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_93
+# text = No nā holoholona.
+1	No	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	holoholona	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_94
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_95
+# text = 18:16 AN1 {Mū.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	16	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	{	_	PUNCT	_	_	_	_	_	_
+6	Mū	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_96
+# text = } He wai hapa kai paha? 18:17 AN1 He wai hapa kai.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	He	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	hapa	_	_	_	_	_	_	_	_
+5	kai	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	18	_	_	_	_	_	_	_	_
+9	:	_	PUNCT	_	_	_	_	_	_
+10	17	_	_	_	_	_	_	_	_
+11	AN1	_	_	_	_	_	_	_	_
+12	He	_	_	_	_	_	_	_	_
+13	wai	_	_	_	_	_	_	_	_
+14	hapa	_	_	_	_	_	_	_	_
+15	kai	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_97
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_98
+# text = A ʻo ia nō paha ka hana, ka hana nui o Niʻihau, ka hānai pipi? 18:25 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hana	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	nui	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	Niʻihau	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	hānai	_	_	_	_	_	_	_	_
+17	pipi	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	18	_	_	_	_	_	_	_	_
+20	:	_	PUNCT	_	_	_	_	_	_
+21	25	_	_	_	_	_	_	_	_
+22	AN1	_	_	_	_	_	_	_	_
+23	ʻAe	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_99
+# text = ʻO ia nō ka hana nui o kēlā ʻāina, hānai pipi, a mālama hipa, a, ʻĒ.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēlā	_	_	_	_	_	_	_	_
+9	ʻāina	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hānai	_	_	_	_	_	_	_	_
+12	pipi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	mālama	_	_	_	_	_	_	_	_
+16	hipa	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ʻĒ	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_100
+# text = 18:31 AN1 hana mālama hone, a, hana nānahu.
+1	18	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	31	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	mālama	_	_	_	_	_	_	_	_
+7	hone	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	nānahu	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_101
+# text = Pehea ka nui o ka poʻe i kēia manawa? 18:39 AN1 A.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	manawa	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	18	_	_	_	_	_	_	_	_
+12	:	_	PUNCT	_	_	_	_	_	_
+13	39	_	_	_	_	_	_	_	_
+14	AN1	_	_	_	_	_	_	_	_
+15	A	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_102
+# text = I Niʻihau? 18:41 AN1 Inā hui nā mākua me nā kamaliʻi, a, ʻeu ʻelua haneli paha a ʻoi i kēia manawa.
+1	I	_	_	_	_	_	_	_	_
+2	Niʻihau	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	18	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	41	_	_	_	_	_	_	_	_
+7	AN1	_	_	_	_	_	_	_	_
+8	Inā	_	_	_	_	_	_	_	_
+9	hui	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mākua	_	_	_	_	_	_	_	_
+12	me	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	kamaliʻi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	ʻeu	_	_	_	_	_	_	_	_
+19	ʻelua	_	_	_	_	_	_	_	_
+20	haneli	_	_	_	_	_	_	_	_
+21	paha	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	ʻoi	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	manawa	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_103
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_104
+# text = A noho mau nō ʻoe i Niʻihau, a i ʻole, ua hele paha ʻoe i waho e hana ai i kekahi wahi ʻē aʻe? 18:55 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	noho	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Niʻihau	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ua	_	_	_	_	_	_	_	_
+14	hele	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	ʻoe	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	waho	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	ai	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kekahi	_	_	_	_	_	_	_	_
+24	wahi	_	_	_	_	_	_	_	_
+25	ʻē	_	_	_	_	_	_	_	_
+26	aʻe	_	_	_	_	_	_	_	_
+27	?	_	PUNCT	_	_	_	_	_	_
+28	18	_	_	_	_	_	_	_	_
+29	:	_	PUNCT	_	_	_	_	_	_
+30	55	_	_	_	_	_	_	_	_
+31	AN1	_	_	_	_	_	_	_	_
+32	ʻAe	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_105
+# text = I koʻu mau lā ʻōpiopio, a, hana mau ma ka, ma ka mokupuni ʻo Kauaʻi.
+1	I	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	lā	_	_	_	_	_	_	_	_
+5	ʻōpiopio	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hana	_	_	_	_	_	_	_	_
+10	mau	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ma	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	mokupuni	_	_	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	Kauaʻi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_106
+# text = Ma laila hoʻomaka e hana.
+1	Ma	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	hoʻomaka	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	hana	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_107
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_108
+# text = 19:06 AN1 A.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	06	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_109
+# text = Ma ka mokuahi? 19:07 AN1 ʻAʻole.
+1	Ma	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mokuahi	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	19	_	_	_	_	_	_	_	_
+6	:	_	PUNCT	_	_	_	_	_	_
+7	07	_	_	_	_	_	_	_	_
+8	AN1	_	_	_	_	_	_	_	_
+9	ʻAʻole	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_110
+# text = Hana wau i kekahi a, pale wai ma kēlā ʻāina ʻo Kauaʻi.
+1	Hana	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	pale	_	_	_	_	_	_	_	_
+8	wai	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	kēlā	_	_	_	_	_	_	_	_
+11	ʻāina	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	Kauaʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_111
+# text = ʻO ia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_112
+# text = 19:13 AN1 ʻĒ.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_113
+# text = Hoʻomaka ʻana kēlā, hele i waho nei e hana.
+1	Hoʻomaka	_	_	_	_	_	_	_	_
+2	ʻana	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	hele	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	waho	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_114
+# text = A pau kēlā hana, a, hele wau i ka holo mokuahi.
+1	A	_	_	_	_	_	_	_	_
+2	pau	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	wau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	holo	_	_	_	_	_	_	_	_
+13	mokuahi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_115
+# text = I ia manawa, holo nō ka mokuahi i waena o nā mokupuni a pau, 19:27 AN1 ʻAe.
+1	I	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	holo	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mokuahi	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	waena	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	mokupuni	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	pau	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	19	_	_	_	_	_	_	_	_
+18	:	_	PUNCT	_	_	_	_	_	_
+19	27	_	_	_	_	_	_	_	_
+20	AN1	_	_	_	_	_	_	_	_
+21	ʻAe	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_116
+# text = o Hawaiʻi nei, ē? 19:28 AN1 ʻĒ.
+1	o	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ē	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	19	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	28	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	ʻĒ	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_117
+# text = I kēia manawa, pau loa.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pau	_	_	_	_	_	_	_	_
+6	loa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_118
+# text = 19:30 AN1 Ia manawa, holo nō ka mokuahi ma Niʻihau.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	30	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Ia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	holo	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	mokuahi	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	Niʻihau	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_119
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_120
+# text = 19:34 AN1 Lawe i ka ukana, kiʻi i nā pipi, a hipa, {Mū.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	34	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Lawe	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ukana	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kiʻi	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	nā	_	_	_	_	_	_	_	_
+13	pipi	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	hipa	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	{	_	PUNCT	_	_	_	_	_	_
+19	Mū	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_121
+# text = } 19:39 AN1 i ia manawa.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	19	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	39	_	_	_	_	_	_	_	_
+5	AN1	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ia	_	_	_	_	_	_	_	_
+8	manawa	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_122
+# text = Pēlā nō e halihali ai i nā u nā pono, 19:43 AN1 ʻAe.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	halihali	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	u	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	pono	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	19	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	43	_	_	_	_	_	_	_	_
+15	AN1	_	_	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_123
+# text = no ka ʻāina ʻo Niʻihau, ē? 19:44 AN1 Pēlā nō.
+1	no	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ʻāina	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Niʻihau	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ē	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	19	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	44	_	_	_	_	_	_	_	_
+12	AN1	_	_	_	_	_	_	_	_
+13	Pēlā	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_124
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_125
+# text = No ka mea, ʻaʻohe, ʻaohe kahua mokulele, ē? 19:49 AN1 ʻĒ, ʻaʻohe kahua mokulele.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻaʻohe	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻaohe	_	_	_	_	_	_	_	_
+8	kahua	_	_	_	_	_	_	_	_
+9	mokulele	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ē	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	19	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	49	_	_	_	_	_	_	_	_
+16	AN1	_	_	_	_	_	_	_	_
+17	ʻĒ	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻaʻohe	_	_	_	_	_	_	_	_
+20	kahua	_	_	_	_	_	_	_	_
+21	mokulele	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_126
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_127
+# text = ʻAʻohe uila? 19:53 AN1 ʻAʻohe uila.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	uila	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	53	_	_	_	_	_	_	_	_
+7	AN1	_	_	_	_	_	_	_	_
+8	ʻAʻohe	_	_	_	_	_	_	_	_
+9	uila	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_128
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_129
+# text = 19:55 AN1 Kukui hele pō nō.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	55	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kukui	_	_	_	_	_	_	_	_
+6	hele	_	_	_	_	_	_	_	_
+7	pō	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_130
+# text = 19:56 AN1 ʻAe.
+1	19	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	56	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_131
+# text = Akā, ua lako nō ka noho ʻana.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	lako	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	noho	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_132
+# text = 20:01 AN1 ʻAe.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	01	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_133
+# text = Ua ʻoluʻolu.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻoluʻolu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_134
+# text = 20:01 AN1 Lako.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	01	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Lako	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_135
+# text = ʻAe, lako.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	lako	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_136
+# text = 20:03 AN1 A lako ka noho ʻana.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	03	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	lako	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	noho	_	_	_	_	_	_	_	_
+9	ʻana	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_137
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_138
+# text = A, a i kēia manawa, he aha kāu hana? 20:11 AN1 A, i kēia manawa, ua ho ua hoʻomaha wau mai ka hana mai.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	aha	_	_	_	_	_	_	_	_
+10	kāu	_	_	_	_	_	_	_	_
+11	hana	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	20	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	11	_	_	_	_	_	_	_	_
+16	AN1	_	_	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	manawa	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ua	_	_	_	_	_	_	_	_
+24	ho	_	_	_	_	_	_	_	_
+25	ua	_	_	_	_	_	_	_	_
+26	hoʻomaha	_	_	_	_	_	_	_	_
+27	wau	_	_	_	_	_	_	_	_
+28	mai	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	hana	_	_	_	_	_	_	_	_
+31	mai	_	_	_	_	_	_	_	_
+32	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_139
+# text = {Uhu.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Uhu	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_140
+# text = } ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_141
+# text = A ma mua, ma hope mai o kēia hana ʻana ma nuna o nā mokuahi, a hoʻi hou, hoʻi nō ʻoe i Niʻihau e hana ai? 20:22 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	mua	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ma	_	_	_	_	_	_	_	_
+6	hope	_	_	_	_	_	_	_	_
+7	mai	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	hana	_	_	_	_	_	_	_	_
+11	ʻana	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	nuna	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	nā	_	_	_	_	_	_	_	_
+16	mokuahi	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	hoʻi	_	_	_	_	_	_	_	_
+20	hou	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	hoʻi	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	ʻoe	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	Niʻihau	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	hana	_	_	_	_	_	_	_	_
+29	ai	_	_	_	_	_	_	_	_
+30	?	_	PUNCT	_	_	_	_	_	_
+31	20	_	_	_	_	_	_	_	_
+32	:	_	PUNCT	_	_	_	_	_	_
+33	22	_	_	_	_	_	_	_	_
+34	AN1	_	_	_	_	_	_	_	_
+35	ʻAe	_	_	_	_	_	_	_	_
+36	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_142
+# text = Noho wau ma Oʻahu nei kokoke no ʻekolu makahiti.
+1	Noho	_	_	_	_	_	_	_	_
+2	wau	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	Oʻahu	_	_	_	_	_	_	_	_
+5	nei	_	_	_	_	_	_	_	_
+6	kokoke	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ʻekolu	_	_	_	_	_	_	_	_
+9	makahiti	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_143
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_144
+# text = 20:28 AN1 A holo wau ma nuna o nā mokuahi.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	28	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	holo	_	_	_	_	_	_	_	_
+7	wau	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	nuna	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	mokuahi	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_145
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_146
+# text = 20:31 AN1 Hele i Hawaiʻi, Maui, Molokaʻi, Lānaʻi.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	31	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Hele	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Hawaiʻi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	Maui	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Molokaʻi	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	Lānaʻi	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_147
+# text = ʻO wai ka inoa o kekahi mau mokuahi o ia manawa? 20:40 AN1 A koʻu manawa e holo, e hele ana, ʻo Hawaiʻi, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kekahi	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	mokuahi	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	ia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	?	_	PUNCT	_	_	_	_	_	_
+13	20	_	_	_	_	_	_	_	_
+14	:	_	PUNCT	_	_	_	_	_	_
+15	40	_	_	_	_	_	_	_	_
+16	AN1	_	_	_	_	_	_	_	_
+17	A	_	_	_	_	_	_	_	_
+18	koʻu	_	_	_	_	_	_	_	_
+19	manawa	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	holo	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	hele	_	_	_	_	_	_	_	_
+25	ana	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	Hawaiʻi	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_148
+# text = 20:45 AN1 A, me Humuʻula.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	45	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	A	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	Humuʻula	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_149
+# text = Me Humuʻula.
+1	Me	_	_	_	_	_	_	_	_
+2	Humuʻula	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_150
+# text = 20:47 AN1 ʻĒ.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	47	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻĒ	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_151
+# text = ʻO ka, ʻo ka moku ʻo Humuʻula, ʻo ia ka hope loa paha o nā mokuahi? 20:52 AN1 ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	moku	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Humuʻula	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hope	_	_	_	_	_	_	_	_
+14	loa	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	nā	_	_	_	_	_	_	_	_
+18	mokuahi	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	20	_	_	_	_	_	_	_	_
+21	:	_	PUNCT	_	_	_	_	_	_
+22	52	_	_	_	_	_	_	_	_
+23	AN1	_	_	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_152
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_153
+# text = 20:53 AN1 ʻO ia ka hope loa.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	53	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	hope	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_154
+# text = Lawe ʻōhua, 20:55 AN1 ʻĒ.
+1	Lawe	_	_	_	_	_	_	_	_
+2	ʻōhua	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	20	_	_	_	_	_	_	_	_
+5	:	_	PUNCT	_	_	_	_	_	_
+6	55	_	_	_	_	_	_	_	_
+7	AN1	_	_	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_155
+# text = lawe ukana paha.
+1	lawe	_	_	_	_	_	_	_	_
+2	ukana	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_156
+# text = 20:56 AN1 Lawe ukana.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	56	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Lawe	_	_	_	_	_	_	_	_
+6	ukana	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_157
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_158
+# text = 20:57 AN1 Hele i Kawaihae, a loaʻa ka pipi, n Kailua, ʻĒ.
+1	20	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	57	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Hele	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Kawaihae	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	loaʻa	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pipi	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	n	_	_	_	_	_	_	_	_
+15	Kailua	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻĒ	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_159
+# text = 21:02 AN1 Nāpoʻopoʻo, Kaʻaluʻalu.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	02	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Nāpoʻopoʻo	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Kaʻaluʻalu	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_160
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_161
+# text = 21:05 AN1 ʻO ia mau wahi.
+1	21	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	05	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	ʻO	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	mau	_	_	_	_	_	_	_	_
+8	wahi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_162
+# text = A.
+1	A	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_163
+# text = Kēia manawa, iā ʻoukou e nā mea e hoʻolohe ana, inā paha he nīnau paha kā ʻoukou, a i ʻole, he manaʻo paha ko ʻoukou e makemake ana e wehewehe, e ʻoluʻolu e kāhea mai nō.
+1	Kēia	_	_	_	_	_	_	_	_
+2	manawa	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻolohe	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	inā	_	_	_	_	_	_	_	_
+14	paha	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	nīnau	_	_	_	_	_	_	_	_
+17	paha	_	_	_	_	_	_	_	_
+18	kā	_	_	_	_	_	_	_	_
+19	ʻoukou	_	_	_	_	_	_	_	_
+20	,	_	PUNCT	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ʻole	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	he	_	_	_	_	_	_	_	_
+26	manaʻo	_	_	_	_	_	_	_	_
+27	paha	_	_	_	_	_	_	_	_
+28	ko	_	_	_	_	_	_	_	_
+29	ʻoukou	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	makemake	_	_	_	_	_	_	_	_
+32	ana	_	_	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	wehewehe	_	_	_	_	_	_	_	_
+35	,	_	PUNCT	_	_	_	_	_	_
+36	e	_	_	_	_	_	_	_	_
+37	ʻoluʻolu	_	_	_	_	_	_	_	_
+38	e	_	_	_	_	_	_	_	_
+39	kāhea	_	_	_	_	_	_	_	_
+40	mai	_	_	_	_	_	_	_	_
+41	nō	_	_	_	_	_	_	_	_
+42	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_164
+# text = A, eia nō nā helu o kēia kahua pahu le pahu hoʻolele leo, ʻo ia ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	eia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	nā	_	_	_	_	_	_	_	_
+6	helu	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	kahua	_	_	_	_	_	_	_	_
+10	pahu	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	pahu	_	_	_	_	_	_	_	_
+13	hoʻolele	_	_	_	_	_	_	_	_
+14	leo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻo	_	_	_	_	_	_	_	_
+17	ia	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	helu	_	_	_	_	_	_	_	_
+20	ʻeiwa	_	_	_	_	_	_	_	_
+21	ʻelua	_	_	_	_	_	_	_	_
+22	ʻekolu	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	ʻole	_	_	_	_	_	_	_	_
+25	ʻehā	_	_	_	_	_	_	_	_
+26	ʻole	_	_	_	_	_	_	_	_
+27	ʻelua	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_165
+# text = Me ka helu ʻole ʻehā, a, e kala mai, ka helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Me	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻole	_	_	_	_	_	_	_	_
+5	ʻehā	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	kala	_	_	_	_	_	_	_	_
+11	mai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	helu	_	_	_	_	_	_	_	_
+15	ʻeiwa	_	_	_	_	_	_	_	_
+16	ʻelua	_	_	_	_	_	_	_	_
+17	ʻekolu	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	ʻole	_	_	_	_	_	_	_	_
+20	ʻehā	_	_	_	_	_	_	_	_
+21	ʻole	_	_	_	_	_	_	_	_
+22	ʻekolu	_	_	_	_	_	_	_	_
+23	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_166
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_167
+# text = A, i Niʻihau nō, mea, ma Niʻihau i kēia manawa, a, mau nō ka walaʻau ʻana i ka ʻōlelo makuahine, ʻeā? 21:54 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Niʻihau	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	mau	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	walaʻau	_	_	_	_	_	_	_	_
+21	ʻana	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	ka	_	_	_	_	_	_	_	_
+24	ʻōlelo	_	_	_	_	_	_	_	_
+25	makuahine	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻeā	_	_	_	_	_	_	_	_
+28	?	_	PUNCT	_	_	_	_	_	_
+29	21	_	_	_	_	_	_	_	_
+30	:	_	PUNCT	_	_	_	_	_	_
+31	54	_	_	_	_	_	_	_	_
+32	AN1	_	_	_	_	_	_	_	_
+33	ʻAe	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_168
+# text = Pehea nā kamaliʻi ke lākou haʻalele i ka ʻāina? Hiki nō lākou ke hoʻi hou mai nō i Niʻihau? 22:00 AN1 A hiki nō.
+1	Pehea	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	kamaliʻi	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	lākou	_	_	_	_	_	_	_	_
+6	haʻalele	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻāina	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	Hiki	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	lākou	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	hoʻi	_	_	_	_	_	_	_	_
+16	hou	_	_	_	_	_	_	_	_
+17	mai	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	Niʻihau	_	_	_	_	_	_	_	_
+21	?	_	PUNCT	_	_	_	_	_	_
+22	22	_	_	_	_	_	_	_	_
+23	:	_	PUNCT	_	_	_	_	_	_
+24	00	_	_	_	_	_	_	_	_
+25	AN1	_	_	_	_	_	_	_	_
+26	A	_	_	_	_	_	_	_	_
+27	hiki	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_169
+# text = Hiki nō.
+1	Hiki	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_170
+# text = 22:02 AN1 Inā lākou nō ka hele mai nei, hoʻonaʻauao hoʻi iā lākou, hele paha i Tamehameha, ʻo ia mau ʻano, hiki nō.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	02	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Inā	_	_	_	_	_	_	_	_
+6	lākou	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	mai	_	_	_	_	_	_	_	_
+11	nei	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	hoʻonaʻauao	_	_	_	_	_	_	_	_
+14	hoʻi	_	_	_	_	_	_	_	_
+15	iā	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	hele	_	_	_	_	_	_	_	_
+19	paha	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	Tamehameha	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	ia	_	_	_	_	_	_	_	_
+25	mau	_	_	_	_	_	_	_	_
+26	ʻano	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	hiki	_	_	_	_	_	_	_	_
+29	nō	_	_	_	_	_	_	_	_
+30	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_171
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_172
+# text = A ʻaʻole lākou poina i ka ʻōlelo makuahine? 22:13 AN1 ʻAʻole poina.
+1	A	_	_	_	_	_	_	_	_
+2	ʻaʻole	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	poina	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ʻōlelo	_	_	_	_	_	_	_	_
+8	makuahine	_	_	_	_	_	_	_	_
+9	?	_	PUNCT	_	_	_	_	_	_
+10	22	_	_	_	_	_	_	_	_
+11	:	_	PUNCT	_	_	_	_	_	_
+12	13	_	_	_	_	_	_	_	_
+13	AN1	_	_	_	_	_	_	_	_
+14	ʻAʻole	_	_	_	_	_	_	_	_
+15	poina	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_173
+# text = 22:15 AN1 Ua paʻa.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	15	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Ua	_	_	_	_	_	_	_	_
+6	paʻa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_174
+# text = 22:16 AN1 Ua paʻa.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	16	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Ua	_	_	_	_	_	_	_	_
+6	paʻa	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_175
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_176
+# text = A pehea ka noho ʻana i Niʻihau? ʻAʻohe nō paha e like nō me ko Honolulu nei? Ua ʻokoʻa loa nō paha? 22:26 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	noho	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Niʻihau	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAʻohe	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	like	_	_	_	_	_	_	_	_
+14	nō	_	_	_	_	_	_	_	_
+15	me	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	Honolulu	_	_	_	_	_	_	_	_
+18	nei	_	_	_	_	_	_	_	_
+19	?	_	PUNCT	_	_	_	_	_	_
+20	Ua	_	_	_	_	_	_	_	_
+21	ʻokoʻa	_	_	_	_	_	_	_	_
+22	loa	_	_	_	_	_	_	_	_
+23	nō	_	_	_	_	_	_	_	_
+24	paha	_	_	_	_	_	_	_	_
+25	?	_	PUNCT	_	_	_	_	_	_
+26	22	_	_	_	_	_	_	_	_
+27	:	_	PUNCT	_	_	_	_	_	_
+28	26	_	_	_	_	_	_	_	_
+29	AN1	_	_	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_177
+# text = ʻOkoʻa loa nō.
+1	ʻOkoʻa	_	_	_	_	_	_	_	_
+2	loa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_178
+# text = 22:28 AN1 Noho nō o Niʻihau nō, like mau nō me ka wā o nā kūpuna a me nā mākua.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	28	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Noho	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	like	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	me	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	wā	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	nā	_	_	_	_	_	_	_	_
+19	kūpuna	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	me	_	_	_	_	_	_	_	_
+22	nā	_	_	_	_	_	_	_	_
+23	mākua	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_179
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_180
+# text = ʻAʻohe nui paha ke kaʻa.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kaʻa	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_181
+# text = He kaʻa nō ko ʻoukou? 22:37 AN1 ʻAe.
+1	He	_	_	_	_	_	_	_	_
+2	kaʻa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	22	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	37	_	_	_	_	_	_	_	_
+10	AN1	_	_	_	_	_	_	_	_
+11	ʻAe	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_182
+# text = He kaʻa nō, ʻo ia kēia kaʻa a, Kalaka.
+1	He	_	_	_	_	_	_	_	_
+2	kaʻa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻo	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	kēia	_	_	_	_	_	_	_	_
+8	kaʻa	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	Kalaka	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_183
+# text = 22:40 AN1 Kalaka, ʻē.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	40	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kalaka	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ʻē	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_184
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_185
+# text = A, ka nui nō paha, hele wāwae, a i ʻole, kau lio ka, 22:46 AN1 Kau lio ka hapa nui.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	hele	_	_	_	_	_	_	_	_
+9	wāwae	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ʻole	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	kau	_	_	_	_	_	_	_	_
+16	lio	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	22	_	_	_	_	_	_	_	_
+20	:	_	PUNCT	_	_	_	_	_	_
+21	46	_	_	_	_	_	_	_	_
+22	AN1	_	_	_	_	_	_	_	_
+23	Kau	_	_	_	_	_	_	_	_
+24	lio	_	_	_	_	_	_	_	_
+25	ka	_	_	_	_	_	_	_	_
+26	hapa	_	_	_	_	_	_	_	_
+27	nui	_	_	_	_	_	_	_	_
+28	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_186
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_187
+# text = 22:48 AN1 Kau lio.
+1	22	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	48	_	_	_	_	_	_	_	_
+4	AN1	_	_	_	_	_	_	_	_
+5	Kau	_	_	_	_	_	_	_	_
+6	lio	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_188
+# text = A, noho nō ʻoukou ma kahi hoʻokahi i Niʻihau? 22:53 AN1 ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	noho	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	kahi	_	_	_	_	_	_	_	_
+8	hoʻokahi	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	22	_	_	_	_	_	_	_	_
+13	:	_	PUNCT	_	_	_	_	_	_
+14	53	_	_	_	_	_	_	_	_
+15	AN1	_	_	_	_	_	_	_	_
+16	ʻAe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_189
+# text = Noho nō mākou ma kahi hoʻokahi i Niʻihau.
+1	Noho	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	ma	_	_	_	_	_	_	_	_
+5	kahi	_	_	_	_	_	_	_	_
+6	hoʻokahi	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_190
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_191
+# text = ʻO wai ka inoa o kēia wahi? 22:58 AN1 Puʻuwai.
+1	ʻO	_	_	_	_	_	_	_	_
+2	wai	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	inoa	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	22	_	_	_	_	_	_	_	_
+10	:	_	PUNCT	_	_	_	_	_	_
+11	58	_	_	_	_	_	_	_	_
+12	AN1	_	_	_	_	_	_	_	_
+13	Puʻuwai	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_192
+# text = Puʻuwai.
+1	Puʻuwai	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_193
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_194
+# text = Mahalo no kēia kāhea ʻana mai.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	kāhea	_	_	_	_	_	_	_	_
+5	ʻana	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_195
+# text = I kēia manawa, a, e, e hoʻolaha ana nō paha, ʻaʻole paha.
+1	I	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	hoʻolaha	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	paha	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	paha	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_196
+# text = A, a i kēia manawa, e hoʻokani liʻiliʻi ana nō kēia kahua i wahi mele.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	manawa	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hoʻokani	_	_	_	_	_	_	_	_
+10	liʻiliʻi	_	_	_	_	_	_	_	_
+11	ana	_	_	_	_	_	_	_	_
+12	nō	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	kahua	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	wahi	_	_	_	_	_	_	_	_
+17	mele	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_197
+# text = Ka inoa nō o kēia mele, e hele nō paha kākou i Hilo, no ka mea, ka inoa nō o kēia mele, ʻo Hilo March, na Kalama Quartet e hoʻokani ai na mākou.
+1	Ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	kākou	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Hilo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	no	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	inoa	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	mele	_	_	_	_	_	_	_	_
+26	,	_	PUNCT	_	_	_	_	_	_
+27	ʻo	_	_	_	_	_	_	_	_
+28	Hilo	_	_	_	_	_	_	_	_
+29	March	_	_	_	_	_	_	_	_
+30	,	_	PUNCT	_	_	_	_	_	_
+31	na	_	_	_	_	_	_	_	_
+32	Kalama	_	_	_	_	_	_	_	_
+33	Quartet	_	_	_	_	_	_	_	_
+34	e	_	_	_	_	_	_	_	_
+35	hoʻokani	_	_	_	_	_	_	_	_
+36	ai	_	_	_	_	_	_	_	_
+37	na	_	_	_	_	_	_	_	_
+38	mākou	_	_	_	_	_	_	_	_
+39	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_198
+# text = Hiki? Pono akula? Pono? ʻĒ.
+1	Hiki	_	_	_	_	_	_	_	_
+2	?	_	PUNCT	_	_	_	_	_	_
+3	Pono	_	_	_	_	_	_	_	_
+4	akula	_	_	_	_	_	_	_	_
+5	?	_	PUNCT	_	_	_	_	_	_
+6	Pono	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻĒ	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_199
+# text = Pono, hiki.
+1	Pono	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_200
+# text = 30:22 {Mū.
+1	30	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	22	_	_	_	_	_	_	_	_
+4	{	_	PUNCT	_	_	_	_	_	_
+5	Mū	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_201
+# text = } A, naʻu hoʻolauna? 30:27 ʻAe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	naʻu	_	_	_	_	_	_	_	_
+5	hoʻolauna	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	30	_	_	_	_	_	_	_	_
+8	:	_	PUNCT	_	_	_	_	_	_
+9	27	_	_	_	_	_	_	_	_
+10	ʻAe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_202
+# text = Aloha ahiahi kākou.
+1	Aloha	_	_	_	_	_	_	_	_
+2	ahiahi	_	_	_	_	_	_	_	_
+3	kākou	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_203
+# text = Eia nō mākou, ka papahana ʻo Ka Leo Hawaiʻi kēia.
+1	Eia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	mākou	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	papahana	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	Ka	_	_	_	_	_	_	_	_
+9	Leo	_	_	_	_	_	_	_	_
+10	Hawaiʻi	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_204
+# text = A i kēia manawa, e hoʻolaha ana nō, a, e kala mai, e hoʻokani ana nō kekahi mau hoaaloha nō, o, o kākou o Ua kamaʻāina nō ʻoukou me Genoa Keawe, a, ʻo Le Lolena Nicholas kekahi, e hoʻokani a e hīmeni, hīmeni ana, a me Emalia Lik Likayan.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	hoʻolaha	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	kala	_	_	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	hoʻokani	_	_	_	_	_	_	_	_
+19	ana	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	kekahi	_	_	_	_	_	_	_	_
+22	mau	_	_	_	_	_	_	_	_
+23	hoaaloha	_	_	_	_	_	_	_	_
+24	nō	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	o	_	_	_	_	_	_	_	_
+29	kākou	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	Ua	_	_	_	_	_	_	_	_
+32	kamaʻāina	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	ʻoukou	_	_	_	_	_	_	_	_
+35	me	_	_	_	_	_	_	_	_
+36	Genoa	_	_	_	_	_	_	_	_
+37	Keawe	_	_	_	_	_	_	_	_
+38	,	_	PUNCT	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	,	_	PUNCT	_	_	_	_	_	_
+41	ʻo	_	_	_	_	_	_	_	_
+42	Le	_	_	_	_	_	_	_	_
+43	Lolena	_	_	_	_	_	_	_	_
+44	Nicholas	_	_	_	_	_	_	_	_
+45	kekahi	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	e	_	_	_	_	_	_	_	_
+48	hoʻokani	_	_	_	_	_	_	_	_
+49	a	_	_	_	_	_	_	_	_
+50	e	_	_	_	_	_	_	_	_
+51	hīmeni	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	hīmeni	_	_	_	_	_	_	_	_
+54	ana	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	a	_	_	_	_	_	_	_	_
+57	me	_	_	_	_	_	_	_	_
+58	Emalia	_	_	_	_	_	_	_	_
+59	Lik	_	_	_	_	_	_	_	_
+60	Likayan	_	_	_	_	_	_	_	_
+61	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_205
+# text = A, e mele ana nō lākou i kēia mele ʻo Pūpū O Niʻihau.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	lākou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Pūpū	_	_	_	_	_	_	_	_
+13	O	_	_	_	_	_	_	_	_
+14	Niʻihau	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_206
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_207
+# text = Nahenahe nō ka pepeiao i ka hoʻolohe.
+1	Nahenahe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pepeiao	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	hoʻolohe	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_208
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_209
+# text = } 34: 21 LK A e Pāpā Nīʻau, a, pehea ke kui lei, kui pūpū i kēia manawa, mau nō ka hana ʻana? ʻAe, !! ʻo ia mau nō ka hana ʻana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	34	_	_	_	_	_	_	_	_
+3	:	_	PUNCT	_	_	_	_	_	_
+4	21	_	_	_	_	_	_	_	_
+5	LK	_	_	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Pāpā	_	_	_	_	_	_	_	_
+9	Nīʻau	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	pehea	_	_	_	_	_	_	_	_
+14	ke	_	_	_	_	_	_	_	_
+15	kui	_	_	_	_	_	_	_	_
+16	lei	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	kui	_	_	_	_	_	_	_	_
+19	pūpū	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	manawa	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	mau	_	_	_	_	_	_	_	_
+25	nō	_	_	_	_	_	_	_	_
+26	ka	_	_	_	_	_	_	_	_
+27	hana	_	_	_	_	_	_	_	_
+28	ʻana	_	_	_	_	_	_	_	_
+29	?	_	PUNCT	_	_	_	_	_	_
+30	ʻAe	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	!!	_	PUNCT	_	_	_	_	_	_
+33	ʻo	_	_	_	_	_	_	_	_
+34	ia	_	_	_	_	_	_	_	_
+35	mau	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	hana	_	_	_	_	_	_	_	_
+39	ʻana	_	_	_	_	_	_	_	_
+40	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_210
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_211
+# text = Pehea, he nui nō nā ʻano pūpū o Niʻihau? ʻAe, he nui.
+1	Pehea	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	nui	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	ʻano	_	_	_	_	_	_	_	_
+8	pūpū	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	ʻAe	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	nui	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_212
+# text = Nui nā pūpū o Niʻihau.
+1	Nui	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	pūpū	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	Niʻihau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_213
+# text = He momi, kahelelani, he ālialia, ʻĒ.
+1	He	_	_	_	_	_	_	_	_
+2	momi	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	kahelelani	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	ālialia	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ʻĒ	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_214
+# text = a, pūpū ʻeleʻele ketahi.
+1	a	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pūpū	_	_	_	_	_	_	_	_
+4	ʻeleʻele	_	_	_	_	_	_	_	_
+5	ketahi	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_215
+# text = ʻĒ, ʻē.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻē	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_216
+# text = A nui nā ʻano kala like ʻole o ka pūpū.
+1	A	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	ʻano	_	_	_	_	_	_	_	_
+5	kala	_	_	_	_	_	_	_	_
+6	like	_	_	_	_	_	_	_	_
+7	ʻole	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	pūpū	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_217
+# text = ʻO ka, ʻo ka pūpū kahelelani ka pūpū kaulana loa, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	pūpū	_	_	_	_	_	_	_	_
+7	kahelelani	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	pūpū	_	_	_	_	_	_	_	_
+10	kaulana	_	_	_	_	_	_	_	_
+11	loa	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻAe	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_218
+# text = o Hawaiʻi nei.
+1	o	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_219
+# text = Ua lohe mau nō kēia inoa ʻo kahe ʻo kahelelani.
+1	Ua	_	_	_	_	_	_	_	_
+2	lohe	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	inoa	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	kahe	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	kahelelani	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_220
+# text = Kahelelani.
+1	Kahelelani	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_221
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_222
+# text = A, pehea, kūʻai ʻia nō kēia poʻe lei? A, kūʻai ʻia.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	pehea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kūʻai	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	poʻe	_	_	_	_	_	_	_	_
+10	lei	_	_	_	_	_	_	_	_
+11	?	_	PUNCT	_	_	_	_	_	_
+12	A	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	kūʻai	_	_	_	_	_	_	_	_
+15	ʻia	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_223
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_224
+# text = Kūʻai ʻia kēia poʻe lei.
+1	Kūʻai	_	_	_	_	_	_	_	_
+2	ʻia	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	poʻe	_	_	_	_	_	_	_	_
+5	lei	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_225
+# text = ʻO ia ka hana paha ka ha a nā wāhine o Niʻihau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	ha	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	wāhine	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	Niʻihau	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_226
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_227
+# text = ʻO ia ka hana a nā wāhine o o Niʻihau.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	hana	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	wāhine	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_228
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_229
+# text = Nui ka nani o kēia lei pūpū.
+1	Nui	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nani	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	lei	_	_	_	_	_	_	_	_
+7	pūpū	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_230
+# text = ʻAʻohe lua o kēia mau lei.
+1	ʻAʻohe	_	_	_	_	_	_	_	_
+2	lua	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	lei	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_231
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_232
+# text = Aia nō kekahi aʻu e lei nei i kēia ahiahi.
+1	Aia	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kekahi	_	_	_	_	_	_	_	_
+4	aʻu	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	lei	_	_	_	_	_	_	_	_
+7	nei	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kēia	_	_	_	_	_	_	_	_
+10	ahiahi	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_233
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_234
+# text = He nani maoli nō.
+1	He	_	_	_	_	_	_	_	_
+2	nani	_	_	_	_	_	_	_	_
+3	maoli	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_235
+# text = Nani maoli nō.
+1	Nani	_	_	_	_	_	_	_	_
+2	maoli	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_236
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_237
+# text = He nani nō ʻo Niʻihau.
+1	He	_	_	_	_	_	_	_	_
+2	nani	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	Niʻihau	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_238
+# text = A i kēia manawa nō paha e hīmeni hou ana nō kēia mau makamaka o kākou i, i ke mele, Nani Niʻihau.
+1	A	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	kēia	_	_	_	_	_	_	_	_
+4	manawa	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hīmeni	_	_	_	_	_	_	_	_
+9	hou	_	_	_	_	_	_	_	_
+10	ana	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	mau	_	_	_	_	_	_	_	_
+14	makamaka	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	kākou	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	,	_	PUNCT	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ke	_	_	_	_	_	_	_	_
+21	mele	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	Nani	_	_	_	_	_	_	_	_
+24	Niʻihau	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_239
+# text = ʻO ia? ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	?	_	PUNCT	_	_	_	_	_	_
+4	ʻAe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_240
+# text = Mahalo nui.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_241
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_242
+# text = Mahalo iā ʻoe.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoe	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_243
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_244
+# text = Mahalo nō i kēia makuahine o ʻoukou i kāna akamai i ka haku mele.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	makuahine	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kāna	_	_	_	_	_	_	_	_
+10	akamai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	haku	_	_	_	_	_	_	_	_
+14	mele	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_245
+# text = Nui nō ke akamai.
+1	Nui	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	akamai	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_246
+# text = A, no kona hoʻohanohano ʻia nō o Oʻahu ma kēia mele, ʻo Ka Ua Kūkalahale.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	kona	_	_	_	_	_	_	_	_
+5	hoʻohanohano	_	_	_	_	_	_	_	_
+6	ʻia	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Oʻahu	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	mele	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Ka	_	_	_	_	_	_	_	_
+16	Ua	_	_	_	_	_	_	_	_
+17	Kūkalahale	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_247
+# text = 42:05 ʻĒ.
+1	42	_	_	_	_	_	_	_	_
+2	:	_	PUNCT	_	_	_	_	_	_
+3	05	_	_	_	_	_	_	_	_
+4	ʻĒ	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_248
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_249
+# text = A, ua lohe liʻiliʻi au e Pāpā Nīʻau ē, kanaka haku mele nō ʻoe.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	lohe	_	_	_	_	_	_	_	_
+5	liʻiliʻi	_	_	_	_	_	_	_	_
+6	au	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	Pāpā	_	_	_	_	_	_	_	_
+9	Nīʻau	_	_	_	_	_	_	_	_
+10	ē	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	kanaka	_	_	_	_	_	_	_	_
+13	haku	_	_	_	_	_	_	_	_
+14	mele	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	ʻoe	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_250
+# text = Ua haku iho nei nō paha i kekahi mau mele.
+1	Ua	_	_	_	_	_	_	_	_
+2	haku	_	_	_	_	_	_	_	_
+3	iho	_	_	_	_	_	_	_	_
+4	nei	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kekahi	_	_	_	_	_	_	_	_
+9	mau	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_251
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_252
+# text = } ʻAe, hoʻokahi nō oʻu mea, hīmeni i haku ai, but ʻaʻole paʻa iaʻu kaʻu mea o ka hana ʻana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	hoʻokahi	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	oʻu	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	haku	_	_	_	_	_	_	_	_
+12	ai	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	but	_	_	_	_	_	_	_	_
+15	ʻaʻole	_	_	_	_	_	_	_	_
+16	paʻa	_	_	_	_	_	_	_	_
+17	iaʻu	_	_	_	_	_	_	_	_
+18	kaʻu	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	hana	_	_	_	_	_	_	_	_
+23	ʻana	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_253
+# text = Ua, ua poina wau i kekahi, ke ʻano o ka hīmeni ʻana, ʻĒ.
+1	Ua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	poina	_	_	_	_	_	_	_	_
+5	wau	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kekahi	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	ʻano	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hīmeni	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	ʻĒ	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_254
+# text = o kēlā, ka leo o kēlā hīmeni.
+1	o	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	leo	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	hīmeni	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_255
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_256
+# text = Ua kelepona mai nō kekahi wahine a nīnau mai nō ʻo ia iā e pili ana i kēia wai ʻo Waiakanaio.
+1	Ua	_	_	_	_	_	_	_	_
+2	kelepona	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	wahine	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	nīnau	_	_	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	ia	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	pili	_	_	_	_	_	_	_	_
+16	ana	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	wai	_	_	_	_	_	_	_	_
+20	ʻo	_	_	_	_	_	_	_	_
+21	Waiakanaio	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_257
+# text = A Waiakanaio.
+1	A	_	_	_	_	_	_	_	_
+2	Waiakanaio	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_258
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_259
+# text = Lohe nō wau, ua haku nō ʻoe i kekahi mele e pili ana i kēia wai no kou hana ʻana ma laila.
+1	Lohe	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	wau	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ua	_	_	_	_	_	_	_	_
+6	haku	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kekahi	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	pili	_	_	_	_	_	_	_	_
+14	ana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	kēia	_	_	_	_	_	_	_	_
+17	wai	_	_	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	kou	_	_	_	_	_	_	_	_
+20	hana	_	_	_	_	_	_	_	_
+21	ʻana	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	laila	_	_	_	_	_	_	_	_
+24	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_260
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_261
+# text = !! Ua haku nō.
+1	!!	_	PUNCT	_	_	_	_	_	_
+2	Ua	_	_	_	_	_	_	_	_
+3	haku	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_262
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_263
+# text = Ua ʻeli ʻia kēia wai e ʻoukou? ʻAe.
+1	Ua	_	_	_	_	_	_	_	_
+2	ʻeli	_	_	_	_	_	_	_	_
+3	ʻia	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	wai	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	ʻAe	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_264
+# text = Ua, ua ʻeli ʻia a loaʻa ana kēlā wai i kēia manawa.
+1	Ua	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ua	_	_	_	_	_	_	_	_
+4	ʻeli	_	_	_	_	_	_	_	_
+5	ʻia	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	loaʻa	_	_	_	_	_	_	_	_
+8	ana	_	_	_	_	_	_	_	_
+9	kēlā	_	_	_	_	_	_	_	_
+10	wai	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_265
+# text = A mau nō ka puaʻi ʻana o kēia wai? A mau nō ka puaʻi ʻana a hiti i kēia lā.
+1	A	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	puaʻi	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	wai	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	A	_	_	_	_	_	_	_	_
+12	mau	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	puaʻi	_	_	_	_	_	_	_	_
+16	ʻana	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	hiti	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	kēia	_	_	_	_	_	_	_	_
+21	lā	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_266
+# text = ʻĒ, he wai holoholona? ʻAe, wai no ka holoholona.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	wai	_	_	_	_	_	_	_	_
+5	holoholona	_	_	_	_	_	_	_	_
+6	?	_	PUNCT	_	_	_	_	_	_
+7	ʻAe	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	wai	_	_	_	_	_	_	_	_
+10	no	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	holoholona	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_267
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_268
+# text = A, aia i hea ia wai i Niʻihau? I, i uka paha o ke kuahiwi, a i ʻole, i ke kula, Aia i uka o ke kuahiwi.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aia	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	hea	_	_	_	_	_	_	_	_
+6	ia	_	_	_	_	_	_	_	_
+7	wai	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Niʻihau	_	_	_	_	_	_	_	_
+10	?	_	PUNCT	_	_	_	_	_	_
+11	I	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	uka	_	_	_	_	_	_	_	_
+15	paha	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	ke	_	_	_	_	_	_	_	_
+18	kuahiwi	_	_	_	_	_	_	_	_
+19	,	_	PUNCT	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	ʻole	_	_	_	_	_	_	_	_
+23	,	_	PUNCT	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	kula	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	Aia	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	uka	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	ke	_	_	_	_	_	_	_	_
+33	kuahiwi	_	_	_	_	_	_	_	_
+34	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_269
+# text = A he aha ke kumu o ka inoa ʻo, ʻo Waiakanaio? Paha ka inoa nō ia o kēlā wahi ma muli, i kapa ʻia ai e ka poʻe kahiko.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kumu	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	ʻo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	ʻo	_	_	_	_	_	_	_	_
+12	Waiakanaio	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	Paha	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	inoa	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	kēlā	_	_	_	_	_	_	_	_
+21	wahi	_	_	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	muli	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	kapa	_	_	_	_	_	_	_	_
+27	ʻia	_	_	_	_	_	_	_	_
+28	ai	_	_	_	_	_	_	_	_
+29	e	_	_	_	_	_	_	_	_
+30	ka	_	_	_	_	_	_	_	_
+31	poʻe	_	_	_	_	_	_	_	_
+32	kahiko	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_270
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_271
+# text = Ka inoa nō ia o kēlā wahi.
+1	Ka	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	kēlā	_	_	_	_	_	_	_	_
+7	wahi	_	_	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_272
+# text = A ka manawai ka manawa i kāhea ʻia ka inoa, loaʻa nō kēlā wahi ma laila i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	manawai	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	manawa	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	kāhea	_	_	_	_	_	_	_	_
+8	ʻia	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	inoa	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	loaʻa	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	kēlā	_	_	_	_	_	_	_	_
+15	wahi	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	laila	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	manawa	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_273
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_274
+# text = A pēlā nō i paʻa ai kēlā inoa a hiti i kēia lā.
+1	A	_	_	_	_	_	_	_	_
+2	pēlā	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	paʻa	_	_	_	_	_	_	_	_
+6	ai	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	inoa	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hiti	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	lā	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_275
+# text = A loaʻa ka wai i kēia manawa no nā holoholona.
+1	A	_	_	_	_	_	_	_	_
+2	loaʻa	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	wai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	manawa	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	holoholona	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_276
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_277
+# text = Mahalo.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_278
+# text = A, e nonoi ana au iā Genoa paha e hīmeni mai i kekahi mele na mākou i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	nonoi	_	_	_	_	_	_	_	_
+5	ana	_	_	_	_	_	_	_	_
+6	au	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	Genoa	_	_	_	_	_	_	_	_
+9	paha	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hīmeni	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	mele	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	mākou	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	kēia	_	_	_	_	_	_	_	_
+20	manawa	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_279
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_280
+# text = Inā paha he mele punahele paha kou? {Mū.
+1	Inā	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	mele	_	_	_	_	_	_	_	_
+5	punahele	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	kou	_	_	_	_	_	_	_	_
+8	?	_	PUNCT	_	_	_	_	_	_
+9	{	_	PUNCT	_	_	_	_	_	_
+10	Mū	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_281
+# text = } ʻAe, mahalo nui nō i kēia hīmeni ʻana, a nā mele, a, i lohe ʻole, ʻole ʻia i kēia manawa nō paha.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻAe	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mahalo	_	_	_	_	_	_	_	_
+5	nui	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	hīmeni	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	mele	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	,	_	PUNCT	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	lohe	_	_	_	_	_	_	_	_
+20	ʻole	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻole	_	_	_	_	_	_	_	_
+23	ʻia	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	kēia	_	_	_	_	_	_	_	_
+26	manawa	_	_	_	_	_	_	_	_
+27	nō	_	_	_	_	_	_	_	_
+28	paha	_	_	_	_	_	_	_	_
+29	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_282
+# text = Nui koʻu mahalo i ka poʻe o Niʻihau, kā lākou, a, mau leo nahenahe i hoʻopuka ʻia no kākou i kēia ahiahi.
+1	Nui	_	_	_	_	_	_	_	_
+2	koʻu	_	_	_	_	_	_	_	_
+3	mahalo	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	poʻe	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	kā	_	_	_	_	_	_	_	_
+11	lākou	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	leo	_	_	_	_	_	_	_	_
+17	nahenahe	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	hoʻopuka	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	no	_	_	_	_	_	_	_	_
+22	kākou	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kēia	_	_	_	_	_	_	_	_
+25	ahiahi	_	_	_	_	_	_	_	_
+26	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_283
+# text = A ʻo wai Maopopo, e Pāpā Nīʻau, maopopo paha iā ʻoe, ʻo wai ka mea nāna i haku i kēia mele, ʻo Wai, Ka Huila, Ka Huila Wai? A, ʻaʻole nō i maopopo ka mea nāna i haku kēlā hīmeni.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	Maopopo	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	Pāpā	_	_	_	_	_	_	_	_
+8	Nīʻau	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	maopopo	_	_	_	_	_	_	_	_
+11	paha	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	ʻoe	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	wai	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	nāna	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	haku	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	kēia	_	_	_	_	_	_	_	_
+24	mele	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	ʻo	_	_	_	_	_	_	_	_
+27	Wai	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	Ka	_	_	_	_	_	_	_	_
+30	Huila	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	Ka	_	_	_	_	_	_	_	_
+33	Huila	_	_	_	_	_	_	_	_
+34	Wai	_	_	_	_	_	_	_	_
+35	?	_	PUNCT	_	_	_	_	_	_
+36	A	_	_	_	_	_	_	_	_
+37	,	_	PUNCT	_	_	_	_	_	_
+38	ʻaʻole	_	_	_	_	_	_	_	_
+39	nō	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	maopopo	_	_	_	_	_	_	_	_
+42	ka	_	_	_	_	_	_	_	_
+43	mea	_	_	_	_	_	_	_	_
+44	nāna	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	haku	_	_	_	_	_	_	_	_
+47	kēlā	_	_	_	_	_	_	_	_
+48	hīmeni	_	_	_	_	_	_	_	_
+49	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_284
+# text = But ua lohe wau, na hoʻokahi keiki male i ka wahine o, o Niʻihau.
+1	But	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	lohe	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	hoʻokahi	_	_	_	_	_	_	_	_
+8	keiki	_	_	_	_	_	_	_	_
+9	male	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	wahine	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Niʻihau	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_285
+# text = Mai Hawaiʻi mai ʻo ia a male i ko Niʻihau wahine a iā ia wau i lohe mua ai i kēia hīmeni ʻo Ka Huila Wai.
+1	Mai	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	ʻo	_	_	_	_	_	_	_	_
+5	ia	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	male	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	wahine	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	ia	_	_	_	_	_	_	_	_
+15	wau	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	lohe	_	_	_	_	_	_	_	_
+18	mua	_	_	_	_	_	_	_	_
+19	ai	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	kēia	_	_	_	_	_	_	_	_
+22	hīmeni	_	_	_	_	_	_	_	_
+23	ʻo	_	_	_	_	_	_	_	_
+24	Ka	_	_	_	_	_	_	_	_
+25	Huila	_	_	_	_	_	_	_	_
+26	Wai	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_286
+# text = ʻAʻole no Niʻihau kēia hīmeni.
+1	ʻAʻole	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	Niʻihau	_	_	_	_	_	_	_	_
+4	kēia	_	_	_	_	_	_	_	_
+5	hīmeni	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_287
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_288
+# text = No Hawaiʻi mai.
+1	No	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_289
+# text = No Hawaiʻi mai.
+1	No	_	_	_	_	_	_	_	_
+2	Hawaiʻi	_	_	_	_	_	_	_	_
+3	mai	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_290
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_291
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_292
+# text = Akā, a mau nō ka haku ʻana o nā mele Hawaiʻi i, i Niʻihau i kēia mau lā, ʻeā? ʻAe.
+1	Akā	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	haku	_	_	_	_	_	_	_	_
+8	ʻana	_	_	_	_	_	_	_	_
+9	o	_	_	_	_	_	_	_	_
+10	nā	_	_	_	_	_	_	_	_
+11	mele	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Niʻihau	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	mau	_	_	_	_	_	_	_	_
+20	lā	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ʻeā	_	_	_	_	_	_	_	_
+23	?	_	PUNCT	_	_	_	_	_	_
+24	ʻAe	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_293
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_294
+# text = ʻO ia mau nō.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	mau	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_295
+# text = A he mea pono nō kēia iā kākou, e nā Hawaiʻi e noho ana ma waho aʻe o Niʻihau, ma nā mokupuni ʻē aʻe, no ka mea, ke kākou walaʻau mau nō i ka ʻōlelo Hawaiʻi, ke kākou hoʻomau nō i kā kākou walaʻau ʻana i ka ʻōlelo.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	pono	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kēia	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	kākou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	Hawaiʻi	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	noho	_	_	_	_	_	_	_	_
+15	ana	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	waho	_	_	_	_	_	_	_	_
+18	aʻe	_	_	_	_	_	_	_	_
+19	o	_	_	_	_	_	_	_	_
+20	Niʻihau	_	_	_	_	_	_	_	_
+21	,	_	PUNCT	_	_	_	_	_	_
+22	ma	_	_	_	_	_	_	_	_
+23	nā	_	_	_	_	_	_	_	_
+24	mokupuni	_	_	_	_	_	_	_	_
+25	ʻē	_	_	_	_	_	_	_	_
+26	aʻe	_	_	_	_	_	_	_	_
+27	,	_	PUNCT	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	mea	_	_	_	_	_	_	_	_
+31	,	_	PUNCT	_	_	_	_	_	_
+32	ke	_	_	_	_	_	_	_	_
+33	kākou	_	_	_	_	_	_	_	_
+34	walaʻau	_	_	_	_	_	_	_	_
+35	mau	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	ka	_	_	_	_	_	_	_	_
+39	ʻōlelo	_	_	_	_	_	_	_	_
+40	Hawaiʻi	_	_	_	_	_	_	_	_
+41	,	_	PUNCT	_	_	_	_	_	_
+42	ke	_	_	_	_	_	_	_	_
+43	kākou	_	_	_	_	_	_	_	_
+44	hoʻomau	_	_	_	_	_	_	_	_
+45	nō	_	_	_	_	_	_	_	_
+46	i	_	_	_	_	_	_	_	_
+47	kā	_	_	_	_	_	_	_	_
+48	kākou	_	_	_	_	_	_	_	_
+49	walaʻau	_	_	_	_	_	_	_	_
+50	ʻana	_	_	_	_	_	_	_	_
+51	i	_	_	_	_	_	_	_	_
+52	ka	_	_	_	_	_	_	_	_
+53	ʻōlelo	_	_	_	_	_	_	_	_
+54	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_296
+# text = E mau ana nō paha nā mele Hawaiʻi.
+1	E	_	_	_	_	_	_	_	_
+2	mau	_	_	_	_	_	_	_	_
+3	ana	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	paha	_	_	_	_	_	_	_	_
+6	nā	_	_	_	_	_	_	_	_
+7	mele	_	_	_	_	_	_	_	_
+8	Hawaiʻi	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_297
+# text = No ka mea, inā pau nō ka ʻōlelo, pau pū nō nā mele Hawaiʻi.
+1	No	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	mea	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	inā	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	nō	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻōlelo	_	_	_	_	_	_	_	_
+10	,	_	PUNCT	_	_	_	_	_	_
+11	pau	_	_	_	_	_	_	_	_
+12	pū	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	nā	_	_	_	_	_	_	_	_
+15	mele	_	_	_	_	_	_	_	_
+16	Hawaiʻi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_298
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_299
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_300
+# text = E kēia manawa, kekahi o kākou, ke hīmeni, pono hīmeni wale nō me ka noʻonoʻo ʻole o nā, o nā, o ka, ke ʻano o pūʻana , puana ʻana, Yeah.
+1	E	_	_	_	_	_	_	_	_
+2	kēia	_	_	_	_	_	_	_	_
+3	manawa	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	kākou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	_	_	_	_	_	_	_	_
+10	hīmeni	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	pono	_	_	_	_	_	_	_	_
+13	hīmeni	_	_	_	_	_	_	_	_
+14	wale	_	_	_	_	_	_	_	_
+15	nō	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	ka	_	_	_	_	_	_	_	_
+18	noʻonoʻo	_	_	_	_	_	_	_	_
+19	ʻole	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	nā	_	_	_	_	_	_	_	_
+22	,	_	PUNCT	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	nā	_	_	_	_	_	_	_	_
+25	,	_	PUNCT	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	,	_	PUNCT	_	_	_	_	_	_
+29	ke	_	_	_	_	_	_	_	_
+30	ʻano	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	pūʻana	_	_	_	_	_	_	_	_
+33	,	_	PUNCT	_	_	_	_	_	_
+34	puana	_	_	_	_	_	_	_	_
+35	ʻana	_	_	_	_	_	_	_	_
+36	,	_	PUNCT	_	_	_	_	_	_
+37	Yeah	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_301
+# text = me nā manaʻo o ka mele.
+1	me	_	_	_	_	_	_	_	_
+2	nā	_	_	_	_	_	_	_	_
+3	manaʻo	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	mele	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_302
+# text = Pono hīmeni wale nō.
+1	Pono	_	_	_	_	_	_	_	_
+2	hīmeni	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_303
+# text = A ʻo ia nō ka pilikia no ka ʻike ʻole, ʻo ka ʻike ʻole nō o ka ʻōlelo makuahine.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	pilikia	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	ʻike	_	_	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻike	_	_	_	_	_	_	_	_
+15	ʻole	_	_	_	_	_	_	_	_
+16	nō	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	ʻōlelo	_	_	_	_	_	_	_	_
+20	makuahine	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_304
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_305
+# text = ʻO kēlā ka pilikia.
+1	ʻO	_	_	_	_	_	_	_	_
+2	kēlā	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	pilikia	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_306
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_307
+# text = } A, iā ʻoukou, e nā mea e hoʻolohe ana, he mau minuke nō i koe.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	iā	_	_	_	_	_	_	_	_
+5	ʻoukou	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	nā	_	_	_	_	_	_	_	_
+9	mea	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	hoʻolohe	_	_	_	_	_	_	_	_
+12	ana	_	_	_	_	_	_	_	_
+13	,	_	PUNCT	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	mau	_	_	_	_	_	_	_	_
+16	minuke	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	koe	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_308
+# text = A inā paha he nīnau kā ʻoukou, a i ʻole, he manaʻo, e kāhea mai nō.
+1	A	_	_	_	_	_	_	_	_
+2	inā	_	_	_	_	_	_	_	_
+3	paha	_	_	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	nīnau	_	_	_	_	_	_	_	_
+6	kā	_	_	_	_	_	_	_	_
+7	ʻoukou	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ʻole	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	he	_	_	_	_	_	_	_	_
+14	manaʻo	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	kāhea	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	nō	_	_	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_309
+# text = ʻO ka helu no kēia kahua, helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻelua.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	no	_	_	_	_	_	_	_	_
+5	kēia	_	_	_	_	_	_	_	_
+6	kahua	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	helu	_	_	_	_	_	_	_	_
+9	ʻeiwa	_	_	_	_	_	_	_	_
+10	ʻelua	_	_	_	_	_	_	_	_
+11	ʻekolu	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	ʻole	_	_	_	_	_	_	_	_
+14	ʻehā	_	_	_	_	_	_	_	_
+15	ʻole	_	_	_	_	_	_	_	_
+16	ʻelua	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_310
+# text = Ka ho helu ʻe ʻe ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻekolu.
+1	Ka	_	_	_	_	_	_	_	_
+2	ho	_	_	_	_	_	_	_	_
+3	helu	_	_	_	_	_	_	_	_
+4	ʻe	_	_	_	_	_	_	_	_
+5	ʻe	_	_	_	_	_	_	_	_
+6	ʻeiwa	_	_	_	_	_	_	_	_
+7	ʻelua	_	_	_	_	_	_	_	_
+8	ʻekolu	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	ʻole	_	_	_	_	_	_	_	_
+11	ʻehā	_	_	_	_	_	_	_	_
+12	ʻole	_	_	_	_	_	_	_	_
+13	ʻekolu	_	_	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_311
+# text = Helu ʻeiwa ʻelua ʻekolu, ʻole ʻehā ʻole ʻehā.
+1	Helu	_	_	_	_	_	_	_	_
+2	ʻeiwa	_	_	_	_	_	_	_	_
+3	ʻelua	_	_	_	_	_	_	_	_
+4	ʻekolu	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻole	_	_	_	_	_	_	_	_
+7	ʻehā	_	_	_	_	_	_	_	_
+8	ʻole	_	_	_	_	_	_	_	_
+9	ʻehā	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_312
+# text = A, a, pehea ka poʻe o Niʻihau i kā lākou hana ʻana i ka ʻahaʻaina? Lohe liʻiliʻi wale nō wau i ke ʻano o ka ʻahaʻaina o Niʻihau, he nui ka m ka laulau o ka ʻahaʻaina, a he lōʻihi nō ka, ka hoʻolauleʻa ʻana, ʻaʻohe nō hoʻokahi pō e like nō me ko kākou o Oʻahu nei.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	pehea	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	poʻe	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	Niʻihau	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	kā	_	_	_	_	_	_	_	_
+12	lākou	_	_	_	_	_	_	_	_
+13	hana	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	ʻahaʻaina	_	_	_	_	_	_	_	_
+18	?	_	PUNCT	_	_	_	_	_	_
+19	Lohe	_	_	_	_	_	_	_	_
+20	liʻiliʻi	_	_	_	_	_	_	_	_
+21	wale	_	_	_	_	_	_	_	_
+22	nō	_	_	_	_	_	_	_	_
+23	wau	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	ke	_	_	_	_	_	_	_	_
+26	ʻano	_	_	_	_	_	_	_	_
+27	o	_	_	_	_	_	_	_	_
+28	ka	_	_	_	_	_	_	_	_
+29	ʻahaʻaina	_	_	_	_	_	_	_	_
+30	o	_	_	_	_	_	_	_	_
+31	Niʻihau	_	_	_	_	_	_	_	_
+32	,	_	PUNCT	_	_	_	_	_	_
+33	he	_	_	_	_	_	_	_	_
+34	nui	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	m	_	_	_	_	_	_	_	_
+37	ka	_	_	_	_	_	_	_	_
+38	laulau	_	_	_	_	_	_	_	_
+39	o	_	_	_	_	_	_	_	_
+40	ka	_	_	_	_	_	_	_	_
+41	ʻahaʻaina	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	he	_	_	_	_	_	_	_	_
+45	lōʻihi	_	_	_	_	_	_	_	_
+46	nō	_	_	_	_	_	_	_	_
+47	ka	_	_	_	_	_	_	_	_
+48	,	_	PUNCT	_	_	_	_	_	_
+49	ka	_	_	_	_	_	_	_	_
+50	hoʻolauleʻa	_	_	_	_	_	_	_	_
+51	ʻana	_	_	_	_	_	_	_	_
+52	,	_	PUNCT	_	_	_	_	_	_
+53	ʻaʻohe	_	_	_	_	_	_	_	_
+54	nō	_	_	_	_	_	_	_	_
+55	hoʻokahi	_	_	_	_	_	_	_	_
+56	pō	_	_	_	_	_	_	_	_
+57	e	_	_	_	_	_	_	_	_
+58	like	_	_	_	_	_	_	_	_
+59	nō	_	_	_	_	_	_	_	_
+60	me	_	_	_	_	_	_	_	_
+61	ko	_	_	_	_	_	_	_	_
+62	kākou	_	_	_	_	_	_	_	_
+63	o	_	_	_	_	_	_	_	_
+64	Oʻahu	_	_	_	_	_	_	_	_
+65	nei	_	_	_	_	_	_	_	_
+66	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_313
+# text = Hoʻokahi pō wale nō ka ʻahaʻaina, a pau aʻela nō.
+1	Hoʻokahi	_	_	_	_	_	_	_	_
+2	pō	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻahaʻaina	_	_	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	aʻela	_	_	_	_	_	_	_	_
+11	nō	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_314
+# text = Ma Niʻihau, he ʻokoʻa paha? ʻAe.
+1	Ma	_	_	_	_	_	_	_	_
+2	Niʻihau	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	ʻokoʻa	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	ʻAe	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_315
+# text = ʻOkoʻa nō ka ʻahaʻaina no Niʻihau.
+1	ʻOkoʻa	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻahaʻaina	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	Niʻihau	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_316
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_317
+# text = He nui nā meaʻai i hoʻomākaukau ʻia no ka ʻahaʻaina.
+1	He	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	nā	_	_	_	_	_	_	_	_
+4	meaʻai	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	hoʻomākaukau	_	_	_	_	_	_	_	_
+7	ʻia	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	ʻahaʻaina	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_318
+# text = A ʻai lākou a koe nō kēlā mau meaʻai a kekahi lā nō, a ʻai hou.
+1	A	_	_	_	_	_	_	_	_
+2	ʻai	_	_	_	_	_	_	_	_
+3	lākou	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	koe	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	kēlā	_	_	_	_	_	_	_	_
+8	mau	_	_	_	_	_	_	_	_
+9	meaʻai	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kekahi	_	_	_	_	_	_	_	_
+12	lā	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	ʻai	_	_	_	_	_	_	_	_
+17	hou	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_319
+# text = Pēlā lākou a hiti i ka wā e pau maitaʻi ai ʻo nā meaʻai a lākou i ta ʻai ʻia.
+1	Pēlā	_	_	_	_	_	_	_	_
+2	lākou	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hiti	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	wā	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	pau	_	_	_	_	_	_	_	_
+10	maitaʻi	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	ʻo	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	meaʻai	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	lākou	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ta	_	_	_	_	_	_	_	_
+19	ʻai	_	_	_	_	_	_	_	_
+20	ʻia	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_320
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_321
+# text = A laila, pau ka ʻahaʻaina.
+1	A	_	_	_	_	_	_	_	_
+2	laila	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	pau	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻahaʻaina	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_322
+# text = Nānā hoʻokahi pule a, ʻĒ.
+1	Nānā	_	_	_	_	_	_	_	_
+2	hoʻokahi	_	_	_	_	_	_	_	_
+3	pule	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ʻĒ	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_323
+# text = ʻehā paha lā e, A hīmeni nō nā mele a pau o ka ʻāina.
+1	ʻehā	_	_	_	_	_	_	_	_
+2	paha	_	_	_	_	_	_	_	_
+3	lā	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	A	_	_	_	_	_	_	_	_
+7	hīmeni	_	_	_	_	_	_	_	_
+8	nō	_	_	_	_	_	_	_	_
+9	nā	_	_	_	_	_	_	_	_
+10	mele	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	pau	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	ʻāina	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_324
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_325
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_326
+# text = He Aia nō kekahi poʻe ke aʻo nei i kēia manawa i ka ʻōlelo makuahine.
+1	He	_	_	_	_	_	_	_	_
+2	Aia	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	kekahi	_	_	_	_	_	_	_	_
+5	poʻe	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	aʻo	_	_	_	_	_	_	_	_
+8	nei	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	manawa	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻōlelo	_	_	_	_	_	_	_	_
+15	makuahine	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_327
+# text = Kekahi hele nō, kekahi i ke kulanui e aʻo ai, a kekahi, aia nō paha i loko o kekahi mau papa ʻōlelo ʻē aʻe nō, a ke hoʻomanawanui nō, nei nō lākou i ke aʻo ʻana, no ka mea, ʻo nā mea lohe mau ʻole i nā, i ka ʻōlelo Hawaiʻi, he ʻano hana nui, {Mū.
+1	Kekahi	_	_	_	_	_	_	_	_
+2	hele	_	_	_	_	_	_	_	_
+3	nō	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	kekahi	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ke	_	_	_	_	_	_	_	_
+8	kulanui	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	aʻo	_	_	_	_	_	_	_	_
+11	ai	_	_	_	_	_	_	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	kekahi	_	_	_	_	_	_	_	_
+15	,	_	PUNCT	_	_	_	_	_	_
+16	aia	_	_	_	_	_	_	_	_
+17	nō	_	_	_	_	_	_	_	_
+18	paha	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	loko	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	kekahi	_	_	_	_	_	_	_	_
+23	mau	_	_	_	_	_	_	_	_
+24	papa	_	_	_	_	_	_	_	_
+25	ʻōlelo	_	_	_	_	_	_	_	_
+26	ʻē	_	_	_	_	_	_	_	_
+27	aʻe	_	_	_	_	_	_	_	_
+28	nō	_	_	_	_	_	_	_	_
+29	,	_	PUNCT	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	ke	_	_	_	_	_	_	_	_
+32	hoʻomanawanui	_	_	_	_	_	_	_	_
+33	nō	_	_	_	_	_	_	_	_
+34	,	_	PUNCT	_	_	_	_	_	_
+35	nei	_	_	_	_	_	_	_	_
+36	nō	_	_	_	_	_	_	_	_
+37	lākou	_	_	_	_	_	_	_	_
+38	i	_	_	_	_	_	_	_	_
+39	ke	_	_	_	_	_	_	_	_
+40	aʻo	_	_	_	_	_	_	_	_
+41	ʻana	_	_	_	_	_	_	_	_
+42	,	_	PUNCT	_	_	_	_	_	_
+43	no	_	_	_	_	_	_	_	_
+44	ka	_	_	_	_	_	_	_	_
+45	mea	_	_	_	_	_	_	_	_
+46	,	_	PUNCT	_	_	_	_	_	_
+47	ʻo	_	_	_	_	_	_	_	_
+48	nā	_	_	_	_	_	_	_	_
+49	mea	_	_	_	_	_	_	_	_
+50	lohe	_	_	_	_	_	_	_	_
+51	mau	_	_	_	_	_	_	_	_
+52	ʻole	_	_	_	_	_	_	_	_
+53	i	_	_	_	_	_	_	_	_
+54	nā	_	_	_	_	_	_	_	_
+55	,	_	PUNCT	_	_	_	_	_	_
+56	i	_	_	_	_	_	_	_	_
+57	ka	_	_	_	_	_	_	_	_
+58	ʻōlelo	_	_	_	_	_	_	_	_
+59	Hawaiʻi	_	_	_	_	_	_	_	_
+60	,	_	PUNCT	_	_	_	_	_	_
+61	he	_	_	_	_	_	_	_	_
+62	ʻano	_	_	_	_	_	_	_	_
+63	hana	_	_	_	_	_	_	_	_
+64	nui	_	_	_	_	_	_	_	_
+65	,	_	PUNCT	_	_	_	_	_	_
+66	{	_	PUNCT	_	_	_	_	_	_
+67	Mū	_	_	_	_	_	_	_	_
+68	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_328
+# text = } ka aʻo ʻana.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	aʻo	_	_	_	_	_	_	_	_
+4	ʻana	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_329
+# text = But iā ʻoukou i Niʻihau, a, mai ka wā liʻiliʻi nō, mai ka hānau ʻana mai nō o ka pēpē, {Mū.
+1	But	_	_	_	_	_	_	_	_
+2	iā	_	_	_	_	_	_	_	_
+3	ʻoukou	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Niʻihau	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	mai	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	wā	_	_	_	_	_	_	_	_
+12	liʻiliʻi	_	_	_	_	_	_	_	_
+13	nō	_	_	_	_	_	_	_	_
+14	,	_	PUNCT	_	_	_	_	_	_
+15	mai	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	hānau	_	_	_	_	_	_	_	_
+18	ʻana	_	_	_	_	_	_	_	_
+19	mai	_	_	_	_	_	_	_	_
+20	nō	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	ka	_	_	_	_	_	_	_	_
+23	pēpē	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	{	_	PUNCT	_	_	_	_	_	_
+26	Mū	_	_	_	_	_	_	_	_
+27	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_330
+# text = } a ʻo ia wale nō ka ʻōlelo.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ʻo	_	_	_	_	_	_	_	_
+4	ia	_	_	_	_	_	_	_	_
+5	wale	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ʻōlelo	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_331
+# text = ʻO ia wale nō ka ʻōlelo.
+1	ʻO	_	_	_	_	_	_	_	_
+2	ia	_	_	_	_	_	_	_	_
+3	wale	_	_	_	_	_	_	_	_
+4	nō	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_332
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_333
+# text = A no laila, he, he mea walewaha kēia iā ʻoukou.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	laila	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	,	_	PUNCT	_	_	_	_	_	_
+7	he	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	walewaha	_	_	_	_	_	_	_	_
+10	kēia	_	_	_	_	_	_	_	_
+11	iā	_	_	_	_	_	_	_	_
+12	ʻoukou	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_334
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_335
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_336
+# text = {Mū.
+1	{	_	PUNCT	_	_	_	_	_	_
+2	Mū	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_337
+# text = } ʻO ka ʻōlelo haole paha ka mea paʻakikī.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	ʻO	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻōlelo	_	_	_	_	_	_	_	_
+5	haole	_	_	_	_	_	_	_	_
+6	paha	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mea	_	_	_	_	_	_	_	_
+9	paʻakikī	_	_	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_338
+# text = ʻĒ, ʻōlelo haole.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻōlelo	_	_	_	_	_	_	_	_
+4	haole	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_339
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_340
+# text = A ʻehia, mea, he hale pule ko ʻoukou i Niʻihau? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	ʻehia	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	mea	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	hale	_	_	_	_	_	_	_	_
+8	pule	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	ʻoukou	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Niʻihau	_	_	_	_	_	_	_	_
+13	?	_	PUNCT	_	_	_	_	_	_
+14	ʻAe	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_341
+# text = Hale pule.
+1	Hale	_	_	_	_	_	_	_	_
+2	pule	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_342
+# text = Hale pule Kalawina? Kalawina.
+1	Hale	_	_	_	_	_	_	_	_
+2	pule	_	_	_	_	_	_	_	_
+3	Kalawina	_	_	_	_	_	_	_	_
+4	?	_	PUNCT	_	_	_	_	_	_
+5	Kalawina	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_343
+# text = ʻĒ.
+1	ʻĒ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_344
+# text = A ʻo wai ke kahuna pule? A aia nō i Niʻihau i kēia manawa.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	wai	_	_	_	_	_	_	_	_
+4	ke	_	_	_	_	_	_	_	_
+5	kahuna	_	_	_	_	_	_	_	_
+6	pule	_	_	_	_	_	_	_	_
+7	?	_	PUNCT	_	_	_	_	_	_
+8	A	_	_	_	_	_	_	_	_
+9	aia	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Niʻihau	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	kēia	_	_	_	_	_	_	_	_
+15	manawa	_	_	_	_	_	_	_	_
+16	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_345
+# text = ʻŌ, ʻō.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ʻō	_	_	_	_	_	_	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_346
+# text = ʻO John Kaʻohelauliʻi, ʻAe.
+1	ʻO	_	_	_	_	_	_	_	_
+2	John	_	_	_	_	_	_	_	_
+3	Kaʻohelauliʻi	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ʻAe	_	_	_	_	_	_	_	_
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_347
+# text = kona inoa.
+1	kona	_	_	_	_	_	_	_	_
+2	inoa	_	_	_	_	_	_	_	_
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_348
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_349
+# text = A he hoa kula nō koʻu i koʻu hele ʻana i ke Kula ʻo Kamehameha, ʻo ia ʻo Abigal Kaʻohelauliʻi.
+1	A	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	hoa	_	_	_	_	_	_	_	_
+4	kula	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	koʻu	_	_	_	_	_	_	_	_
+9	hele	_	_	_	_	_	_	_	_
+10	ʻana	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	ke	_	_	_	_	_	_	_	_
+13	Kula	_	_	_	_	_	_	_	_
+14	ʻo	_	_	_	_	_	_	_	_
+15	Kamehameha	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	ʻo	_	_	_	_	_	_	_	_
+18	ia	_	_	_	_	_	_	_	_
+19	ʻo	_	_	_	_	_	_	_	_
+20	Abigal	_	_	_	_	_	_	_	_
+21	Kaʻohelauliʻi	_	_	_	_	_	_	_	_
+22	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_350
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_351
+# text = A no ia ʻohana, a no ia ʻohana nō kēlā.
+1	A	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ia	_	_	_	_	_	_	_	_
+4	ʻohana	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	ʻohana	_	_	_	_	_	_	_	_
+10	nō	_	_	_	_	_	_	_	_
+11	kēlā	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_352
+# text = ʻŌ.
+1	ʻŌ	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_353
+# text = Pehea ʻo Abigal, aia nō ʻo ia i Niʻihau i kēia manawa? ʻAe, aia nō i Niʻihau.
+1	Pehea	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	Abigal	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	aia	_	_	_	_	_	_	_	_
+6	nō	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	ia	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Niʻihau	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	kēia	_	_	_	_	_	_	_	_
+13	manawa	_	_	_	_	_	_	_	_
+14	?	_	PUNCT	_	_	_	_	_	_
+15	ʻAe	_	_	_	_	_	_	_	_
+16	,	_	PUNCT	_	_	_	_	_	_
+17	aia	_	_	_	_	_	_	_	_
+18	nō	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	Niʻihau	_	_	_	_	_	_	_	_
+21	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_354
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_355
+# text = Aloha, aloha aku nō wau iā ʻoe, e Abigal.
+1	Aloha	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aloha	_	_	_	_	_	_	_	_
+4	aku	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	wau	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoe	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	Abigal	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_356
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_357
+# text = Ke, ke hoʻolohe mai nei ʻo, nō ʻo ia iā mākou i kēia ahiahi.
+1	Ke	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	hoʻolohe	_	_	_	_	_	_	_	_
+5	mai	_	_	_	_	_	_	_	_
+6	nei	_	_	_	_	_	_	_	_
+7	ʻo	_	_	_	_	_	_	_	_
+8	,	_	PUNCT	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	ʻo	_	_	_	_	_	_	_	_
+11	ia	_	_	_	_	_	_	_	_
+12	iā	_	_	_	_	_	_	_	_
+13	mākou	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	kēia	_	_	_	_	_	_	_	_
+16	ahiahi	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_358
+# text = ʻAe.
+1	ʻAe	_	_	_	_	_	_	_	_
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_359
+# text = A pehea, he mau ʻōlelo aloha paha kou i nā poʻe ʻohana o Niʻihau? ʻAe.
+1	A	_	_	_	_	_	_	_	_
+2	pehea	_	_	_	_	_	_	_	_
+3	,	_	PUNCT	_	_	_	_	_	_
+4	he	_	_	_	_	_	_	_	_
+5	mau	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	paha	_	_	_	_	_	_	_	_
+9	kou	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	nā	_	_	_	_	_	_	_	_
+12	poʻe	_	_	_	_	_	_	_	_
+13	ʻohana	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	Niʻihau	_	_	_	_	_	_	_	_
+16	?	_	PUNCT	_	_	_	_	_	_
+17	ʻAe	_	_	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_360
+# text = A, iā ʻoukou, e nā ʻohana a pau oʻu mai ka ʻāina ʻo Niʻihau a me ka mokupuni ʻo Kauaʻi o Manokalanipō.
+1	A	_	_	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	,	_	PUNCT	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	nā	_	_	_	_	_	_	_	_
+8	ʻohana	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	pau	_	_	_	_	_	_	_	_
+11	oʻu	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ʻāina	_	_	_	_	_	_	_	_
+15	ʻo	_	_	_	_	_	_	_	_
+16	Niʻihau	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	me	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	mokupuni	_	_	_	_	_	_	_	_
+21	ʻo	_	_	_	_	_	_	_	_
+22	Kauaʻi	_	_	_	_	_	_	_	_
+23	o	_	_	_	_	_	_	_	_
+24	Manokalanipō	_	_	_	_	_	_	_	_
+25	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_361
+# text = Hāʻawi aku nei wau i koʻu aloha nui loa iā ʻoukou i kēia ahiahi.
+1	Hāʻawi	_	_	_	_	_	_	_	_
+2	aku	_	_	_	_	_	_	_	_
+3	nei	_	_	_	_	_	_	_	_
+4	wau	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	koʻu	_	_	_	_	_	_	_	_
+7	aloha	_	_	_	_	_	_	_	_
+8	nui	_	_	_	_	_	_	_	_
+9	loa	_	_	_	_	_	_	_	_
+10	iā	_	_	_	_	_	_	_	_
+11	ʻoukou	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	kēia	_	_	_	_	_	_	_	_
+14	ahiahi	_	_	_	_	_	_	_	_
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_362
+# text = A me koʻu mahalo pū iā Kauanoe a me Pila no ka hoʻomau ʻana o lāua i ka hoʻoitaita ʻana o lāua i kā mākou ʻōlelo makuahine a kākou i tēia lā.
+1	A	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	mahalo	_	_	_	_	_	_	_	_
+5	pū	_	_	_	_	_	_	_	_
+6	iā	_	_	_	_	_	_	_	_
+7	Kauanoe	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	Pila	_	_	_	_	_	_	_	_
+11	no	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	hoʻomau	_	_	_	_	_	_	_	_
+14	ʻana	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	lāua	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	hoʻoitaita	_	_	_	_	_	_	_	_
+20	ʻana	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	lāua	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	kā	_	_	_	_	_	_	_	_
+25	mākou	_	_	_	_	_	_	_	_
+26	ʻōlelo	_	_	_	_	_	_	_	_
+27	makuahine	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	kākou	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	tēia	_	_	_	_	_	_	_	_
+32	lā	_	_	_	_	_	_	_	_
+33	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_363
+# text = A na te Akua nō nāna e hoʻopōmaikaʻi iā lāua, hāʻawi iā lāua ka mākaukau no kēia ʻoihana a lāua e hana, e hana nei no ka pono o ka lāhui Hawaiʻi i kēia lā.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	te	_	_	_	_	_	_	_	_
+4	Akua	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	nāna	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	hoʻopōmaikaʻi	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	lāua	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	hāʻawi	_	_	_	_	_	_	_	_
+13	iā	_	_	_	_	_	_	_	_
+14	lāua	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	mākaukau	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	kēia	_	_	_	_	_	_	_	_
+19	ʻoihana	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	lāua	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	hana	_	_	_	_	_	_	_	_
+24	,	_	PUNCT	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	hana	_	_	_	_	_	_	_	_
+27	nei	_	_	_	_	_	_	_	_
+28	no	_	_	_	_	_	_	_	_
+29	ka	_	_	_	_	_	_	_	_
+30	pono	_	_	_	_	_	_	_	_
+31	o	_	_	_	_	_	_	_	_
+32	ka	_	_	_	_	_	_	_	_
+33	lāhui	_	_	_	_	_	_	_	_
+34	Hawaiʻi	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	kēia	_	_	_	_	_	_	_	_
+37	lā	_	_	_	_	_	_	_	_
+38	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_364
+# text = Mahalo a nui loa iā ʻoukou a aloha nui loa.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	loa	_	_	_	_	_	_	_	_
+5	iā	_	_	_	_	_	_	_	_
+6	ʻoukou	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	aloha	_	_	_	_	_	_	_	_
+9	nui	_	_	_	_	_	_	_	_
+10	loa	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_365
+# text = Mahalo nui iā ʻoe.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoe	_	_	_	_	_	_	_	_
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_366
+# text = Mahalo nō kēlā mau lo ʻōlelo lokomaikaʻi mai iā mākou.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nō	_	_	_	_	_	_	_	_
+3	kēlā	_	_	_	_	_	_	_	_
+4	mau	_	_	_	_	_	_	_	_
+5	lo	_	_	_	_	_	_	_	_
+6	ʻōlelo	_	_	_	_	_	_	_	_
+7	lokomaikaʻi	_	_	_	_	_	_	_	_
+8	mai	_	_	_	_	_	_	_	_
+9	iā	_	_	_	_	_	_	_	_
+10	mākou	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_367
+# text = A na ke Akua e pū me ʻoukou, {Mū.
+1	A	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ke	_	_	_	_	_	_	_	_
+4	Akua	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	pū	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	,	_	PUNCT	_	_	_	_	_	_
+10	{	_	PUNCT	_	_	_	_	_	_
+11	Mū	_	_	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_368
+# text = } i ka ʻolua hoʻi ʻana i Niʻihau.
+1	}	_	PUNCT	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	ʻolua	_	_	_	_	_	_	_	_
+5	hoʻi	_	_	_	_	_	_	_	_
+6	ʻana	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Niʻihau	_	_	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_369
+# text = A ʻo koʻu aloha pumehana nui iā ʻoukou a pau, e nā ʻohana o Niʻihau.
+1	A	_	_	_	_	_	_	_	_
+2	ʻo	_	_	_	_	_	_	_	_
+3	koʻu	_	_	_	_	_	_	_	_
+4	aloha	_	_	_	_	_	_	_	_
+5	pumehana	_	_	_	_	_	_	_	_
+6	nui	_	_	_	_	_	_	_	_
+7	iā	_	_	_	_	_	_	_	_
+8	ʻoukou	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	pau	_	_	_	_	_	_	_	_
+11	,	_	PUNCT	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	nā	_	_	_	_	_	_	_	_
+14	ʻohana	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	Niʻihau	_	_	_	_	_	_	_	_
+17	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_370
+# text = A ua hiki mai nō kākou i ka hopena o kēia papahana.
+1	A	_	_	_	_	_	_	_	_
+2	ua	_	_	_	_	_	_	_	_
+3	hiki	_	_	_	_	_	_	_	_
+4	mai	_	_	_	_	_	_	_	_
+5	nō	_	_	_	_	_	_	_	_
+6	kākou	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	hopena	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	kēia	_	_	_	_	_	_	_	_
+12	papahana	_	_	_	_	_	_	_	_
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_371
+# text = Mahalo nui iā ʻoukou a pau loa i kā ʻoukou hoʻolohe ʻana mai iā mākou i kēia ahiahi.
+1	Mahalo	_	_	_	_	_	_	_	_
+2	nui	_	_	_	_	_	_	_	_
+3	iā	_	_	_	_	_	_	_	_
+4	ʻoukou	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pau	_	_	_	_	_	_	_	_
+7	loa	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	kā	_	_	_	_	_	_	_	_
+10	ʻoukou	_	_	_	_	_	_	_	_
+11	hoʻolohe	_	_	_	_	_	_	_	_
+12	ʻana	_	_	_	_	_	_	_	_
+13	mai	_	_	_	_	_	_	_	_
+14	iā	_	_	_	_	_	_	_	_
+15	mākou	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	kēia	_	_	_	_	_	_	_	_
+18	ahiahi	_	_	_	_	_	_	_	_
+19	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_372
+# text = Mai poina e hoʻolohe hou mai i kēia Poʻalua aʻe.
+1	Mai	_	_	_	_	_	_	_	_
+2	poina	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	hoʻolohe	_	_	_	_	_	_	_	_
+5	hou	_	_	_	_	_	_	_	_
+6	mai	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	kēia	_	_	_	_	_	_	_	_
+9	Poʻalua	_	_	_	_	_	_	_	_
+10	aʻe	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = HV24.011_Abraham_Hannah_Nīʻau_19721018_373
+# text = A aloha nui, a hui hou aku nō kākou.
+1	A	_	_	_	_	_	_	_	_
+2	aloha	_	_	_	_	_	_	_	_
+3	nui	_	_	_	_	_	_	_	_
+4	,	_	PUNCT	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	hui	_	_	_	_	_	_	_	_
+7	hou	_	_	_	_	_	_	_	_
+8	aku	_	_	_	_	_	_	_	_
+9	nō	_	_	_	_	_	_	_	_
+10	kākou	_	_	_	_	_	_	_	_
+11	.	_	PUNCT	_	_	_	_	_	_
+
